@@ -3,7 +3,7 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
 description: Quando você adquirir qualquer um dos serviços do Office 365 (conforme detalhado na seção Serviços qualificados a seguir), os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Office 365 e começar a usá-lo.
-ms.openlocfilehash: 7547cf5528086e287bd3f156e39a5f5532a8fefd
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 2ba931c6aad66cd21bbab140c3550cb4aae0e57d
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499068"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449047"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -182,7 +182,7 @@ Planos não qualificados para serviços do FastTrack incluem (sem limitação):
     
 - Office 365 operado pela 21Vianet\*\*
     
-\*Para saber mais informações sobre o Benefício FastTrack para o US Government, confira [Office 365 US Government](https://go.microsoft.com/fwlink/?linkid=2005430).
+\*Para saber mais informações sobre o Benefício FastTrack para o US Government, confira [Office 365 US Government](https://aka.ms/aboutgovcloud).
   
 \*\*Para saber mais informações sobre o Benefício FastTrack para Office 365 operado pela 21Vianet, contate o [suporte da 21Vianet](https://go.microsoft.com/fwlink/?linkid=852156).
   

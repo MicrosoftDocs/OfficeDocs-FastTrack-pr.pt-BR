@@ -3,7 +3,7 @@ title: O processo FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'O processo FastTrack oferece integração e serviços de adoção do usuário. '
-ms.openlocfilehash: d558fb2f188dd75007f640d3453485af250d1240
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: e19c17be526572894b12788667fcd97193dfc046
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499088"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449048"
 ---
 # <a name="the-fasttrack-process"></a>O processo FastTrack
 

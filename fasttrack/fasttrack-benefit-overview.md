@@ -3,7 +3,7 @@ title: Visão geral dos Benefícios do Centro FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Com os Benefícios do Centro FastTrack para Office 365, você trabalha remotamente com Especialistas do FastTrack para deixar seu ambiente do Office 365 pronto para uso e planeja a implantação e o uso em sua organização. Para saber mais sobre a qualificação, confira Benefícios do Centro FastTrack para Office 365.
-ms.openlocfilehash: 9fb67df2a28eb6c3b31e22811a46a87784e57119
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 4b54fd05314f9eac96b6f3781e14e988e1282c6c
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498838"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449045"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Visão geral dos Benefícios do Centro FastTrack
 
@@ -28,7 +28,7 @@ Falamos sobre os seguintes tópicos:
   
 - [O processo FastTrack](fasttrack-process.md)
     
-- [Expectativas do ambiente de origem](environment-expectations.md)
+- [Expectativas do ambiente de origem](source-environment-expectations.md)
     
 - [Fases de integração e migração](onboarding-and-migration.md)
     
@@ -50,7 +50,7 @@ Seu locatário do Office 365 é criado quando a integração estiver concluída.
     
   - Um ambiente de única floresta do Active Directory.
     
-  - Topologia de várias florestas do Active Directory com suporte. Para ver as topologias com suporte, confira [Source Environment Expectations](environment-expectations.md).
+  - Topologia de várias florestas do Active Directory com suporte. Para ver as topologias com suporte, confira [Source Environment Expectations](source-environment-expectations.md).
     
 - Identidades Federadas com contas do Office 365 que são:
     
