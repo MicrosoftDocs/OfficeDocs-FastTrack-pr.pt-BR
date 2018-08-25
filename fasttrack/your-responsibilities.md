@@ -3,7 +3,7 @@ title: Suas responsabilidades
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: Você tem as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 9d51fdf901d70c780dc3aa2a997e51cb1a0ad232
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6b572bb44edc1b4ae8312cfe1a59cbd005899a8f
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21499098"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449044"
 ---
 # <a name="your-responsibilities"></a>Suas responsabilidades
 
-Você tem as seguintes responsabilidades durante a integração.
+Você tem as seguintes responsabilidades durante a integração.\*
   
 ## <a name="general"></a>Geral
 
@@ -91,7 +91,7 @@ Você tem as seguintes responsabilidades durante a integração.
     
 - Participe da reunião de abertura, gerencie e guie participantes da sua organização e confirme linhas do tempo de correção.
     
-- Forneça seus objetivos para os serviços do Office 365 (por exemplo, SharePoint Online, Exchange Online, Yammer Enterprise) e objetivos organizacionais.
+- Forneça seus objetivos para os serviços do Office 365 (por exemplo, SharePoint Online, Exchange Online, Microsoft Teams e Office 365 ProPlus) e objetivos organizacionais.
     
 ## <a name="assess-phase"></a>Fase Avaliar
 
@@ -163,6 +163,6 @@ Você tem as seguintes responsabilidades durante a integração.
     
 - Atualize seu certificado de Apple Push Notification Service (APNS).
     
-
+\*Para saber mais sobre suas responsabilidades no Office 365 US Government, confira [Suas responsabilidades no Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 

@@ -3,7 +3,7 @@ title: Responsibilities do FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 1d1b08663220411b681d79833306a8260dd84c15
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: 6a332cab1b2ea5bbbd55afa6f2dfa22792578a50
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498938"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449050"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
-Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
+Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.\*
   
 ## <a name="general"></a>Geral
 
@@ -176,7 +176,7 @@ Fornece orientação sobre:
     
 - Configuração de recursos do SharePoint Online. 
     
-- Fornece migração de dados se o serviço de migração de dados do FastTrack Center for usado e se você estiver qualificado.
+- Fornecimento de migração de dados se o serviço de migração de dados do FastTrack Center for usado e se você estiver qualificado.
     
 - Avaliação da configuração da infraestrutura de farm do SharePoint local necessária para o Implantação Híbrida do SharePoint Online. 
     
@@ -348,5 +348,5 @@ Fornece orientação sobre:
     
 - Locais de download para o Microsoft StaffHub.
     
-
+\*Para saber mais sobre as responsabilidades do FastTrack para Office 365 US Government, confira [Responsabilidades do FastTrack para Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
 

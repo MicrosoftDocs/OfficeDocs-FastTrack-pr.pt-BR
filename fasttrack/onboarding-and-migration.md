@@ -3,7 +3,7 @@ title: Fases de integração e migração
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 7/27/18
+ms.date: 8/2/18
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados, como mostra a imagem a seguir.'
-ms.openlocfilehash: 77c13b6aee3fc37e5b3fcb876e310dbd67e4c958
-ms.sourcegitcommit: ce2f0b156075cb8f07efa96c02115baf20779b6d
+ms.openlocfilehash: ec7366da4df6306d0c33ee99e37a3190777d839a
+ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/30/2018
-ms.locfileid: "21498848"
+ms.lasthandoff: 08/10/2018
+ms.locfileid: "22449051"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
@@ -24,6 +24,9 @@ A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corr
   
 ![Fases do benefício de Integração](media/O365-Onboarding-Phases.png)
   
+> [!NOTE]
+>Para saber mais sobre a adesão e migração para o Office 365 US Government, confira [Integração e migração para o Office 365 US Government](US-Gov-appendix-onboarding-and-migration.md). 
+
 Para tarefas detalhadas para cada fase, confira [Responsibilities do FastTrack](fasttrack-responsibilities.md) e [Suas responsabilidades](your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Fase Iniciar
@@ -33,7 +36,7 @@ Após adquirir o número e tipos de licença apropriados, siga as orientações 
 - Você pode obter ajuda no Centro de administração do Office 365 ou no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**. 
     
     > [!NOTE]
-    >  Se você tiver um parceiro no locatário do Office 365, não verá essa opção. Peça ajuda ao seu parceiro. 
+    >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
   
 - Os parceiros também podem obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**. 
     
@@ -49,7 +52,7 @@ Isso inclui trabalhar com você para entender como você pretende usar o serviç
 
 O Gerente do FastTrack realiza uma chamada interativa de planejamento com você e sua equipe de adoção. Apresentamos os recursos dos serviços qualificados adquiridos, as principais bases necessárias para o sucesso, a metodologia para incentivar o uso do serviço e os cenários que você pode usar para aproveitar os serviços. Podemos ajudá-lo no planejamento de sucesso e fornecer comentários sobre as áreas principais (conforme necessário).
   
-Os Especialistas do FastTrack trabalham com você para avaliar seu ambiente de origem e os requisitos. As ferramentas são executadas para coletar dados, e orientamos você por meio da estimativa dos requisitos de largura de banda e da avaliação dos navegadores da Internet, sistemas operacionais clientes, DNS (sistema de nomes de domínio), rede, infraestrutura e sistema de identidade para determinar se é necessário fazer alterações antes da integração. 
+Os Especialistas do FastTrack trabalham com você para avaliar seu ambiente de origem e seus requisitos. Fornecemos ferramentas para recolher dados sobre o seu ambiente e damos orientações através da estimativa dos requisitos de largura de banda e da avaliação de seus navegadores da Internet, sistemas operacionais clientes, DNS (sistema de nomes de domínio), rede, infraestrutura e sistema de identidade para determinar se é necessário fazer alterações antes da integração. 
   
 Baseado em suas configurações atuais, fornecemos um plano de correção que define seu ambiente de origem, conforme os requisitos mínimos para a integração ao Office 365 e, se necessário, para a migração de caixas de correio e/ou dados ocorrer com êxito. Oferecemos um conjunto de atividades sugeridas para aumentar a adoção e o valor do usuário final. Também configuramos chamadas de ponto de verificação adequadas para a fase Corrigir.
   
