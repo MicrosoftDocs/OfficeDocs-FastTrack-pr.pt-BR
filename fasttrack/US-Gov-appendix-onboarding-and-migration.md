@@ -3,7 +3,7 @@ title: Inclusão e a migração fases para o Office 365 governamentais
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Inclusão do Office 365 para Office 365 conosco agências governamentais tem quatro fases principais — Iniciar, Assess, corrigir e habilitar. Você pode seguir essas fases com uma fase de migração de dados opcionais conforme mostrado na figura a seguir.
-ms.openlocfilehash: a95ed9fc068577808e4a7b8e4fe98acb9f201ce0
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: da634ef166b2ec2829bf886bf7e32e739f055ebb
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329990"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827999"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Inclusão e a migração fases para o Office 365 governamentais
 
@@ -33,7 +33,7 @@ Após adquirir o número e tipos de licença apropriados, siga as orientações 
 - Você pode obter ajuda no Centro de administração do Office 365 ou no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**. 
     
     > [!NOTE]
-    >  Se você tiver um parceiro no locatário do Office 365, não verá essa opção. Peça ajuda ao seu parceiro. 
+    >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
   
 - Os parceiros também podem obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**. 
     

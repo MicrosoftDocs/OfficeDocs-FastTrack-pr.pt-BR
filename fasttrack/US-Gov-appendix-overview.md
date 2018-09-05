@@ -1,23 +1,23 @@
 ---
-title: 'Apêndice d: FastTrack Center benefício visão geral do Office 365 conosco governamentais'
+title: 'Apêndice D: Visão geral dos Benefícios do Centro FastTrack do Office 365 US Government'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 ms.assetid: 5c619c4e-2ac5-4c2f-8d8c-acccff3b9b20
 description: Centro de FastTrack benefícios para o Office 365, você faz trabalhar remotamente com os especialistas FastTrack Prepare seu ambiente do Office 365 para o uso e plano de distribuição e uso dentro da sua organização.
-ms.openlocfilehash: b27d9bf7b189f1e632f7641cbcdc1ac07d625055
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 959a398e395d4dc1a4d401d4838f1c13f34a44ef
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329950"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827949"
 ---
-# <a name="appendix-d-fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apêndice d: FastTrack Center benefício visão geral do Office 365 conosco governamentais
+# <a name="appendix-d-fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apêndice D: Visão geral dos Benefícios do Centro FastTrack do Office 365 US Government
 
 Centro de FastTrack benefícios para o Office 365, você faz trabalhar remotamente com os especialistas FastTrack Prepare seu ambiente do Office 365 para o uso e plano de distribuição e uso dentro da sua organização. 
   

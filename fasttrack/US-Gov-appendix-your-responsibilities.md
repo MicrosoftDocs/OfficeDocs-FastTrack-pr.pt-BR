@@ -3,7 +3,7 @@ title: Suas responsabilidades para o Office 365 governo dos EUA
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/2/18
+ms.date: 09/04/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 64c7c548-87af-496b-b48e-04b9fa9f54f8
 description: Você tem as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: c0ff252f3aeafcd866d8c506eb08f45c836b8025
-ms.sourcegitcommit: 7865f572bf312a6ec49f72981d983c6370f34b11
+ms.openlocfilehash: 6f9ec7c77829de607ec4b9bd019667dd2b7e7ef0
+ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/10/2018
-ms.locfileid: "22329940"
+ms.lasthandoff: 09/04/2018
+ms.locfileid: "23827969"
 ---
 # <a name="your-responsibilities-for-office-365-us-government"></a>Suas responsabilidades para o Office 365 governo dos EUA
 
@@ -95,7 +95,7 @@ Você tem as seguintes responsabilidades durante a integração.
     
 - Participe da reunião de abertura, gerencie e guie participantes da sua organização e confirme linhas do tempo de correção.
     
-- Fornecer seus objetivos para os serviços do Office 365 (por exemplo, SharePoint Online, Exchange Online, Teams da Microsoft e Office 365 ProPlus) e metas organizacionais.
+- Forneça seus objetivos para os serviços do Office 365 (por exemplo, SharePoint Online, Exchange Online, Microsoft Teams e Office 365 ProPlus) e objetivos organizacionais.
     
 ## <a name="assess-phase"></a>Fase Avaliar
 
