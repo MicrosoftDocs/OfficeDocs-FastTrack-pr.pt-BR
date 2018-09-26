@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
 description: 'O processo FastTrack oferece integração e serviços de adoção do usuário. '
-ms.openlocfilehash: 4ffacfaf0d329a7ae09c7e34590ce9a6883adf06
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: 80eb14690af215fc87ee1e4c920190daf2734dd5
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828059"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021673"
 ---
 # <a name="the-fasttrack-process"></a>O processo FastTrack
 
@@ -25,7 +25,6 @@ O processo FastTrack oferece integração e serviços de adoção do usuário.
 A integração consiste em:
   
 - *Integração básica* – as tarefas necessárias para configuração de locatários e integração ao Azure Active Directory (Azure AD), se necessário. A integração básica também fornece a linha de base para integração de outros serviços qualificados. 
-    
 - *Serviço de migração e integração* – as tarefas de integração de serviço habilitam cenários em seu locatário. A migração de dados (incluindo emails e arquivos) é abordada em [Migração de Dados](data-migration.md). 
     
 Os serviços de adoção do usuário são compostos por tarefas que oferecem orientações para garantir que os usuários estejam cientes dos serviços qualificados e de que podem usá-los para impulsionar o valor comercial. Esta assistência ocorre paralelamente às atividades de integração.
@@ -39,31 +38,25 @@ O diagrama a seguir ilustra o processo de integração.
   
 ![Linha do tempo para uso do benefício de Integração](media/O365-Onboarding-Timeline.png)
   
-- Você pode obter ajuda no Centro de administração do Office 365 ou no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**. 
+Você pode obter ajuda no Centro de administração do Office 365 ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**. 
     
-    > [!NOTE]
-    >  Se você tiver um parceiro no locatário do Office 365, não verá essa opção. Peça ajuda ao seu parceiro. 
+> [!NOTE]
+>  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
   
-    Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) na lista de serviços disponíveis para o seu locatário. 
+ Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     
-    Assim que a assistência de integração for iniciada, definiremos um cronograma de reuniões online.
+ Assim que a assistência de integração for iniciada, definiremos um cronograma de reuniões online.
     
-- Os parceiros também podem obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**. 
+Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**. 
+
+A tabela a seguir lista as funções e responsabilidades para o processo.
     
-- A equipe do FastTrack oferece orientações com a integração principal e a de serviço e o planejamento bem-sucedido da adoção de serviços qualificados.
-    
-- Os Especialistas do FastTrack oferecem todos os serviços de integração, migração e adoção de usuário remotamente.
-    
-- Os Especialistas do FastTrack ajudam remotamente usando uma combinação de ferramentas e documentação publicada.
-    
-- O FastTrack Center oferece assistência e está disponível durante o horário comercial normal de cada região.
-    
-- A assistência está disponível em chinês tradicional e em chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, português (Brasil), espanhol, tailandês e vietnamita.
-    
--  Os Especialistas do FastTrack podem trabalhar diretamente com você ou seu representante. 
-    
-- Os Especialistas do FastTrack fornecem orientações de migração de dados e email.
-    
+|||
+|:-----|:-----|
+|**Função** <br/> |**Responsabilidade** <br/> |
+|**Especialista do FastTrack** <br/> |Oferecem todos os serviços de integração, migração e adoção de usuário remotamente.  <br/> Ajuda remotamente usando uma combinação de ferramentas e documentação publicada. <br/> Trabalha diretamente com você ou seu representante. <br/> Fornece orientações para migração de emails e dados.|
+|**Centro FastTrack**  <br/> |Oferece orientações com a integração principal e a de serviço, e o planejamento bem-sucedido da adoção de serviços qualificados.  <br/> Oferece assistência e está disponível durante o horário comercial normal de cada região. <br/> Oferece assistência em chinês tradicional e em chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, português (Brasil), espanhol, tailandês e vietnamita.|
+
 
   
 

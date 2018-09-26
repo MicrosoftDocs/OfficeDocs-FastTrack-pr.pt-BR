@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados, como mostra a imagem a seguir.'
-ms.openlocfilehash: 63492c246f0845693bd1f6d5953a43d8dc696d4a
-ms.sourcegitcommit: d4cc064490fd2460682a455433fe8d9b5e219cf5
+ms.openlocfilehash: d816407348ff9514c52016f2effbf094b46f9f2a
+ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/04/2018
-ms.locfileid: "23828009"
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24021593"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
@@ -33,18 +33,16 @@ Para tarefas detalhadas para cada fase, confira [Responsibilities do FastTrack](
 
 Após adquirir o número e tipos de licença apropriados, siga as orientações do email de confirmação de compra para associar as licenças ao seu locatário existente ou ao novo locatário. 
   
-- Você pode obter ajuda no Centro de administração do Office 365 ou no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**. 
+Você pode obter ajuda no Centro de administração do Office 365 ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**. 
     
-    > [!NOTE]
-    >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
+> [!NOTE]
+>  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
   
-- Os parceiros também podem obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**. 
+Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**. 
+
+Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     
-- Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) na lista de serviços disponíveis para o seu locatário. 
-    
-Durante esta fase, discutimos o processo de integração, verificamos dados e agendamos uma reunião de apresentação.
-  
-Isso inclui trabalhar com você para entender como você pretende usar o serviço e as metas e planos de sua organização para incentivar o uso do serviço.
+Durante essa fase, podemos discutir o processo de integração, verificar seus dados e configurar uma reunião inicial. Isso inclui trabalhar em conjunto para entender como você pretende usar o serviço e quais são as metas e planos da organização para impulsionar o uso do serviço.
   
 ![Etapas da integração durante a fase Iniciar](media/O365-Onboarding-Initiate.png)
   
@@ -88,22 +86,14 @@ A integração de um ou mais serviços qualificados poderá começar quando a in
 ## <a name="exchange-online"></a>Exchange Online
 
 Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua organização fique pronta para usar o email. As etapas exatas, de acordo com o ambiente de origem e os planos de migração de email, podem incluir orientações para:
-  
 - Configurar os recursos do EOP (Proteção do Exchange Online) para todos os domínios habilitados para email validados no Office 365.
-    
     > [!NOTE]
     > Seus registros de Troca de Mensagens (Mail Exchange, MX) devem apontar para o Office 365. 
-  
 - Configurar o recurso do Proteção Avançada Contra Ameaças do Exchange Online (ATP) se ele fizer parte do seu serviço de assinatura depois que os registros MX apontarem para o Office 365. Este recurso está configurado como parte das configurações antimalware do Proteção do Exchange Online.
-    
 - Configurar portas do firewall.
-    
 - Configurar o DNS, incluindo a Descoberta Automática exigida, o SPF (Sender Policy Framework) e os registros MX (conforme necessário). 
-    
 - Configurando o fluxo de email entre seu ambiente de mensagens de origem e o Exchange Online (conforme a necessidade).
-    
 - Fornecer orientações para a migração de email do ambiente de mensagens de origem para o Office 365.
-    
     > [!NOTE]
     > Para saber mais sobre a migração de dados e emails, confira [Migração de dados](data-migration.md). 
   
@@ -112,13 +102,9 @@ Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online e OneDrive for Business
 
 No SharePoint Online e OneDrive for Business, fornecemos instruções para:
-  
 - Configuração do DNS.
-    
 - Configurar portas do firewall.
-    
-- Provisionar usuários e licenças.
-    
+- Provisionar usuários e licenças.   
 - Configurar recursos do Implantação Híbrida do SharePoint, como pesquisa híbrida, sites híbridos, taxonomia híbrida, tipos de conteúdo, criação de sites de autoatendimento híbridos (SharePoint Server 2013 apenas), inicializador de aplicativos estendido, OneDrive for Business híbrido e sites extranet.
     
 Os Especialistas do FastTrack fornecem orientações sobre a migração de dados para o Office 365 usando uma combinação de ferramentas e documentação, além de realizar tarefas de configuração, quando for aplicável e viável.
@@ -134,15 +120,10 @@ No OneDrive for Business, as etapas dependem de você estar usando o SharePoint 
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
 No Skype for Business Online, fornecemos instruções para:
-  
 - Configurar portas do firewall.
-    
-- Configuração do DNS.
-    
-- Criar contas para dispositivos do sistema.
-    
-- Implantar um cliente Skype for Business online com suporte.
-    
+- Configuração do DNS.   
+- Criar contas para dispositivos do sistema.   
+- Implantar um cliente Skype for Business online com suporte.  
 - Estabeleça a configuração do servidor de domínio dividido entre seu ambiente de servidor local do Lync 2010, Lync 2013 ou Skype for Business 2015 e o locatário do Skype for Business online (se aplicável), Planos de Chamada, Transmissão de Reunião do Skype e Sistema Telefônico e Planos de Chamada (em mercados disponíveis).
     
 ![Etapas da integração ao Lync durante a fase Habilitar_1](media/O365-Onboarding-Enable-Lync.png)
@@ -152,15 +133,10 @@ No Skype for Business Online, fornecemos instruções para:
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 No Microsoft Teams, fornecemos instruções para:
-  
-- Confirmação dos requisitos mínimos.
-    
-- Configurar portas do firewall.
-    
-- Configuração do DNS.
-    
-- Confirmação de que o Microsoft Teams está habilitado no seu locatário do Office 365.
-    
+- Confirmação dos requisitos mínimos.  
+- Configurar portas do firewall.   
+- Configuração do DNS. 
+- Confirmação de que o Microsoft Teams está habilitado no seu locatário do Office 365.  
 - Habilitação ou desabilitação de licenças de usuário.
     
 ![Diagrama das equipes do Microsoft FastTrack (fase de habilitação)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
@@ -168,21 +144,16 @@ No Microsoft Teams, fornecemos instruções para:
 ## <a name="power-bi"></a>Power BI
 
 No Power BI, fornecemos instruções para: 
-  
 - Atribuição de licenças do Power BI.
-    
 - Implantação do aplicativo do Power BI Desktop.
     
 ## <a name="project-online"></a>Project Online
 
 No Project Online, fornecemos instruções para:
   
-- Verificar as funcionalidades básicas do SharePoint nos quais o Project Online se baseia.
-    
-- Adicionar o serviço do Project Online ao locatário, inclusive adicionar assinaturas para os usuários.
-    
-- Configurar o ERP (Pool de Recursos da Empresa).
-    
+- Verificar as funcionalidades básicas do SharePoint nos quais o Project Online se baseia.   
+- Adicionar o serviço do Project Online ao locatário, inclusive adicionar assinaturas para os usuários.  
+- Configurar o ERP (Pool de Recursos da Empresa). 
 - Criando seu primeiro projeto. 
     
 ![Etapas que ocorrem durante a fase de habilitação para o Project Online](media/d8dd7d31-1df6-4df4-a1aa-4dbdd34b973e.png)
@@ -190,17 +161,11 @@ No Project Online, fornecemos instruções para:
 ## <a name="project-online-professional-and-project-online-premium"></a>Project Online Professional e Project Online Premium
 
 No Project Online Professional e Project Online Premium, fornecemos instruções para:
-  
 - Solução de problemas de implantação.
-    
-- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell.
-    
+- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell.  
 - Instalação do Cliente da Área de Trabalho do Project Online pelo portal do Office 365 usando Clique para Executar.
-    
-- Definir configurações de atualização usando a Ferramenta de Implantação do Office.
-    
-- Configurar um servidor de distribuição local único para o Cliente da Área de Trabalho do Project Online, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.
-    
+- Definir configurações de atualização usando a Ferramenta de Implantação do Office.  
+- Configurar um servidor de distribuição local único para o Cliente da Área de Trabalho do Project Online, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.  
 - Conexão do Cliente da Área de Trabalho do Project Online ao Project Online Professional ou Project Online Premium.
     
 ![Etapas que ocorrem durante a fase de habilitação para o Project para Office 365.](media/f0133291-7c12-4db0-af61-75ec5e71451c.png)
@@ -212,19 +177,12 @@ No Yammer, fornecemos instruções para habilitar o serviço do Yammer Enterpris
 ## <a name="office-365-proplus"></a>Office 365 ProPlus
 
 No Office 365 ProPlus, fornecemos instruções para:
-  
-- Solução de problemas de implantação.
-    
-- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell.
-    
-- Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.
-    
-- Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile. 
-    
-- Definir configurações de atualização usando a Ferramenta de Implantação do Office.
-    
-- Configurar um servidor de distribuição local único para o Office 365 ProPlus, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.
-    
+- Solução de problemas de implantação.   
+- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell. 
+- Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.   
+- Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
+- Definir configurações de atualização usando a Ferramenta de Implantação do Office.   
+- Configurar um servidor de distribuição local único para o Office 365 ProPlus, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.  
 - A implantação usando o Microsoft System Center Configuration Manager, incluindo orientações para criar um pacote do System Center Configuration Manager.
     
 ![Etapas da integração ao Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
@@ -232,13 +190,9 @@ No Office 365 ProPlus, fornecemos instruções para:
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
 No Microsoft StaffHub, fornecemos diretrizes para:
-  
 - Confirmação de que o Microsoft StaffHub está habilitado no seu locatário do Office 365.
-    
 - Habilitação ou desabilitação de licenças de usuário.
-    
 - Principais recursos do produto. 
-    
 - Locais de download para o Microsoft StaffHub.
     
 ![Etapas de integração do Microsoft StaffHub](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)

@@ -8,6 +8,6 @@
 ### [Responsibilities do FastTrack](fasttrack-responsibilities.md)
 ### [Suas responsabilidades](your-responsibilities.md)
 ### [Apêndice A: Migração do IBM Domino para o Exchange Online](from-ibm-domino-to-exchange-online.md)
-### [Apêndice B: Benefício adicional do Centro FastTrack](fasttrack-additional-benefits.md)
-### [Apêndice C: Acordo de Parceiro Comercial HIPAA do Microsoft FastTrack Center](hipaa-business-associate-agreement.md)
+### [Apêndice B: Benefício adicional do Centro do FastTrack](fasttrack-additional-benefits.md)
+### [Apêndice C: Acordo de Parceiro Comercial HIPAA do Centro FastTrack](hipaa-business-associate-agreement.md)
 ### [Apêndice D: Visão geral dos Benefícios do Centro FastTrack do Office 365 US Government](US-Gov-appendix-overview.md)
