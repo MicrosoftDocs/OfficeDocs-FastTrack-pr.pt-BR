@@ -1,0 +1,62 @@
+---
+title: O processo FastTrack
+ms.author: v-rberg
+author: v-rberg-msft
+manager: jimmuir
+ms.date: 10/01/2018
+ms.audience: ITPro
+ms.topic: conceptual
+ms.service: o365-administration
+localization_priority: Priority
+ms.collection: FastTrack
+ms.assetid: 34e2f038-4778-4ab0-a6b5-d46fa85de3e8
+description: 'O processo FastTrack oferece integração e serviços de adoção do usuário. '
+ms.openlocfilehash: 3a41e1a41bae421472af6c5d8645808410a0664f
+ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.translationtype: HT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 10/01/2018
+ms.locfileid: "25353588"
+---
+# <a name="the-fasttrack-process"></a><span data-ttu-id="ebd6a-103">O processo FastTrack</span><span class="sxs-lookup"><span data-stu-id="ebd6a-103">The FastTrack Process</span></span>
+
+<span data-ttu-id="ebd6a-104">O processo FastTrack oferece integração e serviços de adoção do usuário. </span><span class="sxs-lookup"><span data-stu-id="ebd6a-104">The FastTrack process provides onboarding and user adoption services.</span></span> 
+  
+<span data-ttu-id="ebd6a-105">A integração consiste em:</span><span class="sxs-lookup"><span data-stu-id="ebd6a-105">Onboarding consists of:</span></span>
+  
+- <span data-ttu-id="ebd6a-p101">*Integração básica* – as tarefas necessárias para configuração de locatários e integração ao Azure Active Directory (Azure AD), se necessário. A integração básica também fornece a linha de base para integração de outros serviços qualificados.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-p101">*Core onboarding* — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed. Core onboarding also provides the baseline for onboarding other eligible services.</span></span> 
+- <span data-ttu-id="ebd6a-p102">*Serviço de migração e integração* – as tarefas de integração de serviço habilitam cenários em seu locatário. A migração de dados (incluindo emails e arquivos) é abordada em [Migração de Dados](O365-data-migration.md).</span><span class="sxs-lookup"><span data-stu-id="ebd6a-p102">*Service onboarding and migration* — Service onboarding tasks enable scenarios in your tenant. Data migration (including email and files) is covered in [Data Migration](O365-data-migration.md).</span></span> 
+    
+<span data-ttu-id="ebd6a-p103">Os serviços de adoção do usuário são compostos por tarefas que oferecem orientações para garantir que os usuários estejam cientes dos serviços qualificados e de que podem usá-los para impulsionar o valor comercial. Esta assistência ocorre paralelamente às atividades de integração.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-p103">User adoption services are comprised of tasks that provide guidance for you to ensure your users are aware of the eligible services and can use them to drive business value. This assistance occurs in parallel to onboarding activities.</span></span>
+  
+> [!NOTE]
+> <span data-ttu-id="ebd6a-p104">O FastTrack oferece aos clientes uma abordagem recomendada, orientação e práticas recomendadas elaboradas para fornecer resultados rápidos e previsíveis. Se você optar por implantar de forma diferente dessa orientação, sua experiência de integração e o uso do serviço poderão ser afetados. A orientação é definida como uma combinação de assistência verbal e escrita. Quando os Especialistas do FastTrack oferecem orientação, o pessoal do FastTrack não pode atuar em seu nome. Você pode usar serviços do FastTrack para integrar e adotar qualquer carga de trabalho do produto qualificado, desde que sua assinatura seja atual.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-p104">FastTrack provides customers with a recommended approach, guidance, and best practices engineered to deliver quick and predictable outcomes. If you choose to deploy outside of this guidance, your onboarding experience and usage of the service may be impacted. Guidance is defined as a combination of verbal and written assistance. When FastTrack Specialists provide guidance, FastTrack personnel cannot act on your behalf. You can use FastTrack services to onboard and adopt any qualifying product workload as long as your subscription is current.</span></span> 
+  
+## <a name="the-onboarding-process"></a><span data-ttu-id="ebd6a-117">O processo de integração</span><span class="sxs-lookup"><span data-stu-id="ebd6a-117">The onboarding process</span></span>
+
+<span data-ttu-id="ebd6a-118">O diagrama a seguir ilustra o processo de integração.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-118">The following diagram illustrates the onboarding process.</span></span>
+  
+![Linha do tempo para uso do benefício de Integração](media/O365-Onboarding-Timeline.png)
+  
+<span data-ttu-id="ebd6a-p105">Você pode obter ajuda no Centro de administração do Office 365 ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-p105">You can get help through the Office 365 admin center or the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698). To get help through the Office 365 admin center, your admin signs into the admin center and then clicks the **Need help?** widget. To get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698), sign in, click **Services**, and complete the **Request Assistance for Office 365** form.</span></span> 
+    
+> [!NOTE]
+>  <span data-ttu-id="ebd6a-p106">Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-p106">If you have a partner listed in your Office 365 tenant, you won't see this option. Please consult your partner for assistance.</span></span> 
+  
+ <span data-ttu-id="ebd6a-125">Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-125">You can also ask for FastTrack Center help from the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) in the list of available services for your tenant.</span></span> 
+    
+ <span data-ttu-id="ebd6a-126">Assim que a assistência de integração for iniciada, definiremos um cronograma de reuniões online.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-126">Once onboarding assistance starts, we set up a schedule of online meetings.</span></span>
+    
+<span data-ttu-id="ebd6a-p107">Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-p107">Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so, the partner signs in to the site, selects the customer record, clicks **Services**, and completes the **Request Assistance for Office 365** form.</span></span> 
+
+<span data-ttu-id="ebd6a-129">A tabela a seguir lista as funções e responsabilidades para o processo.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-129">The following table lists roles and responsibilities for the process.</span></span>
+    
+|||
+|:-----|:-----|
+|<span data-ttu-id="ebd6a-130">**Função**</span><span class="sxs-lookup"><span data-stu-id="ebd6a-130">**Role**</span></span> <br/> |<span data-ttu-id="ebd6a-131">**Responsabilidade**</span><span class="sxs-lookup"><span data-stu-id="ebd6a-131">**Responsibility**</span></span> <br/> |
+|<span data-ttu-id="ebd6a-132">**Especialista do FastTrack**</span><span class="sxs-lookup"><span data-stu-id="ebd6a-132">**FastTrack Specialist**</span></span> <br/> |<span data-ttu-id="ebd6a-133">Oferecem todos os serviços de integração, migração e adoção de usuário remotamente.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-133">Provides all onboarding, migration, and user adoption services remotely.</span></span>  <br/> <span data-ttu-id="ebd6a-134">Ajuda remotamente usando uma combinação de ferramentas e documentação publicada.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-134">Assists you remotely by using a combination of tools and published documentation.</span></span> <br/> <span data-ttu-id="ebd6a-135">Trabalha diretamente com você ou seu representante.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-135">Works directly with you or your representative.</span></span> <br/> <span data-ttu-id="ebd6a-136">Fornece orientações para migração de emails e dados.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-136">Provides email and data migration guidance.</span></span>|
+|<span data-ttu-id="ebd6a-137">**Centro FastTrack**</span><span class="sxs-lookup"><span data-stu-id="ebd6a-137">**FastTrack Center**</span></span>  <br/> |<span data-ttu-id="ebd6a-138">Oferece orientações com a integração principal e a de serviço, e o planejamento bem-sucedido da adoção de serviços qualificados.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-138">Provides guidance with core and service onboarding and planning successful adoption of eligible services.</span></span>  <br/> <span data-ttu-id="ebd6a-139">Oferece assistência e está disponível durante o horário comercial normal de cada região.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-139">Provides assistance and is available during normal business hours for a given region.</span></span> <br/> <span data-ttu-id="ebd6a-140">Oferece assistência em chinês tradicional e em chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, português (Brasil), espanhol, tailandês e vietnamita.</span><span class="sxs-lookup"><span data-stu-id="ebd6a-140">Provides assistance in Traditional Chinese and Simplified Chinese (resources speak Mandarin only), English, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish, Thai, and Vietnamese.</span></span>|
+
+
+  
+
