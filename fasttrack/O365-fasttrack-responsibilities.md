@@ -3,7 +3,7 @@ title: Responsibilities do FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 813fc4c1f4fdb48bdae8184b9afc0528dcb4feb7
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 2c02450376b3a64e1e7e63b966d284f3223567f9
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353728"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895638"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
@@ -103,6 +103,7 @@ Fornece orientação sobre:
 - Habilitar o roteamento de emails entre o sistema de mensagens de origem e ambientes do Office 365. 
 - Configurar recursos do Proteção do Exchange Online (incluindo recursos do Proteção Avançada Contra Ameaças do Exchange Online, caso esteja disponível em sua assinatura) e verificar os registros MX para que apontem para o Office 365 em todos os domínios habilitados para email validados.
 - Configurar a instalação híbrida entre a organização local única do Exchange e o Office 365 *ou* entre várias organizações locais do Exchange e o Office 365. 
+- Configuração de clientes de caixa de correio (Outlook para Windows, Outlook na web e Outlook para iOS e Android).
     
 Para saber mais sobre as responsabilidades de migração de dados, confira [Migração de dados](O365-data-migration.md).
   
@@ -191,7 +192,7 @@ Fornece orientação sobre:
 
 Fornece orientação sobre:
 - Solução de problemas de implantação.
-- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell.
+- Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.
 - Como baixar e instalar o Cliente da Área de Trabalho do Project Online pelo portal.   
 - A definição de configurações de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office.
 - Como configurar um servidor de distribuição local exclusivo para o Cliente da Área de Trabalho do Project Online, incluindo orientação para criar um arquivo configuration.xml para a Ferramenta de Implantação do Office 2016. 
@@ -205,9 +206,9 @@ Fornecer orientação sobre como converter sua rede do Yammer Basic única em um
 
 Fornece orientação sobre:
 - Solução de problemas de implantação.
-- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell.
+- Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.
-- Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile. 
+- Instalar os aplicativos do Office Mobile (como Outlook para iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile. 
 - Configurar definições de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office 2016.
 - Configurar um servidor de distribuição local único para o Office 365 ProPlus, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.
 - A implantação usando o System Center Configuration Manager, incluindo orientações para criar um pacote do System Center Configuration Manager.
@@ -220,5 +221,11 @@ Fornece orientação sobre:
 - Principais recursos do produto.
 - Locais de download para o Microsoft StaffHub.
     
+## <a name="outlook-for-ios-and-android"></a>Outlook para iOS e Android
+
+Fornece orientação sobre:
+- Baixe o Outlook para dispositivos iOS e Android.
+- Configure as contas de email no Outlook.
+
 \*Para saber mais sobre as responsabilidades do FastTrack para Office 365 US Government, confira [Responsabilidades do FastTrack para Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
 

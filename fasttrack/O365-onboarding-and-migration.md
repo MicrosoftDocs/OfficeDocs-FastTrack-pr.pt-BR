@@ -3,20 +3,20 @@ title: Fases de integração e migração
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
-description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados, como mostra a imagem a seguir.'
-ms.openlocfilehash: 082e8c7f6e1be83cfb4a980b1b1632d0c3f12724
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados.'
+ms.openlocfilehash: b98b8fe8e2f6542edc04923d72ff7b0dc38ef3fb
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353778"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895746"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
@@ -33,12 +33,25 @@ Para tarefas detalhadas para cada fase, confira [Responsibilities do FastTrack](
 
 Após adquirir o número e tipos de licença apropriados, siga as orientações do email de confirmação de compra para associar as licenças ao seu locatário existente ou ao novo locatário. 
   
-Você pode obter ajuda no Centro de administração do Office 365 ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**. 
-    
+Você pode obter ajuda no [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Para obter ajuda pelo [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. 
+
+Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selecione **FastTrack**.
+3.  Selecione **Serviços**.
+4.  Preencha o formulário **Solicitar assistência com o Microsoft 365**. 
 > [!NOTE]
 >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
   
-Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**. 
+Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
+1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selecione **FastTrack**.
+3.  Selecione **Meus Clientes**.
+4.  Pesquise seu cliente ou selecione na lista de clientes.
+5.  Selecione **Serviços**.
+6.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
 
 Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     
@@ -94,6 +107,7 @@ Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua
 - Configurar o DNS, incluindo a Descoberta Automática exigida, o SPF (Sender Policy Framework) e os registros MX (conforme necessário). 
 - Configurando o fluxo de email entre seu ambiente de mensagens de origem e o Exchange Online (conforme a necessidade).
 - Fornecer orientações para a migração de email do ambiente de mensagens de origem para o Office 365.
+- Configuração de clientes de caixa de correio (Outlook para Windows, Outlook na web e Outlook para iOS e Android).
     > [!NOTE]
     > Para saber mais sobre a migração de dados e emails, confira [Migração de dados](O365-data-migration.md). 
   
@@ -162,7 +176,7 @@ No Project Online, fornecemos instruções para:
 
 No Project Online Professional e Project Online Premium, fornecemos instruções para:
 - Solução de problemas de implantação.
-- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell.  
+- Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.  
 - Instalação do Cliente da Área de Trabalho do Project Online pelo portal do Office 365 usando Clique para Executar.
 - Definir configurações de atualização usando a Ferramenta de Implantação do Office.  
 - Configurar um servidor de distribuição local único para o Cliente da Área de Trabalho do Project Online, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.  
@@ -178,7 +192,7 @@ No Yammer, fornecemos instruções para habilitar o serviço do Yammer Enterpris
 
 No Office 365 ProPlus, fornecemos instruções para:
 - Solução de problemas de implantação.   
-- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell. 
+- Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell. 
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.   
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
 - Definir configurações de atualização usando a Ferramenta de Implantação do Office.   
@@ -197,6 +211,9 @@ No Microsoft StaffHub, fornecemos diretrizes para:
     
 ![Etapas de integração do Microsoft StaffHub](media/e8857c93-1db9-4940-90d1-b3a1b3f0c650.png)
   
+## <a name="outlook-for-ios-and-android"></a>Outlook para iOS e Android
 
-  
+Para o Outlook para iOS e Android, fornecemos instruções para:
+- Baixe o Outlook para iOS e Android no Google Play e Apple App Store.
+- Configurar contas e acessar a caixa de correio do Exchange Online.
 

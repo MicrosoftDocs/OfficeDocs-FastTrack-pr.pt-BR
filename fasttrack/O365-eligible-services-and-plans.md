@@ -3,30 +3,46 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: cf8ecce3-713f-4943-8217-afca0ce31434
-description: Quando você adquirir qualquer um dos serviços do Office 365 (conforme detalhado na seção Serviços qualificados a seguir), os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Office 365 e começar a usá-lo.
-ms.openlocfilehash: 2a3d1c0b010a24429da884956d1dd785df656e5f
-ms.sourcegitcommit: c993f9ed7adf792a123e7c59d1bb280776b9cf02
+description: Quando você adquirir qualquer um dos serviços do Office 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Office 365 e começar a usá-lo.
+ms.openlocfilehash: b363cd679a86896f24597ad713749bf762877691
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/15/2018
-ms.locfileid: "25565555"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895578"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
 Quando você adquirir qualquer um dos serviços do Office 365 (conforme detalhado na seção **Serviços qualificados** a seguir), os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Office 365 e começar a usá-lo. 
   
-- Você pode obter ajuda no Centro de administração do Office 365 ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**.   
+Você pode obter ajuda no [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+
+Para obter ajuda pelo [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. 
+
+Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selecione **FastTrack**.
+3.  Selecione **Serviços**.
+4.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
     > [!NOTE]
     >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
-- Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**. 
-- Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
+
+Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
+1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selecione **FastTrack**.
+3.  Selecione **Meus Clientes**.
+4.  Pesquise seu cliente ou selecione na lista de clientes.
+5.  Selecione **Serviços**.
+6.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
+
+Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
 > [!NOTE]
 > Seu ambiente local deve passar as verificações do Centro FastTrack antes que os Especialistas do FastTrack possam oferecer qualquer orientação. 
   
@@ -47,7 +63,7 @@ O Centro FastTrack fornece assistência para os seguintes [serviços do Office 3
     
 ## <a name="eligible-plans"></a>Planos qualificados
 
-Você deve adquirir pelo menos 150 licenças da seguinte lista de planos qualificados para receber os serviços do FastTrack:
+Você deve adquirir *pelo menos* 150 licenças da seguinte lista de planos qualificados para receber os serviços do FastTrack:
   
  **Office 365**
   

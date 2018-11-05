@@ -3,7 +3,7 @@ title: Visão geral dos Benefícios do Centro FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/01/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -13,16 +13,16 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
 description: Ao comprar os serviços do Windows 10 ou o Microsoft 365 FastTrack especialistas oferecem comunicação e orientação de reparação para implantar para Windows 10 e no Office 365 ProPlus e a se manter atualizado sem custo adicional (com uma assinatura qualificada).
-ms.openlocfilehash: 493e38ad0e091c77eec78bd2e388f8429fe223c0
-ms.sourcegitcommit: a754d02f1dea1a2147f716a2cbebda7b68141777
+ms.openlocfilehash: 603873c06dcc1ed0c11031f4e8e6093b62c92fbd
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2018
-ms.locfileid: "25353668"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895614"
 ---
 # <a name="assistance-offered-and-eligible-plans"></a>Assistência oferecida e planos qualificados   
 
-Ao comprar os serviços do Windows 10 ou o Microsoft 365 (detalhado como no seguinte **planos qualificados** seção), especialistas FastTrack orientam comunicação e orientação de reparação para implantar o Windows 10 e o Office 365 ProPlus e se manter atualizado sem custo adicional (com uma assinatura qualificada).
+Ao comprar os serviços do Windows 10 ou o Microsoft 365 (detalhado como no seguinte **planos qualificados** seção), especialistas FastTrack orientam comunicação e orientação de reparação, caso encontre problemas de aplicativo para implantar o Windows 10 e o Office 365 ProPlus e se manter atualizado sem custo adicional (com uma assinatura qualificada).
 
 Para obter ajuda, conclua as [garantimos do aplicativo de área de trabalho solicitação de serviço](https://go.microsoft.com/fwlink/?linkid=2022721).
 
