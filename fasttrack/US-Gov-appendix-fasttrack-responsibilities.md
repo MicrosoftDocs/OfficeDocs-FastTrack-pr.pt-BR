@@ -3,7 +3,7 @@ title: Responsabilidades FastTrack para o Office 365 governo dos EUA
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 7d1ed63bc4986238b649669788c6790c49b962be
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: 573856cf2de70bc84f52df7962fa4e7be68172a4
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021633"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895542"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades FastTrack para o Office 365 governo dos EUA
 
@@ -61,7 +61,7 @@ Os Especialistas do FastTrack têm as seguintes responsabilidades durante a inte
   - Fluxo de email geral e princípios de roteamento.  
   - Acesso para cliente (incluindo pontos de extremidade de acesso para clientes publicados existentes).  
   - Ambiente de mensagens de origem para atender às necessidades da integração 
-- Fornece migração de dados se o serviço de migração de dados do FastTrack Center for usado e se você estiver qualificado.
+- Fornece migração de dados se o serviço de migração de dados do Centro FastTrack for usado e se você estiver qualificado.
     
 ## <a name="remediate-phase"></a>Fase Corrigir
 
@@ -76,9 +76,9 @@ Fornece orientação sobre:
 - Configuração de protocolos TCP/IP e portas do firewall.   
 - Configuração do DNS para serviços qualificados.   
 - Validação da conectividade com o Office 365.   
-- Conexão do Microsoft Active Diretory local ao Active Directory do Azure:   
+- Conexão do Microsoft Active Diretory local ao Azure Active Directory:   
   - Instalação de um servidor de sincronização de diretórios entre os seus Active Directory Domain Services (AD DS) e o Office 365, se necessário.   
-  - Configuração de sincronização de senha (hash de senha) para o Office 365 (Active Directory do Azure) com a ferramenta Azure Active Directory Connect Health, quando necessário.  
+  - Configuração de sincronização de senha (hash de senha) para o Office 365 (Azure Active Directory) com a ferramenta Azure Active Directory Connect Health, quando necessário.  
   - Para ambientes com uma única ou várias florestas:
       - Configurando a autenticação de passagem diretório ativo Azure, se necessário (não está disponível nos planos GCC alta ou DoD).
       - Configurar o Azure Active Directory perfeita Single Sign-On (SSO), se necessário (não está disponível nos planos GCC alta ou DoD).
@@ -103,7 +103,7 @@ Fornece orientação sobre:
 - Configurar a instalação híbrida entre a organização local única do Exchange e o Office 365 *ou* entre várias organizações locais do Exchange e o Office 365. 
 - Configurando o Unified Messaging (UM) com o Exchange Online (Unificação de mensagens não está disponível nos planos GCC DoD). 
     
-Para saber mais sobre as responsabilidades de migração de dados, confira [Migração de dados](data-migration.md).
+Para saber mais sobre as responsabilidades de migração de dados, confira [Migração de dados](O365-data-migration.md).
   
 ## <a name="sharepoint-online"></a>SharePoint Online
 
@@ -114,7 +114,7 @@ Fornece orientação sobre:
 - Proteção de conteúdo e gerenciamento de permissões.   
 - Habilitação de sites pessoais e recursos sociais.   
 - Configuração de recursos do SharePoint Online.    
-- Fornecimento de migração de dados se o serviço de migração de dados do FastTrack Center for usado e se você estiver qualificado.  
+- Fornecimento de migração de dados se o serviço de migração de dados do Centro FastTrack for usado e se você estiver qualificado.  
 - Avaliação da configuração da infraestrutura de farm do SharePoint local necessária para o Implantação Híbrida do SharePoint Online.    
 - Uso de ferramentas e automação para: 
   - Configurar aplicativos de serviço Pesquisa na Nuvem locais.    
@@ -200,7 +200,7 @@ Fornecer orientação sobre como converter sua rede do Yammer Basic única em um
 
 Fornece orientação sobre:
 - Solução de problemas de implantação.   
-- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell.  
+- Atribuir licenças de usuário final, usando o [Centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.  
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.   
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
 - Configurar definições de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office 2016.   
