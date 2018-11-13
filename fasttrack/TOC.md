@@ -11,14 +11,22 @@
 ### [Apêndice B: Benefício adicional do Centro do FastTrack](O365-fasttrack-additional-benefits.md)
 ### [Apêndice C: Acordo de Parceiro Comercial HIPAA do Centro FastTrack](O365-hipaa-business-associate-agreement.md)
 ### [Apêndice D: Visão geral dos Benefícios do Centro FastTrack do Office 365 US Government](US-Gov-appendix-overview.md)
-# [Benefícios do FastTrack Center para o EMS (Enterprise Mobility + Security)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
-## [Planos e Serviços Qualificados dos Benefícios do FastTrack Center](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-## [Processo de Benefícios do FastTrack Center para o EMS (Enterprise Mobility + Security)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
-### [Visão geral dos Benefícios do Centro FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
-### [Expectativas do Ambiente de Origem](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
-### [Fases de integração](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
-### [Responsabilidades do FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
-### [Suas responsabilidades](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+# 
+  [Benefícios do FastTrack Center para o EMS (Enterprise Mobility + Security)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/enterprise-mobility-fasttrack-program?toc=/fasttrack/fasttrack/toc.json)
+## 
+  [Planos e Serviços Qualificados dos Benefícios do FastTrack Center](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+## 
+  [Processo de Benefícios do FastTrack Center para o EMS (Enterprise Mobility + Security)](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-enterprise-mobility-suite-ems?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Visão geral dos Benefícios do Centro FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-overview?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Expectativas do Ambiente de Origem](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-environment-expectations?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Fases de integração](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-phases?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Responsabilidades do FastTrack](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-fasttrack-responsibilities?toc=/fasttrack/fasttrack/toc.json)
+### 
+  [Suas responsabilidades](https://docs.microsoft.com/en-us/enterprise-mobility-security/Solutions/fasttrack-center-benefit-process-for-ems-your-responsibilities?toc=/fasttrack/fasttrack/toc.json)
 # [Benefícios do FastTrack Center para o Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
 ## [Aplicativo da área de trabalho](Win-10-desktop-app-assure.md)
 ### [Assistência oferecida e planos qualificados](Win-10-daa-assistance-offered-and-plans.md)
