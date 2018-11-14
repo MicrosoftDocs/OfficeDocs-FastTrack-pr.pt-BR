@@ -3,7 +3,7 @@ title: Inclusão e a migração fases para o Office 365 governamentais
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2018
+ms.date: 11/2/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Inclusão do Office 365 para Office 365 conosco agências governamentais tem quatro fases principais — Iniciar, Assess, corrigir e habilitar. Você pode seguir essas fases com uma fase de migração de dados opcionais conforme mostrado na figura a seguir.
-ms.openlocfilehash: e3e71d0b6fbb3b9db20f2d43aaf1f88d327dfe14
-ms.sourcegitcommit: 7b319c33a4f1062b508e941643e4f1f135309a98
+ms.openlocfilehash: cd98e88d8b602c67eb3a449145a3e29399595801
+ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24021713"
+ms.lasthandoff: 11/01/2018
+ms.locfileid: "25895602"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Inclusão e a migração fases para o Office 365 governamentais
 
@@ -30,11 +30,27 @@ Para conhecer tarefas detalhadas para cada fase, consulte [FastTrack responsabil
 
 Após adquirir o número e tipos de licença apropriados, siga as orientações do email de confirmação de compra para associar as licenças ao seu locatário existente ou ao novo locatário. 
   
-- Você pode obter ajuda no Centro de administração do Office 365 ou no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para obter ajuda através no Centro de administração do Office 365, o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. Para obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), conecte-se, clique em **Serviços** e preencha o formulário **Solicitar assistência para o Office 365**. 
+Você pode obter ajuda no [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+ 
+Para obter ajuda pelo [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. 
+
+Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selecione **FastTrack**.
+3.  Selecione **Serviços**.
+4.  Preencha o formulário **Solicitar assistência com o Microsoft 365**. 
     > [!NOTE]
-    >  Se você tiver um parceiro no locatário do Office 365, não verá essa opção. Peça ajuda ao seu parceiro. 
-- Os parceiros também podem obter ajuda no [site FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso, o parceiro entra no site, seleciona o registro do cliente, clica em **Serviços** e preenche o formulário **Solicitar assistência para o Office 365**.    
-- Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) na lista de serviços disponíveis para o seu locatário. 
+    >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
+
+Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
+1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selecione **FastTrack**.
+3.  Selecione **Meus Clientes**.
+4.  Pesquise seu cliente ou selecione na lista de clientes.
+5.  Selecione **Serviços**.
+6.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.   
+
+Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     
 Durante esta fase, discutimos o processo de integração, verificamos dados e agendamos uma reunião de apresentação.
   
@@ -92,7 +108,7 @@ Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua
 - Configurando o fluxo de email entre seu ambiente de mensagens de origem e o Exchange Online (conforme a necessidade).   
 - Fornecer orientações para a migração de email do ambiente de mensagens de origem para o Office 365.   
     > [!NOTE]
-    > Para saber mais sobre a migração de dados e emails, confira [Migração de dados](data-migration.md). 
+    > Para saber mais sobre a migração de dados e emails, confira [Migração de dados](O365-data-migration.md). 
   
 ![Etapas da integração ao Exchange durante a fase Habilitar](media/O365-Onboarding-Enable-Exchange.png)
   
@@ -168,7 +184,7 @@ No Yammer, fornecemos instruções para habilitar o serviço do Yammer Enterpris
 
 No Office 365 ProPlus, fornecemos instruções para: 
 - Solução de problemas de implantação.    
-- Atribuição de licenças de usuário final usando o Centro de administração do Office 365 e o Windows PowerShell.    
+- Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.    
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.    
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
 - Definir configurações de atualização usando a Ferramenta de Implantação do Office.    
