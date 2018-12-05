@@ -1,9 +1,9 @@
 ---
-title: Visão geral dos Benefícios do Centro FastTrack
+title: Desktop App Assure
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,13 +12,13 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: ac467db0-3118-41fa-a93d-bb5de1e414d5
-description: O FastTrack Center Benefit para Windows 10 fornece acesso o Desktop App Assure – um novo serviço projetado para resolver problemas de compatibilidade de aplicativos com o Windows 10 e com Office 365 ProPlus.
-ms.openlocfilehash: 09d76a0744fc07f412d1ec7e217c6f5cad69b21b
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+description: O FastTrack Center Benefit para Windows 10 fornece acesso o Desktop App Assure – um serviço projetado para resolver problemas de compatibilidade de aplicativos com o Windows 10 e com Office 365 ProPlus.
+ms.openlocfilehash: b18b27a191ced81d9d84088f383f9fbdca51f082
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895590"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27132913"
 ---
 # <a name="desktop-app-assure"></a>Desktop App Assure
 

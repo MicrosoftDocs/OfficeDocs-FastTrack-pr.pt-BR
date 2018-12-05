@@ -3,7 +3,7 @@ title: Migração de dados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/2/2018
+ms.date: 12/4/2018
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: FastTrack
 ms.assetid: e0c40008-4373-48d3-96bb-08f0afd08248
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: cf4093bbaa775c0d4be1bac2fa895aa6b48f83fc
-ms.sourcegitcommit: a8717ee240040292872bc0231f1fb2a22b846806
+ms.openlocfilehash: 253a0a33727581f6531b95685dc27375e685dc4c
+ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2018
-ms.locfileid: "25895770"
+ms.lasthandoff: 12/03/2018
+ms.locfileid: "27133153"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -219,6 +219,9 @@ Execute as seguintes tarefas durante as migrações:
 - Conduzir correção de migração pós-migração (se aplicável).
 - Planejar e implementar comunicações de usuário final e gerenciamento de alterações (se aplicável).   
 - Administrar e configurar as alterações feitas ao sistema de origem e aos dispositivos necessários para a realização bem-sucedida das atividades de avaliação e migração.
+
+> [!NOTE]
+> A Microsoft não garante a velocidade de migração de arquivos.
     
 ## <a name="migration-to-onedrive-for-business"></a>Migração para o OneDrive for Business
 
@@ -292,7 +295,8 @@ Execute as seguintes tarefas durante as migrações:
 - Conduzir teste de aceitação do usuário e garantia de qualidade de migração.   
 - Conduzir correção de migração pós-migração (se aplicável).  
 - Planejar e implementar comunicações de usuário final e gerenciamento de alterações (se aplicável).  
-- Administrar e configurar as alterações feitas ao sistema de origem e aos dispositivos necessários para a realização bem-sucedida das atividades de avaliação e migração.
+- Administrar e configurar as alterações feitas no sistema de origem e nos dispositivos necessários para a realização bem-sucedida das atividades de avaliação e migração.
     
-  
+> [!NOTE]
+> A Microsoft não garante a velocidade de migração de arquivos.  
 
