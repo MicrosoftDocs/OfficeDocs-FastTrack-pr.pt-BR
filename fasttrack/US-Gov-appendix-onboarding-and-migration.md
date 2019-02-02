@@ -3,20 +3,19 @@ title: Inclusão e a migração fases para o Office 365 governamentais
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9481440c-f99a-40eb-9955-b1398d9acab7
 description: Inclusão do Office 365 para Office 365 conosco agências governamentais tem quatro fases principais — Iniciar, Assess, corrigir e habilitar. Você pode seguir essas fases com uma fase de migração de dados opcionais conforme mostrado na figura a seguir.
-ms.openlocfilehash: 7484350fd3bc5c3999e925b8d2d863e09c284f7a
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 259f7f175b369aed5ed9089ff7dff0efc5797963
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133069"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696766"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Inclusão e a migração fases para o Office 365 governamentais
 
@@ -118,7 +117,7 @@ No SharePoint Online e OneDrive for Business, fornecemos instruções para:
 - Configuração do DNS.   
 - Configurar portas do firewall.   
 - Provisionar usuários e licenças.   
-- Configurar recursos do Implantação Híbrida do SharePoint, como pesquisa híbrida, sites híbridos, taxonomia híbrida, tipos de conteúdo, criação de sites de autoatendimento híbridos (SharePoint Server 2013 apenas), inicializador de aplicativos estendido, OneDrive for Business híbrido e sites extranet.
+- Configurando recursos híbridos do SharePoint, como pesquisa híbrida, sites de híbrido, taxonomia híbrida, tipos de conteúdo, criação de site pessoal híbrida (SharePoint Server 2013 apenas), estendido iniciador de app híbrida OneDrive for Business e sites da extranet.
     
 Os Especialistas do FastTrack fornecem orientações sobre a migração de dados para o Office 365 usando uma combinação de ferramentas e documentação, além de realizar tarefas de configuração, quando for aplicável e viável.
   
@@ -187,8 +186,8 @@ No Office 365 ProPlus, fornecemos instruções para:
 - Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.    
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.    
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
-- Definir configurações de atualização usando a Ferramenta de Implantação do Office.    
-- Configurar um servidor de distribuição local único para o Office 365 ProPlus, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.    
+- Definindo configurações de atualização usando a ferramenta de implantação do Office 365.    
+- Configurando um servidor único de distribuição no local para o Office 365 ProPlus, os incluindo assistência com a criação de um arquivo Configuration XML para uso com a ferramenta de implantação do Office 365.    
 - A implantação usando o Microsoft System Center Configuration Manager, incluindo orientações para criar um pacote do System Center Configuration Manager.
     
 ![Etapas da integração ao Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)

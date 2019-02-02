@@ -3,20 +3,19 @@ title: Responsabilidades FastTrack para o Office 365 governo dos EUA
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 9a126fe0d75d2342384172c2930b05c46cc2ff0b
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: bfdbd890dd357c22ea80fd01cdf47903cccb868e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133117"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696778"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades FastTrack para o Office 365 governo dos EUA
 
@@ -46,10 +45,10 @@ Os Especialistas do FastTrack têm as seguintes responsabilidades durante a inte
 - Estabelecimento da linha do tempo para atividades de correção.
 - Fornecimento de uma lista de verificação da correção.   
 - Avaliar a infraestrutura existente do SharePoint Server 2013 ou do SharePoint Server 2016, incluindo:  
-  - Pré-requisitos para Implantação Híbrida do SharePoint Online.  
-  - Disponibilidade de infraestrutura local para recursos do Implantação Híbrida do SharePoint Online.  
+  - Pré-requisitos para o SharePoint Online híbrido.  
+  - Preparação de infraestrutura do local para recursos do SharePoint Online híbrido.  
   - Acesso aos pontos de extremidade necessários do SharePoint Online. 
-  - Audiências do Implantação Híbrida do OneDrive for Business.    
+  - Audiências para OneDrive para o híbrido de negócios.    
 - Avaliar a infraestrutura existente do Lync ou do Skype for Business online, incluindo:  
   - Estratégia de implantação do cliente do Skype for Business com suporte  
   - Acesso aos pontos de extremidade.  
@@ -115,11 +114,11 @@ Fornece orientação sobre:
 - Habilitação de sites pessoais e recursos sociais.   
 - Configuração de recursos do SharePoint Online.    
 - Fornecimento de migração de dados se o serviço de migração de dados do Centro FastTrack for usado e se você estiver qualificado.  
-- Avaliação da configuração da infraestrutura de farm do SharePoint local necessária para o Implantação Híbrida do SharePoint Online.    
+- Avaliando a configuração de infraestrutura do local do SharePoint farm necessária para o SharePoint Online híbrido.    
 - Uso de ferramentas e automação para: 
   - Configurar aplicativos de serviço Pesquisa na Nuvem locais.    
   - Configurar a confiança entre os ambientes locais e de nuvem do SharePoint.   
-- Configurar sites locais do SharePoint para usar recursos do Implantação Híbrida do SharePoint Online.
+- Configurando sites do SharePoint no local ao uso de recursos do SharePoint Online híbrido.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -135,7 +134,7 @@ Fornece orientação sobre:
 - Atribuição de licenças de usuário final.   
 - Configuração de audiências do SharePoint Online para controlar e reger quem obtém o OneDrive for Business.    
 - Implantar o cliente de sincronização do OneDrive for Business em computadores.   
-- Como configurar o redirecionamento do OneDrive for Business na Implantação Híbrida do SharePoint Online (apenas SharePoint 2013 e SharePoint 2016).  
+- Como configurar o SharePoint Online híbrido OneDrive para o redirecionamento de negócios (SharePoint 2013 e SharePoint 2016 apenas).  
 - Migração de dados se o serviço de migração de dados do Centro FastTrack for usado e se você estiver qualificado.
     
 ## <a name="skype-for-business-online"></a>Skype for Business online
@@ -204,7 +203,7 @@ Fornece orientação sobre:
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.   
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
 - Configurar definições de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office 2016.   
-- Configurar um servidor de distribuição local único para o Office 365 ProPlus, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.   
+- Configurando um servidor único de distribuição no local para o Office 365 ProPlus, os incluindo assistência com a criação de um arquivo Configuration XML para uso com a ferramenta de implantação do Office 365.   
 - A implantação usando o System Center Configuration Manager, incluindo orientações para criar um pacote do System Center Configuration Manager.
 
     
