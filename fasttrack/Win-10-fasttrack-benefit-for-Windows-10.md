@@ -3,32 +3,31 @@ title: Benefício do FastTrack Center para o Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
-- office-365-onboarding-benefit
-ms.service: o365-administration
+- windows-10-microsoft-365-onboarding-benefit-process-assistance
+ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: cb4d7c0f-ad86-4134-a5fe-92a250cd3003
 description: Você usa o Benefício do FastTrack Center para o Windows 10 quando adquire *pelo menos* 150 licenças para um serviço ou plano.
-ms.openlocfilehash: 669c39e7431de6fa59a2f890e7cbc0ea48c8dadc
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: 8856c2f2f8a87006d5bbd8c048ff9e602440496a
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133033"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696694"
 ---
-# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="d34f5-103">Benefício do FastTrack Center para o Windows 10</span><span class="sxs-lookup"><span data-stu-id="d34f5-103">FastTrack Center Benefit for Windows 10</span></span>
+# <a name="fasttrack-center-benefit-for-windows-10"></a><span data-ttu-id="50047-103">Benefício do FastTrack Center para o Windows 10</span><span class="sxs-lookup"><span data-stu-id="50047-103">FastTrack Center Benefit for Windows 10</span></span>
 
-<span data-ttu-id="d34f5-p101">Use os Benefícios do FastTrack Center para Windows 10 ao adquirir *pelo menos* 150 licenças de planos ou serviços qualificados. Você vai trabalhar com especialistas FastTrack que fornecerão orientações e correções caso encontre problemas de compatibilidade do aplicativo ao implantar no Windows 10 e no Office 365 ProPlus e se manterá atualizado sem custos adicionais (com uma assinatura qualificada).</span><span class="sxs-lookup"><span data-stu-id="d34f5-p101">You use the FastTrack Center Benefit for Windows 10 when you purchase  *at least*  150 licenses for an eligible service or plan. You then work with FastTrack Specialists who provide advisory and remediation guidance if you encounter app compatibility issues as you deploy to Windows 10 and Office 365 ProPlus and stay up-to-date at no additional cost (with an eligible subscription).</span></span> 
+<span data-ttu-id="50047-p101">Use os Benefícios do FastTrack Center para Windows 10 ao adquirir *pelo menos* 150 licenças de planos ou serviços qualificados. Você vai trabalhar com especialistas FastTrack que fornecerão orientações e correções caso encontre problemas de compatibilidade do aplicativo ao implantar no Windows 10 e no Office 365 ProPlus e se manterá atualizado sem custos adicionais (com uma assinatura qualificada).</span><span class="sxs-lookup"><span data-stu-id="50047-p101">You use the FastTrack Center Benefit for Windows 10 when you purchase  *at least*  150 licenses for an eligible service or plan. You then work with FastTrack Specialists who provide advisory and remediation guidance if you encounter app compatibility issues as you deploy to Windows 10 and Office 365 ProPlus and stay up-to-date at no additional cost (with an eligible subscription).</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="d34f5-106">Para os fins deste documento, os Especialistas do FastTrack podem incluir funcionários da Microsoft, fornecedores aprovados pela Microsoft e parceiros aprovados pela Microsoft.</span><span class="sxs-lookup"><span data-stu-id="d34f5-106">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
+> <span data-ttu-id="50047-106">Para os fins deste documento, os Especialistas do FastTrack podem incluir funcionários da Microsoft, fornecedores aprovados pela Microsoft e parceiros aprovados pela Microsoft.</span><span class="sxs-lookup"><span data-stu-id="50047-106">For purposes of this document, FastTrack Specialists can include Microsoft employees, Microsoft-approved vendors, and Microsoft-approved partners.</span></span> 
     
 > [!NOTE]
-> <span data-ttu-id="d34f5-107">Este tópico tem uma finalidade apenas informativa.</span><span class="sxs-lookup"><span data-stu-id="d34f5-107">For informational purposes only.</span></span> 
+> <span data-ttu-id="50047-107">Este tópico tem uma finalidade apenas informativa.</span><span class="sxs-lookup"><span data-stu-id="50047-107">For informational purposes only.</span></span> 
   
 
   
