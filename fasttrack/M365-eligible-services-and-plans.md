@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/3/2019
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 167568338d4d4a9e1132761c821fcaa63868bc0a
-ms.sourcegitcommit: 661b0a8110714395c120949a9182e7cd48a0b5fa
+ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/02/2019
-ms.locfileid: "27472799"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696802"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -30,19 +30,17 @@ Para obter ajuda pelo [centro de administração do Microsoft 365](https://go.mi
 
 Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **FastTrack**.
-3.  Selecione **Serviços**.
-4.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
+2.  Selecione **Serviços**.
+3.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
     > [!NOTE]
     >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
 
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **FastTrack**.
-3.  Selecione **Meus Clientes**.
-4.  Pesquise seu cliente ou selecione na lista de clientes.
-5.  Selecione **Serviços**.
-6.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
+2.  Selecione **Meus Clientes**.
+3.  Pesquise seu cliente ou selecione na lista de clientes.
+4.  Selecione **Serviços**.
+5.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
 
 Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
 
@@ -56,8 +54,8 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Exchange Online
 - SharePoint Online
 - OneDrive for Business
-- Skype for Business online
 - Microsoft Teams
+- Skype for Business Online
 - Power BI
 - Project Online
 - Yammer Enterprise 
@@ -71,9 +69,9 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
   
  **Microsoft 365 Enterprise**
 
-- Microsoft 365 E3
-- Microsoft 365 E5
-- Microsoft 365 Business
+- Microsoft 365 E3\*
+- Microsoft 365 E5\*
+- Microsoft 365 Business\*
     
  **Microsoft 365 Education**
 
@@ -134,10 +132,10 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
     
  **Skype for Business Online**
   
--  Sistema Telefônico 
--  Plano de Chamada 
--  Conferência por Áudio 
--  Skype for Business online Plano 1  
+-  Sistema Telefônico\*\*\* 
+-  Plano de Chamada\*\*\* 
+-  Conferência por Áudio\*\*\*
+-  Skype for Business Online Plano 1  
 -  Skype for Business Online Plano 2
     
  **Yammer**
@@ -146,10 +144,12 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 
 \*Disponível somente para serviços na nuvem qualificados do FastTrack e os recursos descritos nesta descrição de benefício.
 
-\*\*Para saber mais informações sobre o benefício do FastTrack para o Governos dos EUA, confira [Office 365 US Government](https://aka.ms/aboutgovcloud).
+\*\*Veja mais informações sobre o benefício do FastTrack para o Governo dos EUA em [Office 365 US Government](https://aka.ms/aboutgovcloud).
+
+\*\*\*Pode ser usado para os usuários licenciados do Skype for Business Online e do Microsoft Teams.
 
 > [!NOTE]
-> Qualificada para os benefícios do FastTrack Center, baseia-se na compra de licenças pagas dos planos qualificados mencionados anteriormente. 
+> A elegibilidade ao benefício do FastTrack Center se baseia na compra de licenças pagas dos planos qualificados mencionados anteriormente. 
  
 Para saber mais, confira [benefícios do FastTrack Center do Office 365](https://go.microsoft.com/fwlink/?linkid=2044752).
 

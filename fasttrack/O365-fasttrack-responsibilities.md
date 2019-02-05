@@ -3,20 +3,19 @@ title: Responsibilities do FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/4/2018
+ms.date: 2/2/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-ms.assetid: 9840bd79-fb09-4f8e-b7c9-e96dfdcd3a33
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 27961b81a4add1342ba194c2e3d04c93aca32ca5
-ms.sourcegitcommit: 3ecf2619868abc13716701393831dd0c24e00d9d
+ms.openlocfilehash: e90c9e54b62f57c27ba1424f5d2fb84d7b56626e
+ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/03/2018
-ms.locfileid: "27133093"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29696826"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
@@ -46,17 +45,17 @@ Os Especialistas do FastTrack têm as seguintes responsabilidades durante a inte
 - Estabelecimento da linha do tempo para atividades de correção.
 - Fornecimento de uma lista de verificação da correção. 
 - Avaliar a infraestrutura existente do SharePoint Server 2013 ou do SharePoint Server 2016, incluindo:
-  - Pré-requisitos para Implantação Híbrida do SharePoint Online. 
-  - Disponibilidade de infraestrutura local para recursos do Implantação Híbrida do SharePoint Online.
+  - Pré-requisitos para o SharePoint Online híbrido. 
+  - Preparação da infraestrutura local para os recursos híbridos do SharePoint Online.
   - Acesso aos pontos de extremidade necessários do SharePoint Online.
-  - Audiências do Implantação Híbrida do OneDrive for Business. 
-- Avaliar a infraestrutura existente do Lync ou do Skype for Business online, incluindo:
-  - Estratégia de implantação do cliente do Skype for Business com suporte
+  - Públicos do OneDrive for Business híbrido. 
+- Avaliar a infraestrutura existente do Lync, do Skype for Business Online ou do Microsoft Teams, incluindo:
+  - Estratégia de implantação do cliente do Teams ou do cliente Skype for Business compatível.
   - Acesso aos pontos de extremidade.
   - Qualidade da conexão
   - Estimativas de largura de banda.
   - Pré-requisitos de suporte para a configuração de servidor de domínio dividido.
-  - Preparação de usuários identificados para transferir para o Skype for Business online.
+  - Preparação de usuários identificados para transferência para o Teams ou Skype for Business Online.
 - Avaliação da infraestrutura de mensagens, incluindo: 
   - Fluxo de email geral e princípios de roteamento.
   - Acesso para cliente (incluindo pontos de extremidade de acesso para clientes publicados existentes).
@@ -99,9 +98,9 @@ Fornece orientação sobre:
 ## <a name="exchange-online"></a>Exchange Online
 
 Fornece orientação sobre:
-- Criando ou atualizando registros DNS. 
-- Habilitar o roteamento de emails entre o sistema de mensagens de origem e ambientes do Office 365. 
-- Configurar recursos do Proteção do Exchange Online (incluindo recursos do Proteção Avançada Contra Ameaças do Exchange Online, caso esteja disponível em sua assinatura) e verificar os registros MX para que apontem para o Office 365 em todos os domínios habilitados para email validados.
+- Criação ou atualização de registros DNS. 
+- Habilitação de roteamento de emails entre o sistema de mensagens de origem e ambientes do Office 365. 
+- Configuração de recursos da Proteção do Exchange Online, da Proteção de Perda de Dados (DLP) e da Criptografia de Mensagens do Office 365 (OME) (incluindo os recursos da Proteção Avançada Contra Ameaças do Exchange Online, caso esteja disponível em sua assinatura) e verificação dos registros MX para que apontem para o Office 365 em todos os domínios habilitados para email validados.
 - Configurar a instalação híbrida entre a organização local única do Exchange e o Office 365 *ou* entre várias organizações locais do Exchange e o Office 365. 
 - Configuração de clientes de caixa de correio (Outlook para Windows, Outlook na web e Outlook para iOS e Android).
     
@@ -117,11 +116,11 @@ Fornece orientação sobre:
 - Habilitação de sites pessoais e recursos sociais.
 - Configuração de recursos do SharePoint Online. 
 - Fornecimento de migração de dados se o serviço de migração de dados do Centro FastTrack for usado e se você estiver qualificado.
-- Avaliação da configuração da infraestrutura de farm do SharePoint local necessária para o Implantação Híbrida do SharePoint Online. 
+- Avaliação da configuração da infraestrutura de farm do SharePoint local necessária para o SharePoint Online híbrido. 
 - Uso de ferramentas e automação para:
   - Configurar aplicativos de serviço Pesquisa na Nuvem locais. 
   - Configurar a confiança entre os ambientes locais e de nuvem do SharePoint.
-- Configurar sites locais do SharePoint para usar recursos do Implantação Híbrida do SharePoint Online.
+- Configurar os sites locais do SharePoint para usar os recursos do SharePoint Online híbrido.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -137,10 +136,36 @@ Fornece orientação sobre:
 - Atribuição de licenças de usuário final. 
 - Configuração de audiências do SharePoint Online para controlar e reger quem obtém o OneDrive for Business. 
 - Implantar o cliente de sincronização do OneDrive for Business em computadores.   
-- Como configurar o redirecionamento do OneDrive for Business na Implantação Híbrida do SharePoint Online (apenas SharePoint 2013 e SharePoint 2016).
+- Como configurar o redirecionamento do OneDrive for Business para o SharePoint Online híbrido (apenas SharePoint 2013 e SharePoint 2016).
 - Migração de dados se o serviço de migração de dados do Centro FastTrack for usado e se você estiver qualificado.
     
-## <a name="skype-for-business-online"></a>Skype for Business online
+## <a name="microsoft-teams"></a>Microsoft Teams
+
+Fornece orientação sobre:
+- Confirmação dos requisitos mínimos.
+- Configurar portas do firewall.
+- Configuração do DNS.  
+- Confirmação da habilitação do Teams no seu locatário do Office 365.
+- Habilitação ou desabilitação de licenças de usuário.
+- Distribuição de clientes do Teams.
+- Recursos de administrador e do IT Pro.
+- Principais recursos do produto.
+- Modelos de sucesso dos clientes.
+- Criação de contas para associar aos dispositivos do sistema de sala com suporte (até 10 contas). 
+- Habilitação do Roteamento Direto.
+- Habilitação da Audioconferência.
+- Configuração da organização para as configurações padrão da ponte de conferência.
+- Atribuição de uma ponte de conferência para usuários licenciados.
+- Habilitação do Sistema Telefônico.
+- Habilitação da integração do Sistema Telefônico e dos Planos de Chamada (em mercados disponíveis).
+- Atribuição de números a usuários licenciados.
+- Orientação de portabilidade do número local pela interface do usuário até 999.
+- Suporte SR à portabilidade do número local superior a 999. 
+- Habilitação dos eventos ao vivo do Teams. 
+- Configuração e integração da organização com o Microsoft Stream.
+
+
+## <a name="skype-for-business-online"></a>Skype for Business Online
 
 Fornece orientação sobre:
 - Provisionamento de identidades do Skype for Business para o Office 365. 
@@ -158,19 +183,6 @@ Fornece orientação sobre:
 - Habilitar Transmissão de Reunião do Skype for Business:
   - Habilitando a integração orientada de Transmissão de Reunião do Skype for Business
   - Configuração da organização para federação com o serviço Transmissão da Reunião.
-    
-## <a name="microsoft-teams"></a>Microsoft Teams
-
-Fornece orientação sobre:
-- Confirmação dos requisitos mínimos.
-- Configurar portas do firewall.
-- Configuração do DNS.  
-- Confirmação de que o Microsoft Teams está habilitado no seu locatário do Office 365.
-- Habilitação ou desabilitação de licenças de usuário.
-- Distribuição de clientes do Microsoft Teams.
-- Recursos do IT Pro e do administrador.
-- Principais recursos do produto.
-- Modelos de sucesso dos clientes.
     
 ## <a name="power-bi"></a>Power BI
 
@@ -194,7 +206,7 @@ Fornece orientação sobre:
 - Solução de problemas de implantação.
 - Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.
 - Como baixar e instalar o Cliente da Área de Trabalho do Project Online pelo portal.   
-- A definição de configurações de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office.
+- Configurar definições de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office 365.
 - Como configurar um servidor de distribuição local exclusivo para o Cliente da Área de Trabalho do Project Online, incluindo orientação para criar um arquivo configuration.xml para a Ferramenta de Implantação do Office 2016. 
 - Conexão do Cliente da Área de Trabalho do Project Online ao Project Online.
     
@@ -210,8 +222,8 @@ Fornece orientação sobre:
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.
 - Instalar os aplicativos do Office Mobile (como Outlook para iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile. 
 - Configurar definições de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office 2016.
-- Configurar um servidor de distribuição local único para o Office 365 ProPlus, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office.
-- A implantação usando o System Center Configuration Manager, incluindo orientações para criar um pacote do System Center Configuration Manager.
+- Configurar um servidor de distribuição local único para o Office 365 ProPlus, incluindo orientação para criar um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office 365.
+- Implantação usando o System Center Configuration Manager, incluindo orientações para criar um pacote do System Center Configuration Manager.
     
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
