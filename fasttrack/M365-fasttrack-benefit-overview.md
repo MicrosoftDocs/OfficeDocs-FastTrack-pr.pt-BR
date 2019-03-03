@@ -3,7 +3,7 @@ title: Benefício do FastTrack Center para o Microsoft 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: FastTrack para o Microsoft 365 fornece orientação para planejamento, implantação e incluindo acesso remoto à Microsoft experiência de engenharia, melhores práticas, ferramentas e recursos de adoção. FastTrack para o Microsoft 365 ajuda as organizações e seus parceiros aceleram a implantação e obter a adoção de usuários finais do Office 365, Windows 10 e Enterprise Mobility + Security.
-ms.openlocfilehash: 272b2aab2900f8d9febd24b22a9a2642d7b24ff8
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: e0ac93c1debcffe644117054c6fda2d8ac2d5b60
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696610"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355111"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Benefício do FastTrack Center para o Microsoft 365
 
@@ -29,13 +29,11 @@ Os benefícios da Central FastTrack do Microsoft 365 fornece orientação para p
   
 Para saber mais, confira:
 
-- [Benefícios do FastTrack Center para o Office 365](https://go.microsoft.com/fwlink/?linkid=2044752) 
-- [Benefícios do FastTrack Center para o EMS (Enterprise Mobility + Security)](https://go.microsoft.com/fwlink/?linkid=2005312)
-- [Benefícios do FastTrack Center para o Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661) 
+- [Benefícios do FastTrack Center para o Office 365](O365-fasttrack-benefit-for-office-365.md) 
+- [Benefícios do FastTrack Center para o EMS (Enterprise Mobility + Security)](EMS-fasttrack-benefit-for-EMS.md)
+- [Benefícios do FastTrack Center para Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md) Você também pode explorar os serviços e [solicitar assistência](https://go.microsoft.com/fwlink/p/?LinkId=2003903) do FastTrack aindahoje.
 
-Você também pode explorar os serviços do FastTrack e [solicitar assistência](https://go.microsoft.com/fwlink/p/?LinkId=2003903) do FastTrack hoje.
-
-FastTrack é o seu parceiro para o sucesso do Microsoft 365.
+O FastTrack é o seu parceiro para o sucesso do Microsoft 365.
   
   
 
