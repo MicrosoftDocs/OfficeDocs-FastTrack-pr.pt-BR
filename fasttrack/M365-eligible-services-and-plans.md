@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 37e898664c2718eb3fffaae96a93a5ace3f95fc5
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696802"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355291"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -71,6 +71,7 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
+- Microsoft 365 E5 Security\*
 - Microsoft 365 Business\*
     
  **Microsoft 365 Education**
@@ -167,7 +168,7 @@ Para saber mais, confira [benefícios do FastTrack Center do Office 365](https:/
 |**Microsoft Advanced Threat Analytics**   |        Limitada. Qualificado somente se adquirido como um plano independente. Para fazer isso, acesse o [portal do Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 |**Segurança no Aplicativo da Nuvem da Microsoft**    |       Limitada. Qualificado somente se adquirido como um plano independente. Para fazer isso, acesse o [portal do Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
-Para saber mais, confira [benefícios da Central FastTrack para o Enterprise Mobility + Security](https://go.microsoft.com/fwlink/?linkid=2005312).
+Para saber mais, confira [benefícios da Central FastTrack para o Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
 ## <a name="eligible-windows-10-plans"></a>Planos qualificados do Windows 10
 

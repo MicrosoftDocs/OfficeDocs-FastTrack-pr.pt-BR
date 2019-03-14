@@ -3,19 +3,19 @@ title: Migração de dados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 6c14e9177d4630a0a7ba5c33c9405b660d08cd26
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 5e7cc46807b7ec0e742c2a1097034dae8df14701
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696874"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355339"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -87,10 +87,10 @@ O estado final esperado depois que todas as migrações são concluídas:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Ambiente de origem**|**Tipo de migração**|**O que migrará da caixa de correio de origem**|**O que não pode ser migrado**|
-|**Exchange 2003 em diante**|Substituição| Emails <br/> Regras de caixas de correio <br/> Representantes <br/> Contatos de caixas de correio <br/> Calendário <br/> Tarefas | Pastas públicas <br/> Contatos pessoais <br/> Usuários habilitados para email <br/> Usuários bloqueados ou inativos <br/> Assinatura <br/> Dumpster de caixas de correio <br/>  Qualquer email que excede o limite de tamanho da mensagem <br/> Dados de arquivo morto <br/> Direitos gerenciados ou emails criptografados <br/> Itens corrompidos <br/>  Caixas de correio inativas |
-|**Exchange 2003 e Exchange 2007**|Em estágios| Emails <br/> Regras de caixas de correio <br/> Representantes <br/> Contatos de caixas de correio <br/> Calendário <br/> Tarefas | Pastas públicas <br/> Contatos pessoais <br/> Usuários habilitados para email <br/> Usuários bloqueados ou inativos <br/> Assinatura <br/> Dumpster de caixas de correio <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Dados de arquivo morto <br/> Direitos gerenciados ou emails criptografados <br/> Itens corrompidos <br/> Caixas de correio inativas |
-|**Exchange 2010, Exchange 2013 e Exchange 2016** <br/><br/> **Observação** *Para dependências do Exchange local, confira [Pré-requisitos de implantação híbrida](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migração com implantação híbrida| Emails <br/> Regras de caixas de correio <br/> Representantes <br/> Contatos de caixas de correio <br/> Calendário <br/> Tarefas <br/> Assinatura <br/> Arquivo morto pessoal migrado com caixas de correio de usuários <br/> Itens recuperáveis | Pastas públicas <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Arquivo morto de registro em diário ou solução de arquivo morto de terceiros <br/> Usuários bloqueados ou inativos <br/> Dados de arquivo morto dos arquivos PST (tabela de armazenamento pessoal) <br/> Emails gerenciados por direito ou criptografados <br/> Itens corrompidos <br/> Caixas de correio inativas |
-|**Ambiente do G Suite (apenas Gmail, Contatos e Calendário)** <br/> <br/> **Observação** *Seu ambiente do G Suite precisa ter as APIs e o SDK Admin do Google habilitados para estender a funcionalidade.* <br/> <br/> **Observação** *Localização dos dados: o FastTrack pode transferir, processar e armazenar dados migrados com base na localização da locação do cliente nos Estados Unidos ou em qualquer lugar que a Microsoft ou seus fornecedores terceirizados mantêm instalações. O FastTrack exclui todos os dados armazenados no prazo de trinta dias após a conclusão dos serviços aplicáveis.*           |De substituição ou em fases| Emails <br/> Contatos de caixas de correio <br/> Calendário <br/> Rótulos | Regras <br/> Representantes <br/> Assinatura <br/> Tarefas <br/> Qualquer email ou anexo maior que 35 MB <br/> Usuários bloqueados ou inativos <br/> Dados de arquivo morto de arquivos PST ou qualquer solução de arquivamento de terceiros (por exemplo, Google Vault) <br/> Direitos gerenciados ou emails criptografados <br/> Itens corrompidos <br/> Google Hangouts <br/> Grupos do Google <br/> Caixas de correio de recurso <br/> Caixas de correio inativas |
+|**Exchange 2003 em diante**|Substituição| Emails <br/> Regras de caixas de correio <br/> Representantes <br/> Contatos de caixas de correio <br/> Calendário <br/> Tarefas | Pastas públicas <br/> Contatos pessoais <br/> Usuários habilitados para email <br/> Usuários bloqueados ou inativos <br/> Assinaturas <br/> Dumpster de caixas de correio <br/>  Qualquer email que excede o limite de tamanho da mensagem <br/> Dados de arquivo morto <br/> Direitos gerenciados ou emails criptografados <br/> Itens corrompidos <br/>  Caixas de correio inativas |
+|**Exchange 2003 e Exchange 2007**|Em estágios| Emails <br/> Regras de caixas de correio <br/> Representantes <br/> Contatos de caixas de correio <br/> Calendário <br/> Tarefas | Pastas públicas <br/> Contatos pessoais <br/> Usuários habilitados para email <br/> Usuários bloqueados ou inativos <br/> Assinaturas <br/> Dumpster de caixas de correio <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Dados de arquivo morto <br/> Direitos gerenciados ou emails criptografados <br/> Itens corrompidos <br/> Caixas de correio inativas |
+|**Exchange 2010, Exchange 2013 e Exchange 2016** <br/><br/> **Observação** *Para dependências do Exchange local, confira [Pré-requisitos de implantação híbrida](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migração com implantação híbrida| Emails <br/> Regras de caixas de correio <br/> Representantes <br/> Contatos de caixas de correio <br/> Calendário <br/> Tarefas <br/> Assinaturas <br/> Arquivo morto pessoal migrado com caixas de correio de usuários <br/> Itens recuperáveis | Pastas públicas <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Arquivo morto de registro em diário ou solução de arquivo morto de terceiros <br/> Usuários bloqueados ou inativos <br/> Dados de arquivo morto dos arquivos PST (tabela de armazenamento pessoal) <br/> Emails gerenciados por direito ou criptografados <br/> Itens corrompidos <br/> Caixas de correio inativas |
+|**Ambiente do G Suite (apenas Gmail, Contatos e Calendário)** <br/> <br/> **Observação** *Seu ambiente do G Suite precisa ter as APIs e o SDK Admin do Google habilitados para estender a funcionalidade.* <br/> <br/> **Observação** *Localização dos dados: o FastTrack pode transferir, processar e armazenar dados migrados com base na localização da locação do cliente nos Estados Unidos ou em qualquer lugar que a Microsoft ou seus fornecedores terceirizados mantêm instalações. O FastTrack exclui todos os dados armazenados no prazo de trinta dias após a conclusão dos serviços aplicáveis.*           |De substituição ou em fases| Emails <br/> Contatos de caixas de correio <br/> Calendário <br/> Rótulos | Regras <br/> Representantes <br/> Assinaturas <br/> Tarefas <br/> Qualquer email ou anexo maior que 35 MB <br/> Usuários bloqueados ou inativos <br/> Dados de arquivo morto de arquivos PST ou qualquer solução de arquivamento de terceiros (por exemplo, Google Vault) <br/> Direitos gerenciados ou emails criptografados <br/> Itens corrompidos <br/> Google Hangouts <br/> Grupos do Google <br/> Caixas de correio de recurso <br/> Caixas de correio inativas |
 |**IBM Domino 7.0.3 e posteriores** ([Apêndice A: Migração do IBM Domino para o Exchange Online](O365-from-ibm-domino-to-exchange-online.md))|Em estágios| Emails – últimos 90 dias <br/> Calendário – últimos 90 dias e itens futuros <br/> Contatos de caixas de correio -tudo <br/> Tarefas – todas <br/> Salas e recursos – quando fornecidos são implementados com o modelo padrão <br/> Arquivos de email, inclusive os compartilhados, devem usar o modelo de email padrão | Assinaturas <br/> Regras de caixas de correio <br/> Representantes <br/> Itens criptografados <br/> Vínculos de Documento <br/> Papel de carta do usuário <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Usuários bloqueados ou inativos <br/> Dados de arquivo morto <br/> Itens corrompidos <br/> Coexistência de calendário <br/> Caixas de correio inativas |
 |**Novell GroupWise 7.0.4 em diante** <br/><br/> **Observação** *Localização dos dados: o FastTrack pode transferir, processar e armazenar dados migrados com base na localização da locação do cliente nos Estados Unidos ou em qualquer lugar que a Microsoft ou seus fornecedores terceirizados mantêm instalações. O FastTrack exclui todos os dados armazenados no prazo de trinta dias após a conclusão dos serviços aplicáveis.*           |Em estágios| Emails <br/> Calendário <br/> Contatos de caixas de correio <br/> Grupos pessoais <br/> Tarefas (com limitações) <br/> Documentos | Regras <br/> Conversão de proxies/representantes/ACL (lista de controle de acesso) <br/> Assinaturas <br/> Categorias de contatos <br/> Email criptografado <br/> Pastas de pesquisa <br/> Qualquer email ou anexo maior que 35 MB <br/> Usuários bloqueados ou inativos <br/> Dados de arquivo morto <br/> Itens criptografados ou direitos gerenciados <br/> Itens corrompidos <br/> Coexistência de calendário <br/> Caixas de correio inativas |
 |**Origem de IMAP4** |Migração usando ferramentas nativas de IMAP4| Emails | Regras <br/> Representantes <br/> Listas de distribuição <br/> Contatos externos <br/> Usuários habilitados para email <br/> Usuários bloqueados ou inativos <br/> Contatos de caixas de correio <br/> Calendário <br/> Assinaturas <br/> Tarefas <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Dados de arquivo morto <br/> Email criptografado <br/> Itens corrompidos <br/> Caixas de correio inativas |
@@ -149,7 +149,7 @@ Execute as seguintes tarefas durante as migrações:
 Você deve realizar o processo de migração padrão e estabelecer contato com a Microsoft adequadamente. Isso inclui fornecer acesso e permissões para o Office 365 e para os ambientes de origem, fornecer os agendamentos de migração, corrigir quaisquer causas de erros de migração, etc. Você deve também contatar os usuários finais para tratar das comunicações, agendamento de migração de caixas de correio e para lidar com problemas relacionados à migração.
   
 > [!NOTE]
-> As migrações só usam contas de acordo com os requisitos de segurança definidos durante a integração. Se você não usa essas contas, poderá passar por atrasos de migração. 
+> As migrações só usam contas de acordo com os requisitos de segurança definidos durante a integração. Se você não usa essas contas, pode enfrentar atrasos de migração. 
   
 ## <a name="migration-to-sharepoint-online"></a>Migração para o SharePoint Online
 
@@ -198,10 +198,8 @@ O estado final esperado depois que todas as migrações são concluídas:
 Os Especialistas do FastTrack executam as seguintes tarefas durante as migrações: 
 - Conduz um workshop passo a passo de migração abrangendo o processo e a abordagem para o cenário de migração selecionado.
 - Fornece pré-requisitos para ferramentas de avaliação e migração conforme o aplicável para o cenário.   
-- Fornece pré-requisitos para o acesso da equipe de migração no ambiente de origem e destino para fins de avaliação e migração.   
+- Fornece pré-requisitos para o acesso da equipe de migração no ambiente de origem e destino para fins de avaliação e migração. 
 - Fornece ferramentas de avaliação para efetuar avaliações do ambiente de origem de destino ou fornecer instruções sobre como usar funções da plataforma fonte nativa para criar relatórios de avaliação.   
-- Fornece um agendamento de um método definido e de uma lista de dados específicos do usuário a migrar para cada evento de migração, com pelo menos sete (7) dias de antecedência.
-- Remove dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
 - Auxilia na implantação e na execução de ferramentas de avaliação e migração (se aplicável).   
 - Configura infraestrutura de migração em preparação para a migração de conteúdo (quando aplicável).    
 - Conduz uma migração de teste limitado para validar a infraestrutura de migração e os pré-requisitos necessários.   
@@ -232,7 +230,8 @@ Execute as seguintes tarefas durante as migrações:
 - Conduzir correção de migração pós-migração (se aplicável).
 - Planejar e implementar comunicações de usuário final e gerenciamento de alterações (se aplicável).   
 - Administrar e configurar as alterações feitas no sistema de origem e nos dispositivos necessários para a realização bem-sucedida das atividades de avaliação e migração.
-
+- Fornece um agendamento de um método definido e de uma lista de dados específicos do usuário a migrar para cada evento de migração, com pelo menos sete (7) dias de antecedência.
+- Remove dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
 > [!NOTE]
 > A Microsoft não garante a velocidade de migração de arquivos.
     

@@ -3,19 +3,19 @@ title: 'Apêndice A: Migração do IBM Domino para o Exchange Online'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/2/2019
+ms.date: 03/02/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'A migração do IBM Domino para o Exchange Online inclui vários aspectos importantes, como o que acontece durante as fases abaixo:'
-ms.openlocfilehash: e2a4a06dd37c9a8eb5c04330cbde7f9dfff830b2
-ms.sourcegitcommit: 0a8250d759e010cff6958016267f29acb0b7e17c
+ms.openlocfilehash: 2b8bad92665f92abaa718b78151ad49b3920bac3
+ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/01/2019
-ms.locfileid: "29696814"
+ms.lasthandoff: 03/01/2019
+ms.locfileid: "30355231"
 ---
 # <a name="appendix-a---migration-from-ibm-domino-to-exchange-online"></a>Apêndice A: Migração do IBM Domino para o Exchange Online
 
@@ -28,7 +28,7 @@ A migração do IBM Domino para o Exchange Online inclui vários aspectos import
     
 ## <a name="identities"></a>Identidades
 
-Você é responsável por criar e gerenciar as identidades (somente nuvem, sincronizadas ou federadas com o Active Directory local). Você deve concluir o mapeamento de identidades (se ainda não estiverem presentes) entre o Domino e o Active Directory local ou o AD do Azure durante os estágios iniciais de integração.
+Você é responsável por criar e gerenciar as identidades (somente nuvem, sincronizadas ou federadas com o Active Directory local). Você deve concluir o mapeamento de identidades (se ainda não estiverem presentes) entre o Domino e o Active Directory local ou Azure Active Directory durante os estágios iniciais de integração.
   
 ## <a name="coexistence"></a>Coexistência
 
@@ -90,7 +90,7 @@ O processo padrão do Centro FastTrack para a migração do Domino para o Exchan
     >  Embora o FastTrack faça a migração de caixas de correio com até 85% do tamanho total permitido no destino, tentar migrar caixas de correio superiores a 2 GB pode apresentar riscos adicionais, como:    <br/> Duração estendida das migrações.    <br/> Uso de recursos usados para migrar outras caixas de correio.    <br/> Um aumento considerável nas taxas de erro. 
 - Preparar os bancos de dados de email e as ACLs (listas de controle de acesso) deles para a migração. Você deve executar algumas etapas de correção para migrar bancos de dados do email e as permissões deles para uma caixa de correio compartilhada no Exchange Online. Algumas dessas etapas são indicadas abaixo: 
   - Remova as entradas de banco de dados no email existentes no diretório do Domino e crie novos registros de Pessoa.
-  - Criar grupos de segurança universal habilitados para email no Active Directory local que são sincronizados com o AD do Azure do Office 365 e usados para configurar permissões na caixa de correio compartilhada no Exchange Online. Isso transfere as permissões definidas no banco de dados de email para a caixa de correio compartilhada no Exchange Online.
+  - Criar grupos de segurança universal habilitados para email no Active Directory local que são sincronizados com o Office 365 Azure Active Directory e usados para configurar permissões na caixa de correio compartilhada no Exchange Online. Isso transfere as permissões definidas no banco de dados de email para a caixa de correio compartilhada no Exchange Online.
     
 > [!NOTE]
 > A preparação do usuário final e o treinamento sobre o novo sistema e cliente de mensagens podem ser iniciados agora. 
