@@ -5,21 +5,21 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 86d69ec9ff9ef26646496d1b9fb443befdd76327
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 9f41ee105af4ff7d0a250d69a56756577d47b0a7
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30360003"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017015"
 ---
-# <a name="onboarding-phases"></a>Fases de integração
+# <a name="onboarding-phases"></a>Fases da Integração
 
 Ao usar os [serviços e planos qualificados](M365-eligible-services-and-plans.md) para obter o Microsoft Azure Active Directory Premium e o Microsoft Intune prontos para uso, há várias fases envolvidas no processo. As seções a seguir descrevem cada fase do processo de integração.
 
@@ -42,12 +42,12 @@ Após adquirir o número apropriado de licenças, siga as orientações do email
 3. Selecione **Serviços**.
 4. Conclua a **solicitação de assistência com o formulário do Microsoft 365**.
 
-Assim que o suporte de integração for iniciado, definiremos um cronograma de reuniões online.
+Após o início do suporte de integração, configuraremos um cronograma de reuniões online.
 
 > [!NOTE]
 > Se você tiver um parceiro da Microsoft listado em seu locatário do Office 365, você não verá essa opção. Consulte seu parceiro da Microsoft para obter assistência.
 
-Os parceiros da Microsoft também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso:
+Os parceiros da Microsoft também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. To do so:
 
 1. Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Selecione **FastTrack**.
@@ -82,7 +82,7 @@ Quando todas as atividades de correção estiverem concluídas, o projeto mudar�
 
 **Habilitar recursos de fase central**
 
-A integração básica envolve o provisionamento de serviços e o locatário e a integração de identidades. Ele também inclui etapas para fornecer uma base para a integração de serviços online, como o Azure AD Premium e o Intune.
+A integração básica envolve o provisionamento do serviço e a integração de identidade e locatário. Ele também inclui etapas para fornecer uma base para a integração de serviços online, como o Azure AD Premium e o Intune.
 
 ![Recursos básicos da fase de habilitação de integração](./media/ft-enable-phase-core-01.png)
 

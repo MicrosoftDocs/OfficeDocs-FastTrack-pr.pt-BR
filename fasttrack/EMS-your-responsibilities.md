@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 614f8b31cfd4a49ce01520efb2315a5e7237dcda
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359799"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016920"
 ---
 # <a name="your-responsibilities"></a>Suas responsabilidades
 
@@ -49,7 +49,7 @@ Você tem as seguintes responsabilidades durante a integração.
 
 -   Gerenciar um processo de aprovação de gerenciamento de alterações técnicas e criar a documentação de suporte.
 
--   Modificação do modelo operacional e de guias de operação.
+-   Modificando o modelo operacional e os guias de operação.
 
 -   Configurar a autenticação multifator local.
 
@@ -79,11 +79,11 @@ Você tem as seguintes responsabilidades durante a integração.
 
 -   Trabalhe com a equipe do FastTrack para iniciar a integração de serviços qualificados.
 
--   Participe da reunião de abertura, gerencie e guie participantes da sua organização e confirme linhas do tempo de correção.
+-   Participar da reunião de lançamento do contrato, gerenciar e orientar os participantes da sua organização e confirmar linhas do prazo de correção.
 
-## <a name="assess-phase"></a>Fase de Avaliação
+## <a name="assess-phase"></a>Fase Avaliar
 
--   Identifique os participantes adequados (incluindo um gerente de projeto) para concluir as atividades de avaliação necessárias.
+-   Identificar os participantes apropriados (incluindo um gerente de projeto) para concluir as atividades de avaliação necessárias.
 
 -   Compartilhe sua tela com a equipe do FastTrack se for necessário ter orientações ao executar ferramentas de avaliação em seu ambiente, EMS ou suas assinaturas de serviço de nuvem individuais (se você optar por).
 
@@ -99,7 +99,7 @@ Você tem as seguintes responsabilidades durante a integração.
 
 -   Execute as etapas necessárias para concluir as atividades de correção identificadas na fase Avaliar.
 
--   Participe de reuniões de ponto de verificação.
+-   Participar de reuniões de ponto de verificação.
 
 ## <a name="enable-phase"></a>Fase Habilitar
 
@@ -120,7 +120,7 @@ Você tem as seguintes responsabilidades durante a integração.
 -   Habilite vários serviços por orientação da equipe do FastTrack.
 
 > [!NOTE]
-> **Quer saber mais?** Consulte [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
+> **Deseja saber mais?** Consulte [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility)
 
 ## <a name="see-also"></a>Confira também
 

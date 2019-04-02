@@ -3,19 +3,19 @@ title: Migração de dados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 5e7cc46807b7ec0e742c2a1097034dae8df14701
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 15efb99c47bbd1047b56c9dd5d5cf288013d99d3
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355339"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31017075"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -149,7 +149,7 @@ Execute as seguintes tarefas durante as migrações:
 Você deve realizar o processo de migração padrão e estabelecer contato com a Microsoft adequadamente. Isso inclui fornecer acesso e permissões para o Office 365 e para os ambientes de origem, fornecer os agendamentos de migração, corrigir quaisquer causas de erros de migração, etc. Você deve também contatar os usuários finais para tratar das comunicações, agendamento de migração de caixas de correio e para lidar com problemas relacionados à migração.
   
 > [!NOTE]
-> As migrações só usam contas de acordo com os requisitos de segurança definidos durante a integração. Se você não usa essas contas, pode enfrentar atrasos de migração. 
+> As migrações só usam contas de acordo com os requisitos de segurança definidos durante a integração. Se você não usa essas contas, poderá passar por atrasos de migração. 
   
 ## <a name="migration-to-sharepoint-online"></a>Migração para o SharePoint Online
 

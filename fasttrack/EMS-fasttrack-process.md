@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0516035e55bc791645b32ad1819839b6c73f1772
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: a2d3f601c1395b908d2ad8fd7a6a0dde38502784
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359835"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016775"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Processo de Benefícios do FastTrack Center para o EMS (Enterprise Mobility + Security)
 Se sua organização estiver qualificada para o benefício do FastTrack Center para o EMS, você poderá trabalhar remotamente com especialistas do FastTrack para obter o Microsoft Azure Active Directory Premium e o Microsoft Intune prontos para uso. Você também pode solicitar ajuda no [site do FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para proteção de informações do Azure, segurança do aplicativo do Microsoft Cloud e análise avançada de ameaças da Microsoft. Para saber se sua organização está qualificada, confira [serviços e planos qualificados](M365-eligible-services-and-plans.md).
@@ -35,7 +35,7 @@ Veja aqui o que abordamos sobre o processo de integração:
 
 -   [Responsabilidades do cliente](EMS-your-responsibilities.md) para cada fase
 
-Veja a seguir o que você pode esperar quando a Integração for concluída:
+Veja o que você pode esperar quando a integração é concluída:
 
 -   Seus locatários EMS para seus serviços selecionados são criados.
 

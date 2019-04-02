@@ -3,19 +3,19 @@ title: Responsabilidades do FastTrack para o governo dos EUA do Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 2989b841d247ec1e05f8e033a7000e2b2a756e24
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355279"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016967"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades do FastTrack para o governo dos EUA do Office 365
 
@@ -97,7 +97,7 @@ Fornece orientação sobre:
 
 Fornece orientação sobre: 
 - Criação ou atualização de registros DNS.    
-- Habilitar o roteamento de emails entre o sistema de mensagens de origem e ambientes do Office 365.    
+- Habilitação de roteamento de emails entre o sistema de mensagens de origem e ambientes do Office 365.    
 - Configurar recursos do Proteção do Exchange Online (incluindo recursos do Proteção Avançada Contra Ameaças do Exchange Online, caso esteja disponível em sua assinatura) e verificar os registros MX para que apontem para o Office 365 em todos os domínios habilitados para email validados.   
 - Configurar a instalação híbrida entre a organização local única do Exchange e o Office 365 *ou* entre várias organizações locais do Exchange e o Office 365. 
 - Configurar a uniFicação de mensagens (UM) com o Exchange Online (o UM não está disponível nos planos do GCC DoD). 
@@ -137,7 +137,7 @@ Fornece orientação sobre:
 - Como configurar o redirecionamento do OneDrive for Business para o SharePoint Online híbrido (apenas SharePoint 2013 e SharePoint 2016).  
 - Migração de dados se o serviço de migração de dados do Centro FastTrack for usado e se você estiver qualificado.
     
-## <a name="skype-for-business-online"></a>Skype for Business online
+## <a name="skype-for-business-online"></a>Skype for Business Online
 
 Fornece orientação sobre:
 - Provisionamento de identidades do Skype for Business para o Office 365.   

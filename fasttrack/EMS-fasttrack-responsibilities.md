@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 25602322bc92823cd50f4674a683762d9eeae10b
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30359955"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016907"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
@@ -31,23 +31,23 @@ O FastTrack tem as seguintes responsabilidades durante a integração.
 
 ## <a name="initiate-phase"></a>Fase Iniciar
 
--   Trabalhar com você para iniciar a integração.
+-   Trabalhe com você para começar a integração.
 
 -   Define que serviços qualificados você deseja integrar.
 
-## <a name="assess-phase"></a>Fase de Avaliação
+## <a name="assess-phase"></a>Fase Avaliar
 
 -   Fornece uma visão geral administrativa.
 
 -   Fornece orientação sobre:
 
-    -   As necessidades de infraestrutura, rede e DNS.
+    -   Necessidades de DNS, rede e infraestrutura.
 
-    -   As necessidades do cliente (navegador da Internet, sistema operacional do cliente e necessidades de serviços)
+    -   As necessidades do cliente (navegador da Internet, sistema operacional cliente e necessidades dos serviços).
 
     -   Identidade do usuário e provisionamento.
 
-    -   Habilitação de serviços qualificados que tenham sido comprados e definidos como parte da integração.
+    -   Habilitar serviços qualificados que foram comprados e definidos como parte da integração.
 
 -   Estabelecimento da linha do tempo para atividades de correção.
 
@@ -109,7 +109,7 @@ Fornece orientação sobre:
   - Configurar a autenticação de passagem do Azure Active Directory, se necessário.
   - Configurar o logon único (SSO) contínuo do Azure Active Directory, se necessário.
     > [!NOTE]
-    > A autenticação de passagem do Azure Active Directory para ambientes de várias florestas será suportada se houver relações de confiança de floresta entre suas florestas do Active Directory e se o roteamento de sufixo de nome estiver configurado corretamente. Agentes adicionais podem ser instalados em vários servidores locais para fornecer alta disponibilidade para solicitações de entrada.
+    > A autenticação de passagem do Azure Active Directory para ambientes com várias florestas será compatível se houver uma relação de confiança na floresta entre as florestas do Active Directory e se o roteamento do sufixo do nome estiver devidamente configurado. Agentes adicionais podem ser instalados em vários servidores locais para oferecer alta disponibilidade para solicitações de entrada.
 
   - Para obter mais informações, confira [Autenticação de passagem do Azure Active Directory: início rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) e [Logon único contínuo do Azure Active Directory: Início rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).
   - Para obter mais informações sobre os limites de autenticação de passagem, confira [Autenticação de passagem do Azure Active Directory: Limites atuais](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).
