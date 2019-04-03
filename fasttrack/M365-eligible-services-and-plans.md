@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 25223a7e738a679ac2d110f05e87ebcf571ac03c
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355291"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016991"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -112,7 +112,7 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Plano 2 do Exchange Online 
 - Quiosque do Exchange Online
 - Proteção do Exchange Online
-- Proteção Avançada Contra Ameaças do Exchange Online
+- Proteção Avançada contra Ameaças do Office 365
     
  **Project Online**
   

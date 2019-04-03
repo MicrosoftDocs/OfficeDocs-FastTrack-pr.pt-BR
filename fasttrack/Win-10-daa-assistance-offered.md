@@ -3,7 +3,7 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 03/02/2019
+ms.date: 04/02/2019
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ao comprar os serviços do Windows 10 ou o Microsoft 365 FastTrack especialistas oferecem comunicação e orientação de reparação para implantar para Windows 10 e no Office 365 ProPlus e a se manter atualizado sem custo adicional (com uma assinatura qualificada).
-ms.openlocfilehash: 071d1bdc76f2d450f7c9dde88f1e07858c3af36d
-ms.sourcegitcommit: 5abb49be2bfa99110f17245839c3468318b8a3db
+ms.openlocfilehash: ac175893fe4afb2aa553740d0e85dceeb6582d69
+ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/01/2019
-ms.locfileid: "30355183"
+ms.lasthandoff: 04/01/2019
+ms.locfileid: "31016858"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
@@ -46,7 +46,7 @@ O FastTrack fornece assistência para os seguintes:
 ## <a name="out-of-scope"></a>Fora do escopo
 
 O FastTrack não fornece assistência para:
-- Inventário e teste do aplicativo para determinar o que funciona e não funciona no Windows 10 e no Office 365 ProPlus. Para saber mais sobre esse processo, acesse o [Centro de implantação de área de trabalho moderna](https://go.microsoft.com/fwlink/?linkid=2080140). Se estiver interessado em uma avaliação de preparação para atualização detalhada, preencha o formulário [Solicitação de cliente para avaliação da área de trabalho moderna](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Inventário de aplicativos e testes para determinar o que funciona e o que não funciona no Windows 10 e no Office 365 ProPlus. Para mais orientações sobre este processo, visite o [Centro de Implantação do Computador](https://go.microsoft.com/fwlink/?linkid=2080140). Se você estiver interessado em uma avaliação aprofundada de prontidão de upgrade, preencha o formulário [Solicitação de Cliente para Avaliação de Computador Moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Pesquisar aplicativos de terceiros do ISV para as instruções de compatibilidade e suporte do Windows 10. Para saber mais, confira [pronto para Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
 - Serviços de embalagem do aplicativo. No entanto, os pacotes da equipe do Desktop App Assure foram corrigidos no Windows 10 para garantir que eles possam ser implantados no ambiente do cliente.
 
