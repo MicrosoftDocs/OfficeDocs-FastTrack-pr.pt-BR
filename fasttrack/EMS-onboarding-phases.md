@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/09/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 1e849f562316f3b8854dacf199889a2a8486b5bc
-ms.sourcegitcommit: 48d77313a4f035c81b9ad10bc2a415e1c7db23c5
+ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31767290"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513444"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
-Ao usar os [serviços e planos qualificados](M365-eligible-services-and-plans.md) para obter o Microsoft Azure Active Directory Premium e o Microsoft Intune prontos para uso, há várias fases envolvidas no processo. As seções a seguir descrevem cada fase do processo de integração.
+Quando você usa os [serviços e planos qualificados](M365-eligible-services-and-plans.md) para obter a proteção de informações do Microsoft Azure Active Directory Premium, Microsoft Intune e Azure pronta para uso, há várias fases envolvidas no processo. As seções a seguir descrevem cada fase do processo de integração.
 
 A integração tem quatro fases principais:
 
@@ -82,7 +82,7 @@ Quando todas as atividades de correção estiverem concluídas, o projeto mudar�
 
 **Habilitar recursos de fase central**
 
-A integração básica envolve o provisionamento do serviço e a integração de identidade e locatário. Ele também inclui etapas para fornecer uma base para a integração de serviços online, como o Azure AD Premium e o Intune.
+A integração básica envolve o provisionamento do serviço e a integração de identidade e locatário. Ele também inclui etapas para fornecer uma base para a integração de serviços online, como o Azure AD Premium, o Intune e a proteção de informações do Azure.
 
 ![Recursos básicos da fase de habilitação de integração](./media/ft-enable-phase-core-01.png)
 
@@ -101,9 +101,9 @@ Para cenários do Azure Active Directory Premium que incluem a sincronização d
 
 A configuração do Azure AD Premium inclui a habilitação dos seguintes recursos:
 
--   ReDefinição de senha de autoAtendimento do Azure Active Directory (SSPR).
+-   Redefinição de senha de autoatendimento do Azure Active Directory (SSPR).
 
--   Autenticação multiFator do Azure (Azure MFA).
+-   Autenticação multifator do Azure (Azure MFA).
 
 -   Até três (3) ou mais integrações de aplicativos de software como serviço (SaaS) com logon único (SSO) do [Marketplace do Azure Active Directory](https://azure.microsoft.com/marketplace/active-directory/).
 
@@ -111,7 +111,7 @@ A configuração do Azure AD Premium inclui a habilitação dos seguintes recurs
 
 -   Tela de logon personalizada, incluindo logotipo, texto e imagens.
 
--   Grupos de autoAtendimento e dinâmicos (grupos).
+-   Grupos de autoatendimento e dinâmicos (grupos).
 
 -   Proxy de aplicativo do Azure Active Directory.
 
@@ -147,7 +147,7 @@ Para o Intune, nós o orientamos a preparar o uso do Microsoft Intune para geren
 
     -   Configuração de grupos de testes a serem usados para validar políticas de gerenciamento do MDM.
 
-    -   ConFigurando serviços e políticas de gerenciamento do MDM como:
+    -   Configurando serviços e políticas de gerenciamento do MDM como:
 
         -   Implantação de aplicativo para cada plataforma suportada por meio de links da Web ou links de fundo.
 
@@ -174,7 +174,7 @@ Para o Intune, nós o orientamos a preparar o uso do Microsoft Intune para geren
 
     -   Configurar as políticas de proteção de aplicativos para cada plataforma suportada.
 
-    -   ConFigurando políticas de acesso condicional para aplicativos gerenciados.
+    -   Configurando políticas de acesso condicional para aplicativos gerenciados.
 
     -   Direcionar os grupos de usuários apropriados com as políticas MAM acima.
 
@@ -216,7 +216,7 @@ As etapas para configurar o piloto automático do Windows dependem do ambiente d
 
 - Personalizar o OOBE (uso da experiência) para cumprir os requisitos da organização.
 
-- ConFigurando o registro automático do MDM no Azure AD e no Intune.
+- Configurando o registro automático do MDM no Azure AD e no Intune.
 
 #### <a name="deploy-outlook-for-ios-and-android-securely"></a>Implantar o Outlook para iOS e Android com segurança
 
@@ -269,6 +269,23 @@ O FastTrack também fornece orientações sobre como conduzir a adoção bem-suc
 ![Fase de habilitação da integração do Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
 ![Integração ativar fase de gerenciamento](./media/ft-9-enable-phase-comanagement.png)
+
+#### <a name="enable-phase--azure-information-protection"></a>Fase habilitar – proteção de informações do Azure
+
+A proteção de informações do Azure oferece suporte para: 
+
+- Os clientes classifiquem e etiquetem automaticamente as informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e usando o cliente de proteção de informações do Azure. 
+- Arquivos em repouso usando o verificador de proteção de informações do Azure.
+- Emails em trânsito usando regras de fluxo de email do Exchange Online. 
+
+O suporte também é fornecido aos clientes que desejam aplicar proteção usando o Microsoft Azure Rights Management Services (Azure RMS), criptografia de mensagens do Office 365 (OME) e prevenção de perda de dados (DLP). 
+
+Os clientes são fornecidos com orientações sobre como: 
+
+- Ative e configure seu locatário.
+- Criar e configurar rótulos e políticas.
+- Aplicar proteção de informações a documentos. 
+
 
 > [!NOTE]
 > **Quer saber mais?** consulte [Enterprise Mobility + Security](https://www.microsoft.com/en-us/cloud-platform/enterprise-mobility).

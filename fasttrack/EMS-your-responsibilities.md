@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 7256128e17ab47f1383102b33fe2d86d47c4b226
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 0fc6dc613c152f1050437535397f33cd1e8fa069
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016920"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513374"
 ---
 # <a name="your-responsibilities"></a>Suas responsabilidades
 
@@ -69,11 +69,11 @@ Você tem as seguintes responsabilidades durante a integração.
 
 -   Atualize o servidor de site do Configuration Manager e clientes do Configuration Manager para as versões de compilação mais recentes (quando necessário).
 
--   InScreva-se em assinaturas de terceiros, como defesa contra ameaças móveis, despesas com telecomunicações, etc. quando a integração com o Microsoft Intune é necessária.
+-   Inscreva-se em assinaturas de terceiros, como defesa contra ameaças móveis, despesas com telecomunicações, etc. quando a integração com o Microsoft Intune é necessária.
 
--   InScreva-se no Team Viewer, proteção contra ameaças móveis e assinaturas de soluções de gerenciamento de despesas de telecomunicações.
+-   Inscreva-se no Team Viewer, proteção contra ameaças móveis e assinaturas de soluções de gerenciamento de despesas de telecomunicações.
 
--   InScreva-se para licenças de proteção avançada contra ameaças do Windows Defender. (Licenças do Windows E5 ou Microsoft E5).
+-   Inscreva-se para licenças de proteção avançada contra ameaças do Windows Defender. (Licenças do Windows E5 ou Microsoft E5).
 
 ## <a name="initiate-phase"></a>Fase Iniciar
 

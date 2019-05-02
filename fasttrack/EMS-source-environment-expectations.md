@@ -5,23 +5,23 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0d0fa0415bc27013d7e035b75a5e5d9d9f9919c3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: a512e97f48df7fc3040478f4e35fe0c357ef7ce3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016763"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513146"
 ---
 # <a name="source-environment-expectations"></a>Expectativas do ambiente de origem
 
-Quando você usa o [FastTrack Center Benefit for Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) para obter o Microsoft Azure Active Directory Premium e o Microsoft Intune prontos para uso, seu ambiente precisa atender às expectativas descritas nas seções a seguir.
+Ao usar o [FastTrack Center Benefit for Enterprise Mobility + Security (EMS)](EMS-fasttrack-benefit-for-EMS.md) para obter o Microsoft Azure Active Directory Premium, o Microsoft Intune e a proteção de informações do Azure prontos para uso, seu ambiente precisa atender às expectativas descrito nas seções a seguir.
 
 Talvez você já tenha o Active Directory local em sua organização que você deseja integrar com o Enterprise Mobility + Security (EMS) ou qualquer um de seus serviços individuais que usem o gerenciamento de identidade avançado de um único console. O FastTrack Center Benefit for Enterprise Mobility + Security (EMS) inclui ajudá-lo a integrar o Azure Active Directory ao seu ambiente local do Active Directory.
 
@@ -36,6 +36,8 @@ A tabela a seguir mostra as expectativas para seu ambiente de origem existente p
 |Intune integrado com a proteção avançada contra ameaças do Windows Defender (Windows Defender ATP)|Sua assinatura ATP do Windows Defender foi ativada e configurada com base nos requisitos de segurança de sua empresa.<br /><br />**Observação**: o benefício do serviço FastTrack fornece assistência sobre a integração do Intune com o Windows Defender ATP e a criação de políticas de conformidade do dispositivo com base em sua avaliação do nível de risco do Windows 10. O benefício do serviço FastTrack não fornece assistência na compra, licenciamento, ativação ou uso do Windows Defender ATP e do console da central de segurança. |
 |Windows Autopilot|Os administradores de ti são responsáveis por registrar seus dispositivos em sua organização, fazendo com que o fornecedor do hardware carregue suas IDs de hardware em seu nome ou carregando-o por conta própria no serviço do Windows AutoPilot. |
 |Implantar o Outlook para iOS e Android com segurança com o Intune|<br /><br />-Identidades do usuário habilitadas no Azure AD para Office 365.<br />– Exchange Online ou Hybrid Exchange configurados com licenças de usuário atribuídas.<br />|
+|Proteção de informações do Azure (P2 ou EMS E5)|<br /><br />Os clientes já devem: <br /> – Use o Azure AD.<br />– Use o Windows ou o iOS (outros SOS estão fora do escopo).<br /> – Use clientes do Office mais recentes do que o Office 2010 SP2 que não se baseia no Office Online como o cliente principal. <br /> – Ter seus locais de compartilhamento de arquivos principais.  <br /> -Atualize o Active Directory Rights Management Services (AD RMS). <br /> – Ter uma taxonomia de classificação aprovada. <br /> – Entenda quaisquer restrições de regulamentação para o gerenciamento de chaves protegido. <br />|
+|Verificador de proteção de informações do Azure|<br /><br /> Os clientes já devem: <br /> – Use o Windows Server 2012 R2 ou o Windows Server 2016.<br /> – Ter uma conexão com a Internet. <br /> – Tenha o Microsoft SQL Server 2012 em uma instância local ou remota.  <br /> – Tenha uma conta de serviço criada para seu Active Directory local e sincronizada com o Azure AD.  <br /> – Tenha baixado o AzInfoProtection. exe. <br /> – Tenha rótulos configurados para classificação/proteção automática.<br />|
 
 > [!NOTE]
 > **Quer saber mais?** 

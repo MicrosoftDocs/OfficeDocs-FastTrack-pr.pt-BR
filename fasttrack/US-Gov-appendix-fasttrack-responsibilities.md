@@ -3,19 +3,19 @@ title: Responsabilidades do FastTrack para o governo dos EUA do Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 04fe6d448afa6b54bbc8f31b1001f2835f039e0f
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4b527f43bd3030f810f3334f7405d7fc357d2d1f
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016967"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513122"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades do FastTrack para o governo dos EUA do Office 365
 
@@ -79,7 +79,7 @@ Fornece orientação sobre:
   - Instalação de um servidor de sincronização de diretórios entre os seus Active Directory Domain Services (AD DS) e o Office 365, se necessário.   
   - Configuração de sincronização de senha (hash de senha) para o Office 365 (Azure Active Directory) com a ferramenta Azure Active Directory Connect Health, quando necessário.  
   - Para ambientes com uma única ou várias florestas:
-      - ConFigurando a autenticação de passagem do Azure Active Directory, se necessário (não disponível nos planos GCC High ou DoD).
+      - Configurando a autenticação de passagem do Azure Active Directory, se necessário (não disponível nos planos GCC High ou DoD).
       - Configurar o logon único (SSO) contínuo do Azure Active Directory, se necessário (não disponível nos planos GCC High ou DoD).
     > [!NOTE]
     > A autenticação de passagem do Azure Active Directory para ambientes com várias florestas será compatível se houver uma relação de confiança na floresta entre as florestas do Active Directory e se o roteamento do sufixo do nome estiver devidamente configurado. Agentes adicionais podem ser instalados em vários servidores locais para oferecer alta disponibilidade para solicitações de entrada. Para obter mais informações, confira [Autenticação de passagem do Azure Active Directory: início rápido](https://go.microsoft.com/fwlink/?linkid=860094) e [Logon único contínuo do Azure Active Directory: Início rápido](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
@@ -100,7 +100,7 @@ Fornece orientação sobre:
 - Habilitação de roteamento de emails entre o sistema de mensagens de origem e ambientes do Office 365.    
 - Configurar recursos do Proteção do Exchange Online (incluindo recursos do Proteção Avançada Contra Ameaças do Exchange Online, caso esteja disponível em sua assinatura) e verificar os registros MX para que apontem para o Office 365 em todos os domínios habilitados para email validados.   
 - Configurar a instalação híbrida entre a organização local única do Exchange e o Office 365 *ou* entre várias organizações locais do Exchange e o Office 365. 
-- Configurar a uniFicação de mensagens (UM) com o Exchange Online (o UM não está disponível nos planos do GCC DoD). 
+- Configurar a Unificação de mensagens (UM) com o Exchange Online (o UM não está disponível nos planos do GCC DoD). 
     
 Para saber mais sobre as responsabilidades de migração de dados, confira [Migração de dados](O365-data-migration.md).
   

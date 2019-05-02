@@ -5,29 +5,29 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c1750da451d0d6714ef8363d943614f80ae685e3
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016895"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513159"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Visão geral dos Benefícios do Centro FastTrack
 
-Com o benefício do FastTrack Center para o Microsoft Azure Active Directory Premium e o Microsoft Intune, você trabalha remotamente com especialistas do FastTrack para preparar seu ambiente para uso e para planejar a distribuição e o uso em sua organização. Para saber mais sobre a qualificação, confira [processo de benefícios do FastTrack Center para Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
+Com o benefício do FastTrack Center para o Microsoft Azure Active Directory Premium, o Microsoft Intune e a proteção de informações do Azure, você trabalha remotamente com especialistas do FastTrack para preparar seu ambiente para uso e para planejar a distribuição e o uso em seu departamento. Para saber mais sobre a qualificação, confira [processo de benefícios do FastTrack Center para Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).
 
 A integração tem dois componentes principais:
 
 -   Integração **básica** – tarefas necessárias para a configuração do locatário e integração com o Azure Active Directory, se necessário. A integração básica também fornece a linha de base para integração de outros serviços qualificados do Microsoft Online.
 
--   **Integração de serviço** – tarefas necessárias para configurar qualquer uma das variantes autônomas da carga de trabalho EMS (Azure ad Premium e Intune).
+-   **Integração de serviço** – tarefas necessárias para configurar qualquer uma das variantes autônomas da carga de trabalho EMS (Azure ad Premium, Intune e proteção de informações do Azure).
 
 O diagrama a seguir descreve as fases de integração de alto nível para o benefício do FastTrack Center.
 

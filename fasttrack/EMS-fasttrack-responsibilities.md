@@ -5,19 +5,19 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: ca5de05adc154a6adb0119fd71de46280cb4cb23
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 9b766eea35cb1c22906bf68733c1b19471858fb9
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016907"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513830"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
@@ -72,7 +72,7 @@ Fornece orientação sobre:
 
     -   Instalação de um servidor de sincronização de diretório entre o AD DS (serviços de domínio Active Directory) e os serviços online da Microsoft qualificados (somente diretrizes, se necessário).
 
-    -   ConFigurando a autenticação gerenciada (sincronização de hash de senha ou autenticação de passagem) com a ferramenta Azure Active Directory Connect. (apenas diretrizes, se necessário).
+    -   Configurando a autenticação gerenciada (sincronização de hash de senha ou autenticação de passagem) com a ferramenta Azure Active Directory Connect. (apenas diretrizes, se necessário).
 
         > [!NOTE]
         > O desenvolvimento e a implementação de extensões de regras personalizadas estão fora do escopo.
@@ -116,7 +116,7 @@ Fornece orientação sobre:
   - Para mais informações sobre problemas de SSO Contínuo, confira [Solucionar problemas de Logon Único Contínuo do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).
 
       > [!NOTE]
-      > A sincronização de hash de senha e o Write-back de senha aceitam várias florestas. No enTanto, não há suporte para outros cenários de write-back.
+      > A sincronização de hash de senha e o Write-back de senha aceitam várias florestas. No entanto, não há suporte para outros cenários de write-back.
 
   - Configurar a sincronização entre florestas do Active Directory no local e diretório Premium do Microsoft Azure Active Directory (Azure Active Directory).
 
@@ -140,9 +140,9 @@ Forneça orientações sobre como configurar:
 
 - Sincronização de diretório do Azure AD Connect (com o Write-back de senha e sincronização de hash de senha).
 
-  - ReDefinição de senha de autoAtendimento do Azure Active Directory (SSPR).
+  - Redefinição de senha de autoatendimento do Azure Active Directory (SSPR).
 
-  - Autenticação multiFator do Azure.
+  - Autenticação multifator do Azure.
 
   - Até três (3) ou mais integrações de aplicativos de software como serviço (SaaS) com logon único (SSO) do [Marketplace do Azure Active Directory](https://azure.microsoft.com/marketplace/active-directory/).
 
@@ -150,7 +150,7 @@ Forneça orientações sobre como configurar:
 
   - Tela de logon personalizada, incluindo logotipo, texto e imagens.
 
-  - Grupos de autoAtendimento e dinâmicos (grupos).
+  - Grupos de autoatendimento e dinâmicos (grupos).
 
   - Proxy de aplicativo do Azure Active Directory.
 
@@ -189,11 +189,11 @@ Fornecer **orientações** sobre:
 
     -   Configuração de funções do Intune (operadora de assistência técnica, administradores, etc.)
 
-    -   ConFigurando serviços e políticas de gerenciamento do MDM como:
+    -   Configurando serviços e políticas de gerenciamento do MDM como:
 
         -   Implantação de aplicativo para cada plataforma suportada por meio de links da Web, MSI e/ou links profundos.
 
-        -   Implantação do Office proPlus em dispositivos Windows 10.
+        -   Implantação do Office ProPlus em dispositivos Windows 10.
 
         -   Programas de compra de volume para implantação de aplicativos, incluindo o VPP da Apple, a Windows Store para empresas e o Google Play para o repositório de trabalho.
 
@@ -226,7 +226,7 @@ Fornecer **orientações** sobre:
 
     -   Recursos para o planejamento de adoção do usuário.
 
-- ConFigurando o piloto automático do Windows:
+- Configurando o piloto automático do Windows:
 
     - Configurar e configurar o piloto automático do Microsoft Intune para Windows.
 
@@ -238,7 +238,7 @@ Fornecer **orientações** sobre:
 
     - Personalizar o OOBE (uso da experiência) para cumprir os requisitos da organização.
 
-    - ConFigurando o registro automático do MDM no Azure AD e no Intune.
+    - Configurando o registro automático do MDM no Azure AD e no Intune.
 
     > [!NOTE]
     > Configurar o Windows AutoPilot fora do Intune está fora do escopo para o benefício do FastTrack.
@@ -275,11 +275,27 @@ Fornece orientação sobre:
 
     -   Registrar dispositivos Windows 10 no seu Intune.
 
-- Habilite o gerenciamento de coGestão no console do Configuration Manager.
+- Habilite o gerenciamento de Cogestão no console do Configuration Manager.
 
 - Mudar cargas de trabalho para o Intune.
 
 - Monitore a atividade de co-Management em seu ambiente.
+
+### <a name="enable-phase--azure-information-protection"></a>Fase habilitar – proteção de informações do Azure
+
+Oferecer suporte para: 
+
+- Os clientes classifiquem e etiquetem automaticamente as informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e usando o cliente de proteção de informações do Azure. 
+- Arquivos em repouso usando o verificador de proteção de informações do Azure.
+- Emails em trânsito usando regras de fluxo de email do Exchange Online. 
+
+O suporte também é fornecido aos clientes que desejam aplicar proteção usando o Microsoft Azure Rights Management Services (Azure RMS), criptografia de mensagens do Office 365 (OME) e prevenção de perda de dados (DLP). 
+
+Os clientes são fornecidos com orientações sobre como: 
+
+- Ative e configure seu locatário.
+- Criar e configurar rótulos e políticas.
+- Aplicar proteção de informações a documentos. 
 
 > [!NOTE]
 > **Quer saber mais?** consulte [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
