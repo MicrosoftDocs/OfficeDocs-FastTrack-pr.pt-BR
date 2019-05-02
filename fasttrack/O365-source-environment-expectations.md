@@ -3,19 +3,19 @@ title: Expectativas do ambiente de origem
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: O Benefício do Centro FastTrack oferece orientações para configurar os níveis de integração com seu ambiente de origem (por exemplo, se você já tiver serviços em seu ambiente de origem que deseja mover para o Office 365).
-ms.openlocfilehash: 9c03c3c84c31dcc4ea23b2415444c21d2f352d8a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 8b4389251e0ca91cbe24d35b90f5553dd23803e3
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017027"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513350"
 ---
 # <a name="source-environment-expectations"></a>Expectativas do ambiente de origem
 
