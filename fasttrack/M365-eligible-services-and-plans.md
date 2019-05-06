@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 83454be52bd22ea232de5d92194d120819f0d522
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31016991"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513086"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -147,7 +147,7 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 
 \*\*Veja mais informações sobre o benefício do FastTrack para o Governo dos EUA em [Office 365 US Government](https://aka.ms/aboutgovcloud).
 
-\*\*\*Pode ser usado para os usuários licenciados do Skype for Business Online e do Microsoft Teams.
+\*\*\*Pode ser usado para os usuários licenciados do Skype for Business Online e do Microsoft Teams. Requer compra qualificada do Skype for Business ou Microsoft Teams. 
 
 > [!NOTE]
 > A elegibilidade ao benefício do FastTrack Center se baseia na compra de licenças pagas dos planos qualificados mencionados anteriormente. 
@@ -160,7 +160,7 @@ Para saber mais, confira [benefícios do FastTrack Center do Office 365](https:/
 |---------|---------|
 |**Enterprise Mobility + Security (EMS) in E3 or E5**       |   Disponível para serviços de nuvem que estão qualificados para benefícios do FastTrack. Caso contrário, isso é direcionado para a referência de parceiro ou um especialista do Microsoft FastTrack.        |
 |**Microsoft Azure Active Directory Premium**     |  Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.       |
-|**Proteção de Informações do Microsoft Azure**    |  Disponível para P2, como parte do E5 ou como um plano independente. Caso contrário, isso é direcionado para a referência de parceiro ou um especialista do FastTrack.        |
+|**Proteção de Informações do Microsoft Azure**    |  Disponível para P2, como parte do EMS E5, ou como um plano independente. Caso contrário, isso é encaminhado para um especialista do FastTrack ou para indicação de parceiros.        |
 |**Microsoft Intune**    |   Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.      |
 |**Anexar a nuvem**     |    Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.     |
 |**Microsoft Intune para educação**     |  Qualificado se comprou como plano independente ou como parte do A3 ou A5.       |

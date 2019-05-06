@@ -3,19 +3,19 @@ title: Fases de integração e migração
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 04/02/2019
+ms.date: 05/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados.'
-ms.openlocfilehash: 69f381f7ed84ad601d7c7b273abffcb306c5b56a
-ms.sourcegitcommit: 8d1fbbfc6b05522ea1259149349548f072fefcac
+ms.openlocfilehash: 3fcd64283c419fdfee775b31983d17eec63783b8
+ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2019
-ms.locfileid: "31017039"
+ms.lasthandoff: 05/01/2019
+ms.locfileid: "33513869"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
@@ -197,7 +197,8 @@ No Office 365 ProPlus, fornecemos instruções para:
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.   
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
 - Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.   
-- Configurar um único servidor de distribuição no local para o Office 365 ProPlus, inclusive assistência com a criação de um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office 365.  
+- Seleção e configuração de uma instalação local ou na nuvem. 
+- Criação do XML de configuração da Ferramenta de Implantação do Office com a Ferramenta de Personalização do Office ou XML nativo para configurar o pacote de implantação.  
 - A implantação usando o Microsoft System Center Configuration Manager, inclusive assistência com a criação de um pacote do System Center Configuration Manager.
     
 ![Etapas da integração ao Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
