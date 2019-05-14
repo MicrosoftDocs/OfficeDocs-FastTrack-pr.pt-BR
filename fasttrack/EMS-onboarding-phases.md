@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e51f030b-8b08-4fea-96c9-d4ded435a264
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: eb7f106437f51283b36185bd8e19ab8821ba0f4f
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: ed490839cda702174d356b2735469a54636fa591
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513444"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967980"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
@@ -47,7 +47,7 @@ Após o início do suporte de integração, configuraremos um cronograma de reun
 > [!NOTE]
 > Se você tiver um parceiro da Microsoft listado em seu locatário do Office 365, você não verá essa opção. Consulte seu parceiro da Microsoft para obter assistência.
 
-Os parceiros da Microsoft também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. To do so:
+Os parceiros da Microsoft também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso:
 
 1. Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
 2. Selecione **FastTrack**.
@@ -272,7 +272,7 @@ O FastTrack também fornece orientações sobre como conduzir a adoção bem-suc
 
 #### <a name="enable-phase--azure-information-protection"></a>Fase habilitar – proteção de informações do Azure
 
-A proteção de informações do Azure oferece suporte para: 
+A proteção de informações do Azure fornece orientações sobre: 
 
 - Os clientes classifiquem e etiquetem automaticamente as informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e usando o cliente de proteção de informações do Azure. 
 - Arquivos em repouso usando o verificador de proteção de informações do Azure.

@@ -12,12 +12,12 @@ ms.service: microsoft-intune
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 42d6c23dd4da1ed8071092ccf4cc045c5128d856
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
+ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513159"
+ms.lasthandoff: 05/13/2019
+ms.locfileid: "33967932"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Visão geral dos Benefícios do Centro FastTrack
 
@@ -35,17 +35,17 @@ O diagrama a seguir descreve as fases de integração de alto nível para o bene
 
 Veja como funciona o processo:
 
-- O FastTrack Center tenta contatá-lo para oferecer assistência de integração após a compra de licenças de um serviço qualificado. Você também pode solicitar assistência do [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) se estiver pronto para implantar esses serviços em sua organização. Para solicitar assistência, entre no [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) com sua conta corporativa ou de estudante, vá para o painel, expanda o link **precisa de ajuda?** no canto inferior direito da página e siga os prompts para concluir a solicitação. Após o início do suporte de integração, configuraremos um cronograma de reuniões online.
+- O FastTrack Center tenta contatá-lo para oferecer assistência de integração após a compra de licenças de um serviço qualificado. Você também pode solicitar assistência do [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) se estiver pronto para implantar esses serviços em sua organização. Para solicitar assistência, entre no [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) com sua conta corporativa ou de estudante, vá para o painel, expanda o link **precisa de ajuda?** no canto inferior direito da página e siga os prompts para concluir a solicitação. Quando a integração começar, configuraremos um cronograma de reuniões online.
 
 -   A equipe do FastTrack ajuda você primeiro com os principais recursos (comuns para todos os serviços online da Microsoft) e, em seguida, com a integração de cada serviço qualificado.
 
-Todo o suporte à integração é fornecido remotamente pelo pessoal do FastTrack atribuído:
+Todas as orientações de integração são fornecidas remotamente pelo pessoal do FastTrack atribuído:
 
 -   A equipe do FastTrack o ajuda remotamente com várias atividades de integração usando uma combinação de ferramentas, documentação e orientação.
 
--   O suporte à integração é fornecido pelo FastTrack Center e está disponível durante o horário comercial normal de uma determinada região.
+-   A orientação de integração é oferecida pelo FastTrack Center e está disponível durante o horário comercial normal de uma determinada região.
 
--   O suporte à integração está disponível em Chinês tradicional, chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, Português (Brasil), espanhol, tailandês e vietnamita.
+-   A assistência de integração está disponível em Chinês tradicional, chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, Português (Brasil), espanhol, tailandês e vietnamita.
 
 -   A equipe do FastTrack pode trabalhar diretamente com você ou seu representante.
 
