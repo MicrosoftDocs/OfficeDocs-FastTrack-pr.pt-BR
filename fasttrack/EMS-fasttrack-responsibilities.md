@@ -1,305 +1,309 @@
 ---
-title: Responsibilities do FastTrack
-description: Responsabilidades do FastTrack quando os clientes estão usando o benefício do FastTrack Center para EMS
+title: Responsabilidades do FastTrack
+description: Responsabilidades do FastTrack quando os clientes usam os Benefícios do Centro FastTrack para EMS
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 4c8dd188e0e29613b9221c087f0a8e35ed744179
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: b4444aae990b064cf6b22921d897e0bd948f6ed1
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967956"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673447"
 ---
-# <a name="fasttrack-responsibilities"></a><span data-ttu-id="6590f-103">Responsibilities do FastTrack</span><span class="sxs-lookup"><span data-stu-id="6590f-103">FastTrack Responsibilities</span></span>
+# <a name="fasttrack-responsibilities"></a><span data-ttu-id="f00ae-103">Responsabilidades do FastTrack</span><span class="sxs-lookup"><span data-stu-id="f00ae-103">FastTrack Responsibilities</span></span>
 
-<span data-ttu-id="6590f-104">O FastTrack tem as seguintes responsabilidades durante a integração.</span><span class="sxs-lookup"><span data-stu-id="6590f-104">FastTrack has the following responsibilities during onboarding.</span></span>
+<span data-ttu-id="f00ae-104">O FastTrack tem as seguintes responsabilidades durante a integração.</span><span class="sxs-lookup"><span data-stu-id="f00ae-104">FastTrack Specialists have the following responsibilities during onboarding.</span></span>
 
-## <a name="general"></a><span data-ttu-id="6590f-105">Geral</span><span class="sxs-lookup"><span data-stu-id="6590f-105">General</span></span>
+## <a name="general"></a><span data-ttu-id="f00ae-105">Geral</span><span class="sxs-lookup"><span data-stu-id="f00ae-105">General</span></span>
 
--   <span data-ttu-id="6590f-106">Forneça assistência remota para as atividades de configuração necessárias, conforme listado nas descrições detalhadas da fase.</span><span class="sxs-lookup"><span data-stu-id="6590f-106">Provide remote support assistance to you for the required configuration activities as listed in the detailed phase descriptions.</span></span>
+-   <span data-ttu-id="f00ae-106">Fornece suporte de assistência remota para as atividades de configuração necessárias que estão listadas nas descrições detalhadas das fases.</span><span class="sxs-lookup"><span data-stu-id="f00ae-106">Provide remote support assistance to you in success planning development and implementation, and for the required configuration activities as detailed in the phase descriptions.</span></span>
 
--   <span data-ttu-id="6590f-107">Fornecer documentação disponível, ferramentas de software e consoles de administração para ajudá-lo a reduzir ou eliminar tarefas de configuração.</span><span class="sxs-lookup"><span data-stu-id="6590f-107">Provide available documentation, software tools and admin consoles to help you reduce or eliminate configuration tasks.</span></span>
+-   <span data-ttu-id="f00ae-107">Fornecemos a documentação, as ferramentas de software e os consoles de administrador para ajudar a reduzir ou a eliminar as tarefas de configuração.</span><span class="sxs-lookup"><span data-stu-id="f00ae-107">Provide available documentation and software tools, admin consoles, and scripts to provide guidance for you to reduce or eliminate configuration tasks, and success planning resources.</span></span>
 
-## <a name="initiate-phase"></a><span data-ttu-id="6590f-108">Fase Iniciar</span><span class="sxs-lookup"><span data-stu-id="6590f-108">Initiate phase</span></span>
+## <a name="initiate-phase"></a><span data-ttu-id="f00ae-108">Fase inicial</span><span class="sxs-lookup"><span data-stu-id="f00ae-108">Initiate phase</span></span>
 
--   <span data-ttu-id="6590f-109">Trabalhe com você para começar a integração.</span><span class="sxs-lookup"><span data-stu-id="6590f-109">Work with you to begin onboarding.</span></span>
+-   <span data-ttu-id="f00ae-109">Trabalha com você para iniciar a integração.</span><span class="sxs-lookup"><span data-stu-id="f00ae-109">Work with you using O365_W14_2nd collaboration services (like Microsoft_Teams) to begin onboarding.</span></span>
 
--   <span data-ttu-id="6590f-110">Define que serviços qualificados você deseja integrar.</span><span class="sxs-lookup"><span data-stu-id="6590f-110">Define which eligible services you want to onboard.</span></span>
+-   <span data-ttu-id="f00ae-110">Define que serviços qualificados você deseja integrar.</span><span class="sxs-lookup"><span data-stu-id="f00ae-110">Define which eligible services you want to onboard.</span></span>
 
-## <a name="assess-phase"></a><span data-ttu-id="6590f-111">Fase Avaliar</span><span class="sxs-lookup"><span data-stu-id="6590f-111">Assess phase</span></span>
+## <a name="assess-phase"></a><span data-ttu-id="f00ae-111">Fase Avaliar</span><span class="sxs-lookup"><span data-stu-id="f00ae-111">Assess phase</span></span>
 
--   <span data-ttu-id="6590f-112">Fornece uma visão geral administrativa.</span><span class="sxs-lookup"><span data-stu-id="6590f-112">Provide an administrative overview.</span></span>
+-   <span data-ttu-id="f00ae-112">Fornece uma visão geral administrativa.</span><span class="sxs-lookup"><span data-stu-id="f00ae-112">Provide an administrative overview.</span></span>
 
--   <span data-ttu-id="6590f-113">Fornece orientação sobre:</span><span class="sxs-lookup"><span data-stu-id="6590f-113">Provide guidance about:</span></span>
+-   <span data-ttu-id="f00ae-113">Fornece orientação sobre:</span><span class="sxs-lookup"><span data-stu-id="f00ae-113">Provide guidance about:</span></span>
 
-    -   <span data-ttu-id="6590f-114">Necessidades de DNS, rede e infraestrutura.</span><span class="sxs-lookup"><span data-stu-id="6590f-114">DNS, network, and infrastructure needs.</span></span>
+    -   <span data-ttu-id="f00ae-114">As necessidades de infraestrutura, rede e DNS.</span><span class="sxs-lookup"><span data-stu-id="f00ae-114">DNS, network, and infrastructure needs.</span></span>
 
-    -   <span data-ttu-id="6590f-115">As necessidades do cliente (navegador da Internet, sistema operacional cliente e necessidades dos serviços).</span><span class="sxs-lookup"><span data-stu-id="6590f-115">Client needs (Internet browser, client operating system, and services' needs).</span></span>
+    -   <span data-ttu-id="f00ae-115">As necessidades do cliente (navegador da Internet, sistema operacional do cliente e necessidades de serviços)</span><span class="sxs-lookup"><span data-stu-id="f00ae-115">Client needs (internet browser, client operating system, mobile device, and services' needs).</span></span>
 
-    -   <span data-ttu-id="6590f-116">Identidade do usuário e provisionamento.</span><span class="sxs-lookup"><span data-stu-id="6590f-116">User identity and provisioning.</span></span>
+    -   <span data-ttu-id="f00ae-116">Identidade do usuário e provisionamento.</span><span class="sxs-lookup"><span data-stu-id="f00ae-116">User identity and provisioning.</span></span>
 
-    -   <span data-ttu-id="6590f-117">Habilitar serviços qualificados que foram comprados e definidos como parte da integração.</span><span class="sxs-lookup"><span data-stu-id="6590f-117">Enabling eligible services that have been purchased and defined to be part of the onboarding.</span></span>
+    -   <span data-ttu-id="f00ae-117">Habilitação de serviços qualificados que tenham sido comprados e definidos como parte da integração.</span><span class="sxs-lookup"><span data-stu-id="f00ae-117">Enabling eligible services that have been purchased and defined to be part of the onboarding.</span></span>
 
--   <span data-ttu-id="6590f-118">Estabelecimento da linha do tempo para atividades de correção.</span><span class="sxs-lookup"><span data-stu-id="6590f-118">Establish the timeline for remediation activities.</span></span>
+-   <span data-ttu-id="f00ae-118">Estabelecimento da linha do tempo para atividades de correção.</span><span class="sxs-lookup"><span data-stu-id="f00ae-118">Establish the timeline for remediation activities.</span></span>
 
--   <span data-ttu-id="6590f-119">Fornecer uma lista de verificação de correção para o Intune e o Azure AD Premium.</span><span class="sxs-lookup"><span data-stu-id="6590f-119">Provide a remediation checklist for both Intune and Azure AD Premium.</span></span>
+-   <span data-ttu-id="f00ae-119">Fornece uma lista de verificação de correção para o Intune e o Azure AD Premium.</span><span class="sxs-lookup"><span data-stu-id="f00ae-119">Provide a remediation checklist for both Intune and Azure AD Premium.</span></span>
 
-## <a name="remediate-phase"></a><span data-ttu-id="6590f-120">Fase Corrigir</span><span class="sxs-lookup"><span data-stu-id="6590f-120">Remediate phase</span></span>
+## <a name="remediate-phase"></a><span data-ttu-id="f00ae-120">Fase de correção</span><span class="sxs-lookup"><span data-stu-id="f00ae-120">Remediate phase</span></span>
 
--   <span data-ttu-id="6590f-121">Realizar chamadas de conferência com você de acordo com o cronograma acordado para analisar o progresso das atividades de correção, por exemplo, orientá-lo pelos pré-requisitos de instalação antes de fazer a integração com um serviço de nuvem da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="6590f-121">Hold conference calls with you according to the agreed-upon schedule to review the progress of the remediation activities, for example, guide you through installation pre-requisites prior onboarding a Microsoft cloud service.</span></span>
+-   <span data-ttu-id="f00ae-121">Realiza chamadas em conferência com você de acordo com a programação acordada para revisar o andamento das atividades de correção. Por exemplo, o guiará pelos pré-requisitos de instalação antes de integrar um serviço de nuvem da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f00ae-121">Hold conference calls with you according to the agreed-upon schedule to review the progress of the remediation activities, for example, guide you through installation pre-requisites prior onboarding a Microsoft cloud service.</span></span>
 
-## <a name="enable-phase"></a><span data-ttu-id="6590f-122">Fase Habilitar</span><span class="sxs-lookup"><span data-stu-id="6590f-122">Enable phase</span></span>
-<span data-ttu-id="6590f-123">Fornece orientação sobre:</span><span class="sxs-lookup"><span data-stu-id="6590f-123">Provide guidance about:</span></span>
+## <a name="enable-phase"></a><span data-ttu-id="f00ae-122">Fase Habilitar</span><span class="sxs-lookup"><span data-stu-id="f00ae-122">Enable phase</span></span>
+<span data-ttu-id="f00ae-123">Fornece orientação sobre:</span><span class="sxs-lookup"><span data-stu-id="f00ae-123">Provide guidance about:</span></span>
 
--   <span data-ttu-id="6590f-124">Ativação do Microsoft Online Service locatário ou assinatura.</span><span class="sxs-lookup"><span data-stu-id="6590f-124">Activating your Microsoft online service tenant or subscription.</span></span>
+-   <span data-ttu-id="f00ae-124">Ativação do seu locatário ou assinatura do serviço online da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f00ae-124">Activating your Microsoft online service tenant or subscription.</span></span>
 
--   <span data-ttu-id="6590f-125">Configuração de protocolos TCP/IP e portas do firewall.</span><span class="sxs-lookup"><span data-stu-id="6590f-125">Configuring TCP/IP protocols and firewall ports.</span></span>
+-   <span data-ttu-id="f00ae-125">Configuração de protocolos TCP/IP e portas do firewall.</span><span class="sxs-lookup"><span data-stu-id="f00ae-125">Configuring TCP/IP protocols and firewall ports.</span></span>
 
--   <span data-ttu-id="6590f-126">Configuração do DNS para serviços qualificados.</span><span class="sxs-lookup"><span data-stu-id="6590f-126">Configuring DNS for eligible services.</span></span>
+-   <span data-ttu-id="f00ae-126">Configuração do DNS para serviços qualificados.</span><span class="sxs-lookup"><span data-stu-id="f00ae-126">Configuring DNS for eligible services.</span></span>
 
--   <span data-ttu-id="6590f-127">Validar a conectividade com o Microsoft Online Services.</span><span class="sxs-lookup"><span data-stu-id="6590f-127">Validating connectivity to Microsoft online services.</span></span>
+-   <span data-ttu-id="f00ae-127">Validação da conectividade com os serviços online da Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f00ae-127">Validating connectivity to Microsoft online services.</span></span>
 
--   <span data-ttu-id="6590f-128">Para um ambiente de floresta única:</span><span class="sxs-lookup"><span data-stu-id="6590f-128">For a single-forest environment:</span></span>
+-   <span data-ttu-id="f00ae-128">Para um ambiente de floresta única:</span><span class="sxs-lookup"><span data-stu-id="f00ae-128">For a single-forest environment:</span></span>
 
-    -   <span data-ttu-id="6590f-129">Instalação de um servidor de sincronização de diretório entre o AD DS (serviços de domínio Active Directory) e os serviços online da Microsoft qualificados (somente diretrizes, se necessário).</span><span class="sxs-lookup"><span data-stu-id="6590f-129">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and the eligible Microsoft online services (only guidance if required).</span></span>
+    -   <span data-ttu-id="f00ae-129">Instalação de um servidor de sincronização de diretórios entre os seus Active Directory Domain Services (AD DS) e os serviços online da Microsoft (orientado apenas se necessário).</span><span class="sxs-lookup"><span data-stu-id="f00ae-129">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and the eligible Microsoft online services (only guidance if required).</span></span>
 
-    -   <span data-ttu-id="6590f-130">Configurando a autenticação gerenciada (sincronização de hash de senha ou autenticação de passagem) com a ferramenta Azure Active Directory Connect.</span><span class="sxs-lookup"><span data-stu-id="6590f-130">Configuring managed authentication (Password Hash Sync or Pass-through Authentication) with the Azure Active Directory Connect tool.</span></span> <span data-ttu-id="6590f-131">(apenas diretrizes, se necessário).</span><span class="sxs-lookup"><span data-stu-id="6590f-131">(only guidance if required).</span></span>
+    -   <span data-ttu-id="f00ae-130">Configuração de autenticação gerenciada (Sincronização de Hash da Senha ou Autenticação de Passagem) com a ferramenta Azure Active Directory Connect.</span><span class="sxs-lookup"><span data-stu-id="f00ae-130">Configuring managed authentication (Password Hash Sync or Pass-through Authentication) with the Azure Active Directory Connect tool.</span></span> <span data-ttu-id="f00ae-131">(Orientado apenas se necessário).</span><span class="sxs-lookup"><span data-stu-id="f00ae-131">(only guidance if required).</span></span>
 
         > [!NOTE]
-        > <span data-ttu-id="6590f-132">O desenvolvimento e a implementação de extensões de regras personalizadas estão fora do escopo.</span><span class="sxs-lookup"><span data-stu-id="6590f-132">Development and implementation for custom rules extensions are out of scope.</span></span>
+        > <span data-ttu-id="f00ae-132">Desenvolvimento e implementação de extensão de regras personalizadas estão fora do escopo.</span><span class="sxs-lookup"><span data-stu-id="f00ae-132">Development and implementation for custom rules extensions are out of scope.</span></span>
 
--   <span data-ttu-id="6590f-133">Para uma única floresta quando o destino é federativo identidades: instalar e configurar os serviços de Federação do Active Directory (AD FS) para autenticação de domínio local com o Intune em uma configuração de site único e tolerante a falhas, se necessário.</span><span class="sxs-lookup"><span data-stu-id="6590f-133">For a single forest when the target is federated identities: Installing and configuring Active Directory Federation Services (AD FS) for local domain authentication with Intune in a single-site, fault-tolerant configuration, if required.</span></span>
+-   <span data-ttu-id="f00ae-133">Para uma única floresta, quando as identidades federadas são o destino: Instalação e configuração dos Serviços de Federação do Active Directory (AD FS) para autenticação de domínio local com o Intune em uma configuração de site único tolerante a falhas, se necessário.</span><span class="sxs-lookup"><span data-stu-id="f00ae-133">For a single forest when the target is federated identities: Installing and configuring Active Directory Federation Services (AD FS) for local domain authentication with Intune in a single-site, fault-tolerant configuration, if required.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="6590f-134">Para todas as configurações de várias florestas, as implantações do AD FS estão fora do escopo.</span><span class="sxs-lookup"><span data-stu-id="6590f-134">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
+    > <span data-ttu-id="f00ae-134">Para todas as configurações de várias florestas, as implantações do AD FS estão fora do escopo.</span><span class="sxs-lookup"><span data-stu-id="f00ae-134">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
 
--   <span data-ttu-id="6590f-135">Testar a funcionalidade de logon único (SSO), se implantada.</span><span class="sxs-lookup"><span data-stu-id="6590f-135">Testing single sign-on (SSO) functionality, if deployed.</span></span>
+-   <span data-ttu-id="f00ae-135">Teste da funcionalidade de logon único (SSO), se implantado.</span><span class="sxs-lookup"><span data-stu-id="f00ae-135">Testing single sign-on (SSO) functionality, if deployed.</span></span>
 
-### <a name="enable-phase---microsoft-azure-active-directory-premium"></a><span data-ttu-id="6590f-136">Fase habilitar-Microsoft Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="6590f-136">Enable phase - Microsoft Azure Active Directory Premium</span></span>
+### <a name="enable-phase---microsoft-azure-active-directory-premium"></a><span data-ttu-id="f00ae-136">Fase de ativação – Microsoft Azure Active Directory Premium</span><span class="sxs-lookup"><span data-stu-id="f00ae-136">Enable phase - Microsoft Azure Active Directory Premium</span></span>
 
-<span data-ttu-id="6590f-137">Fornece orientação sobre:</span><span class="sxs-lookup"><span data-stu-id="6590f-137">Provide guidance about:</span></span>
+<span data-ttu-id="f00ae-137">Fornece orientação sobre:</span><span class="sxs-lookup"><span data-stu-id="f00ae-137">Provide guidance about:</span></span>
 
-- <span data-ttu-id="6590f-138">Ativação do locatário do Azure AD Premium.</span><span class="sxs-lookup"><span data-stu-id="6590f-138">Activating your Azure AD Premium tenant.</span></span>
+- <span data-ttu-id="f00ae-138">Ativação do locatário do Azure AD Premium.</span><span class="sxs-lookup"><span data-stu-id="f00ae-138">Activating your Azure AD Premium tenant.</span></span>
 
-- <span data-ttu-id="6590f-139">Configurar portas do firewall.</span><span class="sxs-lookup"><span data-stu-id="6590f-139">Configuring firewall ports.</span></span>
+- <span data-ttu-id="f00ae-139">Configuração das portas do firewall.</span><span class="sxs-lookup"><span data-stu-id="f00ae-139">Configuring firewall ports.</span></span>
 
-- <span data-ttu-id="6590f-140">Configuração do DNS para serviços qualificados.</span><span class="sxs-lookup"><span data-stu-id="6590f-140">Configuring DNS for eligible services.</span></span>
+- <span data-ttu-id="f00ae-140">Configuração do DNS para serviços qualificados.</span><span class="sxs-lookup"><span data-stu-id="f00ae-140">Configuring DNS for eligible services.</span></span>
 
-- <span data-ttu-id="6590f-141">Validar a conectividade com os serviços premium do Azure AD.</span><span class="sxs-lookup"><span data-stu-id="6590f-141">Validating connectivity to Azure AD Premium services.</span></span>
+- <span data-ttu-id="f00ae-141">Validação da conectividade aos serviços do Azure AD Premium.</span><span class="sxs-lookup"><span data-stu-id="f00ae-141">Validating connectivity to Azure AD Premium services.</span></span>
 
-- <span data-ttu-id="6590f-142">Para um ambiente de floresta única:</span><span class="sxs-lookup"><span data-stu-id="6590f-142">For a single-forest environment:</span></span>
+- <span data-ttu-id="f00ae-142">Para um ambiente de floresta única:</span><span class="sxs-lookup"><span data-stu-id="f00ae-142">For a single-forest environment:</span></span>
 
-  -   <span data-ttu-id="6590f-143">Instalação de uma sincronização de diretório entre o AD DS (serviços de domínio Active Directory) e o Azure AD Connect, se necessário.</span><span class="sxs-lookup"><span data-stu-id="6590f-143">Installing a directory synchronization between your Active Directory Domain Services (AD DS) and Azure AD Connect, if required.</span></span>
+  -   <span data-ttu-id="f00ae-143">Instalação de um servidor de sincronização de diretórios entre os seus Serviços de Domínio Active Directory (AD DS) e o Azure AD Connect, se necessário.</span><span class="sxs-lookup"><span data-stu-id="f00ae-143">Installing a directory synchronization server between your Active Directory Domain Services (AD DS) and Office 365, if required.</span></span>
 
-  -   <span data-ttu-id="6590f-144">Configuração de um método de autenticação (sincronização de hash de senha ou autenticação de passagem) com a ferramenta Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="6590f-144">Configuring an authentication method (Password Hash Sync or Pass-Through Authentication) with the Azure AD Connect tool.</span></span>
+  -   <span data-ttu-id="f00ae-144">Configuração de um método de autenticação (Sincronização de Hash da Senha ou Autenticação de Passagem) com a ferramenta Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="f00ae-144">Configuring an authentication method (Password Hash Sync or Pass-Through Authentication) with the Azure AD Connect tool.</span></span>
 
-- <span data-ttu-id="6590f-145">Para um ambiente de várias florestas:</span><span class="sxs-lookup"><span data-stu-id="6590f-145">For a multiple-forest environment:</span></span>
+- <span data-ttu-id="f00ae-145">Para um ambiente de várias floresta:</span><span class="sxs-lookup"><span data-stu-id="f00ae-145">For a multiple-forest environment:</span></span>
 
-  -   <span data-ttu-id="6590f-146">Instalação da sincronização do Azure AD Connect, configurada para cenários de várias florestas.</span><span class="sxs-lookup"><span data-stu-id="6590f-146">Installing Azure AD Connect synchronization, set up for multiple forest scenarios.</span></span>
-- <span data-ttu-id="6590f-147">Para ambientes com uma única ou várias florestas:</span><span class="sxs-lookup"><span data-stu-id="6590f-147">For single- and multiple-forest environments:</span></span>
-  - <span data-ttu-id="6590f-148">Configurar a autenticação de passagem do Azure Active Directory, se necessário.</span><span class="sxs-lookup"><span data-stu-id="6590f-148">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
-  - <span data-ttu-id="6590f-149">Configurar o logon único (SSO) contínuo do Azure Active Directory, se necessário.</span><span class="sxs-lookup"><span data-stu-id="6590f-149">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
+  -   <span data-ttu-id="f00ae-146">Instalação da sincronização do Azure AD Connect configurada para vários cenários de floresta.</span><span class="sxs-lookup"><span data-stu-id="f00ae-146">Installing Azure AD Connect synchronization, set up for multiple forest scenarios.</span></span>
+- <span data-ttu-id="f00ae-147">Para ambientes com uma única ou várias florestas:</span><span class="sxs-lookup"><span data-stu-id="f00ae-147">For single- and multiple-forest environments:</span></span>
+  - <span data-ttu-id="f00ae-148">Configurar a autenticação de passagem do Azure Active Directory, se necessário.</span><span class="sxs-lookup"><span data-stu-id="f00ae-148">Configuring Azure Active Directory Pass-through Authentication, if required.</span></span>
+  - <span data-ttu-id="f00ae-149">Configurar o logon único (SSO) contínuo do Azure Active Directory, se necessário.</span><span class="sxs-lookup"><span data-stu-id="f00ae-149">Configuring Azure Active Directory Seamless Single Sign-On (SSO), if required.</span></span>
     > [!NOTE]
-    > <span data-ttu-id="6590f-150">A autenticação de passagem do Azure Active Directory para ambientes com várias florestas será compatível se houver uma relação de confiança na floresta entre as florestas do Active Directory e se o roteamento do sufixo do nome estiver devidamente configurado.</span><span class="sxs-lookup"><span data-stu-id="6590f-150">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured.</span></span> <span data-ttu-id="6590f-151">Agentes adicionais podem ser instalados em vários servidores locais para oferecer alta disponibilidade para solicitações de entrada.</span><span class="sxs-lookup"><span data-stu-id="6590f-151">Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests.</span></span>
+    > <span data-ttu-id="f00ae-150">A autenticação de passagem do Azure Active Directory para ambientes com várias florestas será compatível se houver uma relação de confiança na floresta entre as florestas do Active Directory e se o roteamento do sufixo do nome estiver devidamente configurado.</span><span class="sxs-lookup"><span data-stu-id="f00ae-150">Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured.</span></span> <span data-ttu-id="f00ae-151">Agentes adicionais podem ser instalados em vários servidores locais para oferecer alta disponibilidade para solicitações de entrada.</span><span class="sxs-lookup"><span data-stu-id="f00ae-151">Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests.</span></span>
 
-  - <span data-ttu-id="6590f-152">Para obter mais informações, confira [Autenticação de passagem do Azure Active Directory: início rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) e [Logon único contínuo do Azure Active Directory: Início rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span><span class="sxs-lookup"><span data-stu-id="6590f-152">For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span></span>
-  - <span data-ttu-id="6590f-153">Para obter mais informações sobre os limites de autenticação de passagem, confira [Autenticação de passagem do Azure Active Directory: Limites atuais](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span><span class="sxs-lookup"><span data-stu-id="6590f-153">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span></span>
-  - <span data-ttu-id="6590f-154">Para mais informações sobre problemas de SSO Contínuo, confira [Solucionar problemas de Logon Único Contínuo do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span><span class="sxs-lookup"><span data-stu-id="6590f-154">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span></span>
+  - <span data-ttu-id="f00ae-152">Para obter mais informações, confira [Autenticação de passagem do Azure Active Directory: início rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) e [Logon único contínuo do Azure Active Directory: Início rápido](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span><span class="sxs-lookup"><span data-stu-id="f00ae-152">For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-quick-start#step-1-check-prerequisites) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start#step-1-check-prerequisites).</span></span>
+  - <span data-ttu-id="f00ae-153">Confira mais informações sobre os limites de autenticação de passagem em [Autenticação de passagem do Azure Active Directory: limitações atuais](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span><span class="sxs-lookup"><span data-stu-id="f00ae-153">For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-pass-through-authentication-current-limitations).</span></span>
+  - <span data-ttu-id="f00ae-154">Para mais informações sobre problemas de SSO Contínuo, confira [Solucionar problemas de Logon Único Contínuo do Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span><span class="sxs-lookup"><span data-stu-id="f00ae-154">For more information about Seamless SSO issues, see [Troubleshoot Azure Active Directory Seamless Single Sign-On](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-troubleshoot-sso).</span></span>
 
       > [!NOTE]
-      > <span data-ttu-id="6590f-155">A sincronização de hash de senha e o Write-back de senha aceitam várias florestas.</span><span class="sxs-lookup"><span data-stu-id="6590f-155">Password hash sync and password writeback support multiple forests.</span></span> <span data-ttu-id="6590f-156">No entanto, não há suporte para outros cenários de write-back.</span><span class="sxs-lookup"><span data-stu-id="6590f-156">However, other writeback scenarios aren't supported.</span></span>
+      > <span data-ttu-id="f00ae-155">Sincronização de hash da senha de e write-back de senha dão suporte a várias florestas.</span><span class="sxs-lookup"><span data-stu-id="f00ae-155">Password hash sync and password writeback support multiple forests.</span></span> <span data-ttu-id="f00ae-156">No entanto, outros cenários de write-back não possuem suporte.</span><span class="sxs-lookup"><span data-stu-id="f00ae-156">However, other writeback scenarios aren't supported.</span></span>
 
-  - <span data-ttu-id="6590f-157">Configurar a sincronização entre florestas do Active Directory no local e diretório Premium do Microsoft Azure Active Directory (Azure Active Directory).</span><span class="sxs-lookup"><span data-stu-id="6590f-157">Configuring synchronization between on-premises Active Directory forests and Microsoft Azure Active Directory Premium directory (Azure Active Directory).</span></span>
+  - <span data-ttu-id="f00ae-157">Configuração da sincronização entre florestas locais do Active Directory e do diretório do Microsoft Azure Active Directory Premium (Azure Active Directory).</span><span class="sxs-lookup"><span data-stu-id="f00ae-157">Configuring synchronization between on-premises Active Directory forests and Microsoft Azure Active Directory Premium directory (Azure Active Directory).</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="6590f-158">O desenvolvimento e a implementação de extensões de regras personalizadas estão fora do escopo.</span><span class="sxs-lookup"><span data-stu-id="6590f-158">Development and implementation for custom rules extensions are out of scope.</span></span>
+    > <span data-ttu-id="f00ae-158">Desenvolvimento e implementação de extensão de regras personalizadas estão fora do escopo.</span><span class="sxs-lookup"><span data-stu-id="f00ae-158">Development and implementation for custom rules extensions are out of scope.</span></span>
 
-- <span data-ttu-id="6590f-159">Para uma única floresta quando o destino é federativo identidades:</span><span class="sxs-lookup"><span data-stu-id="6590f-159">For a single forest when the target is federated identities:</span></span>
+- <span data-ttu-id="f00ae-159">Para uma única floresta, quando as identidades federadas são o destino:</span><span class="sxs-lookup"><span data-stu-id="f00ae-159">For a single forest when federated identities is the target:</span></span>
 
-  -   <span data-ttu-id="6590f-160">Instalando e Configurando o AD FS para autenticação de domínio local com o Azure AD Premium em uma configuração de site único e tolerante a falhas (se necessário).</span><span class="sxs-lookup"><span data-stu-id="6590f-160">Installing and configuring AD FS for local domain authentication with Azure AD Premium in a single-site, fault-tolerant configuration (if required).</span></span>
+  -   <span data-ttu-id="f00ae-160">Instalação e configuração do AD FS para autenticação de domínio local com o Azure AD Premium em uma configuração de site único e tolerante a falhas (se necessário).</span><span class="sxs-lookup"><span data-stu-id="f00ae-160">Installing and configuring AD FS for local domain authentication with O365_W14_2nd in a single-site, fault-tolerant configuration, if required.</span></span>
 
   > [!NOTE]
-  > <span data-ttu-id="6590f-161">Para todas as configurações de várias florestas, as implantações do AD FS estão fora do escopo.</span><span class="sxs-lookup"><span data-stu-id="6590f-161">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
+  > <span data-ttu-id="f00ae-161">Para todas as configurações de várias florestas, as implantações do AD FS estão fora do escopo.</span><span class="sxs-lookup"><span data-stu-id="f00ae-161">For all multiple forest configurations, AD FS deployments are out of scope.</span></span>
 
-- <span data-ttu-id="6590f-162">Testar a funcionalidade de SSO (se implantada).</span><span class="sxs-lookup"><span data-stu-id="6590f-162">Testing SSO functionality (if deployed).</span></span>
+- <span data-ttu-id="f00ae-162">Teste da funcionalidade do SSO (se implantado).</span><span class="sxs-lookup"><span data-stu-id="f00ae-162">Testing SSO functionality if deployed.</span></span>
 
-### <a name="enable-phase---azure-ad-premium--with-azure-ad-connect-and-ad-fs"></a><span data-ttu-id="6590f-163">Fase habilitar-Azure AD Premium--com o Azure AD Connect e o AD FS</span><span class="sxs-lookup"><span data-stu-id="6590f-163">Enable phase - Azure AD Premium--with Azure AD Connect and AD FS</span></span>
+### <a name="enable-phase---azure-ad-premium---with-azure-ad-connect-and-ad-fs"></a><span data-ttu-id="f00ae-163">Fase de habilitação – Azure AD Premium – com o Azure AD Connect e o AD FS</span><span class="sxs-lookup"><span data-stu-id="f00ae-163">Enable phase - Azure AD Premium - with Azure AD Connect and AD FS</span></span>
 
-<span data-ttu-id="6590f-164">Forneça orientações sobre como configurar:</span><span class="sxs-lookup"><span data-stu-id="6590f-164">Provide guidance about setting up:</span></span>
+<span data-ttu-id="f00ae-164">Fornece orientação sobre a configuração:</span><span class="sxs-lookup"><span data-stu-id="f00ae-164">Provide guidance about setting up:</span></span>
 
-- <span data-ttu-id="6590f-165">Provisionamento de usuário, incluindo licenciamento.</span><span class="sxs-lookup"><span data-stu-id="6590f-165">User provisioning, including licensing.</span></span>
+- <span data-ttu-id="f00ae-165">Provisionamento do usuário, inclusive licenciamento.</span><span class="sxs-lookup"><span data-stu-id="f00ae-165">User provisioning, including licensing.</span></span>
 
-- <span data-ttu-id="6590f-166">Sincronização de diretório do Azure AD Connect (com o Write-back de senha e sincronização de hash de senha).</span><span class="sxs-lookup"><span data-stu-id="6590f-166">Azure AD Connect directory synchronization (with password writeback and password hash sync).</span></span>
+- <span data-ttu-id="f00ae-166">Sincronização de diretório do Azure AD Connect (com write-back de senha e sincronização de hash de senha).</span><span class="sxs-lookup"><span data-stu-id="f00ae-166">Azure AD Connect directory synchronization (with password writeback and password hash sync).</span></span>
 
-  - <span data-ttu-id="6590f-167">Redefinição de senha de autoatendimento do Azure Active Directory (SSPR).</span><span class="sxs-lookup"><span data-stu-id="6590f-167">Azure Active Directory Self Service Password Reset (SSPR).</span></span>
+  - <span data-ttu-id="f00ae-167">Autoatendimento de Redefinição de Senha do Azure Active Directory (SSPR).</span><span class="sxs-lookup"><span data-stu-id="f00ae-167">Azure Active Directory Self Service Password Reset (SSPR).</span></span>
 
-  - <span data-ttu-id="6590f-168">Autenticação multifator do Azure.</span><span class="sxs-lookup"><span data-stu-id="6590f-168">Azure Multi-Factor Authentication.</span></span>
+  - <span data-ttu-id="f00ae-168">Autenticação Multifator do Azure.</span><span class="sxs-lookup"><span data-stu-id="f00ae-168">Azure Multi-Factor Authentication</span></span>
 
-  - <span data-ttu-id="6590f-169">Até três (3) ou mais integrações de aplicativos de software como serviço (SaaS) com logon único (SSO) do [Marketplace do Azure Active Directory](https://azure.microsoft.com/marketplace/active-directory/).</span><span class="sxs-lookup"><span data-stu-id="6590f-169">Up to three (3) or more Software as a Service (SaaS) application integrations with Single Sign-On (SSO) from the [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span></span>
+  - <span data-ttu-id="f00ae-169">Até três (3) ou mais integrações de aplicativos de Software como um serviço (SAAS) com Logon Único (SSO) do [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span><span class="sxs-lookup"><span data-stu-id="f00ae-169">Up to three (3) or more Software as a Service (SaaS) application integrations with Single Sign-On (SSO) from the [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).</span></span>
 
-  - <span data-ttu-id="6590f-170">Provisionamento automático de usuário para aplicativos SaaS previamente integrados, conforme listado na [lista de tutorial de integração de aplicativos](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), limitado somente a provisionamento de saída.</span><span class="sxs-lookup"><span data-stu-id="6590f-170">Automatic user provisioning for pre-integrated SaaS applications as listed in the [App integration tutorial list](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), limited to outbound provisioning only.</span></span>
+  - <span data-ttu-id="f00ae-170">Provisionamento automático do usuário para aplicativos SaaS pré-instalados, como listados na [Lista de tutoriais de integração de aplicativost](https://docs.microsoft.com/pt-BR/azure/active-directory/saas-apps/tutorial-list), limitado apenas ao provisionamento de saída.</span><span class="sxs-lookup"><span data-stu-id="f00ae-170">Automatic user provisioning for pre-integrated SaaS applications as listed in the [App integration tutorial list](https://docs.microsoft.com/en-us/azure/active-directory/saas-apps/tutorial-list), limited to outbound provisioning only.</span></span>
 
-  - <span data-ttu-id="6590f-171">Tela de logon personalizada, incluindo logotipo, texto e imagens.</span><span class="sxs-lookup"><span data-stu-id="6590f-171">Customized logon screen, including logo, text, and images.</span></span>
+  - <span data-ttu-id="f00ae-171">Tela de logon personalizada, incluindo logotipo, texto e imagens.</span><span class="sxs-lookup"><span data-stu-id="f00ae-171">Customized logon screen, including logo, text, and images.</span></span>
 
-  - <span data-ttu-id="6590f-172">Grupos de autoatendimento e dinâmicos (grupos).</span><span class="sxs-lookup"><span data-stu-id="6590f-172">Self-Service and Dynamic Groups (Groups).</span></span>
+  - <span data-ttu-id="f00ae-172">Autoatendimento e Grupos Dinâmicos (Grupos).</span><span class="sxs-lookup"><span data-stu-id="f00ae-172">Self-Service and Dynamic Groups (Groups).</span></span>
 
-  - <span data-ttu-id="6590f-173">Proxy de aplicativo do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6590f-173">Azure Active Directory Application Proxy.</span></span>
+  - <span data-ttu-id="f00ae-173">Proxy de Aplicativo do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="f00ae-173">Azure Active Directory Application Proxy.</span></span>
 
-  - <span data-ttu-id="6590f-174">Integridade do Azure Active Directory Connect.</span><span class="sxs-lookup"><span data-stu-id="6590f-174">Azure Active Directory Connect Health.</span></span>
+  - <span data-ttu-id="f00ae-174">Azure Active Directory Connect Health.</span><span class="sxs-lookup"><span data-stu-id="f00ae-174">Azure Active Directory Connect</span></span>
 
-  - <span data-ttu-id="6590f-175">Acesso condicional do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6590f-175">Azure Active Directory Conditional Access.</span></span>
+  - <span data-ttu-id="f00ae-175">Acesso Condicional do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="f00ae-175">Azure Active Directory Conditional Access</span></span>
 
-  - <span data-ttu-id="6590f-176">Termos de uso do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6590f-176">Azure Active Directory Terms of Use.</span></span>
+  - <span data-ttu-id="f00ae-176">Termos de uso do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="f00ae-176">Azure Active Directory Terms of Use.</span></span>
 
-  - <span data-ttu-id="6590f-177">Proteção de identidade do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6590f-177">Azure Active Directory Identity Protection.</span></span>
+  - <span data-ttu-id="f00ae-177">Proteção de identidade do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="f00ae-177">Azure Active Directory Identity Protection</span></span>
 
-  - <span data-ttu-id="6590f-178">Gerenciamento de identidade privilegiada do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6590f-178">Azure Active Directory Privileged Identity Management.</span></span>
+  - <span data-ttu-id="f00ae-178">Azure Active Directory Privileged Identity Management.</span><span class="sxs-lookup"><span data-stu-id="f00ae-178">Azure Active Directory Privileged Identity Management.</span></span>
 
-  - <span data-ttu-id="6590f-179">Revisões do acesso ao Active Directory do Azure.</span><span class="sxs-lookup"><span data-stu-id="6590f-179">Azure Active Directory Access Reviews.</span></span>
+  - <span data-ttu-id="f00ae-179">Revisões de Acesso do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="f00ae-179">Azure Active Directory Conditional Access</span></span>
 
-### <a name="enable-phase---intune"></a><span data-ttu-id="6590f-180">Fase habilitar-Intune</span><span class="sxs-lookup"><span data-stu-id="6590f-180">Enable phase - Intune</span></span>
+### <a name="enable-phase---intune"></a><span data-ttu-id="f00ae-180">Fase de Habilitação – Intune</span><span class="sxs-lookup"><span data-stu-id="f00ae-180">Enable phase - Intune</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="6590f-181">O FastTrack não dá suporte ao gerenciamento clássico de computador com o Windows 10 com o Intune.</span><span class="sxs-lookup"><span data-stu-id="6590f-181">FastTrack does not support Windows 10 classic PC management with Intune.</span></span> <span data-ttu-id="6590f-182">O FastTrack oferece suporte somente ao gerenciamento do Windows 10 por meio do gerenciamento de dispositivo móvel do Intune (MDM).</span><span class="sxs-lookup"><span data-stu-id="6590f-182">FastTrack only supports Windows 10 management through Intune mobile device management (MDM).</span></span>
+> <span data-ttu-id="f00ae-181">O FastTrack não dá suporte ao gerenciamento clássico de computador do Windows 10 com o Intune.</span><span class="sxs-lookup"><span data-stu-id="f00ae-181">FastTrack does not support Windows 10 classic PC management with Intune.</span></span> <span data-ttu-id="f00ae-182">O FastTrack é compatível apenas com o gerenciamento do Windows 10 pela autoridade de gerenciamento de dispositivo móvel do Intune (MDM).</span><span class="sxs-lookup"><span data-stu-id="f00ae-182">FastTrack only supports Windows 10 management through Intune mobile device management (MDM).</span></span>
 
-<span data-ttu-id="6590f-183">Fornecer **orientações** sobre:</span><span class="sxs-lookup"><span data-stu-id="6590f-183">Provide **guidance** on:</span></span>
+<span data-ttu-id="f00ae-183">Fornece orientações sobre:</span><span class="sxs-lookup"><span data-stu-id="f00ae-183">Provide guidance on:</span></span>
 
--   <span data-ttu-id="6590f-184">Configurar identidades a serem usadas pelo Intune, aproveitando o Active Directory local ou as identidades de nuvem (Azure Active Directory).</span><span class="sxs-lookup"><span data-stu-id="6590f-184">Configuring identities to be used by Intune, by either leveraging your on-premises Active Directory or cloud identities (Azure Active Directory).</span></span>
+-   <span data-ttu-id="f00ae-184">Configuração de identidades a serem usadas pelo Intune, aproveitando o Active Directory local ou as identidades de nuvem (Azure Active Directory).</span><span class="sxs-lookup"><span data-stu-id="f00ae-184">Configuring identities to be used by Intune, by either leveraging your on-premises Active Directory or cloud identities (Azure Active Directory).</span></span>
 
--   <span data-ttu-id="6590f-185">Licenciar seus usuários finais.</span><span class="sxs-lookup"><span data-stu-id="6590f-185">Licensing your end users.</span></span>
+-   <span data-ttu-id="f00ae-185">Licenciamento para os usuários finais.</span><span class="sxs-lookup"><span data-stu-id="f00ae-185">Licensing your end users.</span></span>
 
--   <span data-ttu-id="6590f-186">Adicionar usuários à sua assinatura do Intune, definir funções de administrador de ti e criar grupos de usuários e de dispositivos.</span><span class="sxs-lookup"><span data-stu-id="6590f-186">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
+-   <span data-ttu-id="f00ae-186">Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.</span><span class="sxs-lookup"><span data-stu-id="f00ae-186">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
 
--   <span data-ttu-id="6590f-187">Configurar sua autoridade de gerenciamento de dispositivo móvel do MDM, com base em suas necessidades de gerenciamento, incluindo:</span><span class="sxs-lookup"><span data-stu-id="6590f-187">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
+-   <span data-ttu-id="f00ae-187">Configuração da autoridade de Gerenciamento de Dispositivo Móvel (MDM), com base em suas necessidades de gerenciamento, incluindo:</span><span class="sxs-lookup"><span data-stu-id="f00ae-187">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
 
-    -   <span data-ttu-id="6590f-188">Configuração do Intune como sua autoridade MDM.</span><span class="sxs-lookup"><span data-stu-id="6590f-188">Setting Intune as your MDM authority.</span></span>
+    -   <span data-ttu-id="f00ae-188">Configuração do Intune como autoridade do MDM.</span><span class="sxs-lookup"><span data-stu-id="f00ae-188">Setting Intune as your MDM authority.</span></span>
 
-    -   <span data-ttu-id="6590f-189">Configuração de grupos de testes a serem usados para validar políticas de gerenciamento do MDM.</span><span class="sxs-lookup"><span data-stu-id="6590f-189">Configuring tests groups to be used to validate MDM management policies.</span></span>
+    -   <span data-ttu-id="f00ae-189">Configuração de grupos de testes a serem usados para validar as políticas de gerenciamento do MDM.</span><span class="sxs-lookup"><span data-stu-id="f00ae-189">Configuring tests groups to be used to validate MDM management policies.</span></span>
 
-    -   <span data-ttu-id="6590f-190">Navegar pelo portal de administração do Intune para localizar informações sobre usuários e dispositivos.</span><span class="sxs-lookup"><span data-stu-id="6590f-190">Navigating the Intune admin portal to locate information on users and devices.</span></span>
+    -   <span data-ttu-id="f00ae-190">Navegação pelo portal de administração do Intune para localizar informações sobre dispositivos e usuários.</span><span class="sxs-lookup"><span data-stu-id="f00ae-190">Navigating the Intune admin portal to locate information on users and devices.</span></span>
 
-    -   <span data-ttu-id="6590f-191">Configuração de funções do Intune (operadora de assistência técnica, administradores, etc.)</span><span class="sxs-lookup"><span data-stu-id="6590f-191">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
+    -   <span data-ttu-id="f00ae-191">Configuração das funções do Intune (Operadora de suporte técnico, administradores, etc.)</span><span class="sxs-lookup"><span data-stu-id="f00ae-191">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
 
-    -   <span data-ttu-id="6590f-192">Configurando serviços e políticas de gerenciamento do MDM como:</span><span class="sxs-lookup"><span data-stu-id="6590f-192">Configuring MDM management policies and services like:</span></span>
+    -   <span data-ttu-id="f00ae-192">Configuração do gerenciamento das políticas e serviços do MDM, como:</span><span class="sxs-lookup"><span data-stu-id="f00ae-192">Configuring MDM management policies and services like:</span></span>
 
-        -   <span data-ttu-id="6590f-193">Implantação de aplicativo para cada plataforma suportada por meio de links da Web, MSI e/ou links profundos.</span><span class="sxs-lookup"><span data-stu-id="6590f-193">App deployment for each supported platform through web links, MSI and/or deep links.</span></span>
+        -   <span data-ttu-id="f00ae-193">Implantação de aplicativos para cada plataforma com suporte por meio de links da web, MSI e/ou links profundos.</span><span class="sxs-lookup"><span data-stu-id="f00ae-193">App deployment for each supported platform through web links, MSI and/or deep links.</span></span>
 
-        -   <span data-ttu-id="6590f-194">Implantação do Office ProPlus em dispositivos Windows 10.</span><span class="sxs-lookup"><span data-stu-id="6590f-194">Deploying Office ProPlus onto Windows 10 devices.</span></span>
+        -   <span data-ttu-id="f00ae-194">Implantação do Office ProPlus em dispositivos Windows 10.</span><span class="sxs-lookup"><span data-stu-id="f00ae-194">Deploying Office ProPlus onto Windows 10 devices.</span></span>
 
-        -   <span data-ttu-id="6590f-195">Programas de compra de volume para implantação de aplicativos, incluindo o VPP da Apple, a Windows Store para empresas e o Google Play para o repositório de trabalho.</span><span class="sxs-lookup"><span data-stu-id="6590f-195">Volume purchase programs for app deployment, including Apple's VPP, Windows Store for Business, and Google's Play for Work Store.</span></span>
+        -   <span data-ttu-id="f00ae-195">Programas de compra de volume para implantação de aplicativos, incluindo o VPP da Apple, Windows Store for Business e o Google Play for Work Store.</span><span class="sxs-lookup"><span data-stu-id="f00ae-195">Volume purchase programs for app deployment, including Apple's VPP, Windows Store for Business, and Google's Play for Work Store.</span></span>
 
-        -   <span data-ttu-id="6590f-196">Implantação de email, redes sem fio e perfis de VPN se você tiver uma autoridade de certificação, Wi-Fi ou infraestrutura de VPN existente em sua organização.</span><span class="sxs-lookup"><span data-stu-id="6590f-196">Deployment of e-mail, wireless networks, and VPN profiles if you have an existing certificate authority, Wi-Fi or VPN infrastructure in your organization.</span></span>
+        -   <span data-ttu-id="f00ae-196">Implantação de email, redes sem fio e perfis VPN se tiver uma autoridade de certificação existente, uma infraestrutura de rede Wi-Fi ou VPN em sua organização.</span><span class="sxs-lookup"><span data-stu-id="f00ae-196">Deployment of e-mail, wireless networks, and VPN profiles if you have an existing certificate authority, Wi-Fi or VPN infrastructure in your organization.</span></span>
 
-        -   <span data-ttu-id="6590f-197">Configuração do Microsoft Intune Exchange Connector (quando aplicável).</span><span class="sxs-lookup"><span data-stu-id="6590f-197">Setting up the Microsoft Intune Exchange Connector (when applicable).</span></span>
+        -   <span data-ttu-id="f00ae-197">Configuração do Microsoft Intune Exchange Connector (quando aplicável).</span><span class="sxs-lookup"><span data-stu-id="f00ae-197">Setting up the Microsoft Intune Exchange Connector (when applicable).</span></span>
 
-        -   <span data-ttu-id="6590f-198">Perfis de configuração de dispositivo para plataformas de dispositivo suportadas.</span><span class="sxs-lookup"><span data-stu-id="6590f-198">Device configuration profiles for supported device platforms.</span></span>
+        -   <span data-ttu-id="f00ae-198">Perfis de configuração de dispositivo para plataformas de dispositivos com suporte.</span><span class="sxs-lookup"><span data-stu-id="f00ae-198">Device configuration profiles for supported device platforms.</span></span>
 
-    -   <span data-ttu-id="6590f-199">Configuração de políticas de acesso condicional.</span><span class="sxs-lookup"><span data-stu-id="6590f-199">Setting up conditional access policies.</span></span>
+    -   <span data-ttu-id="f00ae-199">Configuração das políticas de acesso condicional.</span><span class="sxs-lookup"><span data-stu-id="f00ae-199">Setting up conditional access policies.</span></span>
 
-    -   <span data-ttu-id="6590f-200">Configurar e implantar as políticas de proteção de aplicativos do Intune para cada plataforma suportada.</span><span class="sxs-lookup"><span data-stu-id="6590f-200">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
+    -   <span data-ttu-id="f00ae-200">Configuração e implantação das políticas de proteção de aplicativo do Intune para cada plataforma com suporte.</span><span class="sxs-lookup"><span data-stu-id="f00ae-200">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
 
-    -   <span data-ttu-id="6590f-201">Preparar aplicativos de LOB (linha de negócios) para políticas de proteção de aplicativos do Intune, com orientações sobre as opções disponíveis.</span><span class="sxs-lookup"><span data-stu-id="6590f-201">Preparing line-of-business (LOB) apps for Intune app protection policies, with guidance on available options.</span></span>
+    -   <span data-ttu-id="f00ae-201">Preparação de aplicativos de linha de negócios (LOB) para políticas de proteção de aplicativos Intune, com orientações nas opções disponíveis.</span><span class="sxs-lookup"><span data-stu-id="f00ae-201">Preparing line-of-business (LOB) apps for Intune app protection policies, with guidance on available options.</span></span>
 
-    -   <span data-ttu-id="6590f-202">Registrar dispositivos de cada plataforma suportada no seu Intune ou no Gerenciador de configuração com o serviço do Microsoft Intune.</span><span class="sxs-lookup"><span data-stu-id="6590f-202">Enrolling devices of each supported platform to your Intune or Configuration Manager with Microsoft Intune service.</span></span>
+    -   <span data-ttu-id="f00ae-202">Registro dos dispositivos de todas as plataformas compatíveis com Intune ou Gerenciador de Configuração com serviço do Microsoft Intune. </span><span class="sxs-lookup"><span data-stu-id="f00ae-202">Enrolling devices of each supported platform to your Intune or Configuration Manager with Microsoft Intune service.</span></span>
 
-    -   <span data-ttu-id="6590f-203">Conexão ao armazém de dados do Intune.</span><span class="sxs-lookup"><span data-stu-id="6590f-203">Connecting to Intune Data Warehouse.</span></span>
+    -   <span data-ttu-id="f00ae-203">Conexão ao Intune Data Warehouse.</span><span class="sxs-lookup"><span data-stu-id="f00ae-203">Connecting to Intune Data Warehouse.</span></span>
 
-    -   <span data-ttu-id="6590f-204">Integração do Intune com:</span><span class="sxs-lookup"><span data-stu-id="6590f-204">Integrating Intune with:</span></span>
-        -   <span data-ttu-id="6590f-205">Team Viewer para assistência remota (a assinatura do Team Viewer é necessária).</span><span class="sxs-lookup"><span data-stu-id="6590f-205">Team Viewer for remote assistance (Team Viewer subscription is required).</span></span>
+    -   <span data-ttu-id="f00ae-204">Integração do Intune com:</span><span class="sxs-lookup"><span data-stu-id="f00ae-204">Integrating Intune with:</span></span>
+        -   <span data-ttu-id="f00ae-205">O Team Viewer para assistência remota (É necessária a assinatura do Team Viewer).</span><span class="sxs-lookup"><span data-stu-id="f00ae-205">Team Viewer for remote assistance (Team Viewer subscription is required).</span></span>
 
-        -   <span data-ttu-id="6590f-206">Soluções de parceiros de defesa contra ameaças móveis (a assinatura do Mobile Threat Defense Partner Solution é necessária).</span><span class="sxs-lookup"><span data-stu-id="6590f-206">Mobile Threat Defense partner solutions (Mobile Threat Defense partner solution subscription is required).</span></span>
+        -   <span data-ttu-id="f00ae-206">Soluções para parceiros de Defesa contra Ameaças Móveis (É necessária a assinatura de solução para parceiros de Defesa contra Ameaças Móveis). </span><span class="sxs-lookup"><span data-stu-id="f00ae-206">Mobile Threat Defense partner solutions (Mobile Threat Defense partner solution subscription is required).</span></span>
 
-        -   <span data-ttu-id="6590f-207">Soluções de gerenciamento de despesas de telecomunicações (a assinatura da solução de gerenciamento de despesas de telecomunicações é necessária).</span><span class="sxs-lookup"><span data-stu-id="6590f-207">Telecom expense management solutions (Telecom expense management solution subscription is required).</span></span>
+        -   <span data-ttu-id="f00ae-207">Soluções de gerenciamento de despesas de telecomunicações (É necessário o gerenciamento de despesas de telecomunicações).</span><span class="sxs-lookup"><span data-stu-id="f00ae-207">Telecom expense management solutions (Telecom expense management solution subscription is required).</span></span>
 
-        -   <span data-ttu-id="6590f-208">A proteção avançada contra ameaças do Windows Defender (licenças do Windows E5 ou do Microsoft 365 E5 são necessárias).</span><span class="sxs-lookup"><span data-stu-id="6590f-208">Windows Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>
+        -   <span data-ttu-id="f00ae-208">Proteção Avançada contra Ameaças do Windows Defender (As Licenças do Windows E5 ou do Microsoft 365 E5 são necessárias).</span><span class="sxs-lookup"><span data-stu-id="f00ae-208">Windows Defender Advanced Threat Protection (Windows E5 or Microsoft 365 E5 licenses are required).</span></span>
 
-    -   <span data-ttu-id="6590f-209">Configuração de atualizações de software para plataformas compatíveis aplicáveis.</span><span class="sxs-lookup"><span data-stu-id="6590f-209">Configuring Software updates for applicable supported platforms.</span></span>
+    -   <span data-ttu-id="f00ae-209">Configuração das atualizações de Software para plataformas com suporte aplicável.</span><span class="sxs-lookup"><span data-stu-id="f00ae-209">Configuring Software updates for applicable supported platforms.</span></span>
 
-    -   <span data-ttu-id="6590f-210">Recursos para o planejamento de adoção do usuário.</span><span class="sxs-lookup"><span data-stu-id="6590f-210">Resources for user adoption planning.</span></span>
+    -   <span data-ttu-id="f00ae-210">Recursos para planejamento de adoção do usuário.</span><span class="sxs-lookup"><span data-stu-id="f00ae-210">Resources for user adoption planning.</span></span>
 
-- <span data-ttu-id="6590f-211">Configurando o piloto automático do Windows:</span><span class="sxs-lookup"><span data-stu-id="6590f-211">Setting up Windows Autopilot:</span></span>
+- <span data-ttu-id="f00ae-211">Configuração do Windows Autopilot:</span><span class="sxs-lookup"><span data-stu-id="f00ae-211">Setting up Windows Autopilot:</span></span>
 
-    - <span data-ttu-id="6590f-212">Configurar e configurar o piloto automático do Microsoft Intune para Windows.</span><span class="sxs-lookup"><span data-stu-id="6590f-212">Configure and setup Microsoft Intune for Windows Autopilot.</span></span>
+    - <span data-ttu-id="f00ae-212">Configuração e instalação do Microsoft Intune para Windows Autopilot.</span><span class="sxs-lookup"><span data-stu-id="f00ae-212">Configure and setup Microsoft Intune for Windows Autopilot.</span></span>
 
-    - <span data-ttu-id="6590f-213">Configurar grupos dinâmicos do Azure AD</span><span class="sxs-lookup"><span data-stu-id="6590f-213">Configure Azure AD dynamic groups</span></span>
+    - <span data-ttu-id="f00ae-213">Configuração dos grupos de Azure AD Dynamic </span><span class="sxs-lookup"><span data-stu-id="f00ae-213">Configure Azure AD dynamic groups</span></span>
 
-    - <span data-ttu-id="6590f-214">Adicione a identidade visual da empresa no Azure AD.</span><span class="sxs-lookup"><span data-stu-id="6590f-214">Add your Company branding into Azure AD.</span></span>
+    - <span data-ttu-id="f00ae-214">Adição da marca da sua Empresa no Azure AD.</span><span class="sxs-lookup"><span data-stu-id="f00ae-214">Add your Company branding into Azure AD.</span></span>
 
-    - <span data-ttu-id="6590f-215">Crie e atribua dispositivos aos perfis do Windows AutoPilot (por exemplo, um perfil do Windows AutoPilot que restringe a criação de contas de administrador local).</span><span class="sxs-lookup"><span data-stu-id="6590f-215">Create and assign devices to Windows Autopilot profiles (e.g a Windows Autopilot profile that restricts Local Administrator account creation).</span></span>
+    - <span data-ttu-id="f00ae-215">Criação e atribuição de dispositivos aos perfis do Windows Autopilot (por exemplo, um perfil do Windows Autopilot que restringe a criação de contas de Administrador Local).</span><span class="sxs-lookup"><span data-stu-id="f00ae-215">Create and assign devices to Windows Autopilot profiles (e.g a Windows Autopilot profile that restricts Local Administrator account creation).</span></span>
 
-    - <span data-ttu-id="6590f-216">Personalizar o OOBE (uso da experiência) para cumprir os requisitos da organização.</span><span class="sxs-lookup"><span data-stu-id="6590f-216">Customize the Out-of-box-experience (OOBE) to comply with organization's requirements.</span></span>
+    - <span data-ttu-id="f00ae-216">Personalização da experiência inicial (OOBE) para ser compatível com os requisitos da organização.</span><span class="sxs-lookup"><span data-stu-id="f00ae-216">Customize the Out-of-box-experience (OOBE) to comply with organization's requirements.</span></span>
 
-    - <span data-ttu-id="6590f-217">Configurando o registro automático do MDM no Azure AD e no Intune.</span><span class="sxs-lookup"><span data-stu-id="6590f-217">Configuring MDM Auto-enrollment in Azure AD and Intune.</span></span>
+    - <span data-ttu-id="f00ae-217">Configuração do registro automático MDM no Azure AD e no Intune.</span><span class="sxs-lookup"><span data-stu-id="f00ae-217">Configuring MDM Auto-enrollment in Azure AD and Intune.</span></span>
 
     > [!NOTE]
-    > <span data-ttu-id="6590f-218">Configurar o Windows AutoPilot fora do Intune está fora do escopo para o benefício do FastTrack.</span><span class="sxs-lookup"><span data-stu-id="6590f-218">Setting up Windows Autopilot outside Intune is out of scope for the FastTrack benefit.</span></span>
+    > <span data-ttu-id="f00ae-218">Configuração do Windows Autopilot fora do Intune está fora do escopo dos benefícios do FastTrack.</span><span class="sxs-lookup"><span data-stu-id="f00ae-218">Setting up Windows Autopilot outside Intune is out of scope for the FastTrack benefit.</span></span>
 
-### <a name="enable-phase---co-management"></a><span data-ttu-id="6590f-219">Habilitar o gerenciamento em fases</span><span class="sxs-lookup"><span data-stu-id="6590f-219">Enable phase - Co-management</span></span>
+### <a name="enable-phase---co-management"></a><span data-ttu-id="f00ae-219">Fase de habilitação – Cogerenciamento </span><span class="sxs-lookup"><span data-stu-id="f00ae-219">Enable phase - Co-management</span></span>
 
-<span data-ttu-id="6590f-220">Fornece orientação sobre:</span><span class="sxs-lookup"><span data-stu-id="6590f-220">Provide guidance about:</span></span>
+<span data-ttu-id="f00ae-220">Fornece orientações sobre:</span><span class="sxs-lookup"><span data-stu-id="f00ae-220">Provide guidance on:</span></span>
 
--   <span data-ttu-id="6590f-221">Licenciar seus usuários finais.</span><span class="sxs-lookup"><span data-stu-id="6590f-221">Licensing your end users.</span></span>
+-   <span data-ttu-id="f00ae-221">Licenciamento para os usuários finais.</span><span class="sxs-lookup"><span data-stu-id="f00ae-221">Licensing your end users.</span></span>
 
--   <span data-ttu-id="6590f-222">Adição de usuários à sua assinatura do Intune, definição de funções de administrador de ti e criação de grupos de usuários e dispositivos (se o Intune não estiver instalado).</span><span class="sxs-lookup"><span data-stu-id="6590f-222">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups (if Intune is not installed).</span></span>
+-   <span data-ttu-id="f00ae-222">Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI, criação de usuários e grupos de dispositivos (se o Intune não estiver instalado).</span><span class="sxs-lookup"><span data-stu-id="f00ae-222">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups (if Intune is not installed).</span></span>
 
--   <span data-ttu-id="6590f-223">Configuração do Azure Active Directory para o registro automático do MDM.</span><span class="sxs-lookup"><span data-stu-id="6590f-223">Setting up Azure Active Directory for MDM auto-enrollment.</span></span>
+-   <span data-ttu-id="f00ae-223">Configuração do Azure Active Directory para o registro automático do MDM.</span><span class="sxs-lookup"><span data-stu-id="f00ae-223">Setting up Azure Active Directory for MDM auto-enrollment.</span></span>
 
--   <span data-ttu-id="6590f-224">Configurar ingresso híbrida do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="6590f-224">Set up hybrid Azure Active Directory Join.</span></span>
+-   <span data-ttu-id="f00ae-224">Configuração da adição híbrida do Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="f00ae-224">Set up hybrid Azure Active Directory Join.</span></span>
 
--   <span data-ttu-id="6590f-225">Configurar o gateway de gerenciamento de nuvem.</span><span class="sxs-lookup"><span data-stu-id="6590f-225">Set up Cloud Management Gateway.</span></span>
+-   <span data-ttu-id="f00ae-225">Configuração do Gateway de Gerenciamento de Nuvem.</span><span class="sxs-lookup"><span data-stu-id="f00ae-225">Set up Cloud Management Gateway.</span></span>
 
--   <span data-ttu-id="6590f-226">Adicionar usuários à sua assinatura do Intune, definir funções de administrador de ti e criar grupos de usuários e de dispositivos.</span><span class="sxs-lookup"><span data-stu-id="6590f-226">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
+-   <span data-ttu-id="f00ae-226">Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.</span><span class="sxs-lookup"><span data-stu-id="f00ae-226">Adding users to your Intune subscription, defining IT admin roles, and creating user and device groups.</span></span>
 
--   <span data-ttu-id="6590f-227">Preparar o Intune (se o Intune não estiver instalado):</span><span class="sxs-lookup"><span data-stu-id="6590f-227">Prepare Intune (if Intune is not installed):</span></span>
+-   <span data-ttu-id="f00ae-227">Preparar o Intune (se o Intune não estiver instalado):</span><span class="sxs-lookup"><span data-stu-id="f00ae-227">Prepare Intune (if Intune is not installed):</span></span>
 
-    -   <span data-ttu-id="6590f-228">Configurar sua autoridade de gerenciamento de dispositivo móvel do MDM, com base em suas necessidades de gerenciamento, incluindo:</span><span class="sxs-lookup"><span data-stu-id="6590f-228">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
+    -   <span data-ttu-id="f00ae-228">Configuração da autoridade de Gerenciamento de Dispositivo Móvel (MDM), com base em suas necessidades de gerenciamento, incluindo:</span><span class="sxs-lookup"><span data-stu-id="f00ae-228">Configuring your Mobile Device Management MDM) authority, based on your management needs, including:</span></span>
 
-    -   <span data-ttu-id="6590f-229">Configuração do Intune como sua autoridade MDM.</span><span class="sxs-lookup"><span data-stu-id="6590f-229">Setting Intune as your MDM authority.</span></span>
+    -   <span data-ttu-id="f00ae-229">Configuração do Intune como autoridade do MDM.</span><span class="sxs-lookup"><span data-stu-id="f00ae-229">Setting Intune as your MDM authority.</span></span>
 
-    -   <span data-ttu-id="6590f-230">Configuração de grupos de testes a serem usados para validar políticas de gerenciamento do MDM.</span><span class="sxs-lookup"><span data-stu-id="6590f-230">Configuring tests groups to be used to validate MDM management policies.</span></span>
+    -   <span data-ttu-id="f00ae-230">Configuração de grupos de testes a serem usados para validar as políticas de gerenciamento do MDM.</span><span class="sxs-lookup"><span data-stu-id="f00ae-230">Configuring tests groups to be used to validate MDM management policies.</span></span>
 
-    -   <span data-ttu-id="6590f-231">Navegar pelo portal de administração do Intune para localizar informações sobre usuários e dispositivos.</span><span class="sxs-lookup"><span data-stu-id="6590f-231">Navigating the Intune admin portal to locate information on users and devices.</span></span>
+    -   <span data-ttu-id="f00ae-231">Navegação pelo portal de administração do Intune para localizar informações sobre dispositivos e usuários.</span><span class="sxs-lookup"><span data-stu-id="f00ae-231">Navigating the Intune admin portal to locate information on users and devices.</span></span>
 
-    -   <span data-ttu-id="6590f-232">Configuração de funções do Intune (operadora de assistência técnica, administradores, etc.)</span><span class="sxs-lookup"><span data-stu-id="6590f-232">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
+    -   <span data-ttu-id="f00ae-232">Configuração das funções do Intune (Operadora de suporte técnico, administradores, etc.)</span><span class="sxs-lookup"><span data-stu-id="f00ae-232">Setting up Intune roles (Help desk operator, admins, etc.)</span></span>
 
-    -   <span data-ttu-id="6590f-233">Configurar e implantar as políticas de proteção de aplicativos do Intune para cada plataforma suportada.</span><span class="sxs-lookup"><span data-stu-id="6590f-233">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
+    -   <span data-ttu-id="f00ae-233">Configuração e implantação das políticas de proteção de aplicativo do Intune para cada plataforma com suporte.</span><span class="sxs-lookup"><span data-stu-id="f00ae-233">Configuring and deploying Intune app protection policies for each supported platform.</span></span>
 
-    -   <span data-ttu-id="6590f-234">Registrar dispositivos Windows 10 no seu Intune.</span><span class="sxs-lookup"><span data-stu-id="6590f-234">Enrolling Windows 10 devices to your Intune.</span></span>
+    -   <span data-ttu-id="f00ae-234">Registro de dispositivos Windows 10 para o Intune.</span><span class="sxs-lookup"><span data-stu-id="f00ae-234">Enrolling Windows 10 devices to your Intune.</span></span>
 
-- <span data-ttu-id="6590f-235">Habilite o gerenciamento de Cogestão no console do Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="6590f-235">Enable Co-Management in the Configuration Manager console.</span></span>
+- <span data-ttu-id="f00ae-235">Habilitação do Cogerenciamento no console do Configuration Manager.</span><span class="sxs-lookup"><span data-stu-id="f00ae-235">Enable Co-Management in the Configuration Manager console.</span></span>
 
-- <span data-ttu-id="6590f-236">Mudar cargas de trabalho para o Intune.</span><span class="sxs-lookup"><span data-stu-id="6590f-236">Switch workloads to Intune.</span></span>
+- <span data-ttu-id="f00ae-236">Alternância de cargas de trabalho para o Intune.</span><span class="sxs-lookup"><span data-stu-id="f00ae-236">Switch workloads to Intune.</span></span>
 
-- <span data-ttu-id="6590f-237">Monitore a atividade de co-Management em seu ambiente.</span><span class="sxs-lookup"><span data-stu-id="6590f-237">Monitor the Co-management activity in your environment.</span></span>
+- <span data-ttu-id="f00ae-237">Monitoração da atividade de Cogerenciamento em seu ambiente.</span><span class="sxs-lookup"><span data-stu-id="f00ae-237">Monitor the Co-management activity in your environment.</span></span>
 
-### <a name="enable-phase--azure-information-protection"></a><span data-ttu-id="6590f-238">Fase habilitar – proteção de informações do Azure</span><span class="sxs-lookup"><span data-stu-id="6590f-238">Enable phase – Azure Information Protection</span></span>
+### <a name="enable-phase--azure-information-protection"></a><span data-ttu-id="f00ae-238">Fase de habilitação – Proteção de Informações do Azure</span><span class="sxs-lookup"><span data-stu-id="f00ae-238">Enable phase – Azure Information Protection</span></span>
 
-<span data-ttu-id="6590f-239">Fornecer orientações sobre:</span><span class="sxs-lookup"><span data-stu-id="6590f-239">Provide guidance on:</span></span> 
+<span data-ttu-id="f00ae-239">Orientações fornecidas sobre:</span><span class="sxs-lookup"><span data-stu-id="f00ae-239">Provided guidance on:</span></span> 
 
-- <span data-ttu-id="6590f-240">Os clientes classifiquem e etiquetem automaticamente as informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e usando o cliente de proteção de informações do Azure.</span><span class="sxs-lookup"><span data-stu-id="6590f-240">Customers to automatically classify and label information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client.</span></span> 
-- <span data-ttu-id="6590f-241">Arquivos em repouso usando o verificador de proteção de informações do Azure.</span><span class="sxs-lookup"><span data-stu-id="6590f-241">Files at rest using the Azure Information Protection scanner.</span></span>
-- <span data-ttu-id="6590f-242">Emails em trânsito usando regras de fluxo de email do Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="6590f-242">Emails in transit using Exchange Online mail flow rules.</span></span> 
+- <span data-ttu-id="f00ae-240">Ativação e configuração do locatário do cliente.</span><span class="sxs-lookup"><span data-stu-id="f00ae-240">Activating and configuring the customer tenant.</span></span>
 
-<span data-ttu-id="6590f-243">O suporte também é fornecido aos clientes que desejam aplicar proteção usando o Microsoft Azure Rights Management Services (Azure RMS), criptografia de mensagens do Office 365 (OME) e prevenção de perda de dados (DLP).</span><span class="sxs-lookup"><span data-stu-id="6590f-243">Support is also provided to customers who want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span> 
+- <span data-ttu-id="f00ae-241">Criação e configuração dos rótulos e políticas.</span><span class="sxs-lookup"><span data-stu-id="f00ae-241">Creating and setting up labels and policies.</span></span>
 
-<span data-ttu-id="6590f-244">Os clientes são fornecidos com orientações sobre como:</span><span class="sxs-lookup"><span data-stu-id="6590f-244">Customers are provided guidance on how to:</span></span> 
+- <span data-ttu-id="f00ae-242">Aplicação de proteção de informações aos documentos.</span><span class="sxs-lookup"><span data-stu-id="f00ae-242">Applying information protection to documents.</span></span> 
 
-- <span data-ttu-id="6590f-245">Ative e configure seu locatário.</span><span class="sxs-lookup"><span data-stu-id="6590f-245">Activate and configure their tenant.</span></span>
-- <span data-ttu-id="6590f-246">Criar e configurar rótulos e políticas.</span><span class="sxs-lookup"><span data-stu-id="6590f-246">Create and set up labels and policies.</span></span>
-- <span data-ttu-id="6590f-247">Aplicar proteção de informações a documentos.</span><span class="sxs-lookup"><span data-stu-id="6590f-247">Apply information protection to documents.</span></span> 
+- <span data-ttu-id="f00ae-243">Classificação e rotulação automática de informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e que usam o Cliente da Proteção de Informações do Azure.</span><span class="sxs-lookup"><span data-stu-id="f00ae-243">Automatically classifying and labeling information in Office apps (like Word, PowerPoint, Excel, and Outlook) running on Windows and using the Azure Information Protection client.</span></span>
+
+- <span data-ttu-id="f00ae-244">Uso de arquivos em repouso com o scanner da Proteção de Informações do Azure.</span><span class="sxs-lookup"><span data-stu-id="f00ae-244">Using files at rest with the Azure Information Protection scanner.</span></span>
+
+- <span data-ttu-id="f00ae-245">Monitoramento de emails em trânsito usando as regras de fluxo de email do Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="f00ae-245">Monitoring emails in transit using Exchange Online mail flow rules.</span></span>
+
+<span data-ttu-id="f00ae-246">As orientações também são fornecidas aos clientes que desejam aplicar a proteção usando Serviços de Gerenciamento de Direitos do Microsoft Azure (Azure RMS), Criptografia de Mensagens do Office 365 e Prevenção Contra Perda de Dados (DLP).</span><span class="sxs-lookup"><span data-stu-id="f00ae-246">Guidance is also provided to customers who want to apply protection using Microsoft Azure Rights Management Services (Azure RMS), Office 365 Message Encryption (OME), and data loss prevention (DLP).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="6590f-248">**Quer saber mais?** consulte [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span><span class="sxs-lookup"><span data-stu-id="6590f-248">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
+> <span data-ttu-id="f00ae-247">**Quer saber mais?**, consulte[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span><span class="sxs-lookup"><span data-stu-id="f00ae-247">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="6590f-249">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="6590f-249">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="f00ae-248">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="f00ae-248">Next steps</span></span>
 
-[<span data-ttu-id="6590f-250">Benefícios do FastTrack para o EMS-suas responsabilidades</span><span class="sxs-lookup"><span data-stu-id="6590f-250">FastTrack benefit for EMS - Your responsibilities</span></span>](EMS-your-responsibilities.md)
+[<span data-ttu-id="f00ae-249">Benefícios do FastTrack para EMS – Suas responsabilidades</span><span class="sxs-lookup"><span data-stu-id="f00ae-249">FastTrack benefit for EMS - Your responsibilities</span></span>](EMS-your-responsibilities.md)
