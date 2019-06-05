@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 4ac47eb14dac40cd348bfe009f017b60d32c1dba
-ms.sourcegitcommit: ccdd833af651980ea6ac655bf32b4262474b35d4
+ms.openlocfilehash: 58ab0f1cccc88720cc8c323d8a083c9a9ff1f67e
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33513086"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673602"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -63,6 +63,7 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
+- Proteção de Informações do Azure
 - Microsoft Intune
     
 ## <a name="eligible-microsoft-365-plans"></a>Planos qualificados do Microsoft 365
@@ -160,7 +161,7 @@ Para saber mais, confira [benefícios do FastTrack Center do Office 365](https:/
 |---------|---------|
 |**Enterprise Mobility + Security (EMS) in E3 or E5**       |   Disponível para serviços de nuvem que estão qualificados para benefícios do FastTrack. Caso contrário, isso é direcionado para a referência de parceiro ou um especialista do Microsoft FastTrack.        |
 |**Microsoft Azure Active Directory Premium**     |  Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.       |
-|**Proteção de Informações do Microsoft Azure**    |  Disponível para P2, como parte do EMS E5, ou como um plano independente. Caso contrário, isso é encaminhado para um especialista do FastTrack ou para indicação de parceiros.        |
+|**Proteção de Informações do Microsoft Azure**    |  Disponível para P2, como parte do E5 ou como um plano independente. Disponível para os serviços de nuvem que estão disponíveis aos benefícios do FastTrack. O FastTrack compartilha o guia de auto-instalação para os serviços de nuvem P1.       |
 |**Microsoft Intune**    |   Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.      |
 |**Anexar a nuvem**     |    Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.     |
 |**Microsoft Intune para educação**     |  Qualificado se comprou como plano independente ou como parte do A3 ou A5.       |
