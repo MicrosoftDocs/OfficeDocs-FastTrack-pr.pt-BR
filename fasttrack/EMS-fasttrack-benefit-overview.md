@@ -1,57 +1,59 @@
 ---
-title: Visão geral
-description: Visão geral
+title: Visão Geral
+description: Visão Geral
 keywords: ''
 author: andredm7
 ms.author: andredm
 manager: angrobe
-ms.date: 05/02/2019
+ms.date: 06/04/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
+localization_priority: Priority
+ms.collection: FastTrack
 ms.assetid: e60e3714-5120-41e2-9878-83ac75107967
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 46d9720545a2b92fbe4318f676308504c53ec315
-ms.sourcegitcommit: 28dafb1d0904d29c4e113b03d3c1b0fcd2257508
-ms.translationtype: MT
+ms.openlocfilehash: ba29357695855236dbe0583e7667998fdf940bd0
+ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/13/2019
-ms.locfileid: "33967932"
+ms.lasthandoff: 06/03/2019
+ms.locfileid: "34673314"
 ---
-# <a name="fasttrack-center-benefit-overview"></a><span data-ttu-id="216a9-103">Visão geral dos Benefícios do Centro FastTrack</span><span class="sxs-lookup"><span data-stu-id="216a9-103">FastTrack Center Benefit Overview</span></span>
+# <a name="fasttrack-center-benefit-overview"></a><span data-ttu-id="ffa84-103">Visão geral dos Benefícios do Centro FastTrack</span><span class="sxs-lookup"><span data-stu-id="ffa84-103">FastTrack Center Benefit Overview</span></span>
 
-<span data-ttu-id="216a9-104">Com o benefício do FastTrack Center para o Microsoft Azure Active Directory Premium, o Microsoft Intune e a proteção de informações do Azure, você trabalha remotamente com especialistas do FastTrack para preparar seu ambiente para uso e para planejar a distribuição e o uso em seu departamento.</span><span class="sxs-lookup"><span data-stu-id="216a9-104">With FastTrack Center Benefit for Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection, you work remotely with FastTrack Specialists to get your environment ready for use and to plan the rollout and usage within your organization.</span></span> <span data-ttu-id="216a9-105">Para saber mais sobre a qualificação, confira [processo de benefícios do FastTrack Center para Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).</span><span class="sxs-lookup"><span data-stu-id="216a9-105">To learn more about eligibility, see [FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).</span></span>
+<span data-ttu-id="ffa84-104">Com os Benefícios do Centro do FastTrack para Microsoft Azure Active Directory Premium, Microsoft Intune e Proteção de Informações do Azure, você pode trabalhar remotamente com Especialistas do FastTrack para deixar o ambiente pronto para o uso e planejar a distribuição na organização.</span><span class="sxs-lookup"><span data-stu-id="ffa84-104">With FastTrack Center Benefit for Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection, you work remotely with FastTrack Specialists to get your environment ready for use and to plan the rollout and usage within your organization.</span></span> <span data-ttu-id="ffa84-105">Para saber mais sobre qualificação, veja[Processo de Benefícios do Centro do FastTrack para o Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).</span><span class="sxs-lookup"><span data-stu-id="ffa84-105">To learn more about eligibility, see [FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)](EMS-fasttrack-process.md).</span></span>
 
-<span data-ttu-id="216a9-106">A integração tem dois componentes principais:</span><span class="sxs-lookup"><span data-stu-id="216a9-106">Onboarding has two major components:</span></span>
+<span data-ttu-id="ffa84-106">A integração possui dois componentes principais:</span><span class="sxs-lookup"><span data-stu-id="ffa84-106">Onboarding has two major components:</span></span>
 
--   <span data-ttu-id="216a9-107">Integração **básica** – tarefas necessárias para a configuração do locatário e integração com o Azure Active Directory, se necessário.</span><span class="sxs-lookup"><span data-stu-id="216a9-107">**Core onboarding** - Tasks required for tenant configuration and integration with Azure Active Directory, if needed.</span></span> <span data-ttu-id="216a9-108">A integração básica também fornece a linha de base para integração de outros serviços qualificados do Microsoft Online.</span><span class="sxs-lookup"><span data-stu-id="216a9-108">Core onboarding also provides the baseline for onboarding other Microsoft Online eligible services.</span></span>
+-   <span data-ttu-id="ffa84-107">**Integração principal** – Tarefas necessárias para configuração de locatário e integração ao Azure Active Directory, caso seja preciso.</span><span class="sxs-lookup"><span data-stu-id="ffa84-107">Core onboarding — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed.</span></span> <span data-ttu-id="ffa84-108">A integração principal também fornece a linha de base para integração de outros serviços qualificados do Microsoft Online.</span><span class="sxs-lookup"><span data-stu-id="ffa84-108">Core onboarding also provides the baseline for onboarding other eligible services.</span></span>
 
--   <span data-ttu-id="216a9-109">**Integração de serviço** – tarefas necessárias para configurar qualquer uma das variantes autônomas da carga de trabalho EMS (Azure ad Premium, Intune e proteção de informações do Azure).</span><span class="sxs-lookup"><span data-stu-id="216a9-109">**Service onboarding** - Tasks required to configure any of the standalone variants of the EMS workload (Azure AD Premium, Intune, and Azure Information Protection).</span></span>
+-   <span data-ttu-id="ffa84-109">**Integração de serviço** – Tarefas necessárias para configurar qualquer uma das variantes autônomas da carga de trabalho EMS (Azure AD Premium, Intune e Proteção de Informações do Azure).</span><span class="sxs-lookup"><span data-stu-id="ffa84-109">**Service onboarding** - Tasks required to configure any of the standalone variants of the EMS workload (Azure AD Premium, Intune, and Azure Information Protection).</span></span>
 
-<span data-ttu-id="216a9-110">O diagrama a seguir descreve as fases de integração de alto nível para o benefício do FastTrack Center.</span><span class="sxs-lookup"><span data-stu-id="216a9-110">The following diagram describes the high-level onboarding phases for the the FastTrack Center Benefit.</span></span>
+<span data-ttu-id="ffa84-110">O diagrama a seguir descreve as fases de integração de alto nível para os Benefícios do Centro do FastTrack.</span><span class="sxs-lookup"><span data-stu-id="ffa84-110">The following diagram describes the high-level onboarding phases for the the FastTrack Center Benefit.</span></span>
 
-![As fases de integração de alto nível do uso do benefício do FastTrack Center](./media/ft-onboarding-process.png)
+![As fases de integração de alto nível do uso dos Benefícios do Centro do FastTrack](./media/ft-onboarding-process.png)
 
-<span data-ttu-id="216a9-112">Veja como funciona o processo:</span><span class="sxs-lookup"><span data-stu-id="216a9-112">Here's how the process works:</span></span>
+<span data-ttu-id="ffa84-112">Veja como o processo funciona:</span><span class="sxs-lookup"><span data-stu-id="ffa84-112">Here's how the process works:</span></span>
 
-- <span data-ttu-id="216a9-113">O FastTrack Center tenta contatá-lo para oferecer assistência de integração após a compra de licenças de um serviço qualificado.</span><span class="sxs-lookup"><span data-stu-id="216a9-113">The FastTrack Center tries to contact you to offer onboarding assistance after you purchase licenses of an eligible service.</span></span> <span data-ttu-id="216a9-114">Você também pode solicitar assistência do [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) se estiver pronto para implantar esses serviços em sua organização.</span><span class="sxs-lookup"><span data-stu-id="216a9-114">You can also request assistance from the [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) if you're ready to deploy these services for your organization.</span></span> <span data-ttu-id="216a9-115">Para solicitar assistência, entre no [Centro FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) com sua conta corporativa ou de estudante, vá para o painel, expanda o link **precisa de ajuda?** no canto inferior direito da página e siga os prompts para concluir a solicitação.</span><span class="sxs-lookup"><span data-stu-id="216a9-115">To request assistance, sign in to the [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) with your work or school account, go to the dashboard, expand the **Need Help?** link at the lower-right corner of the page, and then follow the prompts to complete your request.</span></span> <span data-ttu-id="216a9-116">Quando a integração começar, configuraremos um cronograma de reuniões online.</span><span class="sxs-lookup"><span data-stu-id="216a9-116">Once onboarding starts, we’ll set up a schedule of online meetings.</span></span>
+- <span data-ttu-id="ffa84-113">O Centro do FastTrack tenta entrar em contato para oferecer assistência de integração depois de você comprar as licenças de um serviço qualificado.</span><span class="sxs-lookup"><span data-stu-id="ffa84-113">The FastTrack Center tries to contact you to offer onboarding assistance after you purchase licenses of an eligible service.</span></span> <span data-ttu-id="ffa84-114">Você também pode solicitar assistência no [Centro do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), caso esteja pronto para implantar esses serviços para sua organização.</span><span class="sxs-lookup"><span data-stu-id="ffa84-114">You can also request assistance from the [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) if you're ready to deploy these services for your organization.</span></span> <span data-ttu-id="ffa84-115">Para solicitar assistência, entre no site do [Centro do FastTrack ](https://go.microsoft.com/fwlink/?linkid=780698) com sua conta corporativa ou de estudante. Vá para o painel, expanda o link **Precisa de Ajuda?** no canto inferior direito da página e, em seguida, siga as instruções para concluir sua solicitação.</span><span class="sxs-lookup"><span data-stu-id="ffa84-115">To request assistance, sign in to the [FastTrack Center](https://go.microsoft.com/fwlink/?linkid=780698) with your work or school account, go to the dashboard, expand the **Need Help?** link at the lower-right corner of the page, and then follow the prompts to complete your request.</span></span> <span data-ttu-id="ffa84-116">Assim que o suporte de integração for iniciado, definiremos um cronograma de reuniões online.</span><span class="sxs-lookup"><span data-stu-id="ffa84-116">Once onboarding assistance starts, we set up a schedule of online meetings.</span></span>
 
--   <span data-ttu-id="216a9-117">A equipe do FastTrack ajuda você primeiro com os principais recursos (comuns para todos os serviços online da Microsoft) e, em seguida, com a integração de cada serviço qualificado.</span><span class="sxs-lookup"><span data-stu-id="216a9-117">The FastTrack team helps you first with core capabilities (common for all Microsoft Online Services) and then with onboarding each eligible service.</span></span>
+-   <span data-ttu-id="ffa84-117">A equipe FastTrack ajudará você a começar a usar os principais recursos (comuns para todos os Serviços Online da Microsoft) e, em seguida, em todos os serviços qualificados.</span><span class="sxs-lookup"><span data-stu-id="ffa84-117">The FastTrack team helps you first with core capabilities (common for all Microsoft Online Services) and then with onboarding each eligible service.</span></span>
 
-<span data-ttu-id="216a9-118">Todas as orientações de integração são fornecidas remotamente pelo pessoal do FastTrack atribuído:</span><span class="sxs-lookup"><span data-stu-id="216a9-118">All onboarding guidance is provided remotely by assigned FastTrack personnel:</span></span>
+<span data-ttu-id="ffa84-118">Todas as guias de integração são fornecidas remotamente pelo pessoal designado do FastTrack:</span><span class="sxs-lookup"><span data-stu-id="ffa84-118">All onboarding guidance is provided remotely by assigned FastTrack personnel:</span></span>
 
--   <span data-ttu-id="216a9-119">A equipe do FastTrack o ajuda remotamente com várias atividades de integração usando uma combinação de ferramentas, documentação e orientação.</span><span class="sxs-lookup"><span data-stu-id="216a9-119">The FastTrack team remotely assists you with various onboarding activities by using a combination of tools, documentation, and guidance.</span></span>
+-   <span data-ttu-id="ffa84-119">A equipe FastTrack ajudará de maneira remota com várias atividades de integração usando uma combinação de ferramentas, documentação e orientação.</span><span class="sxs-lookup"><span data-stu-id="ffa84-119">The FastTrack team remotely assists you with various onboarding activities by using a combination of tools, documentation, and guidance.</span></span>
 
--   <span data-ttu-id="216a9-120">A orientação de integração é oferecida pelo FastTrack Center e está disponível durante o horário comercial normal de uma determinada região.</span><span class="sxs-lookup"><span data-stu-id="216a9-120">Onboarding guidance is provided by the FastTrack Center, and is available during normal business hours for a given region.</span></span>
+-   <span data-ttu-id="ffa84-120">O suporte de Integração é fornecido pelo Centro do FastTrack e está disponível durante o horário comercial de uma dada região.</span><span class="sxs-lookup"><span data-stu-id="ffa84-120">Onboarding guidance is provided by the FastTrack Center, and is available during normal business hours for a given region.</span></span>
 
--   <span data-ttu-id="216a9-121">A assistência de integração está disponível em Chinês tradicional, chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, Português (Brasil), espanhol, tailandês e vietnamita.</span><span class="sxs-lookup"><span data-stu-id="216a9-121">Onboarding assistance is available in Traditional Chinese, Simplified Chinese (resources speak Mandarin only), English, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish, Thai, and Vietnamese.</span></span>
+-   <span data-ttu-id="ffa84-121">A assistência de integração está disponível em chinês tradicional, em chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, português (Brasil), espanhol, tailandês e vietnamita.</span><span class="sxs-lookup"><span data-stu-id="ffa84-121">Assistance is available in Traditional Chinese and Simplified Chinese (resources speak Mandarin only), English, French, German, Italian, Japanese, Korean, Portuguese (Brazil), Spanish, Thai, and Vietnamese.</span></span>
 
--   <span data-ttu-id="216a9-122">A equipe do FastTrack pode trabalhar diretamente com você ou seu representante.</span><span class="sxs-lookup"><span data-stu-id="216a9-122">The FastTrack team can work directly with you or your representative.</span></span>
+-   <span data-ttu-id="ffa84-122">A equipe FastTrack pode trabalhar diretamente com você ou seu representante.</span><span class="sxs-lookup"><span data-stu-id="ffa84-122">FastTrack Specialists can work directly with you or your representative.</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="216a9-123">**Quer saber mais?** consulte [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span><span class="sxs-lookup"><span data-stu-id="216a9-123">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
+> <span data-ttu-id="ffa84-123">**Quer saber mais?**, consulte[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span><span class="sxs-lookup"><span data-stu-id="ffa84-123">**Want to learn more?** see [Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="216a9-124">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="216a9-124">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="ffa84-124">Próximas etapas</span><span class="sxs-lookup"><span data-stu-id="ffa84-124">Next steps</span></span>
 
-[<span data-ttu-id="216a9-125">Benefício do FastTrack Center para as expectativas do ambiente de origem EMS</span><span class="sxs-lookup"><span data-stu-id="216a9-125">FastTrack Center benefit for EMS - Source environment expectations</span></span>](EMS-source-environment-expectations.md)
+[<span data-ttu-id="ffa84-125">Benefícios do Centro do FastTrack para EMS – Expectativas do ambiente de origem</span><span class="sxs-lookup"><span data-stu-id="ffa84-125">FastTrack Center benefit for EMS - Source environment expectations</span></span>](EMS-source-environment-expectations.md)
