@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 07/02/2019
+ms.date: 08/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,47 +14,47 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5e4b7adf0dccbe66798a623f2c918f2ab0ebc8a0
-ms.sourcegitcommit: ed0bbc37b887f2ea408575b1a667550b2797cc0a
+ms.openlocfilehash: 2064c202d7bd06debad012d20ed16dac4d3c6aae
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35410690"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36053746"
 ---
-# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="78197-103">Processo de Benefício do Centro do FastTrack para o Enterprise Mobility + Security (EMS)</span><span class="sxs-lookup"><span data-stu-id="78197-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
-<span data-ttu-id="78197-104">Se sua organização está qualificada para o Centro de Benefício do FastTrack para EMS, você pode trabalhar remotamente com Especialistas do FastTrack para obter o Microsoft Azure Active Directory Premium, o Microsoft Intune e a Proteção de Informações do Azure prontos para uso.</span><span class="sxs-lookup"><span data-stu-id="78197-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="78197-105">Você também pode solicitar ajuda por meio do [site FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Proteção de Informações do Azure, Microsoft Cloud App Security e Microsoft Advanced Threat Analytics.</span><span class="sxs-lookup"><span data-stu-id="78197-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection, Microsoft Cloud App Security and Microsoft Advanced Threat Analytics.</span></span> <span data-ttu-id="78197-106">Para saber se sua organização está qualificada, consulte [Serviços e Planos Elegíveis](M365-eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="78197-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
+# <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a><span data-ttu-id="92982-103">Processo de Benefício do Centro do FastTrack para o Enterprise Mobility + Security (EMS)</span><span class="sxs-lookup"><span data-stu-id="92982-103">FastTrack Center Benefit Process for Enterprise Mobility + Security (EMS)</span></span>
+<span data-ttu-id="92982-104">Se sua organização está qualificada para o Centro de Benefício do FastTrack para EMS, você pode trabalhar remotamente com Especialistas do FastTrack para obter o Microsoft Azure Active Directory Premium, o Microsoft Intune e a Proteção de Informações do Azure prontos para uso.</span><span class="sxs-lookup"><span data-stu-id="92982-104">If your organization is eligible for the FastTrack Center Benefit for EMS, you can work remotely with FastTrack Specialists to get Microsoft Azure Active Directory Premium, Microsoft Intune, and Azure Information Protection ready for use.</span></span> <span data-ttu-id="92982-105">Você também pode solicitar ajuda por meio do [site FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Proteção de Informações do Azure, Microsoft Cloud App Security e Microsoft Advanced Threat Analytics.</span><span class="sxs-lookup"><span data-stu-id="92982-105">You can also request help through the [FastTrack site](https://www.microsoft.com/fasttrack/microsoft-365/ems) for Azure Information Protection, Microsoft Cloud App Security and Microsoft Advanced Threat Analytics.</span></span> <span data-ttu-id="92982-106">Para saber se sua organização está qualificada, consulte [Serviços e Planos Elegíveis](M365-eligible-services-and-plans.md).</span><span class="sxs-lookup"><span data-stu-id="92982-106">To learn whether your organization is eligible, see [Eligible Services and Plans](M365-eligible-services-and-plans.md).</span></span>
 
 
-<span data-ttu-id="78197-107">Veja aqui o que abordamos sobre o processo de integração:</span><span class="sxs-lookup"><span data-stu-id="78197-107">Here's what we cover about the onboarding process:</span></span>
+<span data-ttu-id="92982-107">Veja aqui o que abordamos sobre o processo de integração:</span><span class="sxs-lookup"><span data-stu-id="92982-107">Here's what we cover about the onboarding process:</span></span>
 
--   [<span data-ttu-id="78197-108">Visão geral do processo de integração</span><span class="sxs-lookup"><span data-stu-id="78197-108">Overview of the update process</span></span>](EMS-fasttrack-benefit-overview.md)
+-   [<span data-ttu-id="92982-108">Visão geral do processo de integração</span><span class="sxs-lookup"><span data-stu-id="92982-108">Overview of the update process</span></span>](EMS-fasttrack-benefit-overview.md)
 
--   [<span data-ttu-id="78197-109">Expectativas para o ambiente de origem</span><span class="sxs-lookup"><span data-stu-id="78197-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
+-   [<span data-ttu-id="92982-109">Expectativas para o ambiente de origem</span><span class="sxs-lookup"><span data-stu-id="92982-109">Expectations for your source environment</span></span>](EMS-source-environment-expectations.md)
 
--   [<span data-ttu-id="78197-110">Fases do processo de Integração</span><span class="sxs-lookup"><span data-stu-id="78197-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
+-   [<span data-ttu-id="92982-110">Fases do processo de Integração</span><span class="sxs-lookup"><span data-stu-id="92982-110">Phases of the onboarding process</span></span>](EMS-onboarding-phases.md)
 
--   <span data-ttu-id="78197-111">[Responsabilidades do FastTrack](EMS-fasttrack-responsibilities.md) para cada fase</span><span class="sxs-lookup"><span data-stu-id="78197-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="92982-111">[Responsabilidades do FastTrack](EMS-fasttrack-responsibilities.md) para cada fase</span><span class="sxs-lookup"><span data-stu-id="92982-111">[FastTrack responsibilities](EMS-fasttrack-responsibilities.md) for each phase</span></span>
 
--   <span data-ttu-id="78197-112">[Responsabilidades do Cliente](EMS-your-responsibilities.md) para cada fase</span><span class="sxs-lookup"><span data-stu-id="78197-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
+-   <span data-ttu-id="92982-112">[Responsabilidades do Cliente](EMS-your-responsibilities.md) para cada fase</span><span class="sxs-lookup"><span data-stu-id="92982-112">[Customer responsibilities](EMS-your-responsibilities.md) for each phase</span></span>
 
-<span data-ttu-id="78197-113">Veja a seguir o que você pode esperar quando a integração for concluída:</span><span class="sxs-lookup"><span data-stu-id="78197-113">Here’s what you can expect when onboarding is complete:</span></span>
+<span data-ttu-id="92982-113">Veja a seguir o que você pode esperar quando a integração for concluída:</span><span class="sxs-lookup"><span data-stu-id="92982-113">Here’s what you can expect when onboarding is complete:</span></span>
 
--   <span data-ttu-id="78197-114">Os locatários de EMS dos serviços selecionados são criados.</span><span class="sxs-lookup"><span data-stu-id="78197-114">Your EMS tenants for your selected services are created.</span></span>
+-   <span data-ttu-id="92982-114">Os locatários de EMS dos serviços selecionados são criados.</span><span class="sxs-lookup"><span data-stu-id="92982-114">Your EMS tenants for your selected services are created.</span></span>
 
--   <span data-ttu-id="78197-115">Os usuários licenciados podem acessar os Serviços EMS usando uma das seguintes opções de identidade:</span><span class="sxs-lookup"><span data-stu-id="78197-115">Licensed users can access O365_W14_2nd by using one of the following identity options:</span></span>
+-   <span data-ttu-id="92982-115">Os usuários licenciados podem acessar os Serviços EMS usando uma das seguintes opções de identidade:</span><span class="sxs-lookup"><span data-stu-id="92982-115">Licensed users can access O365_W14_2nd by using one of the following identity options:</span></span>
 
-    -   <span data-ttu-id="78197-116">Identidades de Nuvem (contas exclusivas do EMS).</span><span class="sxs-lookup"><span data-stu-id="78197-116">Cloud Identities (unique EMS accounts).</span></span>
+    -   <span data-ttu-id="92982-116">Identidades de Nuvem (contas exclusivas do EMS).</span><span class="sxs-lookup"><span data-stu-id="92982-116">Cloud Identities (unique EMS accounts).</span></span>
 
-    -   <span data-ttu-id="78197-117">Identidades Sincronizadas: As contas do EMS sincronizadas do Active Directory local com a ferramenta Azure Active Directory Connect (Sincronização de Hash de Senha ou Autenticação de Passagem).</span><span class="sxs-lookup"><span data-stu-id="78197-117">Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="78197-118">Essa opção destina-se aos clientes com uma única ou várias florestas do Active Directory.</span><span class="sxs-lookup"><span data-stu-id="78197-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
+    -   <span data-ttu-id="92982-117">Identidades Sincronizadas: As contas do EMS sincronizadas do Active Directory local com a ferramenta Azure Active Directory Connect (Sincronização de Hash de Senha ou Autenticação de Passagem).</span><span class="sxs-lookup"><span data-stu-id="92982-117">Synchronized Identities with Office 365 accounts synchronized from your on-premises Active Directory with Azure Active Directory Connect (Password Hash Sync or Pass-through Authentication).</span></span> <span data-ttu-id="92982-118">Essa opção destina-se aos clientes com uma única ou várias florestas do Active Directory.</span><span class="sxs-lookup"><span data-stu-id="92982-118">This option is for customers with a single forest or multiple Active Directory forests.</span></span>
 
-    -   <span data-ttu-id="78197-119">Identidades Federadas com contas Microsoft EMS, que são:</span><span class="sxs-lookup"><span data-stu-id="78197-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
+    -   <span data-ttu-id="92982-119">Identidades Federadas com contas Microsoft EMS, que são:</span><span class="sxs-lookup"><span data-stu-id="92982-119">Federated Identities--with Microsoft EMS accounts that are:</span></span>
 
-        -   <span data-ttu-id="78197-120">Sincronizado do Active Directory com a ferramenta Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="78197-120">Synchronized from Active Directory with the Azure Active Directory Connect tool for customers with:</span></span> <span data-ttu-id="78197-121">Essa opção destina-se aos clientes com uma única configuração de floresta do Active Directory.</span><span class="sxs-lookup"><span data-stu-id="78197-121">This option is for customers with a single Active Directory forest configuration.</span></span>
+        -   <span data-ttu-id="92982-120">Sincronizado do Active Directory com a ferramenta Azure AD Connect.</span><span class="sxs-lookup"><span data-stu-id="92982-120">Synchronized from Active Directory with the Azure Active Directory Connect tool for customers with:</span></span> <span data-ttu-id="92982-121">Essa opção destina-se aos clientes com uma única configuração de floresta do Active Directory.</span><span class="sxs-lookup"><span data-stu-id="92982-121">This option is for customers with a single Active Directory forest configuration.</span></span>
 
-        -   <span data-ttu-id="78197-122">Federado com os Serviços de Federação do Active Directory (AD FS) 2.0 do Windows Server 2012 R2 ou posteriores no Active Directory local.</span><span class="sxs-lookup"><span data-stu-id="78197-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
+        -   <span data-ttu-id="92982-122">Federado com os Serviços de Federação do Active Directory (AD FS) 2.0 do Windows Server 2012 R2 ou posteriores no Active Directory local.</span><span class="sxs-lookup"><span data-stu-id="92982-122">Federated with Windows Server 2012 R2 Active Directory Federation Services (AD FS) 2.0 or later from your on-premises Active Directory.</span></span>
 
-        -   <span data-ttu-id="78197-123">Capacidade de classificar automaticamente e proteger informações em repouso e em trânsito com a Proteção de Informações do Azure.</span><span class="sxs-lookup"><span data-stu-id="78197-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
+        -   <span data-ttu-id="92982-123">Capacidade de classificar automaticamente e proteger informações em repouso e em trânsito com a Proteção de Informações do Azure.</span><span class="sxs-lookup"><span data-stu-id="92982-123">The ability to auto-classify and protect information both at rest and in transit with Azure Information Protection.</span></span> 
 
-        -   <span data-ttu-id="78197-124">Capacidade de descobrir informações em compartilhamentos de arquivos locais e servidores do SharePoint com o scanner de Proteção de Informações do Azure.</span><span class="sxs-lookup"><span data-stu-id="78197-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
+        -   <span data-ttu-id="92982-124">Capacidade de descobrir informações em compartilhamentos de arquivos locais e servidores do SharePoint com o scanner de Proteção de Informações do Azure.</span><span class="sxs-lookup"><span data-stu-id="92982-124">The ability to discover information within on-premises file shares and SharePoint servers with the Azure Information Protection scanner.</span></span> 
 
-        -   <span data-ttu-id="78197-125">Capacidade de gerenciar as chaves do locatário de Proteção de Informações do Azure no Azure Key Vault.</span><span class="sxs-lookup"><span data-stu-id="78197-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
+        -   <span data-ttu-id="92982-125">Capacidade de gerenciar as chaves do locatário de Proteção de Informações do Azure no Azure Key Vault.</span><span class="sxs-lookup"><span data-stu-id="92982-125">The ability to manage your Azure Information Protection tenant keys within the Azure Key Vault.</span></span> 
