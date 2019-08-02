@@ -3,19 +3,19 @@ title: Responsabilidades do FastTrack para o governo dos EUA do Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 06/04/2019
+ms.date: 08/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: c646583e121bbf453da571253968461425f6d5ec
-ms.sourcegitcommit: 0e76ab0f36619dee923201098936573be14b4560
+ms.openlocfilehash: 9078f50a93d2ece8d137578fe8339e6ecffad63b
+ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/03/2019
-ms.locfileid: "34673662"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054046"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades do FastTrack para o governo dos EUA do Office 365
 
@@ -157,9 +157,6 @@ Fornece orientação sobre:
   - Configuração da organização para federação com o serviço Transmissão da Reunião.
     
 ## <a name="microsoft-teams"></a>Microsoft Teams
-
-> [!NOTE]
-> O seguinte não está disponível nos planos GCC High ou DoD.
 
 Fornece orientação sobre:
 - Confirmação dos requisitos mínimos.   
