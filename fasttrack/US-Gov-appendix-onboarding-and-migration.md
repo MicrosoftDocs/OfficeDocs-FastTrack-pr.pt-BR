@@ -3,19 +3,19 @@ title: Fases de integração e migração para o governo dos EUA do Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Integração do Office 365 para o Office 365 o governo dos EUA tem quatro fases principais: Iniciar, avaliar, corrigir e habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
-ms.openlocfilehash: 5e44bb896183b75079f9cb5126626ae0b37fc4a2
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: dc7a100bf956e7f29d68b4392f13c488c0fbdf8e
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053710"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294345"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para o governo dos EUA do Office 365
 
@@ -38,8 +38,6 @@ Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=
 2.  Selecione **FastTrack**.
 3.  Selecione **Serviços**.
 4.  Preencha o formulário **Solicitar assistência com o Microsoft 365**. 
-    > [!NOTE]
-    >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
 
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 

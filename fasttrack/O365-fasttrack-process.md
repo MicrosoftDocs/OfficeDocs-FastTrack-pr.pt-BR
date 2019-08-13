@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'O processo FastTrack oferece integração e serviços de adoção do usuário. '
-ms.openlocfilehash: 7fdc5c01ee2da2c28409dd187f0f2fed8e6ea3b0
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 854f30a9af210da5f6fb4837e473fd29fea5d606
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053986"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294333"
 ---
 # <a name="the-fasttrack-process"></a>O processo FastTrack
 
@@ -45,8 +45,6 @@ Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Selecione **Serviços**.
 3.  Preencha o formulário **Solicitar assistência com o Microsoft 365**. 
-> [!NOTE]
->  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
   
  Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     

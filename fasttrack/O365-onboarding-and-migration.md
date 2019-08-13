@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados.'
-ms.openlocfilehash: 52c6c449d0805955308cfc685f9646095404ff5d
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 433f118b00f5a521eb8a48fbf43e3cd64ddf4a14
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054106"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294429"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
@@ -40,8 +40,6 @@ Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Selecione **Serviços**.
 3.  Preencha o formulário **Solicitar assistência com o Microsoft 365**. 
-> [!NOTE]
->  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
   
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
