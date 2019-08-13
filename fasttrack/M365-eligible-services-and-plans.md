@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: ee7b762486b069313569485b313c95eb9d32028e
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 59d59f4ac419c5a40e557ce46fdd3c0e5f3199c4
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36053878"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294213"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -32,9 +32,7 @@ Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Selecione **Serviços**.
 3.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
-    > [!NOTE]
-    >  Se você tiver um parceiro mencionado no locatário do Office 365, não verá essa opção. Consulte o seu parceiro para obter assistência. 
-
+  
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Selecione **Meus Clientes**.
@@ -163,7 +161,7 @@ Para saber mais, confira [benefícios do FastTrack Center do Office 365](https:/
 |**Microsoft Azure Active Directory Premium**     |  Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.       |
 |**Proteção de Informações do Microsoft Azure**    |  Disponível para P2, como parte do E5 ou como um plano independente. Disponível para os serviços de nuvem que estão disponíveis aos benefícios do FastTrack. O FastTrack compartilha o guia de auto-instalação para os serviços de nuvem P1.       |
 |**Microsoft Intune**    |   Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.      |
-|**Anexar a nuvem**     |    Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.     |
+|**Gerenciador de Configuração de anexo na nuvem com o Microsoft Intune**     |    Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.     |
 |**Microsoft Intune para educação**     |  Qualificado se comprou como plano independente ou como parte do A3 ou A5.       |
 |** Proteção Avançada contra Ameaças do Microsoft**     |    Limitada. Qualificado somente se adquirido como um plano independente. Para fazer isso, acesse o [portal do Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
 |**Microsoft Advanced Threat Analytics**   |        Limitada. Qualificado somente se adquirido como um plano independente. Para fazer isso, acesse o [portal do Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |

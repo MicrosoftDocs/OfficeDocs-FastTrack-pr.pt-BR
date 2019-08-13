@@ -3,19 +3,19 @@ title: Fases da Integração
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'A integração do Windows 10 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar.'
-ms.openlocfilehash: e0edad16976fadbe33cee95af5f90d5c02f6bf61
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0789cb80e25a085d2d631d6032b5c7663bd1b8c2
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054094"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294357"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
@@ -29,7 +29,7 @@ Durante esta fase, discutimos o processo de integração, verificamos dados e ag
 
 Os especialistas do FastTrack trabalham com você para avaliar o ambiente de origem e os requisitos. Certifique-se de que o System Center Configuration Manager esteja atualizado para o nível necessário para dar suporte à implantação do Windows 10. 
 
-Fornecemos opções recomendadas para você avaliar os aplicativos do Windows 10.
+Fornecemos opções recomendadas para você avaliar os aplicativos do Windows 10. O FastTrack fornece orientação para habilitar o uso do Desktop Analytics e orienta você durante a criação de um plano de implantação do Desktop Analytics.
 
 O FastTrack também pode guiar a sua avaliação de compatibilidade do Office 365 ProPlus aproveitando o painel de preparação do Office 365 no Configuration Manager ou com o Readiness Toolkit autônomo para o Office. Para obter mais informações sobre serviços disponíveis, confira [Benefícios do Centro FastTrack para o Office 365](O365-fasttrack-benefit-for-office-365.md). 
 

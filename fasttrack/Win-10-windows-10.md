@@ -3,27 +3,27 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 08/02/2019
+ms.date: 08/13/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: O FastTrack fornece orientações de implantação do Windows 10 para ajudar você a atualizar do Windows 7 Professional e do Windows 8.1 Professional para o Windows 10 Enterprise.
-ms.openlocfilehash: 50a33d07593eef18a4d0dff8efb6adef0ca10250
-ms.sourcegitcommit: 911b0d32a26eb068a2a94ebc48d9f8f2fc70e5a9
+ms.openlocfilehash: 0d94d7cd231e6b9659f325b471c705239bdf03ce
+ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054070"
+ms.lasthandoff: 08/12/2019
+ms.locfileid: "36294405"
 ---
 # <a name="windows-10"></a>Windows 10
 
 O FastTrack fornece orientações de implantação do Windows 10 para ajudar você a atualizar do Windows 7 Professional e do Windows 8.1 Professional para o Windows 10 Enterprise. Você trabalha com especialistas do FastTrack para:
 
-- Implantar o Windows 10 Enterprise.
+- Implantar o Windows 10 Enterprise usando o Gerenciador de Configurações do Microsoft System Center ou o Microsoft 365.
 - Implantar o Office 365 ProPlus. 
-- Atualizar o Windows 10 Enterprise e o Office 365 ProPlus usando o Microsoft System Center Configuration Manager ou o Microsoft 365.
+- Atualizar o Windows 10 Enterprise e o Office 365 ProPlus usando o Gerenciador de Configurações do System Center ou o Microsoft 365.
   
 > [!NOTE]
 > O FastTrack oferece aos clientes uma abordagem, orientação e melhores práticas recomendadas elaboradas para fornecer resultados rápidos e previsíveis. Se você optar por implantar de forma diferente dessa orientação, sua experiência poderá ser afetada. A orientação é definida como uma combinação de assistência verbal e escrita. Quando os especialistas do FastTrack oferecem orientação, o pessoal do FastTrack não pode atuar em seu nome. Você pode usar os serviços do FastTrack para planos de qualificação, desde que sua assinatura seja atual.  
@@ -36,5 +36,18 @@ A tabela a seguir lista as funções e responsabilidades para o processo.
 |**Especialista do FastTrack** <br/> |Fornece todos os serviços de implantação e atualização remotamente.  <br/> Ajuda remotamente usando uma combinação de ferramentas e documentação publicada. <br/> Trabalha diretamente com você ou seu representante.|
 |**Centro FastTrack**  <br/> |Fornece orientação para planejar e implantar o Windows 10 Enterprise.   <br/> Oferece assistência e está disponível durante o horário comercial normal de cada região. <br/> Oferece assistência em chinês tradicional e em chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, português (Brasil), espanhol, tailandês e vietnamita.|
  
+Você pode obter ajuda no [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para entrar, você deve ter uma conta corporativa ou de estudante ativa (ID da organização ou ID do Azure Active Directory) ou um locatário ativo. 
 
+Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
+1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selecione **Serviços**.
+3.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
+  
+Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
+1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.  Selecione **Meus Clientes**.
+3.  Pesquise seu cliente ou selecione na lista de clientes.
+4.  Selecione **Serviços**.
+5.  Selecione o formulário **Solicitar assistência com o Microsoft 365**.
+6.  Selecione a opção de produto do Windows 10 e preencha o formulário.
  
