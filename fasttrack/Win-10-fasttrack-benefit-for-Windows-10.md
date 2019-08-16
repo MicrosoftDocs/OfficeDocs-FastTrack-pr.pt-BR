@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Você usa o Benefício do FastTrack Center para o Windows 10 quando adquire *pelo menos* 150 licenças para um serviço ou plano.
-ms.openlocfilehash: ddf69dae98fc9868f3071b470bdd67bbc1dd1e68
-ms.sourcegitcommit: d469f9b0dfa7f39fde051c38f255d6f5790f62f5
+ms.openlocfilehash: 6ef15aa75c24fe3d290de643fff0aec2cc0e80f5
+ms.sourcegitcommit: 7418a1878b0c254b239583c13a97f712c8c2bffe
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/12/2019
-ms.locfileid: "36294407"
+ms.lasthandoff: 08/15/2019
+ms.locfileid: "36427392"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Benefício do FastTrack Center para o Windows 10
 
@@ -24,7 +24,7 @@ Você usa o Benefício do FastTrack Center para o Windows 10 quando adquire pelo
 > [!NOTE]
 > Para os fins deste documento, os Especialistas do FastTrack podem incluir funcionários da Microsoft, fornecedores aprovados pela Microsoft e parceiros aprovados pela Microsoft. 
     
-- [Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)
+- [Windows 10](Win-10-windows-10.md)
 - [Desktop App Assure](Win-10-desktop-app-assure.md)
   
 
