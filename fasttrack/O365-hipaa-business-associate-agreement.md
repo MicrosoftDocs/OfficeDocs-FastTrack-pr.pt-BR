@@ -9,18 +9,18 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 'Caso tenha um Acordo de Parceiro Comercial HIPAA com a Microsoft para os serviços do FastTrack, todos os serviços relacionados no Benefícios do Centro FastTrack para Office 365 estarão incluídos neste Acordo, com exceção de:'
-ms.openlocfilehash: 8917e30a216f2d3ef0b4bb9727bfb38ba635102b
-ms.sourcegitcommit: 2dd6bbedc1a83e0dfed061efea9999958a680dcc
+ms.openlocfilehash: abd382f82e456993b4545766e55c9d653f649958
+ms.sourcegitcommit: dbc549e070dfaaffd24964b6826f1d749b5bd08b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/17/2019
-ms.locfileid: "37013480"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37026149"
 ---
-# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="e2f3d-103">Apêndice C: Acordo de Parceiro Comercial HIPAA do Centro FastTrack</span><span class="sxs-lookup"><span data-stu-id="e2f3d-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
+# <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="3c97b-103">Apêndice C: Acordo de Parceiro Comercial HIPAA do Centro FastTrack</span><span class="sxs-lookup"><span data-stu-id="3c97b-103">Appendix C - FastTrack Center HIPAA Business Associate Agreement</span></span>
 
-<span data-ttu-id="e2f3d-104">Caso tenha um Acordo de Parceiro Comercial HIPAA com a Microsoft para os serviços do FastTrack, todos os serviços relacionados listados no [Benefício do Centro FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md) estarão incluídos neste Acordo, com exceção de:</span><span class="sxs-lookup"><span data-stu-id="e2f3d-104">If you have a HIPAA Business Associate Agreement (BAA) with Microsoft for FastTrack Services, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are included in that BAA except:</span></span> 
+<span data-ttu-id="3c97b-104">Se você tiver um Contrato de Parceiro Comercial (BAA) da HIPAA com a Microsoft, todos os serviços relacionados aos [Benefícios do Centro FastTrack para Office 365](O365-fasttrack-benefit-for-office-365.md) serão executados de acordo com esse Baa, exceto:</span><span class="sxs-lookup"><span data-stu-id="3c97b-104">If you have a HIPAA Business Associate Agreement (BAA) with Microsoft for FastTrack Services, all services listed in the [FastTrack Center Benefit for Office 365](O365-fasttrack-benefit-for-office-365.md) are included in that BAA except:</span></span> 
   
-- <span data-ttu-id="e2f3d-105">Migrações do Gmail.</span><span class="sxs-lookup"><span data-stu-id="e2f3d-105">Gmail migrations.</span></span>   
-- <span data-ttu-id="e2f3d-106">Migrações do GroupWise.</span><span class="sxs-lookup"><span data-stu-id="e2f3d-106">GroupWise migrations.</span></span>
+- <span data-ttu-id="3c97b-105">Migrações do Gmail.</span><span class="sxs-lookup"><span data-stu-id="3c97b-105">Gmail migrations.</span></span>   
+- <span data-ttu-id="3c97b-106">Migrações do GroupWise.</span><span class="sxs-lookup"><span data-stu-id="3c97b-106">GroupWise migrations.</span></span>
     
 
