@@ -3,19 +3,19 @@ title: Suas responsabilidades
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Você tem as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 60bdfd0ba6a9d9840a8cdaaa64506c0aba8b1716
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 30e23a54e511e978c58fd3654ee160c1c7b74c1b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712099"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342146"
 ---
 # <a name="your-responsibilities"></a>Suas responsabilidades
 
@@ -99,8 +99,6 @@ Você tem as seguintes responsabilidades durante a integração.\*
 - Implemente a infraestrutura de cliente adequada.  
 - Implemente uma abordagem de provisionamento de usuários seguindo as orientações da Microsoft.  
 - Habilite vários serviços seguindo as orientações da Microsoft.  
-- Obtenha um Apple ID, caso esteja configurando o MDM (Gerenciamento de dispositivos móveis).   
-- Atualize seu certificado de Apple Push Notification Service (APNS).
     
 \*Para saber mais sobre suas responsabilidades no Office 365 US Government, confira [Suas responsabilidades no Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
