@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: d8a120c0f385549a6732a9d493313b5814b93be5
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: 96b6f61a995da806827e6d55ea6fc7becaf00ed0
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711463"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342338"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Processo de Benefício do Centro do FastTrack para o Enterprise Mobility + Security (EMS)
 Se sua organização está qualificada para o Centro de Benefício do FastTrack para EMS, você pode trabalhar remotamente com Especialistas do FastTrack para obter o Microsoft Azure Active Directory Premium, o Microsoft Intune e a Proteção de Informações do Azure prontos para uso. Você também pode solicitar ajuda por meio do [site FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Proteção de Informações do Azure, Microsoft Cloud App Security e Microsoft Advanced Threat Analytics. Para saber se sua organização está qualificada, consulte [Serviços e Planos Elegíveis](M365-eligible-services-and-plans.md).

@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: fc2fbf5911d3460a67941ca63a233731106a3823
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36711631"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342554"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -58,7 +58,6 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Project Online
 - Yammer Enterprise 
 - Office 365 ProPlus
-- Microsoft StaffHub
 - Windows 10
 - Azure Active Directory Premium
 - Proteção de Informações do Azure

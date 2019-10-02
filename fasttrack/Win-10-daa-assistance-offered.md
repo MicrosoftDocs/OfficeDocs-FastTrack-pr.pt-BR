@@ -3,19 +3,19 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 09/04/2019
+ms.date: 10/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ao comprar os serviços do Windows 10 ou o Microsoft 365 FastTrack especialistas oferecem comunicação e orientação de reparação para implantar para Windows 10 e no Office 365 ProPlus e a se manter atualizado sem custo adicional (com uma assinatura qualificada).
-ms.openlocfilehash: 4b91ca12c891634c455f0f1308edf31f04b1ceb4
-ms.sourcegitcommit: df949b40ade215de00f74771ffadf0d3be0de797
+ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
+ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/03/2019
-ms.locfileid: "36712243"
+ms.lasthandoff: 10/01/2019
+ms.locfileid: "37342566"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
@@ -51,7 +51,9 @@ O FastTrack não fornece assistência para:
 As responsabilidades do cliente incluem:
 - Criar um inventário de aplicativo.
 - Validar esses aplicativos no Windows 10 e no Office 365 ProPlus.
+
 > [!NOTE]
-> Microsoft não pode fazer alterações ao código-fonte. No entanto, a equipe do Desktop App Assure pode fornecer orientações para os desenvolvedores de aplicativo se o código-fonte estiver disponível para os aplicativos. [!NOTE]
-> O FastTrack não consegue corrigir versões mais antigas de aplicativos, suplementos ou macros de ISV se houver versões mais recentes com suporte no Windows 10 e no Office 365 ProPlus. [!NOTE]
+> Microsoft não pode fazer alterações ao código-fonte. No entanto, a equipe do Desktop App Assure pode fornecer orientações para os desenvolvedores de aplicativo se o código-fonte estiver disponível para os aplicativos.
+
+> [!NOTE]
 > Entre em contato um [parceiro da Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) para fornecer assistência para serviços identificados como fora do escopo.
