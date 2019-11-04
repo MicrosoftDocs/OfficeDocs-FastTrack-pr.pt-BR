@@ -3,19 +3,19 @@ title: Windows 10
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: O FastTrack fornece orientações de implantação do Windows 10 para ajudar você a atualizar do Windows 7 Professional e do Windows 8.1 Professional para o Windows 10 Enterprise.
-ms.openlocfilehash: ffbbde094e77bfc5ddf6155a318e7534e2a1c666
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e9999306b8ac1a6916562eb7ac0f422622c834da
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342650"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921565"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -24,6 +24,7 @@ O FastTrack fornece orientações de implantação do Windows 10 para ajudar voc
 - Implantar o Windows 10 Enterprise usando o Gerenciador de Configurações do Microsoft System Center ou o Microsoft 365.
 - Implantar o Office 365 ProPlus. 
 - Atualizar o Windows 10 Enterprise e o Office 365 ProPlus usando o Gerenciador de Configurações do System Center ou o Microsoft 365.
+- Vincular o Configuration Manager à nuvem com o Microsoft Intune ou implantar o Intune como a única solução de gerenciamento de nuvem.
   
 > [!NOTE]
 > O FastTrack oferece aos clientes uma abordagem, orientação e melhores práticas recomendadas elaboradas para fornecer resultados rápidos e previsíveis. Se você optar por implantar de forma diferente dessa orientação, sua experiência poderá ser afetada. A orientação é definida como uma combinação de assistência verbal e escrita. Quando os especialistas do FastTrack oferecem orientação, o pessoal do FastTrack não pode atuar em seu nome. Você pode usar os serviços do FastTrack para planos de qualificação, desde que sua assinatura seja atual.  

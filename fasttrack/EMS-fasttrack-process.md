@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,15 +14,15 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 96b6f61a995da806827e6d55ea6fc7becaf00ed0
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: af2fbd821af9297a10b6fce6bd625cf1518c6b42
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342338"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921325"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Processo de Benefício do Centro do FastTrack para o Enterprise Mobility + Security (EMS)
-Se sua organização está qualificada para o Centro de Benefício do FastTrack para EMS, você pode trabalhar remotamente com Especialistas do FastTrack para obter o Microsoft Azure Active Directory Premium, o Microsoft Intune e a Proteção de Informações do Azure prontos para uso. Você também pode solicitar ajuda por meio do [site FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Proteção de Informações do Azure, Microsoft Cloud App Security e Microsoft Advanced Threat Analytics. Para saber se sua organização está qualificada, consulte [Serviços e Planos Elegíveis](M365-eligible-services-and-plans.md).
+Se sua organização está qualificada para o Centro de Benefício do FastTrack para EMS, você pode trabalhar remotamente com Especialistas do FastTrack para obter o Microsoft Azure Active Directory Premium, o Microsoft Intune e a Proteção de Informações do Azure prontos para uso. Você também pode solicitar ajuda por meio do [site do FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Proteção de Informações do Azure e Microsoft Cloud App Security. Para saber se sua organização está qualificada, consulte [Serviços e Planos Elegíveis](M365-eligible-services-and-plans.md).
 
 
 Veja aqui o que abordamos sobre o processo de integração:

@@ -3,23 +3,23 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ao comprar os serviços do Windows 10 ou o Microsoft 365 FastTrack especialistas oferecem comunicação e orientação de reparação para implantar para Windows 10 e no Office 365 ProPlus e a se manter atualizado sem custo adicional (com uma assinatura qualificada).
-ms.openlocfilehash: c3b7838dd09854a027f1b9578a5faa6002aa3c7b
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: e114794d06b4c5aa7f3fd28bfe14ea4132780c16
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342566"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921921"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
-Ao comprar os serviços do Windows 10 ou o Microsoft 365 (como detalhado no [planos e serviços qualificados](M365-eligible-services-and-plans.md)), especialistas FastTrack fornecem orientação e soluções de reparo, caso encontre problemas de compatibilidade do aplicativo para implantar o Windows 10 e o Office 365 ProPlus e se manter atualizado sem custo adicional (com uma assinatura qualificada).
+Ao comprar os serviços do Windows 10 ou o Microsoft 365 (como detalhado no [planos e serviços qualificados](M365-eligible-services-and-plans.md)), especialistas FastTrack fornecem orientação e soluções de reparo, caso encontre problemas de compatibilidade do aplicativo para implantar o Windows 10 e o Office 365 ProPlus e se manter atualizado sem custo adicional (com uma assinatura qualificada). Além disso, agora oferecemos assistência para clientes que implantam a multissessão do Windows 10 Enterprise.
 
 Para obter ajuda, conclua a [solicitação do serviço do Desktop App Assure](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -38,6 +38,8 @@ O FastTrack fornece assistência para os seguintes:
     - Office 365 ProPlus para o direcionamento de uma versão compatível do Windows 10, incluindo os suplementos e macros.
     - Produtos e serviços Microsoft de direcionamento para uma versão compatível do Windows 10.
     - Aplicativos de área de trabalho e da web do Windows 10.
+    - Aplicativos virtualizados executados no RDSH (Host da Sessão da Área de Trabalho Remota) do Windows Server implantado na multissessão do Windows 10 Enterprise.
+
 > [!NOTE]
 > FastTrack faz todo o possível para resolver problemas de compatibilidade. 
 
@@ -45,7 +47,7 @@ O FastTrack fornece assistência para os seguintes:
 
 O FastTrack não fornece assistência para:
 - Inventário de aplicativos e testes para determinar o que funciona e o que não funciona no Windows 10 e no Office 365 ProPlus. Para mais orientações sobre este processo, visite o [Centro de Implantação do Computador](https://go.microsoft.com/fwlink/?linkid=2080140). Se você estiver interessado em uma avaliação aprofundada de prontidão de upgrade, preencha o formulário [Solicitação de Cliente para Avaliação de Computador Moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
-- Pesquisar aplicativos de terceiros do ISV para as instruções de compatibilidade e suporte do Windows 10. Para saber mais, confira [pronto para Windows](https://go.microsoft.com/fwlink/?linkid=2054580).
+- Pesquisar aplicativos ISV de terceiros para as instruções de compatibilidade e suporte do Windows 10. Para obter mais informações, confira [Análise da Área de Trabalho](https://docs.microsoft.com/pt-BR/sccm/desktop-analytics/overview).
 - Serviços de embalagem do aplicativo. No entanto, os pacotes da equipe do Desktop App Assure foram corrigidos no Windows 10 para garantir que eles possam ser implantados no ambiente do cliente.
 
 As responsabilidades do cliente incluem:
