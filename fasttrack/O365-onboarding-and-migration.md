@@ -3,19 +3,19 @@ title: Fases de integração e migração
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados.'
-ms.openlocfilehash: 16e777ea13a885eafac0185c3f282f0a856c5bb1
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 21b201c4c9d88c3b92c815beeef3e6ae46c3b73a
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342410"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37922637"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
@@ -97,10 +97,14 @@ Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua
 - Configurar os recursos do EOP (Proteção do Exchange Online) para todos os domínios habilitados para email validados no Office 365.
     > [!NOTE]
     > Seus registros de Troca de Mensagens (Mail Exchange, MX) devem apontar para o Office 365. 
-- Configurar o recurso de ATP (Proteção Avançada Contra Ameaças do Exchange Online) se ele fizer parte do seu serviço de assinatura. Isso é feito quando seus registros MX apontam para o Office 365. Esse recurso é configurado como parte das definições de antimalware da Proteção do Exchange Online.
+- Configurar o recurso de Proteção Avançada Contra Ameaças do Office 365 (ATP) se ele fizer parte do seu serviço de assinatura. Para obter mais informações, confira[Proteção avançada contra ameaças do Office365](#office-365-advanced-threat-protection).
 - Configurar o recurso de DLP (prevenção contra perda de dados) para todos os domínios habilitados para email validados no Office 365 como parte do serviço de assinatura. Isso é feito quando seus registros MX apontam para o Office 365.
 - Configurar o recurso de OME (Criptografia de Mensagens do Office 365) para todos os domínios habilitados para email validados no Office 365 como parte do serviço de assinatura. Isso é feito quando seus registros MX apontam para o Office 365.
-- Configurar portas do firewall.
+
+> [!NOTE]
+> O serviço de Replicação de Caixa de Correio (MRS) tenta migrar os emais do Gerenciamento de Direitos de Informação (IRM) da caixa de correio local para a caixa de correio correspondente do Exchange Online. A capacidade de ler o conteúdo protegido após a migração depende dos modelos de mapeamento e cópia do cliente dos Serviços Gerenciados por Direitos do Active Directory (AD RMS) para o Serviço de Gerenciamento de Direitos do Azure (Azure RMS).
+
+- Configuração das portas do firewall.
 - Configurar o DNS, incluindo a Descoberta Automática exigida, o SPF (Sender Policy Framework) e os registros MX (conforme necessário). 
 - Configurando o fluxo de email entre seu ambiente de mensagens de origem e o Exchange Online (conforme a necessidade).
 - Fornecer orientações para a migração de email do ambiente de mensagens de origem para o Office 365.
@@ -128,6 +132,14 @@ No OneDrive for Business, as etapas dependem de você estar usando o SharePoint 
   
 ![Etapas da integração ao OneDrive durante a fase Habilitar](media/O365-Onboarding-Enable-ODB.png)
   
+## <a name="office-365-advanced-threat-protection"></a>Proteção Avançada contra Ameaças do Office 365
+
+Na ATP do Office 365, fornecemos instruções para:
+- Habilitação de Links Seguros, Anexos Seguros e anti-phishing. 
+- Configuração de automação, investigação e resposta.
+- Uso do Simulador de Ataques.
+- Relatórios e análise de ameaças.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 No Microsoft Teams, fornecemos instruções para:
