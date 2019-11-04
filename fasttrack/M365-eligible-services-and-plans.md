@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: a9214126f8795d99c90b2008d16d99fc6dc83676
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342554"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921169"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -49,20 +49,22 @@ Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](ht
 
 O Centro FastTrack fornece assistência para os seguintes serviços:
   
-- Exchange Online
-- SharePoint Online
-- OneDrive for Business
-- Microsoft Teams
-- Skype for Business Online
-- Power BI
-- Project Online
-- Yammer Enterprise 
-- Office 365 ProPlus
-- Windows 10
 - Azure Active Directory Premium
 - Proteção de Informações do Azure
+- Exchange Online 
+- Proteção Avançada contra Ameaças do Microsoft Defender
 - Microsoft Intune
-    
+- Microsoft Teams
+- Proteção Avançada contra Ameaças do Office 365
+- Office 365 ProPlus
+- OneDrive for Business
+- Power BI
+- Project Online
+- SharePoint Online
+- Skype for Business Online
+- Windows 10
+- Yammer Enterprise 
+  
 ## <a name="eligible-microsoft-365-plans"></a>Planos qualificados do Microsoft 365
   
  **Microsoft 365 Enterprise**
