@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 10/02/2019
+ms.date: 11/02/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: c5cb280c3ac2280f0f32fda39258b68ee144e508
-ms.sourcegitcommit: 06eb1378c0f3601ca6909765ecacbff23db7e71f
+ms.openlocfilehash: 3163294fc53913a125beb560a0ec21f7aac96e22
+ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37342362"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921181"
 ---
 # <a name="source-environment-expectations"></a>Expectativas do Ambiente de Origem
 
@@ -35,7 +35,7 @@ A tabela a seguir mostra o que o seu ambiente de origem deverá conter para a in
 |Integração do Azure AD Premium|O Active Directory local e seu ambiente foram preparados para o Azure AD Premium, que inclui a correção de problemas identificados que impedem a integração com o Azure AD e os recursos do Azure AD Premium.|
 |Integração do Intune| Os administradores de TI precisam ter infraestruturas de Autoridade de Certificação, WiFi e VPN já existentes em seus ambientes de produção ao planejar a implantação de perfis WiFi e VPN com o Intune.<br /><br /> **Observação**: O benefício do serviço não inclui assistência para instalar ou configurar Autoridades de Certificação, WiFi, infraestruturas de VPN ou certificados de envio de MDM da Apple   |
 |Cogerenciamento|Com o cogerenciamento, os administradores de TI são responsáveis por preparar o ambiente local, o que pode incluir a correção de problemas que impedem o gerenciamento simultâneo de dispositivos Windows 10 usando o Configuration Manager e o Intune.<br /><br />**Observação**: Os benefícios do serviço do FastTrack não inclui assistência para configurar ou atualizar o servidor de site do Gerenciador de Configurações e/ou cliente do Gerenciador de Configurações com os requisitos mínimos necessários para oferecer suporte a cogerenciamento com dispositivos com Windows 10. |
-|Intune integrado com a Proteção Avançada contra Ameaças do Windows Defender (ATP do Windows Defender)|A assinatura ATP do Windows Defender foi ativada e configurada com base nos requisitos de segurança da sua empresa.<br /><br />**Observação**: Os benefícios do serviço do FastTrack fornece assistência na integração do Intune com o Windows Defender ATP e na criação de políticas de conformidade de dispositivos com base na avaliação do nível de risco do Windows 10. Os benefícios do serviço do FastTrack não fornece assistência na compra, no licenciamento, na ativação ou no uso do Windows Defender ATP e do console da Central de Segurança. |
+|Intune integrado à Proteção Avançada contra Ameaças (ATP) do Microsoft Defender|**Observação**: O benefício do serviço FastTrack fornece assistência na integração do Intune à ATP do Microsoft Defender e na criação de políticas de conformidade de dispositivo com base na avaliação do nível de risco do Windows 10. O benefício do serviço não fornece assistência na compra, licenciamento ou ativação. |
 |Windows Autopilot|Os administradores de TI são responsáveis por registrar os dispositivos em sua organização, fazendo com que o fornecedor de hardware carregue os IDs de hardware em nome deles ou fazendo o upload deles no serviço do Windows AutoPilot. |
 |Implantar o Outlook para iOS e Android de forma segura com o Intune|<br /><br />– Identidades dos usuários habilitadas no Azure Active Directory para Office 365.<br />– Exchange Online ou Exchange Híbrido configurado com licenças de usuário atribuídas.<br />|
 |Proteção de Informações do Azure (P2 ou EMS E5)|<br /><br />Os usuários já devem saber: <br /> – Usar o Azure AD.<br />– Usar o Windows ou o iOS (outros SOs estão fora do escopo).<br /> – Usar clientes do Office mais recentes que o Office 2010 SP2 que não dependam do Office como cliente principal. <br /> – Ter seus principais locais de compartilhamento de arquivos.  <br /> – Ter atualizado a partir de Active Directory Rights Management Services (AD RMS). <br /> – Ter uma taxonomia de classificação aprovada. <br /> – Entender as restrições normativas para o gerenciamento de chaves protegidas. <br />|
