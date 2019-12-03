@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 8f850c133d18ea42b50f3c4333092d5358d8b1c8
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 858294224aa18dc3f2aae927630498f49afeb872
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921589"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662912"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
@@ -103,7 +103,7 @@ A configuração do Azure AD Premium inclui os recursos a seguir:
 
 -   Até três (3) ou mais integrações de aplicativos de Software como um serviço (SaaS) com Logon Único (SSO) do [Azure Active Directory Marketplace](https://azure.microsoft.com/marketplace/active-directory/).
 
--   Provisionamento automático do usuário para aplicativos SaaS pré-instalados, como listados na [Lista de tutoriais de integração de aplicativost](https://docs.microsoft.com/pt-BR/azure/active-directory/saas-apps/tutorial-list), limitado apenas ao provisionamento de saída.
+-   Provisionamento automático do usuário para aplicativos SaaS pré-instalados, como listados na [Lista de tutoriais de integração de aplicativost](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list), limitado apenas ao provisionamento de saída.
 
 -   Tela de logon personalizada, incluindo logotipo, texto e imagens.
 
@@ -280,7 +280,7 @@ Os clientes têm orientação sobre como:
 As orientações também são fornecidas aos clientes que desejam aplicar a proteção usando Serviços de Gerenciamento de Direitos do Microsoft Azure (Azure RMS), Criptografia de Mensagens do Office 365 (OME) e Prevenção Contra Perda de Dados (DLP).
 
 > [!NOTE]
-> **Quer saber mais?**, consulte[Enterprise Mobility + Security](https://www.microsoft.com/pt-BR/cloud-platform/enterprise-mobility).
+> **Quer saber mais?**, consulte[Enterprise Mobility + Security](https://www.microsoft.com/cloud-platform/enterprise-mobility).
 
 ## <a name="next-steps"></a>Próximas etapas
 
