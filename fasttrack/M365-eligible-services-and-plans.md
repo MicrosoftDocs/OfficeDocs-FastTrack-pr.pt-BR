@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 984f10eb9c9854f28e5cb56537594f87aeb8cef7
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 47f0a830a289974b8cfe370101d4049f3f19816f
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921169"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662764"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -72,6 +72,7 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
+- Microsoft 365 F1*
 - Microsoft 365 Business\*
     
  **Microsoft 365 Education**
@@ -164,8 +165,6 @@ Para saber mais, confira [benefícios do FastTrack Center do Office 365](https:/
 |**Microsoft Intune**    |   Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.      |
 |**Microsoft Intune e Configuration Manager**     |    Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.     |
 |**Microsoft Intune para educação**     |  Qualificado se comprou como plano independente ou como parte do A3 ou A5.       |
-|**Proteção Avançada contra Ameaças do Azure**     |    Limitada. Qualificado somente se adquirido como um plano independente. Para fazer isso, acesse o [portal do Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).   |
-|**Segurança no Aplicativo da Nuvem da Microsoft**    |       Limitada. Qualificado somente se adquirido como um plano independente. Para fazer isso, acesse o [portal do Microsoft 365 FastTrack](https://go.microsoft.com/fwlink/p/?LinkId=2003903).    |
 
 Para saber mais, confira [benefícios da Central FastTrack para o Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 

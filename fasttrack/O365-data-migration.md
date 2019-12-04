@@ -3,19 +3,19 @@ title: Migração de dados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 11/02/2019
+ms.date: 12/03/2019
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 011ac6cd7a6f53872bf9545cb837700418415566
-ms.sourcegitcommit: f8d7e570b60a55c244af0eceb6fbb0e591257f11
+ms.openlocfilehash: 7f779d058fa8bfc916f6fffae06595595c660e81
+ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921241"
+ms.lasthandoff: 12/02/2019
+ms.locfileid: "39662924"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -66,10 +66,6 @@ As migrações são feitas 24 horas por dia, sete (7) dias por semana (24x7) de 
 #### <a name="us-governmentdod"></a>Governo dos EUA/DOD
 
 As migrações são feitas 24 horas por dia, cinco (5) dias úteis por semana (24x5) de forma padronizada e pré-agendada em intervalos de tempo de migração predefinidos. Existem três lotes de migração por dia de migração. Existem cinco dias de migração em uma semana, das 2h de segunda-feira até a meia-noite de sexta-feira, no Tempo Universal Coordenado (UTC). Isso significa que a última migração programada ocorre às 20h (UTC) de sexta-feira.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Alemanha
-
-As migrações são feitas 9 horas por dia, cinco (5) dias úteis por semana (9x5) de forma padronizada e pré-agendada em intervalos de tempo de migração predefinidos. Existe um lote de migração por dia de migração. Existem cinco dias de migração em uma semana, das 12h de segunda-feira (UTC) até as 21h de sexta-feira (UTC).
     
  ### <a name="end-state"></a>Estado final
   
@@ -172,10 +168,6 @@ As migrações são feitas 24 horas por dia, sete (7) dias por semana (24x7) de 
 
 As migrações são feitas 24 horas por dia, cinco (5) dias úteis por semana (24x5) de forma padronizada e pré-agendada em intervalos de tempo de migração predefinidos. Existem três lotes de migração por dia de migração. Existem cinco dias de migração em uma semana, das 2h de segunda-feira até a meia-noite de sexta-feira, no Tempo Universal Coordenado (UTC). Isso significa que a última migração programada ocorre às 20h (UTC) de sexta-feira.
 
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Alemanha
-
-As migrações são feitas 9 horas por dia, cinco (5) dias úteis por semana (9x5) de forma padronizada e pré-agendada em intervalos de tempo de migração predefinidos. Existe um lote de migração por dia de migração. Existem cinco dias de migração em uma semana, das 12h de segunda-feira (UTC) até as 21h de sexta-feira (UTC).
-
 - Todas as migrações estão sujeitas às cotas do SharePoint Online descritas no artigo [Limites de software do SharePoint Online e do OneDrive for Business](https://go.microsoft.com/fwlink/?LinkID=616612).   
 - A quantidade geral de dados migrados será vinculada a 75% da cota de armazenamento geral do SharePoint Online para o qual você está qualificado, incluindo o armazenamento adicional comprado separadamente.
     
@@ -230,8 +222,8 @@ Execute as seguintes tarefas durante as migrações:
 - Conduzir correção de migração pós-migração (se aplicável).
 - Planejar e implementar comunicações de usuário final e gerenciamento de alterações (se aplicável).   
 - Administrar e configurar as alterações feitas no sistema de origem e nos dispositivos necessários para a realização bem-sucedida das atividades de avaliação e migração.
-- Fornece um agendamento de um método definido e de uma lista de dados específicos do usuário a migrar para cada evento de migração, com pelo menos sete (7) dias de antecedência.
-- Remove dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
+- Fornece o agendamento de um método definido e de uma lista de dados específicos do usuário a migrar para cada evento de migração, com pelo menos três (3) dias de antecedência.
+- Remover os dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
 > [!NOTE]
 > A Microsoft não garante a velocidade de migração de arquivos.
     
@@ -255,10 +247,6 @@ As migrações são feitas 24 horas por dia, sete (7) dias por semana (24x7) de 
 #### <a name="us-governmentdod"></a>Governo dos EUA/DOD
 
 As migrações são feitas 24 horas por dia, cinco (5) dias úteis por semana (24x5) de forma padronizada e pré-agendada em intervalos de tempo de migração predefinidos. Existem três lotes de migração por dia de migração. Existem cinco dias de migração em uma semana, das 2h de segunda-feira até a meia-noite de sexta-feira, no Tempo Universal Coordenado (UTC). Isso significa que a última migração programada ocorre às 20h (UTC) de sexta-feira.
-
-#### <a name="germany-microsoft-cloud-deutschland-mcd"></a>Microsoft Cloud Deutschland (MCD) Alemanha
-
-As migrações são feitas 9 horas por dia, cinco (5) dias úteis por semana (9x5) de forma padronizada e pré-agendada em intervalos de tempo de migração predefinidos. Existe um lote de migração por dia de migração. Existem cinco dias de migração em uma semana, das 12h de segunda-feira (UTC) até as 21h de sexta-feira (UTC).
     
 - Todas as migrações requerem acesso e permissões adequados ao ambiente de origem.   
 - Todas as migrações estão sujeitas às cotas do OneDrive for Business descritas no artigo [Limites de software do SharePoint Online e do OneDrive for Business](https://go.microsoft.com/fwlink/?LinkId=698855).
@@ -285,7 +273,7 @@ Os Especialistas do FastTrack executam as seguintes tarefas durante as migraçõ
 - Fornece pré-requisitos para ferramentas de avaliação e migração conforme o aplicável para o cenário.  
 - Fornece pré-requisitos para o acesso da equipe de migração no ambiente de origem e destino para fins de avaliação e migração.   
 - Fornece ferramentas de avaliação para efetuar avaliações do ambiente de origem de destino ou fornecer instruções sobre como usar funções da plataforma fonte nativa para criar relatórios de avaliação.    
-- Fornece um agendamento de um método definido e de uma lista de dados específicos do usuário a migrar para cada evento de migração, com pelo menos sete (7) dias de antecedência.
+- Fornece o agendamento de um método definido e de uma lista de dados específicos do usuário a migrar para cada evento de migração, com pelo menos três (3) dias de antecedência.
 - Remove dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
 - Auxilia na implantação e na execução de ferramentas de avaliação e migração (se aplicável).   
 - Configura infraestrutura de migração em preparação para a migração de conteúdo (quando aplicável).    
