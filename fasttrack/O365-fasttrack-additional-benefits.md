@@ -3,18 +3,18 @@ title: Apêndice B Benefício adicional do Centro do FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Os clientes que compram pelo menos vinte mil licenças para um locatário do Exchange Online estão qualificados para usar serviços adicionais do Centro FastTrack. Para saber mais, confira Serviços e planos qualificados.
-ms.openlocfilehash: 45665010bf9e7f59a6afc0a9761155a3a841248c
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: 714a7bada3a57487403628722edddbe7a9bd43f6
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39662864"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929205"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apêndice B: Benefício adicional do Centro FastTrack
 
@@ -102,7 +102,6 @@ Os especialistas do FastTrack têm as responsabilidades a seguir durante a integ
 
 - Fornecer orientação sobre a coexistência da árvore de pasta pública única, incluindo:  
   - A preparação da pasta pública no Exchange 2007, no Exchange 2010 e no Exchange 2013. 
-  - Os cmdlets do Windows PowerShell necessários para sincronizar a hierarquia de pastas do Exchange 2007, do Exchange 2010 e do Exchange 2013 com o Exchange Online.  
   - A configuração do Exchange Online para redirecionar o acesso à pasta pública para pastas públicas locais.  
   - A configuração de acesso a pastas públicas do Exchange Online para um único ambiente local do Exchange 2007, do Exchange 2010 ou do Exchange 2013.  
   - Ajudar na validação de acesso para o ambiente de pasta pública para até 10 usuários no Exchange Online.

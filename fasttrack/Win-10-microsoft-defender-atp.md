@@ -3,19 +3,19 @@ title: Proteção Avançada contra Ameaças do Microsoft Defender
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 12/03/2019
+ms.date: 1/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Os benefícios da central FastTrack para Windows 10 oferecem acesso à proteção avançada contra ameaças (ATP) do Microsoft Defender: um novo serviço projetado para ajudar as redes corporativas a prevenir, detectar, investigar e responder a ameaças avançadas.'
-ms.openlocfilehash: ec430af7f79f51a65af096cb3cdeec78f673c3d3
-ms.sourcegitcommit: 39616c06c0617700b1393e055894acb6aa6f7776
+ms.openlocfilehash: df5729bedda6c87193eef7ad73022f5843abff5e
+ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663380"
+ms.lasthandoff: 01/02/2020
+ms.locfileid: "40929301"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Proteção Avançada contra Ameaças do Microsoft Defender
 
