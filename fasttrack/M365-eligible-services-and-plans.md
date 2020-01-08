@@ -10,16 +10,16 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 910ff60ff314f63bbd1fa2083e481399ac0aa7d2
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40928629"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959171"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
-Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo. 
+Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
 
 > [!IMPORTANT]
 > Você deve adquirir *pelo menos* 150 licenças da seguinte lista de planos qualificados para receber os serviços do FastTrack.

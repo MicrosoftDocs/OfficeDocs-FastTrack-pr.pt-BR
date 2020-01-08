@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 22ed819f96fbd87b31a2cb84cafaac735b206dd3
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 3e7ceca2b222425d3a679bb3dcd0ee94ef76c5b7
+ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929217"
+ms.lasthandoff: 01/07/2020
+ms.locfileid: "40959195"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -98,7 +98,6 @@ Os Especialistas do FastTrack executam as seguintes tarefas durante as migraçõ
 - Fornecer um modelo padrão para o agendamento de migrações de caixa de correio.
 - Fornecer informações sobre as permissões necessárias para Especialistas da FastTrack. 
 - Coletar um agendamento para a migração de caixas de correio predeterminadas no formatos predeterminados.
-- Compartilhar as ferramentas de verificação preliminares com você, para poder executá-las e corrigir as falhas preliminares de forma proativa, antes de migrar as caixas de correio com falha.
 - Tentar realizar a migração de uma única caixa de correio até duas vezes em um lote de migração, antes de relatar essa caixa de correio como uma falha na migração.
 - Para ambientes de origem no Exchange e baseados em IMAP4, migre o conteúdo da caixa de correio, até 85% do limite de armazenamento da caixa de correio do usuário (por exemplo, se o limite de armazenamento da caixa de correio for de 50 GB, a Microsoft migrará até 85% do limite de armazenamento de 50 GB). 
 - Habilitar a coexistência de roteamento de email SMTP entre o ambiente de mensagens de origem e o Exchange Online do Office 365, a menos que esteja usando uma migração de substituição.
