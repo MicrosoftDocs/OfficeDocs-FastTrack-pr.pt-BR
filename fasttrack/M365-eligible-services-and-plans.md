@@ -3,19 +3,19 @@ title: Serviços e planos qualificados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 08b1129c7758f26d98b0bdc3989e7f39f423da0e
-ms.sourcegitcommit: fe68534c2ac30220561ef73ca408986a937ca7df
+ms.openlocfilehash: be16cbd7248d9a05b75ea9bcccb48f0580febca6
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40959171"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677015"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -79,6 +79,7 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
+- Segurança 365 A5 da Microsoft\*
  
 ## <a name="eligible-office-365-plans"></a>Planos qualificados do Office 365
 
@@ -157,14 +158,35 @@ Para saber mais, confira [benefícios do FastTrack Center do Office 365](https:/
 
 ## <a name="eligible-enterprise-mobility--security-plans"></a>Qualificado Enterprise Mobility + planos de segurança
 
-|Planejar    |Detalhes de qualificação  |
-|---------|---------|
-|**Enterprise Mobility + Security (EMS) in E3 or E5**       |   Disponível para serviços de nuvem que estão qualificados para benefícios do FastTrack. Caso contrário, isso é direcionado para a referência de parceiro ou um especialista do Microsoft FastTrack.        |
-|**Azure Active Directory Premium**     |  Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.       |
-|**Proteção de Informações do Azure**    |  Disponível para P2, como parte do E5 ou como um plano independente. Disponível para os serviços de nuvem que estão disponíveis aos benefícios do FastTrack. O FastTrack compartilha o guia de auto-instalação para os serviços de nuvem P1.       |
-|**Microsoft Intune**    |   Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.      |
-|**Microsoft Intune e Configuration Manager**     |    Qualificado se adquirido como um plano independente ou como parte do E3 ou E5.     |
-|**Microsoft Intune para educação**     |  Qualificado se comprou como plano independente ou como parte do A3 ou A5.       |
+**Enterprise Mobility + Security** 
+
+- Enterprise Mobility + Security (EMS) E3\*\*\*\*
+- Enterprise Mobility + Security (EMS) E5\*\*\*\*
+
+**Azure Active Directory Premium**
+
+- Azure Active Directory Premium Plano 1
+- Azure Active Directory Premium Plano 2
+
+**Proteção de Informações do Azure**
+
+- Proteção de Informações do Azure Plano 2\*\*\*\*\*
+
+**Microsoft Intune**
+
+- Microsoft Intune
+
+**Microsoft Intune e Configuration Manager**
+
+- Microsoft Intune e Configuration Manager
+
+**Microsoft Intune para educação**
+
+- Microsoft Intune para educação
+
+\*\*\*\*Disponível para os serviços de nuvem que estão disponíveis aos benefícios do FastTrack. Caso contrário, isso é encaminhado para um especialista do FastTrack ou para indicação de parceiros.
+
+\*\*\*\*\*Disponível para P2, como parte do E5 ou como um plano independente. Disponível para os serviços de nuvem que estão disponíveis aos benefícios do FastTrack. O FastTrack compartilha o guia de auto-instalação para os serviços de nuvem P1.
 
 Para saber mais, confira [benefícios da Central FastTrack para o Enterprise Mobility + Security](EMS-fasttrack-benefit-for-EMS.md).
 
