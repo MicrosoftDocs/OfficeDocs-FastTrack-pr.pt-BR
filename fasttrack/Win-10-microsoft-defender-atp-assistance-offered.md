@@ -3,19 +3,19 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 1/03/2020
+ms.date: 2/04/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou Microsoft 365, os Especialistas do FastTrack fornecem orientações de implantação remota para proteger pontos de extremidade. Nosso serviço é adaptado ao ambiente e às necessidades de cada cliente.
-ms.openlocfilehash: d9ac7129a10e59198c5c60e131ae019598a2a4db
-ms.sourcegitcommit: d7f4c9eafe7855c6ae02c2bd0fe3b700c458007c
+ms.openlocfilehash: 7496b42c0fde63e950f687254e1e52085aada551
+ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/02/2020
-ms.locfileid: "40929181"
+ms.lasthandoff: 02/03/2020
+ms.locfileid: "41677261"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
@@ -24,9 +24,6 @@ Quando você compra qualquer um dos serviços do Windows 10 ou Microsoft 365 (co
 - Avalie o status dos seus serviços AV do Windows ou outro software de segurança do ponto de extremidade.
 - Avalie proxies e firewalls que restringem o tráfego de rede.
 - Identifique patrocinadores, discuta planos de implantação, datas de início e a cadência de reuniões de suporte.
-
-> [!NOTE]
-> A assistência é fornecida apenas em inglês no momento. 
 
 ## <a name="assistance"></a>Assistência
 
@@ -45,6 +42,10 @@ O FastTrack fornece assistência para os seguintes:
 O FastTrack não fornece assistência para:
 - Gerenciamento de projetos das atividades de correção do cliente.
 - Suporte no local.
+- Integração ou configuração para os seguintes agentes do Microsoft Defender ATP:
+   - Windows Server
+   - macOS
+   - Linux
 - Orientação sobre isolamento com base em hardware, controle de aplicativos, proteção contra exploração e firewall de rede.
 - Gerenciamento e resposta a ameaças contínuos.
 
