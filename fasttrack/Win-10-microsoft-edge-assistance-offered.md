@@ -3,19 +3,19 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/11/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou do Microsoft 365 (como detalhado em Serviços e planos qualificados), os especialistas do FastTrack oferecem orientações de compatibilidade e implantação remota se você tiver um aplicativo ou site da Web que funcione com o Internet Explorer ou Google Chrome.
-ms.openlocfilehash: 25306c2ac1a9fecd00daac1745dfcab62da99201
-ms.sourcegitcommit: cf6fd5a133d007ea395318540471691860c33303
+ms.openlocfilehash: 24fc9e2794f30897172aa422902919594d2c6114
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41891722"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347547"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida
 
@@ -23,8 +23,8 @@ Quando você compra qualquer um dos serviços qualificados do Windows 10 ou do M
 
 ## <a name="assistance"></a>Assistência
 
-O FastTrack fornece assistência para os seguintes:
-- Orientação para implantar o novo Microsoft Edge no Windows 10 Enterprise com o Microsoft Endpoint Manager (Configuration Manager) ou o Intune.
+O FastTrack fornece orientação remota para o seguinte:
+- Orientação para implantar o novo Microsoft Edge no Windows 10 Enterprise com o Gerenciador do Microsoft Endpoint (Gerenciador de Configurações do Microsoft Endpoint ou Microsoft Intune).
 - Orientação sobre a configuração do Microsoft Edge (usando políticas de grupo ou configuração do aplicativo do Intune e políticas de aplicativos).
 - Orientação para inventariar a lista de sites que podem exigir o uso no modo do Internet Explorer.
 - Orientação para habilitar o modo do Internet Explorer com a lista de sites corporativos existente.
@@ -33,15 +33,15 @@ Você pode solicitar orientação na implantação do Microsoft Edge no [centro 
 
 Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **Serviços**.
-3.  Preencha o formulário **Solicitar assistência com o Microsoft 365**.
+2.  Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
+3.  Preencha o formulário **Solicitar assistência para o Microsoft 365**.
   
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.  Selecione **Meus Clientes**.
 3.  Pesquise seu cliente ou selecione na lista de clientes.
 4.  Selecione **Serviços**.
-5.  Selecione o formulário **Solicitar assistência com o Microsoft 365**.
+5.  Selecione o formulário **Solicitar assistência para o Microsoft 365**.
 6.  Selecione a opção de produto do **Microsoft Edge** e preencha o formulário.
  
 Para obter ajuda sobre compatibilidade do aplicativo, conclua a [Solicitação da Garantia de Aplicativo](https://go.microsoft.com/fwlink/?linkid=2022721).
@@ -50,6 +50,6 @@ Os parceiros também podem obter ajuda no [site FastTrack](https://go.microsoft.
 
 ## <a name="out-of-scope"></a>Fora do escopo
 
-O FastTrack não fornece assistência para:
+Os serviços FastTrack não incluem:
 - Gerenciamento de projetos de implantação do Microsoft Edge no cliente.
 - Suporte no local.

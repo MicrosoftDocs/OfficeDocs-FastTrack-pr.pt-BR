@@ -3,19 +3,19 @@ title: O processo FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'O processo FastTrack oferece integração e serviços de adoção do usuário. '
-ms.openlocfilehash: a1c67af6c9bb19c967afcd32ba46ebc550068fd7
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677075"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347655"
 ---
 # <a name="the-fasttrack-process"></a>O processo FastTrack
 
@@ -43,8 +43,8 @@ Para obter ajuda pelo [centro de administração do Microsoft 365](https://go.mi
 
 Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **Serviços**.
-3.  Preencha o formulário **Solicitar assistência com o Microsoft 365**. 
+2.  Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
+3.  Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
   
  Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     
@@ -55,7 +55,7 @@ Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microso
 2.  Selecione **Meus Clientes**.
 3.  Pesquise seu cliente ou selecione na lista de clientes.
 4.  Selecione **Serviços**.
-5.  Preencha o formulário **Solicitar assistência com o Microsoft 365**. 
+5.  Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
 
 A tabela a seguir lista as funções e responsabilidades para o processo.
     

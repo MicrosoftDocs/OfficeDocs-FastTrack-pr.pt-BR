@@ -3,18 +3,18 @@ title: Apêndice B Benefício adicional do Centro do FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Os clientes que compram pelo menos vinte mil licenças para um locatário do Exchange Online estão qualificados para usar serviços adicionais do Centro FastTrack. Para saber mais, confira Serviços e planos qualificados.
-ms.openlocfilehash: 960f6651aeb8b55d8bc2b29ae9d34e1a31b59649
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676643"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347607"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apêndice B: Benefício adicional do Centro FastTrack
 
@@ -43,7 +43,7 @@ Para o Skype for Business online, fornecemos orientação para migração de usu
 Em relação ao Office 365 ProPlus, fornecemos as seguintes orientações: 
 - Avaliação e planejamento voltados para a preparação do ambiente para implantação inicial e gerenciamento de atualizações de acordo com as práticas recomendadas da Microsoft. 
 - Desenvolvimento de configurações de implantação e de atualização usando a Ferramenta de Personalização do Office e a Ferramenta de Implantação e Personalização do Office 365. 
-- Empacotamento de implantações usando o System Center Configuration Manager.  
+- Empacotamento de implantações usando o Gerenciador de Configurações do Microsoft Endpoint.  
 - Habilitação do uso do Readiness Toolkit for Office para identificar possíveis problemas de compatibilidade com as macros e suplementos do Microsoft Visual Basic para Applications (VBA) que você usa com o Office.
     
 ## <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack

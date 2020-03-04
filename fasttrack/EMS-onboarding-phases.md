@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: 02f5a1c0c2bbbe2526f0ee0fcea9da844dae1f6a
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 38d4c3c71c9127314f4453238a1b03a7b8945217
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676799"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347499"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
@@ -32,25 +32,23 @@ A integração tem quatro fases principais:
 Após adquirir o número e tipos de licença apropriados, siga as orientações do email de confirmação de compra para associar as licenças ao seu locatário existente ou ao novo locatário. Em seguida, a Microsoft verifica a qualificação para os Benefícios do Centro FastTrack e tenta entrar em contato com você para oferecer assistência de integração.
 
 > [!NOTE]
-> Você também pode solicitar assistência no [Centro do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), caso esteja pronto para implantar esses serviços para sua organização.
+> Você também pode solicitar assistência no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) se estiver pronto para implantar esses serviços em sua organização.
 
 ### <a name="to-request-assistance"></a>Para solicitar assistência
 
 1. Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Selecione **FastTrack**.
-3. Selecione **Serviços**.
-4. Preencha o formulário **Solicitar assistência com o Microsoft 365**.
+2. Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
+3. Preencha o formulário **Solicitar assistência para o Microsoft 365**.
 
 Assim que o suporte de integração for iniciado, definiremos um cronograma de reuniões online.
 
 Os parceiros da Microsoft também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente. Para fazer isso:
 
 1. Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698).
-2. Selecione **FastTrack**.
-3. Selecione **Meus Clientes**.
-4. Pesquise seu cliente ou selecione na lista de clientes.
-5. Selecione **Serviços**.
-6. Preencha o formulário **Solicitar assistência com o Microsoft 365**.
+2. Selecione **Meus Clientes**.
+3. Pesquise seu cliente ou selecione na lista de clientes.
+4. Selecione **Serviços**.
+5. Preencha o formulário **Solicitar assistência para o Microsoft 365**.
 
 Quando o suporte à integração começar, o FastTrack agendará uma programação de reuniões online com você para discutir o processo de integração, verificar dados e configurar uma reunião de lançamento.
 
@@ -123,6 +121,10 @@ A configuração do Azure AD Premium inclui os recursos a seguir:
 
 -   Revisões de Acesso do Azure Active Directory.
 
+-   Proteção de senha do Azure Active Directory.
+
+-   B2B do Azure Active Directory.
+
 ![Fase de habilitação de integração - Azure AD Premium](./media/ft-enable-phase_aad-premium_adconnect_adfed.png)
 
 ### <a name="enable-phase---intune"></a>Fase de Habilitação – Intune
@@ -162,7 +164,7 @@ Para o Intune, vamos orientá-lo a começar a usar o Microsoft Intune para geren
 
             -   Soluções de gerenciamento de despesas de telecomunicações (É necessário a assinatura de solução de gerenciamento de despesas de telecomunicações).
 
-            -   Proteção Avançada contra Ameaças do Windows Defender (As Licenças do Windows E5 ou do Microsoft 365 E5 são necessárias).
+            -   Proteção Avançada Contra Ameaças do Microsoft Defender (são necessárias licenças do Windows E5 ou Microsoft 365 E5).
 
     -   Registrando dispositivos de todas [as plataformas](https://technet.microsoft.com/library/dn600287.aspx) compatíveis com o Intune.
 
@@ -242,7 +244,7 @@ O FastTrack orienta você por meio de uma preparação para o gerenciamento simu
 
 - Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.
 
-- Forneça orientação sobre como migrar do Intune integrado com o System Center Configuration Manager (híbrido) para o Intune Standalone.
+- Forneça orientações sobre como migrar do Intune integrado ao Gerenciador de Configurações do Microsoft Endpoint para o Intune Autônomo.
 
 - Fornece orientação na configuração do Azure Active Directory para o registro automático do MDM.
 

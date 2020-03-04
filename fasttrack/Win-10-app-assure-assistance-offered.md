@@ -3,19 +3,19 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ao comprar os serviços do Windows 10 ou o Microsoft 365 FastTrack especialistas oferecem comunicação e orientação de reparação para implantar para Windows 10 e no Office 365 ProPlus e a se manter atualizado sem custo adicional (com uma assinatura qualificada).
-ms.openlocfilehash: 088901d2508acd679e261f3870476f8e21e79cdf
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41677195"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347679"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
@@ -40,6 +40,8 @@ O FastTrack fornece assistência de correção para os aplicativos implantados n
 
 - Se os seus sites ou aplicativos Web funcionarem no Internet Explorer 11, nas versões com suporte do Google Chrome ou em qualquer versão do Microsoft Edge, eles também funcionarão com o novo Microsoft Edge.
 
+Para obter orientações sobre a implantação do Microsoft Edge, confira [Visão geral dos canais do Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). À medida que a Web está em constante evolução, publicamos uma lista de [alterações conhecidas que afetam a compatibilidade do site para o Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
+
 ### <a name="windows-virtual-desktop"></a>Área de Trabalho Virtual do Windows
 
 - Aplicativos virtualizados executados em um Host de Sessão de Área de Trabalho Remota do Windows Server (RDSH) também são executados no Windows 10 Enterprise multisessão como parte da Área de Trabalho Virtual do Windows.
@@ -58,7 +60,7 @@ Para saber mais, confira [O que é Área de Trabalho Virtual do Windows?](https:
 
 ## <a name="out-of-scope"></a>Fora do escopo
 
-O FastTrack não fornece assistência para:
+Os serviços FastTrack não incluem:
 - Inventário de aplicativos e testes para determinar o que funciona e o que não funciona no Windows 10 e no Office 365 ProPlus. Para mais orientações sobre este processo, visite o [Centro de Implantação do Computador](https://go.microsoft.com/fwlink/?linkid=2080140). Se você estiver interessado em uma avaliação aprofundada de prontidão de upgrade, preencha o formulário [Solicitação de Cliente para Avaliação de Computador Moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Pesquisar aplicativos ISV de terceiros para as instruções de compatibilidade e suporte do Windows 10. Para obter mais informações, confira [Análise da Área de Trabalho](https://docs.microsoft.com/sccm/desktop-analytics/overview).
 - Serviços de embalagem do aplicativo. No entanto, os pacotes da equipe da Garantia de Aplicativo foram corrigidos no Windows 10 para garantir que eles possam ser implantados no ambiente do cliente.

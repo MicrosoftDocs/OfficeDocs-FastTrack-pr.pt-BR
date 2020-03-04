@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 2/04/2020
+ms.date: 3/03/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 0f5ed94a81a1846c8652cf78f96b6253ab774b5d
-ms.sourcegitcommit: 7365d80b2e4291e547c2d84b94da02697221abc9
+ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
+ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 02/03/2020
-ms.locfileid: "41676607"
+ms.lasthandoff: 03/02/2020
+ms.locfileid: "42347403"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
 
@@ -168,6 +168,10 @@ Fornece orientação sobre a configuração:
 
   - Revisões de Acesso do Azure Active Directory.
 
+  -   Proteção de senha do Azure Active Directory.
+
+  -   B2B do Azure Active Directory.
+
 ### <a name="enable-phase---intune"></a>Fase de Habilitação – Intune
 
 > [!IMPORTANT]
@@ -222,7 +226,7 @@ Fornece orientações sobre:
 
         -   Soluções de gerenciamento de despesas de telecomunicações (É necessário o gerenciamento de despesas de telecomunicações).
 
-        -   Proteção Avançada contra Ameaças do Windows Defender (As Licenças do Windows E5 ou do Microsoft 365 E5 são necessárias).
+        -   Proteção Avançada Contra Ameaças do Microsoft Defender (são necessárias licenças do Windows E5 ou Microsoft 365 E5).
 
     -   Configuração das atualizações de Software para plataformas com suporte aplicável.
 
