@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Integração do Office 365 para o Office 365 o governo dos EUA tem quatro fases principais: Iniciar, avaliar, corrigir e habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
-ms.openlocfilehash: eac974f67137a327b873b911a8c9906859fd3597
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 73c2647a6b1c34d2396d19bedecb7ca1768aba6f
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347523"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052988"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para o governo dos EUA do Office 365
 
@@ -34,16 +34,16 @@ Você pode obter ajuda no [centro de administração do Microsoft 365](https://g
 Para obter ajuda pelo [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. 
 
 Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da página inicial ou selecionando **solicitar assistência para o Microsoft 365** no cartão de implantação
-3. Preencha o formulário **solicitar assistência para o Microsoft 365** . 
+1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selecione **solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da página inicial ou selecionando **solicitar assistência para o Microsoft 365** no cartão de implantação
+3. Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
 
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
-1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **Meus Clientes**.
-3.  Pesquise seu cliente ou selecione na lista de clientes.
-4.  Selecione **Serviços**.
-5.  Preencha o formulário **solicitar assistência para o Microsoft 365** .   
+1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selecione **Meus Clientes**.
+3.    Pesquise seu cliente ou selecione na lista de clientes.
+4.    Selecione **Serviços**.
+5.    Preencha o formulário **Solicitar assistência para o Microsoft 365**.   
 
 Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     
@@ -184,11 +184,6 @@ No Office 365 ProPlus, fornecemos instruções para:
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
 - Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.    
 - Configurar um único servidor de distribuição no local para o Office 365 ProPlus, inclusive assistência com a criação de um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office 365.    
-- Implantação usando o Microsoft Endpoint Configuration Manager, incluindo a ajuda com a criação do pacote do Microsoft Endpoint Configuration Manager.
+- Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
     
 ![Etapas da integração ao Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
-
-  
-
-  
-
