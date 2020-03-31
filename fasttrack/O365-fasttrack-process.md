@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'O processo FastTrack oferece integração e serviços de adoção do usuário. '
-ms.openlocfilehash: 0a0b25956542edf1a0bc6636918c4bbbb07e388c
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8d16a291e883207bd5274e15ed47ae073e7bc1d8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347655"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052760"
 ---
 # <a name="the-fasttrack-process"></a>O processo FastTrack
 
@@ -42,20 +42,20 @@ Você pode obter ajuda no [centro de administração do Microsoft 365](https://g
 Para obter ajuda pelo [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704), o administrador deve entrar no centro de administração e clicar no widget **Precisa de ajuda?**. 
 
 Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
-3.  Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
+1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
+3.    Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
   
  Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     
  Assim que a assistência de integração for iniciada, definiremos um cronograma de reuniões online.
     
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
-1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **Meus Clientes**.
-3.  Pesquise seu cliente ou selecione na lista de clientes.
-4.  Selecione **Serviços**.
-5.  Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
+1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selecione **Meus Clientes**.
+3.    Pesquise seu cliente ou selecione na lista de clientes.
+4.    Selecione **Serviços**.
+5.    Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
 
 A tabela a seguir lista as funções e responsabilidades para o processo.
     
@@ -64,7 +64,3 @@ A tabela a seguir lista as funções e responsabilidades para o processo.
 |**Função** <br/> |**Responsabilidade** <br/> |
 |**Especialista do FastTrack** <br/> |Oferecem todos os serviços de integração, migração e adoção de usuário remotamente.  <br/> Ajuda remotamente usando uma combinação de ferramentas e documentação publicada. <br/> Trabalha diretamente com você ou seu representante. <br/> Fornece orientações para migração de emails e dados.|
 |**Centro FastTrack**  <br/> |Oferece orientações com a integração principal e a de serviço, e o planejamento bem-sucedido da adoção de serviços qualificados.  <br/> Oferece assistência e está disponível durante o horário comercial normal de cada região. <br/> Oferece assistência em chinês tradicional e em chinês simplificado (os recursos falam apenas mandarim), inglês, francês, alemão, italiano, japonês, coreano, português (Brasil), espanhol, tailandês e vietnamita.|
-
-
-  
-

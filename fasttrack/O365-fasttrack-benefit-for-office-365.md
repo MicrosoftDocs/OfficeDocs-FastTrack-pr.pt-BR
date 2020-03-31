@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Você usa os Benefícios do Centro FastTrack para Office 365 quando adquire pelo menos 150 licenças para um serviço ou plano qualificado para seu locatário do Office 365. Você trabalhará com Especialistas do FastTrack para avaliar, corrigir, habilitar e incentivar o uso desses serviços. Esses especialistas também oferecem orientações sobre migração.
-ms.openlocfilehash: 246786daecd665a2e9e6d02ae7a1699ae135ab40
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 9bb79dbf6c7dc770d460801048476e0e6e8ba8a8
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347379"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052736"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Benefício do FastTrack Center para o Office 365
 
@@ -55,3 +55,4 @@ Você está procurando informações sobre o [Benefício do FastTrack Center par
     
 > [!NOTE]
 > Este tópico tem uma finalidade apenas informativa. 
+

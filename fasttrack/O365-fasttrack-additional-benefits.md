@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Os clientes que compram pelo menos vinte mil licenças para um locatário do Exchange Online estão qualificados para usar serviços adicionais do Centro FastTrack. Para saber mais, confira Serviços e planos qualificados.
-ms.openlocfilehash: cfbd35f15f7e27e0c06e363ffa8279c1e2fcbba9
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 2cb4a8e5ba7378b96833c89da88db963e271552b
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347607"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052556"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apêndice B: Benefício adicional do Centro FastTrack
 
@@ -143,7 +143,3 @@ Você tem as responsabilidades a seguir durante a integração. Elas são adicio
 - Atribuir um patrocinador ou líder operacional com autoridade para tomar decisões para liderar o comitê de direcionamento.  
 - Atribuir um patrocinador executivo para trabalhar com o patrocinador executivo da Microsoft.  
 - Estabelecer uma reunião mensal do comitê de direcionamento.
-    
-
-  
-

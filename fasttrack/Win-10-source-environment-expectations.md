@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Benefícios do Centro FastTrack fornecem diretrizes para você configurar níveis de integração com o ambiente de origem para a implantação do Windows 10.
-ms.openlocfilehash: 6aa9b600ac68286cc788995f155f8c5ec63a84ad
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 17873396463de2a8b08563ea9245b7206890de1e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347631"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052280"
 ---
 # <a name="source-environment-expectations"></a>Expectativas do Ambiente de Origem
 
@@ -34,5 +34,3 @@ Para atualização da infraestrutura, você deve atender a estes requisitos:
 
 Para obter mais informações, confira a tabela de suporte do Configuration Manager em [Suporte para Windows 10 no Configuration Manager](https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10).
   
-
- 

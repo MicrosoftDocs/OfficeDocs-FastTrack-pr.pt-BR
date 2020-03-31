@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Com os Benefícios do Centro FastTrack para Office 365, você trabalha remotamente com Especialistas do FastTrack para deixar seu ambiente do Office 365 pronto para uso e planeja a implantação e o uso em sua organização. Para saber mais sobre a qualificação, confira Benefícios do Centro FastTrack para Office 365.
-ms.openlocfilehash: 83007d0d0b7e843f87e44cc8408529e657497308
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 8ce3fa3b8a0f677c520aa8ffd1924c4461ee17c2
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347427"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052748"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Visão geral dos Benefícios do Centro FastTrack
 
@@ -51,6 +51,4 @@ Seu locatário do Office 365 é criado quando a integração estiver concluída.
     > A implantação e configuração do AD FS e do WAP são feitas usando o [Assistente de configuração do Azure AD Connect](https://go.microsoft.com/fwlink/?linkid=844794) a partir de seu ambiente local. 
   
 - Os usuários licenciados agora podem acessar [Serviços e planos qualificados](M365-eligible-services-and-plans.md).
-    
 
- 
