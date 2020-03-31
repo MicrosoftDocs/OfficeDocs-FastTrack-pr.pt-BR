@@ -11,12 +11,12 @@ ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: face8c17be9ca475abfb9b6eaabdfc3584677e93
-ms.sourcegitcommit: 11301c8c12bee95f716208b0de74d74021429051
+ms.openlocfilehash: 7a441fcd3020e2d9194a72fd8d6f8c39c2cb7894
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/13/2020
-ms.locfileid: "42637387"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052340"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
@@ -160,7 +160,7 @@ Para o Intune, vamos orientá-lo a começar a usar o Microsoft Intune para geren
         -   Integração do Intune com:
             -   O Team Viewer para assistência remota (É necessária a assinatura do Team Viewer).
 
-            -   Soluções para parceiros de proteção de ameaças móveis (MTD) (É necessária a assinatura de Defesa contra Ameaças Móveis). 
+            -   Soluções para parceiros de proteção de ameaças móveis (MTD) (É necessária a assinatura de Defesa contra Ameaças Móveis).
 
             -   Soluções de gerenciamento de despesas de telecomunicações (É necessário a assinatura de solução de gerenciamento de despesas de telecomunicações).
 
@@ -232,41 +232,37 @@ As etapas para implantar o Outlook Mobile para iOS e Android com Intune dependem
     > [!IMPORTANT]
     > A equipe FastTrack não é compatível com a proteção do Outlook para iOS e Android com as políticas de caixa de correio de dispositivo móvel do Exchange.
 
-#### <a name="co-management"></a>Em conjunto
+#### <a name="cloud-attach"></a>Vincular à nuvem
 
-O FastTrack orienta você por meio de uma preparação para o gerenciamento simultâneo de dispositivos Windows 10 com o Configuration Manager e o Intune. As etapas exatas dependem do ambiente de origem e podem incluir:
+O FastTrack guia você para se preparar para vincular ambientes existentes do Gerenciador de Configurações à nuvem com o Intune. As etapas exatas dependem do ambiente de origem. Essas etapas podem incluir:
 
-- Explique os benefícios da cooperação.
+- Explicar os benefícios de vincular o Configuration Manager à nuvem com o Intune.
 
-- Licença para os usuários finais. O FastTrack também oferece assistência sobre como ativar licenças por volume para o locatário do serviço de nuvem da Microsoft (conforme necessário).
+- Licenciamento para os usuários finais. O FastTrack também oferece assistência sobre como ativar licenças por volume para o locatário do serviço de nuvem da Microsoft (conforme necessário).
 
-- Configuração de identidades a serem usadas pelo Intune, aproveitando o Active Directory local e/ou as identidades de nuvem.
+- A configuração de identidades que será usada pelo Intune, aproveitando o Active Directory local e as identidades de nuvem.
 
 - Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.
 
-- Forneça orientações sobre como migrar do Intune integrado ao Gerenciador de Configurações do Microsoft Endpoint para o Intune Autônomo.
+- Habilitação de vinculação à nuvem no console do Configuration Manager.
 
-- Fornece orientação na configuração do Azure Active Directory para o registro automático do MDM.
+- Fornecimento de diretrizes de configuração da associação híbrida do Azure Active Directory.
 
-- Fornece diretrizes de configuração da associação híbrida do Azure Active Directory.
+- Fornecimento de diretrizes para configuração do Azure Active Directory para o registro automático do MDM.
 
-- Fornece orientação sobre como configurar o gateway de gerenciamento de nuvem
+- Fornecimento de diretrizes sobre como configurar o gateway de gerenciamento de nuvem.
 
-- Habilitação do Cogerenciamento no console do Configuration Manager.
+- Configuração de cargas de trabalho compatíveis que você deseja passar para o Intune.
 
-- Configure as cargas de trabalho compatíveis que você deseja mudar para o Intune.
+- Instalação do cliente do Configuration Manager em dispositivos registrados no Intune.
 
-- Instalar o cliente do Configuration Manager no Intune dispositivos registrados.
-
-- Fornece orientação sobre como monitorar a atividade de Cogerenciamento em seu ambiente.
-
-O FastTrack também fornece orientações sobre como direcionar a adoção bem-sucedida dos serviços qualificados.
+O FastTrack também fornece diretrizes sobre como direcionar a adoção bem-sucedida dos serviços qualificados.
 
 ![Integração da fase de habilitação – Intune](./media/ft-enable-phase_intune_mam.png)
 
 ![Integração da fase de habilitação – Intune](./media/ft-enable-phase_intune_mdm-mam_cloudonly.png)
 
-![Integração da fase de habilitação – Cogerenciamento ](./media/ft-9-enable-phase-comanagement.png) 
+![Integração da fase de habilitação - Vincular à nuvem](./media/cloud-attach-diagram.png) 
 
 #### <a name="enable-phase--azure-information-protection"></a>Fase de habilitação – Proteção de Informações do Azure
 
@@ -287,3 +283,4 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 ## <a name="next-steps"></a>Próximas etapas
 
 [Benefícios do FastTrack para EMS – Responsabilidades da Microsoft](EMS-fasttrack-responsibilities.md)
+
