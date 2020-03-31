@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: O FastTrack fornece orientações de implantação do Windows 10 para ajudar você a atualizar do Windows 7 Professional e do Windows 8.1 Professional para o Windows 10 Enterprise.
-ms.openlocfilehash: 8d959c773009f144b258d18629c18a94d5c180fb
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 71abbc8958e462bef41aae4bbf9bdda9503ed50e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347511"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052505"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -27,7 +27,7 @@ O FastTrack fornece orientações de implantação do Windows 10 para ajudar voc
 - Vincular o Configuration Manager à nuvem com o Microsoft Intune ou implantar o Intune como a única solução de gerenciamento de nuvem.
   
 > [!NOTE]
-> O FastTrack oferece aos clientes uma abordagem, orientação e melhores práticas recomendadas elaboradas para fornecer resultados rápidos e previsíveis. Se você optar por implantar de forma diferente dessa orientação, sua experiência poderá ser afetada. A orientação é definida como uma combinação de assistência verbal e escrita. Quando os especialistas do FastTrack oferecem orientação, o pessoal do FastTrack não pode atuar em seu nome. Você pode usar os serviços do FastTrack para planos de qualificação, desde que sua assinatura seja atual.  
+> O FastTrack oferece aos clientes uma abordagem, orientação e melhores práticas recomendadas elaboradas para fornecer resultados rápidos e previsíveis. Se você optar por implantar de forma diferente dessa orientação, sua experiência poderá ser afetada. A orientação é definida como uma combinação de assistência verbal e escrita. Quando os Especialistas do FastTrack oferecem orientação, a equipe do FastTrack não pode atuar em seu nome. Você pode usar os serviços do FastTrack para planos de qualificação, desde que sua assinatura seja atual.  
     
 A tabela a seguir lista as funções e responsabilidades para o processo.
 
@@ -40,15 +40,15 @@ A tabela a seguir lista as funções e responsabilidades para o processo.
 Você pode obter ajuda no [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) ou no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). Para entrar, você deve ter uma conta corporativa ou de estudante ativa (ID da organização ou ID do Azure Active Directory) ou um locatário ativo. 
 
 Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
-1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
-3.  Preencha o formulário **Solicitar assistência para o Microsoft 365**.
+1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
+3.    Preencha o formulário **Solicitar assistência para o Microsoft 365**.
   
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
-1.  Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.  Selecione **Meus Clientes**.
-3.  Pesquise seu cliente ou selecione na lista de clientes.
-4.  Selecione **Serviços**.
-5.  Selecione o formulário **Solicitar assistência para o Microsoft 365**.
-6.  Selecione a opção de produto do Windows 10 e preencha o formulário.
+1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
+2.    Selecione **Meus Clientes**.
+3.    Pesquise seu cliente ou selecione na lista de clientes.
+4.    Selecione **Serviços**.
+5.    Selecione o formulário **Solicitar assistência para o Microsoft 365**.
+6.    Selecione a opção de produto do Windows 10 e preencha o formulário.
  

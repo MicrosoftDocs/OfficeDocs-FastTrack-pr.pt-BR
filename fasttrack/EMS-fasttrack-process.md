@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: dd221c87-6bf7-4af8-845a-dc4c3a4f2334
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 5ba44a6c06fa8d607bb9587e33e9a4508b4eb48a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: de8a5570478cd0b6317a7b6da8430272983dca68
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347389"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052316"
 ---
 # <a name="fasttrack-center-benefit-process-for-enterprise-mobility--security-ems"></a>Processo de Benefício do Centro do FastTrack para o Enterprise Mobility + Security (EMS)
 Se sua organização está qualificada para o Centro de Benefício do FastTrack para EMS, você pode trabalhar remotamente com Especialistas do FastTrack para obter o Microsoft Azure Active Directory Premium, o Microsoft Intune e a Proteção de Informações do Azure prontos para uso. Você também pode solicitar ajuda por meio do [site do FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/ems) para Proteção de Informações do Azure e Microsoft Cloud App Security. Para saber se sua organização está qualificada, consulte [Serviços e Planos Elegíveis](M365-eligible-services-and-plans.md).
@@ -58,3 +58,4 @@ Veja a seguir o que você pode esperar quando a integração for concluída:
         -   Capacidade de descobrir informações em compartilhamentos de arquivos locais e servidores do SharePoint com o scanner de Proteção de Informações do Azure. 
 
         -   Capacidade de gerenciar as chaves do locatário de Proteção de Informações do Azure no Azure Key Vault. 
+

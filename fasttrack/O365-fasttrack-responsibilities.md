@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: f7fc935c51bdab416bedd9e1681d9c6940aa2999
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 0a6ec092c8c9ec5ba574465fc10a59ae48e7b23e
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347763"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052268"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
@@ -146,7 +146,7 @@ Fornece orientação sobre:
 
 Fornece orientação sobre:
 - Solução de problemas de implantação.
-- Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.
+- Atribuir licenças baseadas em dispositivos e usuários finais usando o [Centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.
 - Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.
 - Instalar os aplicativos do Office Mobile (como Outlook para iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile. 
 - Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.
@@ -243,4 +243,3 @@ Fornece orientação sobre:
 Fornecer orientação sobre como converter sua rede do Yammer Basic única em uma rede do Yammer Enterprise única.
   
 \*Para saber mais sobre as responsabilidades do FastTrack para Office 365 US Government, confira [Responsabilidades do FastTrack para Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md).
-
