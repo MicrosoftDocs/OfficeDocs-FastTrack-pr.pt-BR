@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Ao comprar os serviços do Windows 10 ou o Microsoft 365 FastTrack especialistas oferecem comunicação e orientação de reparação para implantar para Windows 10 e no Office 365 ProPlus e a se manter atualizado sem custo adicional (com uma assinatura qualificada).
-ms.openlocfilehash: 4cbd6e82c5f2907171da86c8c08f9c4d35a5966a
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 69804ab95b01ad45191f95a5b16405790fd6e500
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347679"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052952"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
@@ -38,7 +38,7 @@ O FastTrack fornece assistência de correção para os aplicativos implantados n
 
 ### <a name="the-new-microsoft-edge"></a>O novo Microsoft Edge
 
-- Se os seus sites ou aplicativos Web funcionarem no Internet Explorer 11, nas versões com suporte do Google Chrome ou em qualquer versão do Microsoft Edge, eles também funcionarão com o novo Microsoft Edge.
+- Se os seus sites ou aplicativo Web funcionarem no Internet Explorer 11, nas versões com suporte do Google Chrome ou em qualquer versão do Microsoft Edge, eles também funcionarão no novo Microsoft Edge.
 
 Para obter orientações sobre a implantação do Microsoft Edge, confira [Visão geral dos canais do Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). À medida que a Web está em constante evolução, publicamos uma lista de [alterações conhecidas que afetam a compatibilidade do site para o Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
 
@@ -61,9 +61,9 @@ Para saber mais, confira [O que é Área de Trabalho Virtual do Windows?](https:
 ## <a name="out-of-scope"></a>Fora do escopo
 
 Os serviços FastTrack não incluem:
-- Inventário de aplicativos e testes para determinar o que funciona e o que não funciona no Windows 10 e no Office 365 ProPlus. Para mais orientações sobre este processo, visite o [Centro de Implantação do Computador](https://go.microsoft.com/fwlink/?linkid=2080140). Se você estiver interessado em uma avaliação aprofundada de prontidão de upgrade, preencha o formulário [Solicitação de Cliente para Avaliação de Computador Moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
+- Inventário de aplicativos e testes para determinar o que funciona e o que não funciona no Windows 10 e no Office 365 ProPlus. Para mais orientações sobre este processo, visite o [Centro de Implantação do Computador](https://go.microsoft.com/fwlink/?linkid=2080140). Se você estiver interessado em uma avaliação de preparação para atualização detalhada, preencha o formulário [Solicitação de Cliente para Avaliação de Computador Moderno](https://go.microsoft.com/fwlink/?linkid=2053818).
 - Pesquisar aplicativos ISV de terceiros para as instruções de compatibilidade e suporte do Windows 10. Para obter mais informações, confira [Análise da Área de Trabalho](https://docs.microsoft.com/sccm/desktop-analytics/overview).
-- Serviços de embalagem do aplicativo. No entanto, os pacotes da equipe da Garantia de Aplicativo foram corrigidos no Windows 10 para garantir que eles possam ser implantados no ambiente do cliente.
+- Serviços de embalagem do aplicativo. No entanto, os pacotes de equipe da Garantia de Aplicativo foram corrigidos no Windows 10 para garantir que possam ser implantados no ambiente do cliente.
 
 As responsabilidades do cliente incluem:
 - Criar um inventário de aplicativo.
@@ -74,3 +74,5 @@ As responsabilidades do cliente incluem:
 
 > [!NOTE]
 > Entre em contato um [parceiro da Microsoft](https://go.microsoft.com/fwlink/?linkid=2080150) para fornecer assistência para serviços identificados como fora do escopo.
+
+

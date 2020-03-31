@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 0590b7b2-0965-437b-b3ca-bd55de1abb09
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 2f9f74d5f46f5d5d53f79a9f1c39e9534cdaa643
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: bec4a709c6728803b383db40f53fc84826fa6b55
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347475"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052525"
 ---
 # <a name="your-responsibilities"></a>Suas responsabilidades
 
@@ -63,11 +63,11 @@ Você tem as seguintes responsabilidades durante a integração.
 
 -   Fornecer e configurar certificados de protocolo SSL públicos.
 
--   Configure ou atualize o Configuration Manager para os requisitos mínimos de integração do Microsoft Intune com o Configuration Manager.
+-     Configure ou atualize o Configuration Manager para os requisitos mínimos de integração do Microsoft Intune com o Configuration Manager.
 
--   Se necessário, para implantar os perfis Wi-Fi e VPN com o Intune, forneça e configure autoridade de certificação, as infraestruturas de Wi-Fi e VPN, conforme necessário.
+-     Se necessário, para implantar os perfis Wi-Fi e VPN com o Intune, forneça e configure autoridade de certificação, as infraestruturas de Wi-Fi e VPN, conforme necessário.
 
--   Escreva a declaração de termos de uso da organização a ser configurada e exibida no portal da empresa no Microsoft Intune que usuários finais possam acessar.
+-   Escreva a declaração de Termos de Uso da organização a ser configurada e exibida no portal da empresa no Microsoft Intune que os usuários finais possam acessar.
 
 -   Atualize os clientes e o servidor do site do Configuration Manager para as versões mais recentes do build (quando necessário).
 
@@ -127,5 +127,6 @@ Você tem as seguintes responsabilidades durante a integração.
 ## <a name="see-also"></a>Confira também
 
 - [Benefícios do FastTrack para o EMS](EMS-fasttrack-benefit-for-EMS.md)
+
 - [Benefícios do FastTrack para o Office 365](O365-fasttrack-benefit-for-office-365.md)
 

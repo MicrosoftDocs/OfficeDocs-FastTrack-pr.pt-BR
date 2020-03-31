@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 3313834ef5c342d71f6c3940bd55d62bc1e87863
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347403"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052256"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
 
@@ -249,43 +249,37 @@ Fornece orientações sobre:
     > [!NOTE]
     > Configuração do Windows Autopilot fora do Intune está fora do escopo dos benefícios do FastTrack.
 
-### <a name="enable-phase---co-management"></a>Fase de habilitação – Cogerenciamento 
+### <a name="enable-phase---cloud-attach"></a>Fase de habilitação - Vincular à nuvem
 
 Fornece orientações sobre:
 
 -   Licenciamento para os usuários finais.
 
--   Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI, criação de usuários e grupos de dispositivos (se o Intune não estiver instalado).
+-   Implementação da vinculação à nuvem no console do Configuration Manager.
 
--   Configuração do Azure Active Directory para o registro automático do MDM.
+-   Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de usuários e grupos de dispositivos (se o Intune não estiver instalado).
 
 -   Configuração da adição híbrida do Azure Active Directory.
+
+-   Configuração do Azure Active Directory para o registro automático do MDM.
 
 -   Configuração do Gateway de Gerenciamento de Nuvem.
 
 -   Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.
 
--   Preparar o Intune (se o Intune não estiver instalado):
+-   Preparando o serviço do Intune para o gerenciamento de dispositivos:
 
-    -   Configuração da autoridade de Gerenciamento de Dispositivo Móvel (MDM), com base em suas necessidades de gerenciamento, incluindo:
-
-    -   Configuração do Intune como autoridade do MDM.
+    -   Definição da autoridade de gerenciamento de dispositivo móvel (MDM) para o Intune.
 
     -   Configuração de grupos de testes a serem usados para validar as políticas de gerenciamento do MDM.
 
     -   Navegação pelo portal de administração do Intune para localizar informações sobre dispositivos e usuários.
 
-    -   Configuração das funções do Intune (Operadora de suporte técnico, administradores, etc.)
+    -   Definição das funções do Intune (operador da assistência técnica, administradores e assim por diante).
 
-    -   Configuração e implantação das políticas de proteção de aplicativo do Intune para cada plataforma com suporte.
+    -   Registro de dispositivos com Windows 10 para o Intune.
 
-    -   Registro de dispositivos Windows 10 para o Intune.
-
-- Habilitação do Cogerenciamento no console do Configuration Manager.
-
-- Alternância de cargas de trabalho para o Intune.
-
-- Monitoração da atividade de Cogerenciamento em seu ambiente.
+    -   Alternância de cargas de trabalho para gerenciamento do Intune conforme desejado.
 
 ### <a name="enable-phase--azure-information-protection"></a>Fase de habilitação – Proteção de Informações do Azure
 
@@ -311,3 +305,4 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 ## <a name="next-steps"></a>Próximas etapas
 
 [Benefícios do FastTrack para EMS – Suas responsabilidades](EMS-your-responsibilities.md)
+

@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 37fd12c6fd2b9fa09c27954f9119ad864983e691
-ms.sourcegitcommit: 79a5b31863be3d554223f75ca866dcf40dd2c2dd
+ms.openlocfilehash: 72817a8fca704e480dd2e2b33287890b5e6450ea
+ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42347463"
+ms.lasthandoff: 03/30/2020
+ms.locfileid: "43052328"
 ---
 # <a name="source-environment-expectations"></a>Expectativas do Ambiente de Origem
 
@@ -33,8 +33,8 @@ A tabela a seguir mostra o que o seu ambiente de origem deverá conter para a in
 |------------|----------------------------------|
 |Integração do núcleo|Florestas do Active Directory com o nível funcional de floresta definido como o Windows Server 2008 ou superior, com a seguinte configuração de floresta:<br /><br />– Única floresta do Active Directory.<br />– Várias florestas do Active Directory. </br></br>**Observação**: Para todas as configurações de várias florestas, a implantação do Serviço de Federação do Active Directory (AD FS) está fora do escopo do Benefício do Centro FastTrack.|
 |Integração do Azure AD Premium|O Active Directory local e seu ambiente foram preparados para o Azure AD Premium, que inclui a correção de problemas identificados que impedem a integração com o Azure AD e os recursos do Azure AD Premium.|
-|Integração do Intune| Os administradores de TI precisam ter infraestruturas de Autoridade de Certificação, WiFi e VPN já existentes em seus ambientes de produção ao planejar a implantação de perfis WiFi e VPN com o Intune.<br /><br /> **Observação**: O benefício do serviço não inclui assistência para instalar ou configurar Autoridades de Certificação, WiFi, infraestruturas de VPN ou certificados de envio de MDM da Apple   |
-|Cogerenciamento|Com o cogerenciamento, os administradores de TI são responsáveis por preparar o ambiente local, o que pode incluir a correção de problemas que impedem o gerenciamento simultâneo de dispositivos Windows 10 usando o Configuration Manager e o Intune.<br /><br />**Observação**: Os benefícios do serviço do FastTrack não inclui assistência para configurar ou atualizar o servidor de site do Gerenciador de Configurações e/ou cliente do Gerenciador de Configurações com os requisitos mínimos necessários para oferecer suporte a cogerenciamento com dispositivos com Windows 10. |
+|Integração do Intune| Os administradores de TI precisam ter infraestruturas de Autoridade de Certificação, WiFi e VPN já existentes em seus ambientes de produção ao planejar a implantação de perfis WiFi e VPN com o Intune.<br /><br /> **Observação**: o benefício de serviço não inclui assistência para instalar ou configurar Autoridades de Certificação, WiFi, infraestruturas de VPN ou certificados enviados por push de MDM da Apple    |
+|Vincular Configuration Manager à nuvem com Intune|Com a vinculação à nuvem, os administradores de TI são responsáveis por preparar o ambiente local, o que pode incluir a correção de problemas que impedem a vinculação dos ambientes do Configuration Manager à nuvem com Intune.<br /><br />**Observação**: o benefício do serviço do FastTrack não inclui assistência para configurar ou atualizar o servidor de site ou cliente do Configuration Manager com os requisitos mínimos necessários para oferecer suporte à vinculação à nuvem. |
 |Intune integrado à Proteção Avançada contra Ameaças (ATP) do Microsoft Defender|**Observação**: O benefício do serviço FastTrack fornece assistência na integração do Intune à ATP do Microsoft Defender e na criação de políticas de conformidade de dispositivo com base na avaliação do nível de risco do Windows 10. O benefício do serviço não fornece assistência na compra, licenciamento ou ativação. |
 |Windows Autopilot|Os administradores de TI são responsáveis por registrar os dispositivos em sua organização, fazendo com que o fornecedor de hardware carregue os IDs de hardware em nome deles ou fazendo o upload deles no serviço do Windows AutoPilot. |
 |Implantar o Outlook para iOS e Android de forma segura com o Intune|<br /><br />– Identidades dos usuários habilitadas no Azure Active Directory para Office 365.<br />– Exchange Online ou Exchange Híbrido configurado com licenças de usuário atribuídas.<br />|
@@ -48,3 +48,4 @@ A tabela a seguir mostra o que o seu ambiente de origem deverá conter para a in
 ## <a name="next-steps"></a>Próximas etapas
 
 [Benefícios do Centro do FastTrack para as fases de integração EMS](EMS-onboarding-phases.md)
+
