@@ -3,18 +3,18 @@ title: 'Apêndice C: Acordo de Parceiro Comercial HIPAA do Centro FastTrack'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: 'Caso tenha um Acordo de Parceiro Comercial HIPAA com a Microsoft para os serviços do FastTrack, todos os serviços relacionados no Benefícios do Centro FastTrack para Office 365 estarão incluídos neste Acordo, com exceção de:'
-ms.openlocfilehash: ed6d259afa689b7dacd3269d271155593cbb2410
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b6d0d438a5a0e0be3a12c6287e7442b9cb557e42
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052772"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098049"
 ---
 # <a name="appendix-c---fasttrack-center-hipaa-business-associate-agreement"></a>Apêndice C: Acordo de Parceiro Comercial HIPAA do Centro FastTrack
 
