@@ -3,19 +3,19 @@ title: Migração de dados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: c0dae3b6f052e13693ed226b312cbdf0b0866d7b
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: d7fdf8a6f751e2443449c8ef29e33df2978695a5
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052568"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43098133"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -50,12 +50,11 @@ A tabela a seguir descreve o que deve ser migrado em seu ambiente de origem exis
 |**Migração do OneDrive for Business**  <br/> | Compartilhamentos de arquivos (compartilhamentos de arquivos com protocolo SMB em dispositivos compatíveis com SMB 2.0 em diante).  <br/>  Um único ambiente do G Suite (apenas Google Drive).  <br/>  Box (Starter, Business, Enterprise). <br/> <br/> **Observação** *O FastTrack migra apenas para unidades ativas do Office 365.*|
    
 ## <a name="migration-to-exchange-online"></a>Migração para o Exchange Online
-
+''
 ### <a name="enable-to-migrate"></a>Habilitar para migrar
   
-Se você usar a Microsoft para migrar seu email, daremos orientações para habilitar o Exchange Online e o ambiente de origem para a migração. Podemos realizar diversas etapas de Habilitar, dependendo da origem. Damos orientações usando uma combinação de ferramentas e documentação, além de realizar tarefas de configuração, quando for aplicável e viável. Sujeito a parâmetros aplicáveis, migramos as caixas de correio, monitoramos trabalhos e fornecemos relatórios de status.
-  
-A Microsoft pode exigir permissões e acesso apropriados ao seu sistema de email para realizar as atividades de migração.
+Se você usar a Microsoft para migrar seu email, forneceremos orientações para habilitar o Exchange Online e o ambiente de origem para a migração. Podemos realizar diversas etapas de Habilitar, dependendo da origem. Damos orientações usando uma combinação de ferramentas e documentação, além de realizar tarefas de configuração, quando for aplicável e viável. Sujeito a parâmetros aplicáveis, migramos as caixas de correio, monitoramos trabalhos e fornecemos relatórios de status.
+"A Microsoft pode exigir permissões e acesso apropriados ao seu sistema de email para realizar as atividades de migração.
   
 ### <a name="migration-policy-and-steps"></a>Etapas e políticas de migração
   
@@ -225,7 +224,7 @@ Execute as seguintes tarefas durante as migrações:
 - Planejar e implementar comunicações de usuário final e gerenciamento de alterações (se aplicável).   
 - Administrar e configurar as alterações feitas no sistema de origem e nos dispositivos necessários para a realização bem-sucedida das atividades de avaliação e migração.
 - Fornece o agendamento de um método definido e de uma lista de dados específicos do usuário a migrar para cada evento de migração, com pelo menos três (3) dias de antecedência.
-- Remove dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
+- Remover os dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
 > [!NOTE]
 > A Microsoft não garante a velocidade de migração de arquivos.
     

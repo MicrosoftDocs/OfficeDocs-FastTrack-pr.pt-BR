@@ -5,7 +5,7 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 3/03/2020
+ms.date: 4/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
@@ -14,12 +14,12 @@ ms.collection: FastTrack
 ms.assetid: c8fd871e-f1bc-43ec-a5f3-ad025df9b026
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 6bf4be4247f65ced12052e75692f9fda47cab0ac
-ms.sourcegitcommit: 7a2535e510420496dabfcea5accbb36ab2fe21d2
+ms.openlocfilehash: b87d85269cde92e90dd127bfa717d16ed9036484
+ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43052256"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43097713"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
 
@@ -267,19 +267,19 @@ Fornece orientações sobre:
 
 -   Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.
 
--   Preparando o serviço do Intune para o gerenciamento de dispositivos:
+-   Preparar o serviço do Intune para o gerenciamento de dispositivos.
 
-    -   Definição da autoridade de gerenciamento de dispositivo móvel (MDM) para o Intune.
+-   Definição da autoridade de gerenciamento de dispositivo móvel (MDM) para o Intune.
 
-    -   Configuração de grupos de testes a serem usados para validar as políticas de gerenciamento do MDM.
+-   Configuração de grupos de testes a serem usados para validar as políticas de gerenciamento do MDM.
 
-    -   Navegação pelo portal de administração do Intune para localizar informações sobre dispositivos e usuários.
+-   Navegação pelo portal de administração do Intune para localizar informações sobre dispositivos e usuários.
 
-    -   Definição das funções do Intune (operador da assistência técnica, administradores e assim por diante).
+-   Definição das funções do Intune (operador da assistência técnica, administradores e assim por diante).
 
-    -   Registro de dispositivos com Windows 10 para o Intune.
+-   Registro de dispositivos com Windows 10 para o Intune.
 
-    -   Alternância de cargas de trabalho para gerenciamento do Intune conforme desejado.
+-   Alternância de cargas de trabalho para gerenciamento do Intune conforme desejado.
 
 ### <a name="enable-phase--azure-information-protection"></a>Fase de habilitação – Proteção de Informações do Azure
 
