@@ -10,20 +10,20 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: O FastTrack fornece orientações de implantação do Windows 10 para ajudar você a atualizar do Windows 7 Professional e do Windows 8.1 Professional para o Windows 10 Enterprise.
-ms.openlocfilehash: d9f2ea820828f91e6eb0ddc22e37c7f98dd8f71d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: d8f8821c1a730a8c42f7ae3755e6c227d53a2b7a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098357"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43665831"
 ---
 # <a name="windows-10"></a>Windows 10
 
 O FastTrack fornece orientações de implantação do Windows 10 para ajudar você a atualizar do Windows 7 Professional e do Windows 8.1 Professional para o Windows 10 Enterprise. Você trabalha com especialistas do FastTrack para:
 
 - Implante o Windows 10 Enterprise usando o Gerenciador de Configurações do Microsoft Endpoint ou o Microsoft 365.
-- Implantar o Office 365 ProPlus. 
-- Atualize o Windows 10 Enterprise e o Office 365 ProPlus usando o Gerenciador de Configurações do Microsoft Endpoint ou o Microsoft 365.
+- Implante os Aplicativos do Microsoft 365. 
+- Atualize o Windows 10 Enterprise e os Aplicativos do Microsoft 365 usando o Microsoft Endpoint Configuration Manager ou o Microsoft 365.
 - Vincular o Configuration Manager à nuvem com o Microsoft Intune ou implantar o Intune como a única solução de gerenciamento de nuvem.
   
 > [!NOTE]

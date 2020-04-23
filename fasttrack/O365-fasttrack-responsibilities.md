@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 7e004a3cefd54c997e7a5ad8ad831fecc22e0945
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 6968d49dadaba3b95665cc03408a222000e59c4a
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098273"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666167"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
@@ -107,6 +107,18 @@ Fornece orientação sobre:
     
 Para saber mais sobre as responsabilidades de migração de dados, confira [Migração de dados](O365-data-migration.md).
   
+## <a name="microsoft-365-apps"></a>Aplicativos do Microsoft 365
+
+Fornece orientação sobre:
+- Solução de problemas de implantação.
+- Atribuir licenças baseadas em dispositivos e usuários finais usando o [Centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.
+- Instalação de Aplicativos do Microsoft 365 pelo portal do Office 365 usando Clique para Executar.
+- Instalar os aplicativos do Office Mobile (como Outlook para iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) no iOS ou Android. 
+- Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.
+- Seleção e configuração de uma instalação local ou na nuvem.
+- Criação do XML de configuração da Ferramenta de Implantação do Office com a Ferramenta de Personalização do Office ou XML nativo para configurar o pacote de implantação.
+- Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
+
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 Fornece orientação sobre:
@@ -141,18 +153,6 @@ Fornece orientação sobre:
 - Configuração de automação, investigação e resposta.
 - Uso do Simulador de Ataques.
 - Relatórios e análise de ameaças.
-
-## <a name="office-365-proplus"></a>Office 365 ProPlus
-
-Fornece orientação sobre:
-- Solução de problemas de implantação.
-- Atribuir licenças baseadas em dispositivos e usuários finais usando o [Centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.
-- Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.
-- Instalar os aplicativos do Office Mobile (como Outlook para iOS e Android, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile. 
-- Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.
-- Seleção e configuração de uma instalação local ou na nuvem.
-- Criação do XML de configuração da Ferramenta de Implantação do Office com a Ferramenta de Personalização do Office ou XML nativo para configurar o pacote de implantação.
-- Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
     
 ## <a name="onedrive-for-business"></a>OneDrive for Business
 

@@ -9,12 +9,12 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 description: Os clientes que compram pelo menos vinte mil licenças para um locatário do Exchange Online estão qualificados para usar serviços adicionais do Centro FastTrack. Para saber mais, confira Serviços e planos qualificados.
-ms.openlocfilehash: 1317992820ba385e70ccb5908c0eab3a2dd7c140
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 62d0f5cf99624fbfb69a3bcb950f4718e0372512
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098177"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666107"
 ---
 # <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apêndice B: Benefício adicional do Centro FastTrack
 
@@ -38,9 +38,9 @@ Para o Exchange Online, fornecemos orientação de configuração para:
 
 Para o Skype for Business online, fornecemos orientação para migração de usuários do Lync e do Skype for Business locais para o Skype for Business online.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
-Em relação ao Office 365 ProPlus, fornecemos as seguintes orientações: 
+Para o Microsoft 365 Apps, fornecemos diretrizes para: 
 - Avaliação e planejamento voltados para a preparação do ambiente para implantação inicial e gerenciamento de atualizações de acordo com as práticas recomendadas da Microsoft. 
 - Desenvolvimento de configurações de implantação e de atualização usando a Ferramenta de Personalização do Office e a Ferramenta de Implantação e Personalização do Office 365. 
 - Empacotamento de implantações usando o Gerenciador de Configurações do Microsoft Endpoint.  
@@ -127,7 +127,7 @@ Os especialistas do FastTrack têm as responsabilidades a seguir durante a integ
 
 - Fornecer orientação sobre como migrar usuários em lotes em uma implantação híbrida do Skype for Business (mantendo as listas de contatos dos usuários).
     
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Microsoft 365 Apps
 
 - Fornecer orientação e assistência para:  
   - Avaliação e planejamento voltados para implantação inicial e gerenciamento de atualizações de acordo com as práticas recomendadas da Microsoft.

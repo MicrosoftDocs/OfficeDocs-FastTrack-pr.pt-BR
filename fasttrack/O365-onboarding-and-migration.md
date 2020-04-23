@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados.'
-ms.openlocfilehash: d4e6447ced77c6a12cda8b6947633b97ba1fb755
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 0a64f10e0a0fe1be6e26801d1722a06fc0ef5e73
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098285"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666155"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
@@ -201,19 +201,19 @@ No Project Online Professional e Project Online Premium, fornecemos instruções
 
 No Yammer, fornecemos instruções para habilitar o serviço do Yammer Enterprise.
   
-## <a name="office-365-proplus"></a>Office 365 ProPlus
+## <a name="microsoft-365-apps"></a>Aplicativos do Microsoft 365
 
-No Office 365 ProPlus, fornecemos instruções para:
+Nos Aplicativos do Microsoft 365, fornecemos diretrizes para:
 - Solução de problemas de implantação.   
 - Atribuir licenças baseadas em dispositivos e usuários finais usando o [Centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell. 
-- Instalação do Office 365 ProPlus pelo portal do Office 365 usando Clique para Executar.   
-- Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
+- Instalação de Aplicativos do Microsoft 365 pelo portal do Office 365 usando Clique para Executar.   
+- Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS ou Android.   
 - Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.   
 - Seleção e configuração de uma instalação local ou na nuvem. 
 - Criação do XML de configuração da Ferramenta de Implantação do Office com a Ferramenta de Personalização do Office ou XML nativo para configurar o pacote de implantação.  
 - Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
     
-![Etapas da integração ao Office ProPlus](media/O365-Onboarding-Enable-OProPlus.png)
+![Etapas da integração ao Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
   
 ## <a name="outlook-for-ios-and-android"></a>Outlook para iOS e Android
 
