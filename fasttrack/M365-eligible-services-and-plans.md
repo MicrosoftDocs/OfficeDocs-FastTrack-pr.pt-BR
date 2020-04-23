@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você adquirir qualquer um dos serviços do Microsoft 365, os Especialistas do FastTrack oferecerão orientações para fazer a integração ao Microsoft 365 e começar a usá-lo.
-ms.openlocfilehash: 3d91de034609cfe85833327c6d753f6a05525e5f
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 7b27f5c3c2e989e1dbe932346d013bd6e9fb1890
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098109"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666071"
 ---
 # <a name="eligible-services-and-plans"></a>Serviços e planos qualificados
 
@@ -52,11 +52,11 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Azure Active Directory Premium
 - Proteção de Informações do Azure
 - Exchange Online 
+- Aplicativos do Microsoft 365
 - Proteção Avançada contra Ameaças do Microsoft Defender
 - Microsoft Intune
 - Microsoft Teams
 - Proteção Avançada contra Ameaças do Office 365
-- Office 365 ProPlus
 - OneDrive for Business
 - Power BI
 - Project Online
@@ -64,7 +64,10 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Skype for Business Online
 - Windows 10
 - Yammer Enterprise 
-  
+
+> [!NOTE]
+> O Office 365 ProPlus foi renomeado para aplicativos da Microsoft 365. Em alguns casos, você pode encontrar usos do nome herdado. Para saber mais sobre quando esta mudança entrará em vigor, consulte [alteração do nome do Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change). 
+
 ## <a name="eligible-microsoft-365-plans"></a>Planos qualificados do Microsoft 365
   
  **Microsoft 365 Enterprise**
@@ -72,14 +75,23 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Microsoft 365 E3\*
 - Microsoft 365 E5\*
 - Microsoft 365 E5 Security\*
-- Microsoft 365 F1*
+- Microsoft 365 F1\*
 - Microsoft 365 Business\*
+- Aplicativos do Microsoft 365 para empresas\*
+- Aplicativos do Microsoft 365 para empresas (dispositivo)\*
     
+ **Microsoft 365 Business**
+
+ - Microsoft 365 Business Basic\*
+ - Microsoft 365 Business Standard\*
+ - Aplicativos do Microsoft 365 para empresas\*
+ 
  **Microsoft 365 Education**
 
 - Microsoft 365 A3\*
 - Microsoft 365 A5\*
 - Segurança 365 A5 da Microsoft\*
+- Aplicativos do Microsoft 365 para educação (dispositivo)\*
  
 ## <a name="eligible-office-365-plans"></a>Planos qualificados do Office 365
 
@@ -95,13 +107,6 @@ O Centro FastTrack fornece assistência para os seguintes serviços:
 - Office 365 US Government G4\*\*
 - Office 365 US Government G5\*\*
 - Office 365 US Government F1\*\*
-- Office 365 ProPlus
-    
-**Office 365 Business**
-
-- Office 365 Business  
-- Office 365 Business Essentials  
-- Office 365 Business Premium
 
 **Office 365 Education**
   
@@ -206,7 +211,7 @@ Para saber mais, confira [benefícios da Central FastTrack para o Enterprise Mob
 Para saber mais, confira [benefícios do FastTrack Center para Windows 10](https://go.microsoft.com/fwlink/?linkid=2044661).
 
 > [!NOTE]
-> Não há requisito mínimo de licenciamento para a criação de aplicativos (ISVs) no Windows 10. Todas as solicitações de aplicativos deverão ter o direcionamento para o Windows 10 ou a versão Office 365 ProPlus que está na janela do serviço base.
+> Não há requisitos mínimos de licenciamento para ISVs (fornecedores de software independente comerciais) que criam aplicativos para o Windows 10. Todas as solicitações de aplicativos devem estar direcionadas para uma versão de aplicativos do Windows 10 ou do Microsoft 365, que está na janela de serviço principal.
 
 ## <a name="ineligible-plans"></a>Planos não qualificados
 
