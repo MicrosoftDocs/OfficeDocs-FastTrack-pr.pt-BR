@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'A integração do Windows 10 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar.'
-ms.openlocfilehash: 814b59cebb7f129e9c01ecc205da72bb9029db3d
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 06a975d5759fccabe638fc21d9042d95eb46bb07
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098393"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666119"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
@@ -31,7 +31,7 @@ Os especialistas do FastTrack trabalham com você para avaliar o ambiente de ori
 
 Fornecemos opções recomendadas para você avaliar os aplicativos do Windows 10. O FastTrack fornece orientação para habilitar o uso do Desktop Analytics e orienta você durante a criação de um plano de implantação do Desktop Analytics.
 
-O FastTrack também pode guiar a sua avaliação de compatibilidade do Office 365 ProPlus aproveitando o painel de preparação do Office 365 no Configuration Manager ou com o Readiness Toolkit autônomo para o Office. Para obter mais informações sobre serviços disponíveis, confira [Benefícios do Centro FastTrack para o Office 365](O365-fasttrack-benefit-for-office-365.md). 
+O FastTrack também pode orientar sua avaliação de compatibilidade do Microsoft 365 Apps, aproveitando o painel de prontidão do Office 365 no Gerenciador de configurações ou com o Readiness Toolkit do Office independente. Para obter mais informações sobre serviços disponíveis, confira [Benefícios do Centro FastTrack para o Office 365](O365-fasttrack-benefit-for-office-365.md). 
 
 O FastTrack também avalia as estratégias de gerenciamento modernas para você, inclusive a vinculação na nuvem do Configuration Manager com o Microsoft Intune ou a implantação do Intune como a única solução de gerenciamento de nuvem.
 
@@ -43,14 +43,14 @@ Você realiza as tarefas de correção com base em seu ambiente de origem para a
 
 O FastTrack fornece diretrizes para atualizar seus dispositivos existentes para o Windows 10 Enterprise, desde que atendam aos requisitos de hardware de dispositivo necessários. As diretrizes de atualização são fornecidas para dar suporte ao seu movimento de implantação existente. O FastTrack recomenda e fornece diretrizes para uma atualização in-loco para o Windows 10. As diretrizes também estão disponíveis para a instalação de imagem limpa do Windows e cenários de implantação do [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot). 
 
-Fornecemos diretrizes para implantar o Office 365 ProPlus usando o Configuration Manager como parte da implantação do Windows 10. Confira [Office 365 ProPlus](O365-onboarding-and-migration.md#office-365-proplus) para obter mais detalhes sobre serviços associados.
+Fornecemos orientações para implantar o Microsoft 365 Apps usando o Gerenciador de configurações como parte da implantação do Windows 10. Consulte [Microsoft 365 Apps](O365-onboarding-and-migration.md#microsoft-365-apps) para obter mais detalhes sobre serviços associados.
 
-Fornecemos diretrizes para ajudar sua organização a manter-se atualizada com o Windows 10 Enterprise e o Office 365 ProPlus usando seu ambiente existente do Configuration Manager ou o Microsoft 365.
+Fornecemos orientação para ajudar sua organização a se manter atualizada com o Windows 10 Enterprise e Microsoft 365 Apps usando seu ambiente de Gerenciador de configuração existente ou Microsoft 365.
 
 Quando necessário, o FastTrack pode orientar os clientes para permitir o gerenciamento moderno pelo Configuration Manager vinculado à nuvem para o Intune ou implantando o Intune de forma independente. Confira o [Processo de Benefícios do Centro FastTrack para o EMS (Enterprise Mobility + Security)](EMS-fasttrack-process.md) para obter mais detalhes associados aos serviços.
 
 > [!NOTE]
-> Se você não tiver um plano ou processo existente para implantação e manutenção, podemos fornecer diretrizes sobre práticas recomendadas com base no cenário de atualização in-loco (recomendado) ou no [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot).
+> Se você não possui um plano ou processo existente para implantação e manutenção, podemos fornecer diretrizes de práticas recomendadas com base no cenário de atualização no local (recomendado) ou [Windows Autopilot](EMS-onboarding-phases.md#windows-autopilot).
 
 ## <a name="out-of-scope"></a>Fora do escopo
 

@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Você tem as seguintes responsabilidades durante a integração do Windows 10.
-ms.openlocfilehash: 57db4d80d9f5f0fb227598932915fdceefddbf66
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 75e9746d8e3ac9f4389cc26d2a89d6d3c8aa3294
+ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097785"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666083"
 ---
 # <a name="your-responsibilities"></a>Suas responsabilidades
 
@@ -55,6 +55,6 @@ Você tem as seguintes responsabilidades durante a integração.
 
 - Compartilhe a sua tela com a equipe FastTrack se for necessária orientação para o uso das ferramentas de avaliação em seu ambiente, ou em suas assinaturas do serviço de nuvem (se essa for sua escolha).
 - Configure itens relacionados à rede seguindo as orientações da equipe FastTrack.
-- Realize a preparação do diretório e configure a sincronização de diretórios seguindo as orientações da equipe FastTrack ao implantar o Office 365 ProPlus com o Windows 10.
+- Realize a preparação do diretório e configure a sincronização de diretórios seguindo as orientações da equipe FastTrack ao implantar o Microsoft 365 Apps com o Windows 10.
 - Configure um método de autenticação, como gerenciado ou federado.
 
