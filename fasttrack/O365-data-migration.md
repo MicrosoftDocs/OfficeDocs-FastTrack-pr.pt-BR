@@ -3,19 +3,19 @@ title: Migração de dados
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 00fca4f9baabd1c68fbeb7024bec10791d050f67
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 48a493deab932a6422866e59d64018ef78986cfc
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665879"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999863"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -224,7 +224,7 @@ Execute as seguintes tarefas durante as migrações:
 - Planejar e implementar comunicações de usuário final e gerenciamento de alterações (se aplicável).   
 - Administrar e configurar as alterações feitas no sistema de origem e nos dispositivos necessários para a realização bem-sucedida das atividades de avaliação e migração.
 - Fornece o agendamento de um método definido e de uma lista de dados específicos do usuário a migrar para cada evento de migração, com pelo menos três (3) dias de antecedência.
-- Remover os dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
+- Remove dados do usuário do agendamento até 24 horas antes do lote de migração. Deve corresponder ao lote de migração final.
 > [!NOTE]
 > A Microsoft não garante a velocidade de migração de arquivos.
     
