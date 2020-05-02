@@ -3,19 +3,19 @@ title: Responsabilidades do FastTrack para o governo dos EUA do Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: f0f52400b0400267d00d2033ea2431277f4e2f33
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: d223176bbfd856048604a1c1dfd5f12c72dce1bf
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665855"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999779"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades do FastTrack para o governo dos EUA do Office 365
 
@@ -192,12 +192,12 @@ Fornecer orientação sobre como converter sua rede do Yammer Basic única em um
 > [!NOTE]
 > O Yammer Enterprise não é um componente do governo dos EUA do Office 365, mas pode ser adquirido sem custo como uma oferta autônoma para cada usuário licenciado para o Office 365 em GCC. Atualmente, essa oferta é limitada a clientes que compram o Office 365 GCC sob acordos corporativos e contratos de assinatura corporativa. O Yammer não está disponível nos planos GCC High ou DoD.
   
-## <a name="microsoft-365-apps"></a>Aplicativos da Microsoft 365
+## <a name="microsoft-365-apps"></a>Aplicativos do Microsoft 365
 
 Fornece orientação sobre:
 - Solução de problemas de implantação.   
 - Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.  
-- Instalação de aplicativos do Microsoft 365 do portal do Office 365 usando clique para executar.   
+- Instalação de Aplicativos do Microsoft 365 pelo portal do Office 365 usando Clique para Executar.   
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
 - Configurar definições de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office 2016.   
 - Configurar um servidor de distribuição local único para aplicativos Microsoft 365, incluindo assistência com a criação de um arquivo Configuration. xml para uso com a ferramenta de implantação do Office 365.   

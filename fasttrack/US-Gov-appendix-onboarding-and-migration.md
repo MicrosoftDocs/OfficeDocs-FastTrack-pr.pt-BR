@@ -3,19 +3,19 @@ title: Fases de integração e migração para o governo dos EUA do Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Integração do Office 365 para o Office 365 o governo dos EUA tem quatro fases principais: Iniciar, avaliar, corrigir e habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
-ms.openlocfilehash: 88c74a4839df42dbc57da65f7f2c4776bd5d90cb
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 8725265751740495e1264945c3472f6ee233b1c5
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665904"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999791"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para o governo dos EUA do Office 365
 
@@ -175,13 +175,13 @@ No Yammer, fornecemos instruções para habilitar o serviço do Yammer Enterpris
 > [!NOTE]
 > O Yammer Enterprise não é um componente do governo dos EUA do Office 365, mas pode ser adquirido sem custo como uma oferta autônoma para cada usuário licenciado para o Office 365 em GCC. Atualmente, essa oferta é limitada a clientes que compram o Office 365 GCC sob acordos corporativos e contratos de assinatura corporativa. O Yammer não está disponível nos planos GCC High ou DoD. 
   
-## <a name="microsoft-365-apps"></a>Aplicativos da Microsoft 365
+## <a name="microsoft-365-apps"></a>Aplicativos do Microsoft 365
 
-Para os aplicativos Microsoft 365, fornecemos orientações para: 
+Nos Aplicativos do Microsoft 365, fornecemos diretrizes para: 
 - Solução de problemas de implantação.    
 - Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.    
-- Instalação de aplicativos do Microsoft 365 do portal do Office 365 usando clique para executar.    
-- Instalação de aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em seus dispositivos iOS ou Android.   
+- Instalação de Aplicativos do Microsoft 365 pelo portal do Office 365 usando Clique para Executar.    
+- Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS ou Android.   
 - Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.    
 - Configurar um servidor de distribuição local único para aplicativos Microsoft 365, incluindo assistência com a criação de um arquivo Configuration. xml para uso com a ferramenta de implantação do Office 365.    
 - Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
