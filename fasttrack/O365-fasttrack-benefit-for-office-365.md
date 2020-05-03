@@ -3,7 +3,7 @@ title: Benefício do FastTrack Center para o Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Você usa os Benefícios do Centro FastTrack para Office 365 quando adquire pelo menos 150 licenças para um serviço ou plano qualificado para seu locatário do Office 365. Você trabalhará com Especialistas do FastTrack para avaliar, corrigir, habilitar e incentivar o uso desses serviços. Esses especialistas também oferecem orientações sobre migração.
-ms.openlocfilehash: 5bf7e1d6376adc1c2224e4a0f9919b0b051bf3f1
-ms.sourcegitcommit: 1aa423e2a720d57d2a37fba930fb4d4b0e8f93c9
+ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43665795"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999851"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Benefício do FastTrack Center para o Office 365
 
@@ -52,6 +52,13 @@ Você está procurando informações sobre o [Benefício do FastTrack Center par
 - Microsoft Intune
 - Azure Active Directory Premium 
 - Proteção de Informações do Azure
+
+Você está procurando por [Benefícios da central FastTrack do Windows 10](Win-10-fasttrack-benefit-for-Windows-10.md)? Ele inclui informações sobre:
+
+- Windows 10
+- Garantia do aplicativo
+- O novo Microsoft Edge
+- Proteção avançada contra ameaças do Microsoft Defender
     
 > [!NOTE]
 > Este tópico tem uma finalidade apenas informativa. 

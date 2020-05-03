@@ -3,25 +3,25 @@ title: Proteção Avançada contra Ameaças do Microsoft Defender
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'Os benefícios da central FastTrack para Windows 10 oferecem acesso à proteção avançada contra ameaças (ATP) do Microsoft Defender: um novo serviço projetado para ajudar as redes corporativas a prevenir, detectar, investigar e responder a ameaças avançadas.'
-ms.openlocfilehash: f5f81609fe1d632f0499a96135aca048b7e1e158
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: 9407dfddff1b59c88a19fb0266e73efe3d117615
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43097773"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999637"
 ---
 # <a name="microsoft-defender-advanced-threat-protection"></a>Proteção Avançada contra Ameaças do Microsoft Defender
 
-Os benefícios da central FastTrack para Windows 10 oferecem acesso à proteção avançada contra ameaças (ATP) do Microsoft Defender: um novo serviço projetado para ajudar as redes corporativas a prevenir, detectar, investigar e responder a ameaças avançadas. Ao solicitar o serviço ATP do Microsoft Defender, um especialista no FastTrack trabalha com você para ajudá-lo a implantar as tecnologias para proteger seus pontos de extremidade.
+O benefício FastTrack Center do Windows 10 fornece acesso à Proteção contra ameaças avançadas do Microsoft Defender (ATP) - uma plataforma projetada para ajudar as redes corporativas a impedir, detectar, investigar e responder a ameaças avançadas. Quando você solicita assistência de implantação do Microsoft Defender ATP por meio do FastTrack, um Especialista em FastTrack trabalha com você para ajudar na implantação das tecnologias para proteger seus pontos de extremidade.
 
-Um engenheiro da Microsoft funciona com você para avaliar a versão do sistema operacional e o gerenciamento de dispositivos, bem como o status dos serviços AV do Windows ou outro software de segurança do ponto de extremidade. Também fornecemos diretrizes de perfis de configuração para a proteção de ponto de extremidade e de restrição de dispositivos.  
+Como parte do FastTrack Benefit, um engenheiro da Microsoft trabalha com você para avaliar a versão do SO e o gerenciamento de dispositivos, bem como o status dos serviços do Windows Defender AV ou outro software de segurança de terminal. Também fornecemos orientações para a configuração de perfis de proteção de terminais e restrições de dispositivos.  
 
 > [!NOTE]
 > Esse é um serviço fornecido pelo FastTrack, e não um pacote de software. 
