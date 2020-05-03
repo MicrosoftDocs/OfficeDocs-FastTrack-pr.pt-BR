@@ -3,19 +3,19 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 4/01/2020
+ms.date: 5/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou Microsoft 365, os Especialistas do FastTrack fornecem orientações de implantação remota para proteger pontos de extremidade. Nosso serviço é adaptado ao ambiente e às necessidades de cada cliente.
-ms.openlocfilehash: 0e4dc5c08c66839d63c2e09958a26da96325b132
-ms.sourcegitcommit: f2b9cb334c7687724c36b1c38ba24463576233bf
+ms.openlocfilehash: be9d4ee5f8b35e7ff48793d25a6116978d45d733
+ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43098189"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43999683"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
@@ -29,22 +29,34 @@ Quando você compra qualquer um dos serviços do Windows 10 ou Microsoft 365 (co
 
 O FastTrack fornece orientação remota para o seguinte:
 - Ative o serviço Microsoft Defender ATP, explicando como implantar um perfil de agente ATP usando um ponto de extremidade integrado.
-- Forneça orientações sobre como definir perfis de configuração do Microsoft Defender ATP (incluindo proteção de ponto de extremidade e restrição de dispositivo).
-- Forneça orientações sobre como definir as configurações da Central de Segurança para personalizar como o Microsoft Defender ATP atende às suas necessidades.
-- Educação sobre:
-    - Simulações e tutoriais (como cenários de prática, malware falso e investigações automatizadas).
-    - Relatórios e análise de ameaças.
+- Forneça diretrizes de implantação, assistência de configuração e treinamento em:
     - Gerenciamento de ameaças e vulnerabilidades.
-    - Navegando no portal da Central de Segurança do Microsoft Defender.
+    - Redução da superfície do ataque.
+    - Proteção da próxima geração.
+    - Detecção e resposta do terminal.
+    - Investigação e correção automatizadas.
+    - Classificação de segurança.
+- Analisar simulações e tutoriais (como cenários de prática, malware falso e investigações automatizadas).
+- Mergulhar fundo em relatórios e análises de ameaças.
+- Integrar o ATP do Office 365 com o ATP do Microsoft Defender.
+- Conduzir instruções do Portal do centre de segurança do Microsoft Defender.
 
 ## <a name="out-of-scope"></a>Fora do escopo
 
 Os serviços FastTrack não incluem:
 - Gerenciamento de projetos das atividades de correção do cliente.
 - Suporte no local.
+- Gerenciamento contínuo e resposta a ameaças.
 - Integração ou configuração para os seguintes agentes do Microsoft Defender ATP:
    - Windows Server
    - macOS
    - Linux
-- Orientação sobre isolamento com base em hardware, controle de aplicativos, proteção contra exploração e firewall de rede.
-- Gerenciamento e resposta a ameaças contínuos.
+- Configuração dos seguintes recursos de redução da superfície de ataque:
+    - Isolamento baseado em hardware.
+    - Controle da aplicação.
+    - Explorar proteção.
+    - Firewall da rede.
+- Inscrição ou configuração dos Peritos em ameaças da Microsoft.
+- Configuração ou treinamento revisando a API ou as conexões de informações de segurança e gerenciamento de eventos (SIEM).
+- Registro ou configuração da Proteção contra ameaças da Microsoft (MTP).
+- Treinamento ou orientação sobre a caça avançada.
