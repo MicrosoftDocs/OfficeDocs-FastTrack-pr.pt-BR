@@ -3,7 +3,7 @@ title: Benefício do FastTrack Center para o Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Você usa os Benefícios do Centro FastTrack para Office 365 quando adquire pelo menos 150 licenças para um serviço ou plano qualificado para seu locatário do Office 365. Você trabalhará com Especialistas do FastTrack para avaliar, corrigir, habilitar e incentivar o uso desses serviços. Esses especialistas também oferecem orientações sobre migração.
-ms.openlocfilehash: 3cda5d2785f89927678cd4fb95464d76910a4177
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: 1b96edf8d0dc5682ffc1cf59060b21e42da17a13
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999851"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472172"
 ---
 # <a name="fasttrack-center-benefit-for-office-365"></a>Benefício do FastTrack Center para o Office 365
 
@@ -36,6 +36,8 @@ Para saber mais sobre os benefícios fornecidos pelo FastTrack por serviço, con
 
 - [Exchange Online](O365-fasttrack-responsibilities.md#exchange-online)
 - [Aplicativos do Microsoft 365](O365-fasttrack-responsibilities.md#microsoft-365-apps)
+- [Governança de informações da Microsoft](O365-fasttrack-responsibilities.md#microsoft-information-governance)
+- [Proteção de informações da Microsoft](O365-fasttrack-responsibilities.md#microsoft-information-protection)
 - [Microsoft Teams](O365-fasttrack-responsibilities.md#microsoft-teams)
 - [Proteção Avançada contra Ameaças do Office 365](O365-fasttrack-responsibilities.md#office-365-advanced-threat-protection)
 - [OneDrive for Business](O365-fasttrack-responsibilities.md#onedrive-for-business)

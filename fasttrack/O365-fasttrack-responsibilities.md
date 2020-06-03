@@ -3,19 +3,19 @@ title: Responsibilities do FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 78abfd26506f457858bc2e56f3ccfd1407c4cbdf
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: ad0aea76c45d728dd81707e4d1057e6e2a6c5881
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999815"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472196"
 ---
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
@@ -118,6 +118,41 @@ Fornece orientação sobre:
 - Seleção e configuração de uma instalação local ou na nuvem.
 - Criação do XML de configuração da Ferramenta de Implantação do Office com a Ferramenta de Personalização do Office ou XML nativo para configurar o pacote de implantação.
 - Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
+
+## <a name="microsoft-information-governance"></a>Governança de informações da Microsoft 
+
+Fornece orientação sobre:
+- Gerenciamento de registros.
+  - Aplicando permissões para gerenciamento de registros.
+  - Orientações sobre como converter planos de arquivo e agendamentos de retenção em rótulos e políticas.
+  - Criação de rótulos de retenção e políticas.
+  - Estabelecendo políticas de exclusão.
+  - Revisão de itens para descarte.
+- Gerenciamento de risco do insider.
+  - Habilitando logs de auditoria do Office 365.
+  - Definindo configurações dentro do gerenciamento de risco do insider.
+  - Criar políticas de risco do insider usando os guias estratégicos internos.
+  - Configurar permissões para conformidade de comunicação.
+  - Criação de políticas de conformidade de comunicação usando modelos personalizáveis.
+  - Monitoramento e revisão de alertas.
+- Governança de informações.
+  - Aplicando permissões para governança de informações.
+  - Criação de rótulos de retenção.
+  - Rótulos de retenção de publicação (manual e automático).
+  - Criação de trabalhos de importação.
+
+## <a name="microsoft-information-protection"></a>Proteção de informações da Microsoft
+
+Fornece orientação sobre:
+- Classificação de dados.
+- Tipos de informações confidenciais.
+- Criação de rótulos de sensibilidade.
+- Aplicar rótulos de sensibilidade. 
+- Rótulo unificado.
+- Classificadores estagiários.
+- Conhecer os dados com o explorador de conteúdo e o explorador de atividade.
+- Publicar rótulos usando políticas (manual e automática).
+- Criação de políticas de DLP (prevenção contra perda de dados) para chats e canais do Microsoft Teams.
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 

@@ -3,19 +3,19 @@ title: Expectativas do Ambiente de Origem
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Benefícios do Centro FastTrack fornecem diretrizes para você configurar níveis de integração com o ambiente de origem para a implantação do Windows 10.
-ms.openlocfilehash: 52dbaee7b32290098c1e9fb873ff6984a2d26152
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: 96ce7e58d2b9b87e5fc014996bd5f2d250051fda
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999589"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44471980"
 ---
 # <a name="source-environment-expectations"></a>Expectativas do Ambiente de Origem
 
