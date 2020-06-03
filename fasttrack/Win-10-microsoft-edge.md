@@ -3,24 +3,24 @@ title: O novo Microsoft Edge
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Benefícios do FastTrack para Windows 10 fornecem orientações de implantação para os novos clientes do Microsoft Edge para Windows 10 Enterprise, com 150 licenças ou mais.
-ms.openlocfilehash: f24fc38dc192ce36a604a2250c3dc2a28bbb7c53
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
-ms.translationtype: HT
+ms.openlocfilehash: c72aab8bbedcacce03de89a47483cf310bf8c808
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999613"
+ms.lasthandoff: 06/01/2020
+ms.locfileid: "44472017"
 ---
-# <a name="the-new-microsoft-edge"></a><span data-ttu-id="34d10-103">O novo Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="34d10-103">The new Microsoft Edge</span></span>
+# <a name="the-new-microsoft-edge"></a><span data-ttu-id="a7b98-103">O novo Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="a7b98-103">The new Microsoft Edge</span></span>
 
-<span data-ttu-id="34d10-104">Os Benefícios do FastTrack para Windows 10 fornecem orientações de implantação para os novos clientes do Microsoft Edge para Windows 10 Enterprise, com 150 licenças ou mais.</span><span class="sxs-lookup"><span data-stu-id="34d10-104">The FastTrack Benefit for Windows 10 provides deployment guidance for the new Microsoft Edge for Windows 10 Enterprise customers with 150 or more seats.</span></span> <span data-ttu-id="34d10-105">Além disso, se você tiver um aplicativo Web ou um site que funciona com o Internet Explorer ou com o Google Chrome e tiver problemas de compatibilidade, corrigiremos isso sem custos adicionais, por meio do [programa Garantia de Aplicativo](Win-10-app-assure.md).</span><span class="sxs-lookup"><span data-stu-id="34d10-105">Additionally, if you have a web app or site that works with Internet Explorer or Google Chrome and you experience compatibility issues, we will fix it at no additional cost through the [App Assure program](Win-10-app-assure.md).</span></span>
+<span data-ttu-id="a7b98-104">Os Benefícios do FastTrack para Windows 10 fornecem orientações de implantação para os novos clientes do Microsoft Edge para Windows 10 Enterprise, com 150 licenças ou mais.</span><span class="sxs-lookup"><span data-stu-id="a7b98-104">The FastTrack Benefit for Windows 10 provides deployment guidance for the new Microsoft Edge for Windows 10 Enterprise customers with 150 or more seats.</span></span> <span data-ttu-id="a7b98-105">Além disso, se você tiver um aplicativo Web ou um site que funciona com o Internet Explorer ou com o Google Chrome e tiver problemas de compatibilidade, corrigiremos isso sem custos adicionais, por meio do [programa Garantia de Aplicativo](Win-10-app-assure.md).</span><span class="sxs-lookup"><span data-stu-id="a7b98-105">Additionally, if you have a web app or site that works with Internet Explorer or Google Chrome and you experience compatibility issues, we will fix it at no additional cost through the [App Assure program](Win-10-app-assure.md).</span></span>
 
-<span data-ttu-id="34d10-106">Um Especialista do FastTrack trabalha com você para implantar o Microsoft Edge no Windows 10 Enterprise com o Gerenciador do Microsoft Endpoint (Gerenciador de Configurações do Microsoft Endpoint ou Microsoft Intune).</span><span class="sxs-lookup"><span data-stu-id="34d10-106">A FastTrack Specialist works with you to deploy Microsoft Edge on Windows 10 Enterprise with Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager or Microsoft Intune).</span></span>
+<span data-ttu-id="a7b98-106">Um Especialista do FastTrack trabalha com você para implantar o Microsoft Edge no Windows 10 Enterprise com o Gerenciador do Microsoft Endpoint (Gerenciador de Configurações do Microsoft Endpoint ou Microsoft Intune).</span><span class="sxs-lookup"><span data-stu-id="a7b98-106">A FastTrack Specialist works with you to deploy Microsoft Edge on Windows 10 Enterprise with Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager or Microsoft Intune).</span></span>
 
 
