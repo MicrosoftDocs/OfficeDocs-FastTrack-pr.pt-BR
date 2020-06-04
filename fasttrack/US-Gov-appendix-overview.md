@@ -1,5 +1,5 @@
 ---
-title: Apêndice C-visão geral do benefício do centro do FastTrack para o Office 365 governo dos EUA
+title: 'Apêndice C: visão geral dos benefícios do Centro FastTrack do Office 365 US Government'
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
@@ -16,7 +16,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 06/01/2020
 ms.locfileid: "44472148"
 ---
-# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apêndice C-visão geral do benefício do centro do FastTrack para o Office 365 governo dos EUA
+# <a name="appendix-c---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apêndice C: visão geral dos benefícios do Centro FastTrack do Office 365 US Government
 
 Com o benefício do FastTrack Center para o Office 365, você trabalha remotamente com especialistas do FastTrack para que o seu ambiente do Office 365 fique pronto para uso e planeje a implantação e o uso em sua organização. 
   
@@ -32,4 +32,4 @@ Falamos sobre os seguintes tópicos:
 - [Migração de dados](O365-data-migration.md)    
 - [Responsabilidades do FastTrack para o governo dos EUA do Office 365](US-Gov-appendix-fasttrack-responsibilities.md)   
 - [Suas responsabilidades para o governo dos EUA do Office 365](US-Gov-appendix-your-responsibilities.md)    
-- [Apêndice A-benefício adicional do centro do FastTrack](O365-fasttrack-additional-benefits.md)
+- [Apêndice A: benefício adicional do Centro FastTrack](O365-fasttrack-additional-benefits.md)
