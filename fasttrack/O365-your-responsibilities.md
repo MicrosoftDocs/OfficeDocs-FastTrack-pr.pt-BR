@@ -3,19 +3,19 @@ title: Suas responsabilidades
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Você tem as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: ccda552da54260407dcfc4e1ce6c9244e4bec956
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: 0db5f1d7ebe2d5ebf2a7561ab7d6cdff62d7f1f8
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999803"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471536"
 ---
 # <a name="your-responsibilities"></a>Suas responsabilidades
 

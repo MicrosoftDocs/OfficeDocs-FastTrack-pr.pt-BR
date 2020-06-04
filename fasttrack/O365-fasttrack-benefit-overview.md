@@ -3,7 +3,7 @@ title: Visão geral dos Benefícios do Centro FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 6/01/2020
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Com os Benefícios do Centro FastTrack para Office 365, você trabalha remotamente com Especialistas do FastTrack para deixar seu ambiente do Office 365 pronto para uso e planeja a implantação e o uso em sua organização. Para saber mais sobre a qualificação, confira Benefícios do Centro FastTrack para Office 365.
-ms.openlocfilehash: f3dd071707d469041900f9bab86c07489ffcb4d0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+ms.openlocfilehash: a403178c2e94cd3415fa04bc9c2ecc68514557ec
+ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999887"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44471704"
 ---
 # <a name="fasttrack-center-benefit-overview"></a>Visão geral dos Benefícios do Centro FastTrack
 
@@ -30,10 +30,9 @@ Falamos sobre os seguintes tópicos:
 - [Migração de dados](O365-data-migration.md)
 - [Responsibilities do FastTrack](O365-fasttrack-responsibilities.md)
 - [Suas responsabilidades](O365-your-responsibilities.md) 
-- [Apêndice A: Migração do IBM Domino para o Exchange Online](O365-from-ibm-domino-to-exchange-online.md)
-- [Apêndice B: Benefício adicional do Centro do FastTrack](O365-fasttrack-additional-benefits.md)
-- [Apêndice C: Acordo de Parceiro Comercial HIPAA do Centro FastTrack](O365-hipaa-business-associate-agreement.md)
-- [Apêndice D: Visão geral dos Benefícios do Centro FastTrack do Office 365 US Government](US-Gov-appendix-overview.md)
+- [Apêndice A: benefício adicional do Centro FastTrack](O365-fasttrack-additional-benefits.md)
+- [Apêndice B: acordo de Parceiro Comercial HIPAA do Centro FastTrack](O365-hipaa-business-associate-agreement.md)
+- [Apêndice C: visão geral dos benefícios do Centro FastTrack do Office 365 US Government](US-Gov-appendix-overview.md)
     
 Seu locatário do Office 365 é criado quando a integração estiver concluída. Os usuários licenciados podem acessar o Office 365 usando uma das seguintes opções de identidade:
 - Identidades de nuvem com contas exclusivas do Office 365.
