@@ -3,19 +3,19 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou do Microsoft 365 (como detalhado em Serviços e planos qualificados), os especialistas do FastTrack oferecem orientações de compatibilidade e implantação remota se você tiver um aplicativo ou site da Web que funcione com o Internet Explorer ou Google Chrome.
-ms.openlocfilehash: b72be35d0f7842aed62c3a60a85d9c7892235f6c
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: 2e295d43ac037d0908a78c0a9f2bb03f2dce177c
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472016"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011557"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida
 
@@ -36,7 +36,7 @@ Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=
 2.    Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
 3.    Preencha o formulário **Solicitar assistência para o Microsoft 365**.
   
-Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selecione **Meus Clientes**.
 3.    Pesquise seu cliente ou selecione na lista de clientes.

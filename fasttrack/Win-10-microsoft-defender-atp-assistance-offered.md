@@ -3,19 +3,19 @@ title: Assistência oferecida
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou Microsoft 365, os Especialistas do FastTrack fornecem orientações de implantação remota para proteger pontos de extremidade. Nosso serviço é adaptado ao ambiente e às necessidades de cada cliente.
-ms.openlocfilehash: 3cbfd8a00ebb829394d617be0d22867828c86c79
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: ec29f863b01ffb312b7b8b299580e5e38f60fa9d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472004"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011521"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
@@ -37,7 +37,7 @@ O FastTrack fornece orientação remota para o seguinte:
     - Investigação e correção automatizadas.
     - Classificação de segurança.
 - Analisar simulações e tutoriais (como cenários de prática, malware falso e investigações automatizadas).
-- Mergulhar fundo em relatórios e análises de ameaças.
+- Visão geral dos recursos de análise de ameaças e relatórios.
 - Integrar o ATP do Office 365 com o ATP do Microsoft Defender.
 - Conduzir instruções do Portal do centre de segurança do Microsoft Defender.
 
@@ -51,6 +51,7 @@ Os serviços FastTrack não incluem:
    - Windows Server
    - macOS
    - Linux
+   - Dispositivos móveis (Android e iOS)
 - Configuração dos seguintes recursos de redução da superfície de ataque:
     - Isolamento baseado em hardware.
     - Controle da aplicação.
@@ -60,3 +61,4 @@ Os serviços FastTrack não incluem:
 - Configuração ou treinamento revisando a API ou as conexões de informações de segurança e gerenciamento de eventos (SIEM).
 - Registro ou configuração da Proteção contra ameaças da Microsoft (MTP).
 - Treinamento ou orientação sobre a caça avançada.
+- Treinamento ou orientações sobre o uso ou a criação de consultas do Kusto.

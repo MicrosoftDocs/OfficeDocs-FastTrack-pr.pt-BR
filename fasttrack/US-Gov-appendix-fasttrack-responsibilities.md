@@ -3,19 +3,19 @@ title: Responsabilidades do FastTrack para o governo dos EUA do Office 365
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 57fba2b06ec21a2603fb36ff32cc58896e80f623
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: fdd8970a88b70a8746200a8dc66e20562c9b9b19
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471584"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011617"
 ---
 # <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades do FastTrack para o governo dos EUA do Office 365
 
@@ -82,8 +82,10 @@ Fornece orientação sobre:
       - Configurando a autenticação de passagem do Azure Active Directory, se necessário (não disponível nos planos GCC High ou DoD).
       - Configurar o logon único (SSO) contínuo do Azure Active Directory, se necessário (não disponível nos planos GCC High ou DoD).
     > [!NOTE]
-    > A autenticação de passagem do Azure Active Directory para ambientes com várias florestas será compatível se houver uma relação de confiança na floresta entre as florestas do Active Directory e se o roteamento do sufixo do nome estiver devidamente configurado. Agentes adicionais podem ser instalados em vários servidores locais para oferecer alta disponibilidade para solicitações de entrada. Para obter mais informações, confira [Autenticação de passagem do Azure Active Directory: início rápido](https://go.microsoft.com/fwlink/?linkid=860094) e [Logon único contínuo do Azure Active Directory: Início rápido](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
-    > Confira mais informações sobre os limites de autenticação de passagem em [Autenticação de passagem do Azure Active Directory: limitações atuais](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
+    > Azure Active Directory Pass-through Authentication for multiple-forest environments is supported if there are forest trusts between your Active Directory forests and if name suffix routing is correctly configured. Additional agents can be installed on multiple on-premises servers to provide high availability for sign-in requests. For more information, see [Azure Active Directory Pass-through Authentication: Quick start](https://go.microsoft.com/fwlink/?linkid=860094) and [Azure Active Directory Seamless Single Sign-On: Quick start](https://go.microsoft.com/fwlink/?linkid=860095). 
+    > [!NOTE]
+    > For more information about pass-through authentication limits, see [Azure Active Directory Pass-through Authentication: Current limitations](https://go.microsoft.com/fwlink/?linkid=860356). 
+    > [!NOTE]
     > Para mais informações sobre problemas de SSO Contínuo, confira [Solucionar problemas de Logon Único Contínuo do Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=841926). 
 - Para uma única floresta, quando as identidades federadas são o destino: 
   - Instalando e configurando o AD FS para autenticação de domínio local com o Office 365 em uma configuração de site único e tolerante a falhas, se necessário.  
@@ -200,5 +202,5 @@ Fornece orientação sobre:
 - Instalação de Aplicativos do Microsoft 365 pelo portal do Office 365 usando Clique para Executar.   
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS, Android ou Windows Mobile.   
 - Configurar definições de atualização usando os modelos de Ferramenta de Implantação ou Política de Grupo do Office 2016.   
-- Configurar um servidor de distribuição local único para aplicativos Microsoft 365, incluindo assistência com a criação de um arquivo Configuration. xml para uso com a ferramenta de implantação do Office 365.   
+- Configurar um servidor de distribuição local único para aplicativos Microsoft 365, incluindo assistência com a criação de um arquivo de configuration.xml para uso com a ferramenta de implantação do Office 365.   
 - Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
