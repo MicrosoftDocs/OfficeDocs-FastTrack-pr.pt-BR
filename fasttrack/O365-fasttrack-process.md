@@ -3,19 +3,19 @@ title: O processo FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: 'O processo FastTrack oferece integração e serviços de adoção do usuário. '
-ms.openlocfilehash: 33faf34376c4f427ccf0f706f6de909dfa286820
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
-ms.translationtype: MT
+ms.openlocfilehash: 271a78c8d203c90e2bb49a7569283a748b66f443
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44472208"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011365"
 ---
 # <a name="the-fasttrack-process"></a>O processo FastTrack
 
@@ -23,13 +23,13 @@ O processo FastTrack oferece integração e serviços de adoção do usuário.
   
 A integração consiste em:
   
-- *Integração básica* – as tarefas necessárias para configuração de locatários e integração ao Azure Active Directory (Azure AD), se necessário. A integração básica também fornece a linha de base para integração de outros serviços qualificados. 
-- *Serviço de migração e integração* – as tarefas de integração de serviço habilitam cenários em seu locatário. A migração de dados (incluindo emails e arquivos) é abordada em [Migração de Dados](O365-data-migration.md). 
+- *Core onboarding* — These are tasks required for tenant configuration and integration with Azure Active Directory (Azure AD) if needed. Core onboarding also provides the baseline for onboarding other eligible services. 
+- *Service onboarding and migration* — Service onboarding tasks enable scenarios in your tenant. Data migration (including email and files) is covered in [Data Migration](O365-data-migration.md). 
     
-Os serviços de adoção do usuário são compostos por tarefas que oferecem orientações para garantir que os usuários estejam cientes dos serviços qualificados e de que podem usá-los para impulsionar o valor comercial. Esta assistência ocorre paralelamente às atividades de integração.
+User adoption services are comprised of tasks that provide guidance for you to ensure your users are aware of the eligible services and can use them to drive business value. This assistance occurs in parallel to onboarding activities.
   
 > [!NOTE]
-> O FastTrack oferece aos clientes uma abordagem recomendada, orientação e práticas recomendadas elaboradas para fornecer resultados rápidos e previsíveis. Se você optar por implantar de forma diferente dessa orientação, sua experiência de integração e o uso do serviço poderão ser afetados. A orientação é definida como uma combinação de assistência verbal e escrita. Quando os Especialistas do FastTrack oferecem orientação, o pessoal do FastTrack não pode atuar em seu nome. Você pode usar serviços do FastTrack para integrar e adotar qualquer carga de trabalho do produto qualificado, desde que sua assinatura seja atual. 
+> FastTrack provides customers with a recommended approach, guidance, and best practices engineered to deliver quick and predictable outcomes. If you choose to deploy outside of this guidance, your onboarding experience and usage of the service may be impacted. Guidance is defined as a combination of verbal and written assistance. When FastTrack Specialists provide guidance, FastTrack personnel cannot act on your behalf. You can use FastTrack services to onboard and adopt any qualifying product workload as long as your subscription is current. 
   
 ## <a name="the-onboarding-process"></a>O processo de integração
 
@@ -50,7 +50,7 @@ Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=
     
  Assim que a assistência de integração for iniciada, definiremos um cronograma de reuniões online.
     
-Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selecione **Meus Clientes**.
 3.    Pesquise seu cliente ou selecione na lista de clientes.

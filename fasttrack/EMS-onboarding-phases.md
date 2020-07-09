@@ -5,18 +5,18 @@ keywords: ''
 author: andredm7
 ms.author: andredm
 manager: ''
-ms.date: 6/01/2020
+ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
 localization_priority: Priority
 ms.collection: FastTrack
-ms.openlocfilehash: ed37297c1d085c1b4140e229d35e9de0d138b9a9
-ms.sourcegitcommit: 826f140cc0ddee32005f74e5d995073af1dc3fa2
+ms.openlocfilehash: e7347b884f2226923ecbd81db5051328b5d30916
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44471824"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010957"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
@@ -82,7 +82,7 @@ A integração básica envolve o provisionamento do serviço e a integração de
 
 ![Integração da fase Habilitar: Funcionalidades básicas](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP significa Web Application Proxy (Proxy de Aplicativo da Web). SSL significa Secure Sockets Layer (Camada de Soquetes Seguros). SDS significa School Data Sync (Sincronização de Dados Escolares). Para saber mais sobre SDS, confira [Bem-vindo ao Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
 > Um método de autenticação gerenciada inclui, mas não se limita a sincronização de hash de senha. A integração de identidade é uma atividade ocasional e não inclui migração ou descomissionamento de métodos de autenticação existentes, como gerenciados ou federados.
