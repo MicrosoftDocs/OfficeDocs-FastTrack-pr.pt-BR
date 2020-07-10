@@ -1,24 +1,24 @@
 ---
-title: Apêndice B Benefício adicional do Centro do FastTrack
+title: Apêndice A - Benefício suplementar do Centro FastTrack
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
-description: Os clientes que compram pelo menos vinte mil licenças para um locatário do Exchange Online estão qualificados para usar serviços adicionais do Centro FastTrack. Para saber mais, confira Serviços e planos qualificados.
-ms.openlocfilehash: 9b16a13f4bf658d68c43720ecad04f3ec7191cf0
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See Eligible Services and Plans for more details.
+ms.openlocfilehash: 619ba9bf27116a94a40e74b38a4f4bbdd4d6c99d
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999094"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45010981"
 ---
-# <a name="appendix-b---fasttrack-center-additional-benefit"></a>Apêndice B: Benefício adicional do Centro FastTrack
+# <a name="appendix-a---fasttrack-center-additional-benefit"></a>Apêndice A - Benefício suplementar do Centro FastTrack
 
-Os clientes que compram pelo menos vinte mil licenças para um locatário do Exchange Online estão qualificados para usar serviços adicionais do Centro FastTrack. Para saber mais, confira [Serviços e planos qualificados](M365-eligible-services-and-plans.md). 
+Customers who purchase at least 20,000 licenses for an Exchange Online tenant are eligible for FastTrack Center additional services. See [Eligible Services and Plans](M365-eligible-services-and-plans.md) for more details. 
   
 ## <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
@@ -48,7 +48,7 @@ Para o Microsoft 365 Apps, fornecemos diretrizes para:
     
 ## <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
 
-Os especialistas do FastTrack têm as responsabilidades a seguir durante a integração. Elas podem ser adicionais ou em substituição às atividades definidas em [Responsibilities do FastTrack](O365-fasttrack-responsibilities.md).
+FastTrack Specialists have the following responsibilities during onboarding. These may be in addition to or replace the activities defined in [FastTrack Responsibilities](O365-fasttrack-responsibilities.md).
   
 ## <a name="general"></a>Geral
 
@@ -64,7 +64,7 @@ Os especialistas do FastTrack têm as responsabilidades a seguir durante a integ
 
 ### <a name="geo-redundant-ad-fs-guidance"></a>Orientação do AD FS com redundância geográfica
 
-- Fornecer o design de arquitetura de referência padrão para uma topologia do AD FS com redundância geográfica abrangendo dois (2) datacenters. A arquitetura padrão fornece:
+- Provide standard reference architecture design for a geo-redundant AD FS topology spanning two (2) data centers. The standard architecture provides for:
   - Autenticação federada dos serviços no escopo para o Benefício do Centro FastTrack. 
   - Resiliência de único site.  
   - Alta disponibilidade e failover.  
@@ -79,7 +79,7 @@ Os especialistas do FastTrack têm as responsabilidades a seguir durante a integ
 ### <a name="ad-fs-client-access-policy-guidance"></a>Orientação da política de acesso de cliente do AD FS
 
 - Examinar as políticas e as configurações necessárias para proteger os recursos do Office 365.  
-- Fornecer orientação e assistência para a configuração da política de acesso de cliente do AD FS para cenários de acesso de cliente identificados nos limites dos cenários com suporte. Para saber mais, confira [Limitar o acesso aos serviços do Office 365 com base no local do cliente](https://go.microsoft.com/fwlink/?LinkID=525689). 
+- Provide guidance and assistance with configuring the AD FS client access policy for identified client access scenarios within the boundaries of supported scenarios. For more information, see [Limiting Access to Office 365 Services Based on the Location of the Client](https://go.microsoft.com/fwlink/?LinkID=525689). 
 - Validar a funcionalidade da autenticação federada com políticas de acesso para cliente modificadas para cenários de acesso identificados com configurações de até 10 usuários.
     
 ## <a name="exchange-online"></a>Exchange Online
@@ -96,7 +96,7 @@ Os especialistas do FastTrack têm as responsabilidades a seguir durante a integ
   - Unificação de mensagens de contatos de atendedor automático e correio de voz do Outlook para redirecionar usuários para o Exchange Online. 
   - Auxiliar na criação de registros de SRV (Local do Serviço), conforme necessário para a federação.
 > [!NOTE]
-> A UM pode ser configurada com gateways IP da UM com suporte e SBCS (controladores de borda de sessão). Para saber mais, confira [Integração do sistema telefônico com UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
+> UM can be configured with supported UM IP gateways and session border controllers (SBCs). For more information, see [Telephone system integration with UM](https://go.microsoft.com/fwlink/?LinkID=809293). 
   
 ### <a name="public-folder-coexistence-guidance"></a>Orientação de coexistência de pastas públicas
 
@@ -135,7 +135,7 @@ Os especialistas do FastTrack têm as responsabilidades a seguir durante a integ
   
 ## <a name="your-responsibilities"></a>Suas responsabilidades
 
-Você tem as responsabilidades a seguir durante a integração. Elas são adicionais às responsabilidades definidas na seção [Suas Responsabilidades](O365-your-responsibilities.md). 
+You have the following responsibilities during onboarding. These are in addition to the responsibilities defined in the [Your Responsibilities](O365-your-responsibilities.md) section. 
   
 - Atribuir e gerenciar recursos de acordo com o plano do projeto.  
 - Agir em tempo hábil para amenizar riscos e resolver problemas indicados pelo cliente, pelos gerentes de projeto do parceiro e o Gerente do FastTrack.   
