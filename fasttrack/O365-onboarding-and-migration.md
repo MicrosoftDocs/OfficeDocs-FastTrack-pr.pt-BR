@@ -3,23 +3,23 @@ title: Fases de integração e migração
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 5/01/2020
+ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
-description: 'A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados.'
-ms.openlocfilehash: 0811237e5570fc9c2dd033edf2204dc2a9333f07
-ms.sourcegitcommit: 2775660fc5ccab2e92aee9383e326dba22b7a16b
+description: Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase.
+ms.openlocfilehash: 7361a3aa493ae9263076357bf2ce005c3f92a5b4
+ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43999209"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "45011593"
 ---
 # <a name="onboarding-and-migration-phases"></a>Fases de integração e migração
 
-A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados, como mostra a imagem a seguir.
+Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
   
 ![Fases do benefício de Integração](media/O365-Onboarding-Phases.png)
   
@@ -41,7 +41,7 @@ Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=
 2.    Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
 3.    Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
   
-Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
+Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
 1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selecione **Meus Clientes**.
 3.    Pesquise seu cliente ou selecione na lista de clientes.
@@ -50,17 +50,17 @@ Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microso
 
 Você pode também solicitar ajuda ao Centro FastTrack no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698), na lista de serviços disponíveis para o seu locatário. 
     
-Durante essa fase, podemos discutir o processo de integração, verificar seus dados e configurar uma reunião inicial. Isso inclui trabalhar em conjunto para entender como você pretende usar o serviço e quais são as metas e planos da organização para impulsionar o uso do serviço.
+During this phase, we discuss the onboarding process, verify your data, and set up a kickoff meeting. This includes working with you to understand how you intend to use the service and your organization's goals and plans to drive service usage.
   
 ![Etapas da integração durante a fase Iniciar](media/O365-Onboarding-Initiate.png)
   
 ## <a name="assess-phase"></a>Fase Avaliar
 
-O Gerente do FastTrack realiza uma chamada interativa de planejamento com você e sua equipe de adoção. Apresentamos os recursos dos serviços qualificados adquiridos, as principais bases necessárias para o sucesso, a metodologia para incentivar o uso do serviço e os cenários que você pode usar para aproveitar os serviços. Podemos ajudá-lo no planejamento de sucesso e fornecer comentários sobre as áreas principais (conforme necessário).
+Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
   
-Os Especialistas do FastTrack trabalham com você para avaliar seu ambiente de origem e seus requisitos. Fornecemos ferramentas para recolher dados sobre o seu ambiente e damos orientações através da estimativa dos requisitos de largura de banda e da avaliação de seus navegadores da Internet, sistemas operacionais clientes, DNS (sistema de nomes de domínio), rede, infraestrutura e sistema de identidade para determinar se é necessário fazer alterações antes da integração. 
+FastTrack Specialists work with you to assess your source environment and the requirements. We provide tools for you to gather data about your environment and  guide you through estimating bandwidth requirements and assessing your internet browsers, client operating systems, Domain Name System (DNS), network, infrastructure, and identity system to determine if any changes are required for onboarding. 
   
-Baseado em suas configurações atuais, fornecemos um plano de correção que define seu ambiente de origem, conforme os requisitos mínimos para a integração ao Office 365 e, se necessário, para a migração de caixas de correio e/ou dados ocorrer com êxito. Oferecemos um conjunto de atividades sugeridas para aumentar a adoção e o valor do usuário final. Também configuramos chamadas de ponto de verificação adequadas para a fase Corrigir.
+Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
   
 ![Etapas de integração da fase Avaliar](media/O365.png)
   
@@ -70,7 +70,7 @@ Você realiza as tarefas do plano de correção baseadas no seu ambiente de orig
   
 ![Etapas da integração durante a fase Corrigir](media/O365-Onboarding-Remediate.png)
   
-Também fornecemos um conjunto de atividades sugeridas para aumentar a adoção e o valor do usuário final. Antes de começar a fase Habilitar, verificaremos em conjunto os resultados das atividades de correção para garantir que você está pronto para continuar. 
+We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
   
 Durante esta fase, o Gerente do FastTrack trabalha com você no planejamento de sucesso, mostrando os recursos corretos e práticas recomendadas para fornecer orientações de forma a disponibilizar o serviço para sua organização e incentivar o uso entre os serviços.
   
@@ -80,26 +80,26 @@ Quando todas as atividades de correção estiverem concluídas, o foco passará 
   
 ## <a name="core"></a>Serviços básicos
 
-A integração básica envolve o provisionamento do serviço e a integração de identidade e locatário. Também inclui etapas para fornecer uma base para serviços de integração como o Exchange Online, o SharePoint Online e o Skype for Business Online. Você e seu Gerente do FastTrack continuam a ser eficazes no planejamento de reuniões de status para avaliar o progresso em relação às metas e determinar a ajuda adicional que você precisa.
+Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
   
 ![Etapas da integração básica durante a fase Habilitar_1](media/O365-Onboarding-Enable-Core.png)
   
 ![Etapas da integração básica durante a fase Habilitar_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP significa Web Application Proxy (Proxy de Aplicativo da Web). SSL significa Secure Sockets Layer (Camada de Soquetes Seguros). SDS significa School Data Sync (Sincronização de Dados Escolares). Para saber mais sobre SDS, confira [Bem-vindo ao Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 A integração de um ou mais serviços qualificados poderá começar quando a integração básica estiver concluída.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua organização fique pronta para usar o email. As etapas exatas, de acordo com o ambiente de origem e os planos de migração de email, podem incluir orientações para:
+For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
 - Configurar os recursos do EOP (Proteção do Exchange Online) para todos os domínios habilitados para email validados no Office 365.
     > [!NOTE]
     > Seus registros de Troca de Mensagens (Mail Exchange, MX) devem apontar para o Office 365. 
 - Configurar o recurso de Proteção Avançada Contra Ameaças do Office 365 (ATP) se ele fizer parte do seu serviço de assinatura. Para obter mais informações, confira[Proteção avançada contra ameaças do Office365](#office-365-advanced-threat-protection).
-- Configurar o recurso de DLP (prevenção contra perda de dados) para todos os domínios habilitados para email validados no Office 365 como parte do serviço de assinatura. Isso é feito quando seus registros MX apontam para o Office 365.
-- Configurar o recurso de OME (Criptografia de Mensagens do Office 365) para todos os domínios habilitados para email validados no Office 365 como parte do serviço de assinatura. Isso é feito quando seus registros MX apontam para o Office 365.
+- Setting up the data loss prevention (DLP) feature for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.
+- Setting up Office 365 Message Encryption (OME) for all mail-enabled domains validated in Office 365 as part of your subscription service. This is done once your MX records point to Office 365.
 
 > [!NOTE]
 > O serviço de Replicação de Caixa de Correio (MRS) tenta migrar os emais do Gerenciamento de Direitos de Informação (IRM) da caixa de correio local para a caixa de correio correspondente do Exchange Online. A capacidade de ler o conteúdo protegido após a migração depende dos modelos de mapeamento e cópia do cliente dos Serviços Gerenciados por Direitos do Active Directory (AD RMS) para o Serviço de Gerenciamento de Direitos do Azure (Azure RMS).
@@ -141,6 +141,28 @@ Na ATP do Office 365, fornecemos instruções para:
 - Relatórios e análise de ameaças.
 
 ![Diagrama do Office 365 ATP (integração)](media/Office-365-Advanced-Threat-Protector-orange-3.png)
+
+## <a name="microsoft-information-governance"></a>Governança de Informações da Microsoft
+
+Para Governança de Informações da Microsoft, nós fornecemos orientações para:
+
+- Governança de Informações.
+- Rótulos e diretivas de retenção.
+- Gerenciamento de registros.
+- Diretivas de exclusão.
+- Conformidade da comunicação.
+- Gerenciamento de risco interno 
+- Descoberta Eletrônica Avançada.
+
+## <a name="microsoft-information-protection"></a>Proteção de Informações da Microsoft
+
+Para a Proteção de Informações da Microsoft, nós fornecemos orientações para:
+- Conheça seus dados através do explorador de conteúdo e do explorador de atividade.
+- Rótulos de confidencialidade.
+- Classificação de dados.
+- Diretivas de proteção contra perda de dados (DLP) em bate-papos e canais do Microsoft Teams.
+- Proteção de informações.
+- Rotulagem unificada.
 
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
