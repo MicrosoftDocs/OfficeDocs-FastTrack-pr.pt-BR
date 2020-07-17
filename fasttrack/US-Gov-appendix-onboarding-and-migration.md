@@ -19,7 +19,7 @@ ms.locfileid: "45011269"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para o governo dos EUA do Office 365
 
-Office 365 onboarding has four primary phases—Initiate, Assess, Remediate, and Enable. You can follow these phases with an optional data migration phase as shown in the following figure.
+A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados, como mostra a imagem a seguir.
   
 ![Fases do benefício de Integração](media/O365-Onboarding-Phases.png)
   
@@ -38,7 +38,7 @@ Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=
 2.    Selecione **solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da página inicial ou selecionando **solicitar assistência para o Microsoft 365** no cartão de implantação
 3. Preencha o formulário **Solicitar assistência para o Microsoft 365**. 
 
-Partners can also get help through the [FastTrack site](https://go.microsoft.com/fwlink/?linkid=780698) on behalf of a customer. To do so:
+Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
 1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
 2.    Selecione **Meus Clientes**.
 3.    Pesquise seu cliente ou selecione na lista de clientes.
@@ -55,11 +55,11 @@ Isso inclui trabalhar com você para entender como você pretende usar o serviç
   
 ## <a name="assess-phase"></a>Fase Avaliar
 
-Your FastTrack Manager conducts an interactive success planning call with you and your adoption team. This introduces you to the capabilities of the eligible services you purchased, the key foundations you need for success, the methodology for driving usage of the service, and scenarios you can use to get value from the services. We assist you in success planning and provide feedback on key areas (as needed).
+O Gerente do FastTrack realiza uma chamada interativa de planejamento com você e sua equipe de adoção. Apresentamos os recursos dos serviços qualificados adquiridos, as principais bases necessárias para o sucesso, a metodologia para incentivar o uso do serviço e os cenários que você pode usar para aproveitar os serviços. Podemos ajudá-lo no planejamento de sucesso e fornecer comentários sobre as áreas principais (conforme necessário).
   
 Os especialistas do FastTrack trabalham com você para avaliar o ambiente de origem e os requisitos. Fornecemos ferramentas para você coletar dados sobre seu ambiente e orientá-lo na estimativa dos requisitos de largura de banda e na avaliação de seus navegadores da Internet, sistemas operacionais clientes, DNS (sistema de nomes de domínio), rede, infraestrutura e sistema de identidade para determinar se as alterações são necessárias para a integração. 
   
-Based on your current setup, we provide a remediation plan that brings your source environment up to the minimum requirements for successful onboarding to Office 365 and, if needed, for successful mailbox and/or data migration. We provide a set of suggested activities to increase end user value and adoption. We also set up appropriate checkpoint calls for the Remediate phase.
+Baseado em suas configurações atuais, fornecemos um plano de correção que define seu ambiente de origem, conforme os requisitos mínimos para a integração ao Office 365 e, se necessário, para a migração de caixas de correio e/ou dados ocorrer com êxito. Oferecemos um conjunto de atividades sugeridas para aumentar a adoção e o valor do usuário final. Também configuramos chamadas de ponto de verificação adequadas para a fase Corrigir.
   
 ![Etapas de integração da fase Avaliar](media/O365.png)
   
@@ -69,7 +69,7 @@ Você realiza as tarefas do plano de correção baseadas no seu ambiente de orig
   
 ![Etapas da integração durante a fase Corrigir](media/O365-Onboarding-Remediate.png)
   
-We also provide a set of suggested activities to increase end user value and adoption. Before beginning the Enable phase, we jointly verify the outcomes of the remediation activities to make sure you're ready to proceed. 
+Também fornecemos um conjunto de atividades sugeridas para aumentar a adoção e o valor do usuário final. Antes de começar a fase Habilitar, verificaremos em conjunto os resultados das atividades de correção para garantir que você está pronto para continuar. 
   
 Durante esta fase, o Gerente do FastTrack trabalha com você no planejamento de sucesso, mostrando os recursos corretos e práticas recomendadas para fornecer orientações de forma a disponibilizar o serviço para sua organização e incentivar o uso entre os serviços.
   
@@ -79,25 +79,25 @@ Quando todas as atividades de correção estiverem concluídas, o foco passará 
   
 ## <a name="core"></a>Serviços básicos
 
-Core onboarding involves service provisioning and tenant and identity integration. It also includes steps for providing a foundation for onboarding services like Exchange Online, SharePoint Online, and Skype for Business Online. You and your FastTrack Manager continue to have success planning checkpoint meetings to evaluate progress against your goals and determine what further assistance you need.
+A integração básica envolve o provisionamento do serviço e a integração de identidade e locatário. Também inclui etapas para fornecer uma base para serviços de integração como o Exchange Online, o SharePoint Online e o Skype for Business Online. Você e seu Gerente do FastTrack continuam a ser eficazes no planejamento de reuniões de status para avaliar o progresso em relação às metas e determinar a ajuda adicional que você precisa.
   
 ![Etapas da integração básica durante a fase Habilitar_1](media/O365-Onboarding-Enable-Core.png)
   
 ![Etapas da integração básica durante a fase Habilitar_2](media/204bbb6c-f7fe-4401-aa69-dd828ed44963.png)
   
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
+> WAP significa Web Application Proxy (Proxy de Aplicativo da Web). SSL significa Secure Sockets Layer (Camada de Soquetes Seguros). SDS significa School Data Sync (Sincronização de Dados Escolares). Para saber mais sobre SDS, confira [Bem-vindo ao Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480). 
   
 A integração de um ou mais serviços qualificados poderá começar quando a integração básica estiver concluída.
   
 ## <a name="exchange-online"></a>Exchange Online
 
-For Exchange Online, we guide you through the process to get your organization ready to use email. The exact steps, depending on your source environment and your email migration plans, can include providing guidance for:
+Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua organização fique pronta para usar o email. As etapas exatas, de acordo com o ambiente de origem e os planos de migração de email, podem incluir orientações para:
   
 - Configurar os recursos do EOP (Proteção do Exchange Online) para todos os domínios habilitados para email validados no Office 365.   
     > [!NOTE]
     > Seus registros de Troca de Mensagens (Mail Exchange, MX) devem apontar para o Office 365.   
-- Setting up the Exchange Online Advanced Threat Protection (ATP) feature if it's part of your subscription service once your MX records point to Office 365. This feature is configured as part of the Exchange Online Protection antimalware settings.   
+- Configurar o recurso do Proteção Avançada Contra Ameaças do Exchange Online (ATP) se ele fizer parte do seu serviço de assinatura depois que os registros MX apontarem para o Office 365. Este recurso está configurado como parte das configurações antimalware do Proteção do Exchange Online.   
 - Configuração das portas do firewall.   
 - Configurar o DNS, incluindo a Descoberta Automática exigida, o SPF (Sender Policy Framework) e os registros MX (conforme necessário).     
 - Configurando o fluxo de email entre seu ambiente de mensagens de origem e o Exchange Online (conforme a necessidade).   

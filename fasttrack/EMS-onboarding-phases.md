@@ -82,7 +82,7 @@ A integração básica envolve o provisionamento do serviço e a integração de
 
 ![Integração da fase Habilitar: Funcionalidades básicas](./media/ft-enable-phase-core-02.png)
 > [!NOTE]
-> WAP stands for Web Application Proxy. SSL stands for Secure Sockets Layer. SDS stands for School Data Sync. For more information on SDS, see [Welcome to Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
+> WAP significa Web Application Proxy (Proxy de Aplicativo da Web). SSL significa Secure Sockets Layer (Camada de Soquetes Seguros). SDS significa School Data Sync (Sincronização de Dados Escolares). Para saber mais sobre SDS, confira [Bem-vindo ao Microsoft School Data Sync](https://go.microsoft.com/fwlink/?linkid=871480).
 
 > [!NOTE]
 > Um método de autenticação gerenciada inclui, mas não se limita a sincronização de hash de senha. A integração de identidade é uma atividade ocasional e não inclui migração ou descomissionamento de métodos de autenticação existentes, como gerenciados ou federados.
