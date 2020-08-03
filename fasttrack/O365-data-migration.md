@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: 7780af3d5edcdbdf21acba1d421bf379967305fa
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
+ms.openlocfilehash: 2befdc8e1eb2464b1c9831528849fb39671cfff2
+ms.sourcegitcommit: 21e02f51145485e20c00670e0ebe172f7def46e6
 ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011305"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46534044"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -38,9 +38,6 @@ Você pode ter informações nos seus ambientes de origem os quais você queira 
   
 > [!NOTE]
 > Se a integração for necessária, seu ambiente de origem deverá estar em um nível mínimo para esse aplicativo. 
-  
-> [!NOTE]
-> Novidades de março de 2020, a Microsoft está disponibilizando licenças de avaliação de seis meses do [Office 365 E1](https://docs.microsoft.com/microsoftteams/e1-trial-license) e [Office 365 G1](https://docs.microsoft.com/microsoftteams/g1-trial-license) para auxiliar o trabalho remoto e o aprendizado conforme os clientes respondem à epidemia COVID-19. Como exceção, o FastTrack está disponibilizando serviços de migração de dados para locatários com 500 ou mais licenças de avaliação e o [Office 365 A1](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1) para estudantes, de março de 2020 a agosto de 2020. A Microsoft se reserva o direito de cancelar, alterar ou suspender essa oferta a qualquer momento, sem aviso prévio.
 
 A tabela a seguir descreve o que deve ser migrado em seu ambiente de origem existente.
   
