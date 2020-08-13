@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: O FastTrack fornece orientações de implantação do Windows 10 para ajudar você a atualizar do Windows 7 Professional e do Windows 8.1 Professional para o Windows 10 Enterprise.
-ms.openlocfilehash: 0aa98b787af20c12f851033b0524d450fd0fcb87
-ms.sourcegitcommit: 850211891e549e582e649a1dacdc2aa79b520b39
-ms.translationtype: MT
+ms.openlocfilehash: da069420434a8087c661f77400edd9239f56c366
+ms.sourcegitcommit: 7da7b0966b08486a0ede148240af958408a271f7
+ms.translationtype: HT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "45011509"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634165"
 ---
 # <a name="windows-10"></a>Windows 10
 
@@ -41,14 +41,13 @@ Você pode obter ajuda no [centro de administração do Microsoft 365](https://g
 
 Para obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698): 
 1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selecione **Solicitar assistência para o Microsoft 365** nas **ações rápidas** na parte superior da sua página de destino ou selecionando **Solicitar assistência para o Microsoft 365** no cartão de implantação.
-3.    Preencha o formulário **Solicitar assistência para o Microsoft 365**.
+2.    Selecione **Solicitar suporte com o Microsoft 365** em **ações rápidas** no alto da página de chegada.
+3.    Preencha o formulário **Solicitar Assistência com o Microsoft 365**.
   
 Os parceiros também podem obter ajuda no [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) em nome de um cliente da seguinte forma:
 1.    Acesse o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698). 
-2.    Selecione **Meus Clientes**.
-3.    Pesquise seu cliente ou selecione na lista de clientes.
-4.    Selecione **Serviços**.
-5.    Selecione o formulário **Solicitar assistência para o Microsoft 365**.
-6.    Selecione a opção de produto do Windows 10 e preencha o formulário.
+2.    Selecione **Solicitar suporte com o Microsoft 365** em **ações rápidas** no alto da página de chegada.
+3.    Procure o seu cliente inserindo o nome dele, domínio ou TPID (Identificador de Ponto de Confiança).
+4.    Selecione o cliente nos resultados da pesquisa.
+5.    Preencha o formulário **Solicitar Assistência com o Microsoft 365**.
  
