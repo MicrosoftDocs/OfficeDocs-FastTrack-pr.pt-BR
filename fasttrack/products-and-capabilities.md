@@ -10,12 +10,12 @@ ms.service: m365-administration
 localization_priority: Priority
 ms.collection: FastTrack
 description: Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados pelo FastTrack e as expectativas necessárias do ambiente de origem antes de começar. Baseado na sua configuração atual, trabalhamos com você na criação de um plano de correção que leva seu ambiente de origem aos requisitos mínimos para uma integração bem-sucedida.
-ms.openlocfilehash: 64aefb7d7c99265fe56842a61873c06055af77de
-ms.sourcegitcommit: f41acab3a535f26d1ad460c4788a1dcb9f4d7cfc
-ms.translationtype: HT
+ms.openlocfilehash: 1b1ffa5812905630723b5d8a23196fbbc18a9c32
+ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
+ms.translationtype: MT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/18/2020
-ms.locfileid: "46787920"
+ms.locfileid: "46800963"
 ---
 # <a name="products-and-capabilities"></a>Produtos e Recursos
 
@@ -23,14 +23,14 @@ ms.locfileid: "46787920"
 
 Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados pelo FastTrack e as expectativas necessárias do ambiente de origem antes de começar. Baseado na sua configuração atual, trabalhamos com você na criação de um plano de correção que leva seu ambiente de origem aos requisitos mínimos para uma integração bem-sucedida.
 
-O FastTrack fornecerá orientações para ajudá-lo a começar a usar os principais recursos (comuns para todos os Serviços Online da Microsoft) e, em seguida, com a integração de cada serviço qualificado.
-
-Eles se enquadram em quatro categorias:
+O FastTrack fornece orientações para ajudá-lo primeiro com os principais recursos (comuns para todos os serviços online da Microsoft) e, em seguida, com a integração de cada serviço qualificado:
 
   - [Geral](#general)
   - [Office 365](#office-365)
   - [Enterprise Mobility & Security](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
+  - [Garantia de Aplicativo](Win-10-app-assure.md)
+  - [O novo Microsoft Edge](Win-10-microsoft-edge.md)
 
 > [!NOTE]
 > Para saber mais sobre as expectativas de ambiente de origem do Office 365 para o Governo norte-americano, confira  [Expectativas de Ambiente de Origem do Office 365 para o Governo norte-americano](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
@@ -417,8 +417,8 @@ Fornecemos instruções remotas para habilitar o serviço do Yammer Enterprise.
 <td><strong>Azure AD (Active Directory) e Azure AD Premium</strong></td>
 <td>  Fornecemos orientações remotas para a proteção de identidades na nuvem para os cenários a seguir.  
 
-</ul> 
- 
+ <br/>
+
 <strong>Proteger a infraestrutura de base</strong>  </ul>
 <ul>
 <li>  Configurar e habilitar uma autenticação forte para as identidades, incluindo a proteção com a autenticação multifator do Microsoft Azure (MFA) (somente na nuvem), do aplicativo Microsoft Authenticator e registro combinado para o Azure MFA e a redefinição de senha de autoatendimento (SSPR).  </li>
@@ -658,56 +658,7 @@ Para atualização da infraestrutura, você deve atender a esses requisitos:
 <li>  Microsoft Endpoint Configuration Manager.  </li>
 <li>  A versão do Configuration Manager deve ter suporte na versão de destino do Windows 10. Para obter mais informações, confira a tabela de suporte do Configuration Manager em  <a href="https://docs.microsoft.com/sccm/core/plan-design/configs/support-for-windows-10">Suporte para Windows 10 no Configuration Manager</a>.  </li>
 </ul>
-<h3 id="section-1"></h3></td>
-</tr>
-<tr class="even">
-<td><strong>Garantia de Aplicativo</strong></td>
-<td>  A Garantia de Aplicativo garante um serviço projetado para solucionar problemas de compatibilidade com os aplicativos do Windows 10 e do Microsoft 365 Apps. Ao solicitar o serviço de Garantia de Aplicativo, nós trabalhamos com você para solucionar problemas com aplicativos válidos sem custos adicionais. Também fornecemos orientações aos clientes que enfrentam problemas de compatibilidade ao implantar a Área de Trabalho Virtual do Windows e o novo Microsoft Edge.  
-  Fornecemos assistência de correção para os aplicativos implantados nos seguintes produtos da Microsoft:
-<ul>
-<li>  <strong>Windows 10</strong> </li>
-<li> <strong>Microsoft 365 Apps</strong>  </li>
-<li>  <strong>O novo Microsoft Edge - </strong> Para obter orientações sobre a implantação do Microsoft Edge, confira  <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Visão geral dos canais do Microsoft Edge</a>.  </li>
-<li>  <strong>Área de Trabalho Virtual do Windows</strong> - Para mais informações, confira <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">O que é Área de Trabalho Virtual do Windows?</a> e a <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">Multisessão de perguntas frequentes sobre o Windows 10 Enterprise</a>.  </li>
-</ul></td>
-<td><strong>Windows 10 e Microsoft 365 Apps</strong>
-<ul>
-<li>  
-  Os aplicativos que funcionavam no Windows 7, Windows 8.1, Office 2010 e Office 2013 também funcionam no Windows 10 e no Microsoft 365 Apps.  
-  </li>
-</ul>
-<strong>O novo Microsoft Edge</strong>
-<ul>
-<li>  
-  Se os seus sites ou aplicativo Web funcionarem no Internet Explorer 11, nas versões com suporte do Google Chrome ou em qualquer versão do Microsoft Edge, eles também funcionarão no novo Microsoft Edge.  
-  </li>
-<li>  
-  À medida que a Web está em constante evolução, certifique-se de revisar essa lista publicada de  <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">alterações conhecidas que afetam a compatibilidade do site para o Microsoft Edge</a>.  
-  </li>
-</ul>
-  <strong>Área de Trabalho Virtual do Windows</strong>  
-<ul>
-<li>  
-  Aplicativos virtualizados executados em um Host de Sessão de Área de Trabalho Remota do Windows Server (RDSH) também são executados no Windows 10 Enterprise multisessão como parte da Área de Trabalho Virtual do Windows.  
-  </li>
-<li>  
-  Os aplicativos que estão sendo executados em um ambiente da infraestrutura da área de trabalho virtual (VDI) do Windows 7 ou do Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.* </li>
-<li>  
-  Os aplicativos que estão sendo executados no Windows 7 ou no Windows 10 de dispositivos clientes também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows. </li>
-</ul>
-*As exclusões e limitações de compatibilidade de várias sessões do Windows 10 Enterprise incluem:
-<ul>
-<li>  
-  Redirecionamento limitado de hardware.  
-  </li>
-<li>  
-  Aplicativos de uso intensivo de A/V podem ser executados com uma capacidade reduzida.  
-  </li>
-<li>  
-  Não há suporte para aplicativos de 16 bits na Área de Trabalho Virtual do Windows de 64 bits.  
-  </li>
-</ul></td>
-</tr>
+
 <tr class="odd">
 <td><strong>Proteção Avançada contra Ameaças do Microsoft Defender (ATP)</strong></td>
 <td>  A Proteção Avançada contra Ameaças do Microsoft Defender (ATP) é uma plataforma projetada para ajudar as redes corporativas a prevenir, detectar, investigar e responder à ameaças avançadas.  
@@ -847,17 +798,6 @@ Para atualização da infraestrutura, você deve atender a esses requisitos:
 Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência com esses serviços.  
 </ul></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><strong>Microsoft Edge</strong> (para clientes do Windows 10 Enterprise)</td>
-<td><ul>
-<li>  Fornecemos assistência para a implantação e compatibilidade para: implantação do novo Microsoft Edge no Windows 10 Enterprise com o Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Microsoft Intune).  </li>
-<li>  Configuração do Microsoft Edge (usando políticas de grupo ou configuração do aplicativo do Intune e políticas de aplicativos).  </li>
-<li>  Inventariar a lista dos sites que podem exigir o uso no modo do Internet Explorer.  </li>
-<li>  Habilitação do modo do Internet Explorer com a lista de sites corporativos existente.  
-  Além disso, se você tiver um aplicativo Web ou um site que funciona com o Internet Explorer ou com o Google Chrome e tiver problemas de compatibilidade, fornecemos orientações para resolver o problema sem custo adicional. Confira a parte <strong>Garantia de Aplicativo</strong> dessa tabela para obter mais detalhes.  </li>
-</ul></td>
-<td></td>
-</tr>
+
 </tbody>
 </table>
