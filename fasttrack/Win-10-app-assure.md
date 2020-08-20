@@ -7,15 +7,15 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: FastTrack
 description: Os Benefícios do Centro FastTrack para Windows 10 fornecem acesso à Garantia de Aplicativo – um serviço projetado para resolver problemas de compatibilidade de aplicativos com o Windows 10 e os Aplicativos do Microsoft 365.
-ms.openlocfilehash: 4c7c32769dfe34f231e80f66a51556f23660cff2
-ms.sourcegitcommit: a293da96a47a7e1d97d09e1665fdb17ea0506944
+ms.openlocfilehash: b568b1c2a0a9473318404f50c37bbbc739018b41
+ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46795061"
+ms.lasthandoff: 08/20/2020
+ms.locfileid: "46817672"
 ---
 # <a name="app-assure"></a>Garantia de Aplicativo
 
