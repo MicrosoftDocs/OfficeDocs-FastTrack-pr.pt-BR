@@ -12,14 +12,14 @@ ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
 ms.openlocfilehash: cafbad6e17814d0a8961c22389c5870cfd82ec81
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800927"
 ---
 # <a name="data-migration"></a>Migração de dados
 > [!CAUTION]
-> Este conteúdo não é mais atual e está agendado para remoção. Use o Sumário na navegação à esquerda para o conteúdo atual.
+> Este conteúdo está obsoleto e está programado para ser removido. Utilize a tabela de conteúdo na navegação à esquerda para o conteúdo atual.
 
 Você pode ter informações nos seus ambientes de origem os quais você queira migrar para o Office 365.
 
