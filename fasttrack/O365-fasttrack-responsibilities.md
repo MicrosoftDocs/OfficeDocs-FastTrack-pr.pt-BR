@@ -12,7 +12,7 @@ ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
 ms.openlocfilehash: c881976636243b258623c61ca1406a179177a063
 ms.sourcegitcommit: 1b2242be54dd0d000c6384f45f18e1951c31998b
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: pt-BR
 ms.lasthandoff: 08/18/2020
 ms.locfileid: "46800855"
@@ -20,7 +20,7 @@ ms.locfileid: "46800855"
 # <a name="fasttrack-responsibilities"></a>Responsibilities do FastTrack
 
 > [!CAUTION]
-> Este conteúdo não é mais atual e está agendado para remoção. Use o Sumário na navegação à esquerda para o conteúdo atual.
+> Este conteúdo está obsoleto e está programado para ser removido. Utilize o sumário na navegação à esquerda para o conteúdo atual.
 
 Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.\*
   
@@ -126,32 +126,32 @@ Fornece orientação sobre:
 
 Fornece orientação sobre:
 - Gerenciamento de registros.
-  - Aplicando permissões para gerenciamento de registros.
-  - Orientações sobre como converter planos de arquivo e agendamentos de retenção em rótulos e políticas.
-  - Criação de rótulos de retenção e políticas.
+  - Aplicando permissões para o gerenciamento de registros.
+  - Diretrizes sobre como traduzir planos de arquivo e agendamentos de retenção em rótulos e políticas.
+  - Criar rótulos e políticas de retenção.
   - Estabelecendo políticas de exclusão.
-  - Revisão de itens para descarte.
-- Gerenciamento de risco interno.
+  - Revisar itens para descarte.
+- Gerenciamento de riscos internos.
   - Habilitando logs de auditoria do Office 365.
-  - Definindo configurações dentro do gerenciamento de risco do insider.
-  - Criar políticas de risco do insider usando os guias estratégicos internos.
-  - Configurar permissões para conformidade de comunicação.
-  - Criação de políticas de conformidade de comunicação usando modelos personalizáveis.
-  - Monitoramento e revisão de alertas.
+  - Definindo as configurações do gerenciamento de riscos internos.
+  - Criar políticas de riscos internos usando os guias estratégicos internos.
+  - Configurar permissões para conformidade com comunicações.
+  - Criar políticas de conformidade de comunicação usando modelos personalizáveis.
+  - Monitorar e revisar alertas.
 - Governança de Informações.
-  - Aplicando permissões para governança de informações.
-  - Criação de rótulos de retenção.
+  - Aplicando permissões para o controle de informações.
+  - Criar rótulos de retenção.
   - Rótulos de retenção de publicação (manual e automático).
-  - Criação de trabalhos de importação.
+  - Criar trabalhos de importação.
 - Descoberta Eletrônica Avançada.
-  - Dados não-Office 365.
+  - Dados que não são do Office 365.
   - Definir permissões.
-  - Criar ocorrências.
-  - Adição de responsáveis. 
-  - Retenção legal.
-  - Consulte.
-  - Revisar conjuntos.
-  - Exportação de conteúdo.
+  - Criar casos.
+  - Adicionar responsáveis. 
+  - Bloqueio legal.
+  - Pesquisa.
+  - Conjuntos de revisão.
+  - Exportar conteúdo.
 
 ## <a name="microsoft-information-protection"></a>Proteção de Informações da Microsoft
 
