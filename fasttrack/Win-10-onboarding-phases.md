@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: 'A integração do Windows 10 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar.'
-ms.openlocfilehash: a7047bbec148fa6bbe49d8bb84f8a73f2a132e0d
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 02067415d8fa34d353a96d811c18fde30d18e8ab
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817552"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338469"
 ---
 # <a name="onboarding-phases"></a>Fases da Integração
 
 > [!CAUTION]
-> Este conteúdo não é mais atual e está agendado para remoção. Use o Sumário na navegação à esquerda para o conteúdo atual.
+> Este conteúdo está obsoleto e está programado para ser removido. Utilize o sumário na navegação à esquerda para o conteúdo atual.
 
 A integração do Windows 10 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar.
 

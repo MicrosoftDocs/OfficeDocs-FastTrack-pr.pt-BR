@@ -7,20 +7,20 @@ ms.date: 7/01/2020
 ms.audience: ITPro
 ms.topic: overview
 ms.service: windows-10-administration
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou Microsoft 365, os Especialistas do FastTrack fornecem orientações de implantação remota para proteger pontos de extremidade. Nosso serviço é adaptado ao ambiente e às necessidades de cada cliente.
-ms.openlocfilehash: bf488a2cbe1c61083425171de6942b5db59e58ad
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: a649f5a5959d877b75ad1f08edfbb18a015ba5bb
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817648"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338552"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
 > [!CAUTION]
-> Este conteúdo não é mais atual e está agendado para remoção. Use o Sumário na navegação à esquerda para o conteúdo atual.
+> Este conteúdo está obsoleto e está programado para ser removido. Utilize o sumário na navegação à esquerda para o conteúdo atual.
 
 Quando você compra qualquer um dos serviços do Windows 10 ou Microsoft 365 (conforme detalhado em [Serviços e planos qualificados](M365-eligible-services-and-plans.md)), os Especialistas do FastTrack fornecem orientações de implantação remota para proteger pontos de extremidade. Nosso serviço é adaptado ao ambiente e às necessidades de cada cliente. Especialistas do FastTrack:
 - Avalie a versão e o gerenciamento de dispositivos do sistema operacional (incluindo o Microsoft Intune, o Gerenciador de Configurações do Microsoft Endpoint, os GPOs (Objetos de Diretiva de Grupo) e as configurações de terceiros).

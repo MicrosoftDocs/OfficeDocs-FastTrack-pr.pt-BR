@@ -9,21 +9,21 @@ ms.date: 7/01/2020
 ms.topic: article
 ms.prod: ''
 ms.service: microsoft-intune
-localization_priority: Normal
+localization_priority: None
 ms.collection: FastTrack
 ms.assetid: 9048f3e5-cc28-4744-bb5e-36f974abb261
 ms.reviewer: ''
 ms.suite: ems
-ms.openlocfilehash: 7d9921daf56aa14589a6a050e736f94676b10143
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 285dee7b2372af0615673ecd330051fc50f49212
+ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817504"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47338337"
 ---
 # <a name="source-environment-expectations"></a>Expectativas do Ambiente de Origem
 > [!CAUTION]
-> Este conteúdo não é mais atual e está agendado para remoção. Use o Sumário na navegação à esquerda para o conteúdo atual.
+> Este conteúdo está obsoleto e está programado para ser removido. Utilize o sumário na navegação à esquerda para o conteúdo atual.
 
 Ao usar os [Benefícios do Centro do FastTrack para Enterprise Mobility + Security (EMS) ](EMS-fasttrack-benefit-for-EMS.md), para que o Microsoft Azure Active Directory Premium, o Microsoft Intune e a Proteção de Informações do Azure estejam prontos para uso, seu ambiente precisa atender às expectativas descritas nas seções a seguir.
 
