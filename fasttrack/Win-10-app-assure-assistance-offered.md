@@ -10,12 +10,12 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou do Microsoft 365, os especialistas do FastTrack fornecem orientações de aconselhamento e correção para implantar no Windows 10 e no Microsoft 365 Apps e manter-se atualizado sem nenhum custo adicional (com uma assinatura qualificada).
-ms.openlocfilehash: 874a23083e9c838486fad93d5da46e269f12282a
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
+ms.openlocfilehash: 5252f880f126dd20de792e5cbdb18abc2473764d
+ms.sourcegitcommit: dd7b2975ade7feaa12be079c8e54fa5612383538
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817684"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48206248"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
@@ -36,6 +36,13 @@ O FastTrack fornece assistência de correção para os aplicativos implantados n
 
 - Os aplicativos que funcionavam no Windows 7, Windows 8.1, Office 2010 e Office 2013 também funcionam no Windows 10 e no Microsoft 365 Apps.
 
+### <a name="windows-10-on-arm"></a>Windows 10 no ARM
+
+- Os aplicativos que funcionaram no Windows 7, no Office 2010 ou nas versões posteriores funcionam em aplicativos do Windows 10 e Microsoft 365 em dispositivos ARM64.
+
+> [!NOTE]
+> As exclusões e limitações do Windows 10 no ARM incluem aplicativos que dependem de drivers de software que não são compatíveis com o ARM, usam OpenGL ou OpenCL ou estão disponíveis apenas em 64 bits (x64).
+
 ### <a name="the-new-microsoft-edge"></a>O novo Microsoft Edge
 
 - Se os seus sites ou aplicativo Web funcionarem no Internet Explorer 11, nas versões com suporte do Google Chrome ou em qualquer versão do Microsoft Edge, eles também funcionarão no novo Microsoft Edge.
@@ -45,13 +52,14 @@ Para obter orientações sobre a implantação do Microsoft Edge, confira [Visã
 ### <a name="windows-virtual-desktop"></a>Área de Trabalho Virtual do Windows
 
 - Aplicativos virtualizados executados em um Host de Sessão de Área de Trabalho Remota do Windows Server (RDSH) também são executados no Windows 10 Enterprise multisessão como parte da Área de Trabalho Virtual do Windows.
-- Os aplicativos que estão sendo executados em um ambiente da infraestrutura da área de trabalho virtual (VDI) do Windows 7 ou do Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.*
-- Os aplicativos que estão sendo executados no Windows 7 ou no Windows 10 de dispositivos clientes também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.\*
+- Os aplicativos executados em qualquer ambiente VDI (Virtual Desktop Infrastructure) do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da área de trabalho virtual do Windows.
+- Os aplicativos executados nos dispositivos cliente do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da área de trabalho virtual do Windows.
 
-\*As exclusões e limitações de compatibilidade de várias sessões do Windows 10 Enterprise incluem:
-- Redirecionamento limitado de hardware.
-- Aplicativos de uso intensivo de A/V podem ser executados com uma capacidade reduzida.
-- Não há suporte para aplicativos de 16 bits na Área de Trabalho Virtual do Windows de 64 bits.
+> [!NOTE]
+> As exclusões e limitações de compatibilidade de várias sessões do Windows 10 Enterprise incluem: 
+> - Redirecionamento limitado de hardware.
+> - Aplicativos de uso intensivo de A/V podem ser executados com uma capacidade reduzida.
+> - Não há suporte para aplicativos de 16 bits na Área de Trabalho Virtual do Windows de 64 bits.
 
 Para saber mais, confira [O que é Área de Trabalho Virtual do Windows?](https://docs.microsoft.com/azure/virtual-desktop/overview) e o [Perguntas frequentes sobre o Windows 10 Enterprise multisessão](https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq).
 
