@@ -1,22 +1,22 @@
 ---
-title: Apêndice B-visão geral do benefício do centro FastTrack para o Office 365 governo dos EUA
+title: Apêndice B – Visão Geral dos Benefícios do Centro FastTrack para Office 365 para o Governo norte-americano
 ms.author: v-rberg
 author: v-rberg-msft
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: None
 description: Com o benefício do FastTrack Center para o Office 365, você trabalha remotamente com especialistas do FastTrack para que o seu ambiente do Office 365 fique pronto para uso e planeje a implantação e o uso em sua organização.
-ms.openlocfilehash: 71aa948e87a2f4c5193bf4a1e860d10bb0fa9e3f
-ms.sourcegitcommit: 81ad135578a329f8b0a3325c4e43bb8f90648597
+ms.openlocfilehash: 87bb7ee331b9abbd92d984d9f2ac940762cf34c2
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "46776451"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319955"
 ---
-# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apêndice B-visão geral do benefício do centro FastTrack para o Office 365 governo dos EUA
+# <a name="appendix-b---fasttrack-center-benefit-overview-for-office-365-us-government"></a>Apêndice B – Visão Geral dos Benefícios do Centro FastTrack para Office 365 para o Governo norte-americano
 
 Com o benefício do FastTrack Center para o Office 365, você trabalha remotamente com especialistas do FastTrack para que o seu ambiente do Office 365 fique pronto para uso e planeje a implantação e o uso em sua organização. 
   
@@ -26,7 +26,7 @@ Embora a maioria dos produtos e recursos sejam as mesmas entre o Office 365 Suit
 > Para receber serviços do FastTrack, vá para o [site do FastTrack](https://go.microsoft.com/fwlink/?linkid=780698) e solicite assistência.  
 
 Falamos sobre os seguintes tópicos:
-- [Processos e expectativas](process-and-expectations.md) 
+- [Processos e Expectativas](process-and-expectations.md) 
 - [Expectativas do ambiente de origem para o governo dos EUA do Office 365](US-Gov-appendix-source-environment-expectations.md)   
 - [Fases de integração e migração para o governo dos EUA do Office 365](US-Gov-appendix-onboarding-and-migration.md)
 - [Migração de dados](data-migration.md)    

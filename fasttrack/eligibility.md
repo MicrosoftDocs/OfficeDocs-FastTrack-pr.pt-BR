@@ -3,19 +3,19 @@ title: Qualificação
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, descrevemos os requisitos de qualificação para o recebimento de assistência remota, com base nos especialistas do FastTrack, incluídos na compra de licenças do Microsoft 365 e detalhes sobre os produtos e recursos específicos abordados.
-ms.openlocfilehash: ce37dd547b93dd2a66b18d5250626c14ed20ff53
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 36e838da202103ee2f6623f9c709f8e558cd5b22
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817563"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48320015"
 ---
 # <a name="eligibility"></a>Qualificação
 
@@ -46,8 +46,8 @@ Os especialistas do FastTrack podem fornecer assistência remota, dirigida, aos 
   - Power BI
   - Project Online
   - SharePoint Online
-  - Skype for Business Online
   - Windows 10
+  - Área de Trabalho Virtual do Windows
   - Yammer Enterprise
 
 ## <a name="eligible-plans"></a>Planos qualificados
@@ -65,6 +65,7 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
   - Microsoft 365 E5 Descoberta eletrônica & Auditoria\*
   - Microsoft 365 E5 Proteção da Informação e Governança\*
   - Microsoft 365 E5 Gestão de Risco Interno\*
+  - Microsoft 365 F1\*
   - Microsoft 365 F3\*
   - Microsoft 365 Business\*
   - Microsoft 365 Apps para Grandes Empresas\*
@@ -115,6 +116,19 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
   - Proteção do Exchange Online
   - Proteção Avançada contra Ameaças do Office 365
 
+#### <a name="microsoft-teams"></a>Microsoft Teams
+
+  - Sistema Telefônico
+  - Plano de Chamada
+  - Conferência por Áudio
+  - Sala do Microsoft Teams
+
+#### <a name="onedrive-for-business"></a>OneDrive for Business
+
+  - OneDrive for Business com Office
+  - OneDrive for Business Plano 1
+  - OneDrive for Business Plano 2
+
 #### <a name="project-online"></a>Project Online
 
   - Project Online Essentials
@@ -126,32 +140,16 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
   - SharePoint Online (Plano 1)
   - SharePoint Online Plano 2
 
-#### <a name="onedrive-for-business"></a>OneDrive for Business
-
-  - OneDrive for Business com Office
-  - OneDrive for Business Plano 1
-  - OneDrive for Business Plano 2
-
-#### <a name="skype-for-business-online"></a>Skype for Business Online
-
-  - Sistema Telefônico\*\*\*
-  - Plano de Chamada\*\*\*
-  - Conferência por Áudio\*\*\*
-  - Skype for Business Online Plano 1
-  - Skype for Business Online Plano 2
-
 #### <a name="yammer"></a>Yammer
 
   - Yammer Enterprise
-
 
 <br>
 
 \*Disponível somente para serviços na nuvem qualificados do FastTrack e os recursos descritos nesta descrição de benefício.  
       
 \*\*Para saber mais sobre os benefícios do FastTrack para o governo dos Estados Unidos, confira [Office 365 do governo dos EUA](https://aka.ms/aboutgovcloud).  
-      
-\*\*\*Pode ser usado para o Skype for Business Online e para os usuários licenciados do Teams. Exige a compra qualificada do Skype for Business ou do Teams.  
+       
       
 ### <a name="enterprise-mobility--security-plans"></a>Enterprise Mobility + Security (EMS)  
       

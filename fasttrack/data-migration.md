@@ -3,19 +3,19 @@ title: Migração de dados
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: O FastTrack pode ajudar a migrar emails e dados de arquivos em seus ambientes de origem para o Office 365 (Exchange Online, SharePoint Online e OneDrive for Business). O tipo de assistência que fornecemos depende do número de licenças do Office 365.
-ms.openlocfilehash: 6b2c9cc3afba415c200b14fe34e65f1c3286e450
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: a8bb82e5a0409c52fe2603d33a4412182288f24a
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817708"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319943"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -281,6 +281,7 @@ A tabela a seguir apresenta detalhes de migração específicos para cada ambien
 <li> O conteúdo que está sendo migrado não pertencente à conta Google Drive </li>
 <li> Permissões e metadados básicos de usuários externos (<strong>Observação</strong>: Use relatórios do administrador do Google Drive para identificar conteúdo compartilhado com usuários externos. Instrua os usuários finais a recompartilhar o conteúdo com usuários externos após a migração). </li>
 <li> Permissões de associação compartilhadas do Drive (<strong>Observação</strong>: Use relatórios do administrador do Google Drive para identificar as associações compartilhadas do Drive. Instrua os usuários finais a definir essas configurações de associação no destino antes da migração). </li>
+<li> Arquivos marcados como restritos ou não copiados </li>
 <li> Arquivos ou pastas que excedem as  <a href="https://go.microsoft.com/fwlink/?linkid=846724"><span class="underline">Restrições e limitações atuais do SharePoint Online</span></a> </li>
 </ul></td>
 </tr>

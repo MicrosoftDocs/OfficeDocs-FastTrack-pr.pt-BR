@@ -3,19 +3,19 @@ title: Processos e Expectativas
 ms.author: rberg@steyer.net
 author: rberg@steyer.net
 manager: jimmuir
-ms.date: 8/17/2020
+ms.date: 10/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, abordaremos como contratar o FastTrack para obter assistência, como essa assistência é fornecida, sugerimos dicas para uma experiência bem-sucedida e compreender as principais responsabilidades do FastTrack e da sua empresa.
-ms.openlocfilehash: 229679a0bd248e79cd8ebedc563b173a20756f80
-ms.sourcegitcommit: d67bbe7e9f71c9983280cb3858a4fff0d7ac884b
-ms.translationtype: HT
+ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
+ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "46817576"
+ms.lasthandoff: 09/30/2020
+ms.locfileid: "48319931"
 ---
 # <a name="process-and-expectations"></a>Processos e Expectativas
 
@@ -43,6 +43,8 @@ Para que seu parceiro solicite assistência em seu nome por meio do site FastTra
 3.  Procure o seu cliente inserindo o nome dele, domínio ou TPID (Identificador de Ponto de Confiança).
 4.  Selecione o cliente nos resultados da pesquisa.
 5.  Preencha o formulário **Solicitar Assistência com o Microsoft 365**.
+
+Para solicitar assistência para a garantia de aplicativo, conclua a [solicitação de serviço de garantia de aplicativo](https://go.microsoft.com/fwlink/?linkid=2022721).
 
 ## <a name="fasttrack-expectations"></a>Expectativas do FastTrack
 
