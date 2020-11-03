@@ -1,21 +1,21 @@
 ---
 title: Processos e Expectativas
-ms.author: rberg@steyer.net
-author: rberg@steyer.net
+ms.author: v-bermic
+author: rberg-steyer
 manager: jimmuir
-ms.date: 10/1/20
+ms.date: 11/2/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, abordaremos como contratar o FastTrack para obter assistência, como essa assistência é fornecida, sugerimos dicas para uma experiência bem-sucedida e compreender as principais responsabilidades do FastTrack e da sua empresa.
-ms.openlocfilehash: 293cde4bd1bde0b0a8db74ea3d17f39669c9b0f0
-ms.sourcegitcommit: c2bf382289217ef12913ef3419e6378716fd411a
+ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/30/2020
-ms.locfileid: "48319931"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827641"
 ---
 # <a name="process-and-expectations"></a>Processos e Expectativas
 
@@ -27,7 +27,7 @@ Obter assistência de um especialista do FastTrack
   
 Há dois lugares para solicitar assistência de um especialista do FastTrack:
 
-  - No Centro de administração da Microsoft – o administrador de locatários entra no Centro de administração da Microsoft e, em seguida, clica no widget **Precisa de ajuda?**, que os orientará durante o processo de solicitação.
+  - No Centro de administração da Microsoft – o administrador de locatários entra no Centro de administração da Microsoft e, em seguida, clica no widget **Precisa de ajuda?** , que os orientará durante o processo de solicitação.
   - No site FastTrack - Você ou seu Parceiro pede assistência para sua empresa por meio do site FastTrack.
 
 Para solicitar assistência diretamente por meio do site FastTrack:
@@ -55,7 +55,7 @@ O FastTrack fornece orientação ponta a ponta sobre como migrar para o e o usan
 Você trabalha remotamente com especialistas do FastTrack por meio de conversas técnicas, workshops e reuniões com pontos de verificação, incluindo:
 
   - **Conversas e workshops técnicos:** Estes fornecem práticas recomendadas e recomendações detalhadas sobre a implantação do Microsoft 365 Services. Essas reuniões geralmente fornecem uma visão geral das ferramentas disponíveis de documentação, software e console de administração. Duração padrão: 60 minutos.
-  - **Reuniões de ponto de verificação:** pontos de contato semanais ou quinzenais para garantir que a implantação esteja em andamento. Duração padrão: 30 minutos.
+  - **Reuniões de ponto de verificação:** Touchpoints semanal ou quinzenal para garantir que sua implantação esteja em andamento. Duração padrão: 30 minutos.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Resultados esperados e marcos importantes 
 

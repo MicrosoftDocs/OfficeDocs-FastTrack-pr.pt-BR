@@ -1,7 +1,7 @@
 ---
 title: Migração de dados
-ms.author: v-rberg
-author: v-rberg-msft
+ms.author: v-bermic@microsoft.com
+author: rberg-steyer@microsoft.com
 manager: jimmuir
 ms.date: 7/01/2020
 ms.audience: ITPro
@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Os Especialistas FastTrack fornecem orientações sobre etapas para migração de dados no Office 365. Isso está disponível para todos os clientes qualificados com serviços do Office 365 do Exchange Online, OneDrive for Business e SharePoint Online.
-ms.openlocfilehash: c7878e96557650a6dd340a08fb6348e2d60ab302
-ms.sourcegitcommit: de2cc20b4ab297633cb254d42532719022bb8d99
+ms.openlocfilehash: 82a8bcbd39091a5cfaa024538cb64b25d5d35717
+ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "47338589"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48827305"
 ---
 # <a name="data-migration"></a>Migração de dados
 > [!CAUTION]
@@ -90,7 +90,7 @@ O estado final esperado depois que todas as migrações são concluídas:
 |**Exchange 2003 e Exchange 2007**|Em estágios| Emails <br/> Regras de caixas de correio <br/> Representantes <br/> Contatos de caixas de correio <br/> Calendário <br/> Tarefas <br/> Emails gerenciados por direitos <br/> Emails criptografados| Pastas públicas <br/> Contatos pessoais <br/> Usuários habilitados para email <br/> Usuários bloqueados ou inativos <br/> Assinaturas <br/> Dumpster de caixas de correio <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Dados de arquivo morto <br/> Itens corrompidos <br/> Caixas de correio inativas |
 |**Exchange 2010, Exchange 2013, Exchange 2016 e Exchange 2019** <br/><br/> **Observação** *Para dependências do Exchange local, confira [Pré-requisitos de implantação híbrida](https://go.microsoft.com/fwlink/?LinkId=787528).*           |Migração com implantação híbrida| Emails <br/> Regras de caixas de correio <br/> Representantes <br/> Contatos de caixas de correio <br/> Calendário <br/> Tarefas <br/> Assinaturas <br/> Arquivo morto pessoal migrado com caixas de correio de usuários <br/> Itens recuperáveis <br/> Emails gerenciados por direitos <br/> Emails criptografados| Pastas públicas <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Arquivo morto de registro em diário ou solução de arquivo morto de terceiros <br/> Usuários bloqueados ou inativos <br/> Dados de arquivo morto dos arquivos PST (tabela de armazenamento pessoal) <br/> Itens corrompidos <br/> Caixas de correio inativas |
 |**Ambiente do G Suite (apenas Gmail, Contatos e Calendário)** <br/> <br/> **Observação** *Seu ambiente do G Suite precisa ter as APIs e o SDK Admin do Google habilitados para estender a funcionalidade.* <br/>          |De substituição ou em fases| Emails <br/> Contatos de caixas de correio\*  <br/> Calendário <br/> Rótulos <br/> \*No máximo três endereços de email por contato são migrados| Regras <br/> Representantes <br/> Assinaturas <br/> Tarefas <br/> Todos os emails ou anexos que excedem o limite de tamanho da mensagem <br/> Usuários bloqueados ou inativos <br/> Dados de arquivo morto de arquivos PST ou qualquer solução de arquivamento de terceiros (por exemplo, Google Vault) <br/> Direitos gerenciados ou emails criptografados <br/> Itens corrompidos <br/> Google Hangouts\*\* <br/> Grupos do Google <br/> Caixas de correio de recurso <br/> Caixas de correio inativas <br/> Configurações de férias e configurações de resposta automática <br/> Calendários compartilhados, anexos na nuvem, links do Google Hangout e cores do evento <br/>\*\*As conversas do Hangout salvas como rótulo são migradas |
-|** Origem IMAP4 (como Domino, GroupWise e Zimbra) ** |Migração usando ferramentas nativas de IMAP4| Emails | Regras <br/> Representantes <br/> Listas de distribuição <br/> Contatos externos <br/> Usuários habilitados para email <br/> Usuários bloqueados ou inativos <br/> Contatos de caixas de correio <br/> Calendário <br/> Assinaturas <br/> Tarefas <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Dados de arquivo morto <br/> Email criptografado <br/> Itens corrompidos <br/> Caixas de correio inativas |
+|**Origem IMAP4 (como Domino, GroupWise e Zimbra)** |Migração usando ferramentas nativas de IMAP4| Emails | Regras <br/> Representantes <br/> Listas de distribuição <br/> Contatos externos <br/> Usuários habilitados para email <br/> Usuários bloqueados ou inativos <br/> Contatos de caixas de correio <br/> Calendário <br/> Assinaturas <br/> Tarefas <br/> Qualquer email que excede o limite de tamanho da mensagem <br/> Dados de arquivo morto <br/> Email criptografado <br/> Itens corrompidos <br/> Caixas de correio inativas |
    
 > [!NOTE]
 > Se as listas de distribuição (objetos MailEnabledGroup) e contatos externos (objetos MailEnabledContact) estão no Active Directory no local, eles podem ser sincronizados usando o Azure AD Connect. No entanto, eles não são fazem parte da migração de dados de caixa de correio. Para saber mais, confira o exemplo **Integração de identidade** no [Core](O365-onboarding-and-migration.md#core). 
