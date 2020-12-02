@@ -3,19 +3,19 @@ title: Processos e Expectativas
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, abordaremos como contratar o FastTrack para obter assistência, como essa assistência é fornecida, sugerimos dicas para uma experiência bem-sucedida e compreender as principais responsabilidades do FastTrack e da sua empresa.
-ms.openlocfilehash: 42855c5a246f452d241fd104b4d56cc673c83618
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 0cd9d4cb727915357f0dd6460ac46ef862ee9797
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827641"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525324"
 ---
 # <a name="process-and-expectations"></a>Processos e Expectativas
 
@@ -27,7 +27,7 @@ Obter assistência de um especialista do FastTrack
   
 Há dois lugares para solicitar assistência de um especialista do FastTrack:
 
-  - No Centro de administração da Microsoft – o administrador de locatários entra no Centro de administração da Microsoft e, em seguida, clica no widget **Precisa de ajuda?** , que os orientará durante o processo de solicitação.
+  - No Centro de administração da Microsoft – o administrador de locatários entra no Centro de administração da Microsoft e, em seguida, clica no widget **Precisa de ajuda?**, que os orientará durante o processo de solicitação.
   - No site FastTrack - Você ou seu Parceiro pede assistência para sua empresa por meio do site FastTrack.
 
 Para solicitar assistência diretamente por meio do site FastTrack:

@@ -3,19 +3,19 @@ title: Qualificação
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 11/2/20
+ms.date: 12/1/20
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: m365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, descrevemos os requisitos de qualificação para o recebimento de assistência remota, com base nos especialistas do FastTrack, incluídos na compra de licenças do Microsoft 365 e detalhes sobre os produtos e recursos específicos abordados.
-ms.openlocfilehash: 103ac3686aec9705fe9b48b9467a1927e1a9d018
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4bfc085d29c447ab5c29f0ad274ddf59f3a97fda
+ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827629"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49525384"
 ---
 # <a name="eligibility"></a>Qualificação
 
