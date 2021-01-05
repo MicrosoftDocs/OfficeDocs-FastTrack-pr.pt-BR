@@ -3,19 +3,19 @@ title: Produtos e Recursos
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 12/1/20
+ms.date: 1/4/2021
 ms.audience: ITPro
 ms.topic: conceptual
-ms.service: m365-administration
+ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados pelo FastTrack e as expectativas necessárias do ambiente de origem antes de começar. Baseado na sua configuração atual, trabalhamos com você na criação de um plano de correção que leva seu ambiente de origem aos requisitos mínimos para uma integração bem-sucedida.
-ms.openlocfilehash: 3fdd57f1d0e8bf53b68f0bc54fda4665ca85f513
-ms.sourcegitcommit: d69d3e1e478a817f8279e9da98880499e9302665
+ms.openlocfilehash: 5e65d160822ed50840ecc65f484433bf0d485913
+ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49525456"
+ms.lasthandoff: 01/04/2021
+ms.locfileid: "49750094"
 ---
 # <a name="products-and-capabilities"></a>Produtos e Recursos
 
@@ -26,6 +26,7 @@ Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados 
 O FastTrack fornece orientações para ajudá-lo primeiro com os principais recursos (comuns para todos os serviços online da Microsoft) e, em seguida, com a integração de cada serviço qualificado:
 
   - [Geral](#general)
+  - [Segurança e conformidade](#security-and-compliance)
   - [Office 365](#office-365)
   - [Enterprise Mobility + Security](#enterprise-mobility--security)
   - [Windows 10](#windows-10)
@@ -34,7 +35,7 @@ O FastTrack fornece orientações para ajudá-lo primeiro com os principais recu
   - [O novo Microsoft Edge](#the-new-microsoft-edge)
 
 > [!NOTE]
-> Para saber mais sobre as expectativas de ambiente de origem para o Office 365 US Government, confira [Expectativas de Ambiente de Origem para o Office 365 US Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations).
+> Para saber mais sobre as expectativas de ambiente de origem para o Office 365 US Government, confira [Expectativas de Ambiente de Origem para o Office 365 US Government](https://docs.microsoft.com/fasttrack/us-gov-appendix-source-environment-expectations). 
  
 ## <a name="general"></a>Geral
 
@@ -80,7 +81,7 @@ Fornecemos orientações remotas para:
 <li>  Várias florestas de conta do Active Directory, cada uma com sua própria organização do Exchange.  </li>
 <li>  Tarefas necessárias para configuração de locatário e integração ao Azure Active Directory, caso seja necessário.   </li>
 </ul>
-  <strong>Importante:</strong>  <ul>
+  <strong>Important</strong>  <ul>
 <li>  Para cenários de várias florestas do Active Directory, caso o Lync 2010, o Lync 2013 ou o Skype for Business esteja implantado, ele deverá ser implantado na mesma floresta do Active Directory como o Exchange.  </li>
 <li>  Ao implementar diversas florestas do Active Directory com várias organizações do Exchange em uma configuração multi-híbrida do Exchange, namespaces de UPN (nome UPN) compartilhados entre florestas de origem não são compatíveis. Namespaces SMTP primários entre organizações do Exchange também devem ser separados. Confira mais informações em <a href="https://go.microsoft.com/fwlink/?linkid=845444">Implantações híbridas com várias florestas do Active Directory</a>.  </li>
 <li>  Para todas as configurações de várias florestas, a implantação dos Serviços de Federação do Active Directory (AD FS) está fora do escopo. Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência.  </li>
@@ -118,9 +119,557 @@ Fornecemos orientações remotas para:
 </tbody>
 </table>
 
-## <a name="office-365"></a>Office 365
+## <a name="security-and-compliance"></a>Segurança e Conformidade
 
 <table>
+<thead>
+<tr class="header">
+<th><strong>Serviço</strong></th>
+<th><strong>Detalhes da orientação do FastTrack</strong></th>
+<th><strong>Expectativas do ambiente de origem</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd"> 
+
+<td><strong>Azure AD (Active Directory) e Azure AD Premium</strong></td>
+<td>  Fornecemos orientações remotas para a proteção de identidades na nuvem para os cenários a seguir.  
+
+ <br/>
+
+<strong>Proteger a infraestrutura de base</strong>  </ul>
+<ul>
+<li>  Configurar e habilitar uma autenticação forte para as identidades, incluindo a proteção com a autenticação multifator do Microsoft Azure (MFA) (somente na nuvem), do aplicativo Microsoft Authenticator e registro combinado para o Azure MFA e a redefinição de senha de autoatendimento (SSPR).  </li>
+<li>  Para clientes que não são do Azure AD Premium, a orientação é fornecida para proteger as identidades usando padrões de segurança.  </li>
+<li>  Para clientes do Azure AD Premium, a orientação é fornecida para proteger as identidades com o acesso condicional.  </li>
+<li>  Detectar e bloquear o uso de senhas fracas com o Azure Active Directory Identity Protection.  </li>
+<li>  Fornecer acesso remoto seguro a aplicativos locais com o Azure AD Application Proxy.  </li>
+<li>  Permitir a detecção e a correção baseadas em risco com o Azure AD Identity Protection.  </li>
+<li>  Habilitar uma tela de entrada personalizada, incluindo o logotipo, o texto e as imagens com identidade visual personalizada.  </li>
+<li>  Compartilhamento seguro de aplicativos e serviços com usuários convidados usando a B2B do Azure AD.  </li>
+<li>  Gerenciar o acesso dos administradores do Office 365 usando o controle de acesso baseado em função (RBAC), funções administrativas internas e reduzir o número de contas administrativas privilegiadas.  </li>
+<li>  Configurar o ingresso no Azure AD híbrido.  </li>
+<li>  Configurar o ingresso no Azure AD.  </li>
+</ul>
+  
+<strong>Métricas e relatórios</strong>  
+<ul>
+<li>  
+  Habilitar o monitoramento remoto para AD FS, Azure AD Connect e controladores de domínio com o Azure Active Directory Connect Health.  
+  </li>
+</ul>
+  
+<strong>Governança</strong>  
+<ul>
+<li>  
+  Gerenciar o ciclo de vida do Azure AD Identity em escala com o gerenciamento de direitos do Azure AD.
+  </li>
+<li>  
+  Gerenciar associações de grupos do Azure AD, acesso a aplicativos corporativos e atribuições de funções com as revisões de acesso do Azure AD.  
+  </li>
+<li>  
+  Revisar os termos de uso do Azure AD.  
+  </li>
+<li>  
+  Gerenciar e controlar o acesso a contas de administrador privilegiadas com o gerenciamento de identidade privilegiada do Azure AD.  
+  </li>
+</ul>
+  
+<strong>Automação e eficiência </strong>  
+<ul>
+<li>  
+  Habilitar o Azure AD SSPR.  
+  </li>
+<li>  Permitir que os usuários criem e gerenciem seus próprios recursos de segurança na nuvem ou do Office 365 com o gerenciamento de grupos de autoatendimento do Azure AD.  </li>
+<li>  Gerenciar o acesso delegado a aplicativos empresariais com o gerenciamento de grupos delegados do Azure AD.  </li>
+<li>  Habilitar os grupos dinâmicos do Azure AD.  </li>
+<li>  Organizar aplicativos no portal Meus Aplicativos usando coleções.  </li>
+</ul></td>
+<td>O Active Directory local e seu ambiente foram preparados para o Azure AD Premium, incluindo a correção de problemas identificados que impedem a integração com o Azure AD e os recursos do Azure AD Premium.</td>
+</tr>
+<tr class="odd">
+<td><strong>Proteção de informações do Azure </strong></td>
+<td>  Fornecemos orientações remotas para:
+<ul>
+<li>  Ativação e configuração do seu locatário.  </li>
+<li>  Criação e configuração dos rótulos e políticas.  </li>
+<li>  Aplicação de proteção de informações aos documentos.  </li>
+<li>  Classificação e rotulação automática de informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e que usam o Cliente da Proteção de Informações do Azure.  </li>
+<li>  Detectar e rotular arquivos em repouso usando o verificador de proteção de informações do Azure.  </li>
+<li>  Monitoramento de emails em trânsito usando as regras de fluxo de email do Exchange Online.  </li>
+</ul>
+As orientações também são fornecidas aos clientes que desejam aplicar a proteção usando o Microsoft Azure AD Rights Management (Azure RMS), Criptografia de Mensagens do Office 365 e Prevenção Contra Perda de Dados (DLP).  </td>
+<td>  As responsabilidades de pré-requisito do cliente incluem:
+<ul>
+<li>  Uma lista de locais de compartilhamento de arquivos a serem verificados.  </li>
+<li>  Uma taxonomia de classificação aprovada. </li>
+<li> Compreensão de qualquer restrição ou requisitos normativos sobre o gerenciamento de chaves.  </li>
+<li>  Uma conta de serviço criada para seu Active Directory local que foi sincronizado com o Azure AD. </li>
+<li>  Rótulos configurados para classificação e proteção. </li>
+<li> Todos os pré-requisitos para o verificador de proteção de informações do Azure estão no local. Para obter mais informações, consulte <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">pré-requisitos para instalar e implantar o verificador de rótulo unificado de proteção de informações do Azure</a>. </li>
+<li>  Verifique se os dispositivos do usuário estão executando um sistema operacional com suporte e se os pré-requisitos necessários estão instalados. Confira o seguinte para obter mais detalhes.</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guia do administrador: instalar o cliente de rotulação unificado de proteção de informações do Azure para usuários</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">O que é o aplicativo de proteção de informações do Azure para iOS ou Android?</a>  </li>
+</ul>
+<li> Instalação e configuração do conector do Azure RMS e servidores, incluindo o conector RMS do Active Directory (AD RMS) para suporte híbrido.  </li>
+<li> A instalação e a configuração da traga sua própria chave (BYOK), criptografia de chave dupla (DKE) (somente cliente de rotulação unificada) ou segure sua própria chave (HYOK) (somente cliente clássico) se você precisa de uma destas opções para sua implantação.  </li>
+  </ul>
+</ul>
+  
+</td>
+</tr>
+
+<tr class="even">
+<td><strong>Microsoft 365 Defender</strong></td>
+
+<td> <p> O Microsoft 365 defender é um pacote de defesa de negócios unificado de pré e pós-violação que coordena nativamente a detecção, prevenção, investigação e resposta entre pontos de extremidade, identidades, email e aplicativos para fornecer proteção integrada contra ataques sofisticados. Fornecemos orientações remotas para: </p> 
+<ul>
+<li>  Fornecer uma visão geral da central de segurança do Microsoft 365.  </li>
+<li>  Análise de incidentes entre produtos, incluindo o foco no que é crítico ao garantir o escopo completo dos ataques, os ativos impactados e as ações de correção automatizadas que são agrupadas.  </li>
+<li>  Demonstrar como o Microsoft 365 defender pode orquestrar a investigação de ativos, usuários, dispositivos e caixas de correio que podem ter sido comprometidos por meio da auto-recuperação automatizada. </li>
+<li>  Explicando e fornecendo exemplos de como os clientes podem procurar proativamente tentativas de invasão e atividades de violação que afetam seus emails, dados, dispositivos e contas em vários conjuntos de dados.   </li>
+<li> Mostrando aos clientes como eles podem revisar e aprimorar a postura de segurança de forma holística, usando a pontuação segura da Microsoft.</li>
+</ul>
+<p><strong>O seguinte está fora do escopo</strong></p>
+<ul>
+<li> Gerenciamento de projetos das atividades de correção do cliente. </li>
+<li> Gerenciamento contínuo, resposta a ameaças e remediação. </li>
+<li> Orientações de implantação ou educação em:
+<ul>
+<li> Como corrigir ou interpretar os vários tipos de alerta e atividades monitoradas. </li>
+<li> Como investigar um usuário, computador, caminho de movimento lateral ou entidade. </li>
+<li> Busca da ameaça personalizada.  </li>
+</ul>
+</li>
+<li> Gerenciamento de eventos e informações de segurança (SIEM) ou integração com a API.</li>
+</td>
+</tr>
+<tr class="odd">
+<td><strong>Microsoft Cloud App Security</strong></td>
+<td>  O Microsoft Cloud app Security é um CASB (agente de segurança de acesso à nuvem) que oferece visibilidade rica, controle sobre a viagem de dados e análises sofisticadas para identificar e combater ameaças de terceiros em todos os serviços de nuvem da Microsoft e de terceiros. Fornecemos orientações remotas para:
+<ul>
+<li>  Configuração do portal, incluindo:  </li>
+<ul>
+<li> Importação de grupos de usuários.</li>
+<li> Gerenciamento de acesso e configurações de administrador.  </li>
+<li> Escopo sua implantação para selecionar determinados grupos de usuários para monitorar ou excluir do monitoramento.</li>
+<li> Definindo intervalos e marcas de IP.</li>
+<li> Personalizar a experiência do usuário final com o logotipo e a mensagem personalizada.</li>
+</ul>
+<li> Configurando a descoberta de nuvem para fornecer sombras usando:</li>
+<ul>
+<li> Microsoft defender para pontos de extremidade.</li>
+<li> Zscaler.</li>
+<li> iboss.</li>
+</ul>
+<li> Conexão de <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">aplicativos em destaque</a> usando os conectores de aplicativos.</li>
+<li> Configuração do controle de aplicativo de acesso condicional nos portais de acesso condicional e do Cloud app Security para aplicar controles de sessão em tempo real.</li>
+<li> Implantação do Cloud app Security and Cloud Discovery Dashboards.</li>
+<li> Personalizando pontuações de risco de aplicativo com base nas prioridades da sua organização.</li>
+<li> Criação de Tags e categorias de aplicativos.</li>
+<li> Aplicativos de sanções e desaprovados.</li>
+<li> Usando os logs de atividade e de arquivo.</li>
+<li> Gerenciamento de aplicativos OAuth.</li>
+<li> Noções básicas sobre correlação de incidentes no portal do Microsoft 365 defender.</li>
+<li> Fornecer assistência de configuração com os <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20 casos de uso principais para o CASBs</a> (incluindo a criação ou a atualização de até seis (6) políticas), exceto: </li>
+<ul>
+<li> A auditoria da configuração de seus ambientes de Internet como serviço (IaaS) (#18).</li>
+<li> Monitorar as atividades do usuário para proteger contra ameaças em seus ambientes IaaS (#19).</li>
+</ul>
+</ul>
+<p><strong>O seguinte está fora do escopo</strong></p>
+<ul>
+<li> Gerenciamento de projetos das atividades de correção do cliente.</li>
+<li> Gerenciamento contínuo, resposta a ameaças e remediação. </li>
+<li> Configuração da infraestrutura, instalação ou implantação de carregamentos automáticos de logs para relatórios contínuos usando o Docker ou um coletor de logs. Veja os <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20 casos de uso do CASBs</a> para obter mais detalhes.</li>
+<li> Criar um relatório de instantâneo de descoberta de nuvem.</li>
+<li> Bloqueio do uso do aplicativo usando scripts de bloco.</li>
+<li> Conexão de aplicativos personalizados.</li>
+<li> Integração com provedores de identidade de terceiros (IsPs) e provedores de prevenção de perda de dados (DLP).</li>
+<li> Treinamento ou orientação sobre a caça avançada.</li>
+<li> Investigação e correção automatizadas, incluindo o Microsoft Power Automated manuals.</li>
+<li> Gerenciamento de eventos e informações de segurança (SIEM) ou integração com a API (incluindo o Azure Sentinel).</li>
+<li> Implantação da descoberta de aplicativos de nuvem como prova de conceito.</li>
+</ul></td>
+</tr>
+
+
+
+<tr class="even">
+<td><strong>Proteção Avançada contra Ameaças do Microsoft Defender (ATP)</strong></td>
+<td>  A Proteção Avançada contra Ameaças do Microsoft Defender (ATP) é uma plataforma projetada para ajudar as redes corporativas a prevenir, detectar, investigar e responder à ameaças avançadas.  
+  Fornecemos orientações remotas para:
+<ul>
+<li>  Implantar as tecnologias para proteger seus pontos de extremidade.  </li>
+<li>  Configurando proteção de ponto de extremidade e os perfis de restrição do dispositivo.  </li>
+<li>  Avaliar a versão do sistema operacional e o gerenciamento de dispositivo (incluindo o Intune, o Microsoft Endpoint Configuration Manager, GPOs (objetos de política de grupo) e configurações de terceiros), bem como o status dos serviços do AV do Windows Defender ou de outro software de segurança do ponto de extremidade.  </li>
+<li>  Avaliar o status dos seus serviços AV do Windows ou outro software de segurança do ponto de extremidade.  </li>
+<li>  Avaliar proxies e firewalls que restringem o tráfego de rede.  </li>
+<li>  Habilitar o serviço Microsoft Defender ATP, explicando como implantar um perfil de agente ATP usando um ponto de extremidade integrado.  </li>
+<li>  Diretrizes de implantação, assistência de configuração e treinamento em:
+<ul>
+<li>  
+  Gerenciamento de ameaças e vulnerabilidades.  
+  </li>
+<li>  
+  Redução da superfície do ataque.  
+  </li>
+<li>  
+  Proteção da próxima geração.  
+  </li>
+<li>  
+  Detecção e resposta do terminal.  
+  </li>
+<li>  
+  Investigação e correção automatizadas.  
+  </li>
+<li>  
+  Classificação de segurança.  
+  </li>
+</ul></li>
+<li>  Analisar simulações e tutoriais (como cenários de prática, malware falso e investigações automatizadas).  </li>
+<li>  Visão geral dos recursos de relatório e análise de ameaças.  </li>
+<li>  Integrar o ATP do Office 365 com o ATP do Microsoft Defender.  </li>
+<li>  Conduzir instruções do Portal do centre de segurança do Microsoft Defender.  </li>
+<li>  Um dos seguintes sistemas operacionais:
+<ul>
+<li>  
+  Windows 10.  
+  </li>
+<li>  
+  Windows Server 2016.  
+  </li>
+<li>  
+  Windows Server 2019.  
+  </li>
+<li>  
+  Windows Server 2019, Core Edition.  
+  </li>
+<li>  
+  Canal semestral do Windows Server (SAC) versão 1803.  
+  </li>
+<li>  
+  macOS versões 10.13, 10.14 e 10.15.  
+  </li>
+</ul>
+</li>
+</ul>
+<strong>Observação:</strong> todas as versões do Windows Server devem ser gerenciadas pela versão mais recente do System Center Configuration Manager 2012 (versões 1012 R2, 1511 ou 1602) ou do Microsoft Endpoint Configuration Manager (versão 2002 ou posterior). 
+
+</li>
+</ul>
+
+<strong>O seguinte está fora do escopo </strong>  
+<ul>
+<li>  Gerenciamento de projetos das atividades de correção do cliente.  </li>
+<li>  Suporte no local.  </li>
+<li>  Gerenciamento contínuo e resposta a ameaças.  </li>
+<li>  Integração ou configuração para os seguintes agentes do Microsoft Defender ATP:
+<ul>
+<li>  
+  Windows Server 2008.  
+  </li>
+<li>  
+  Windows Server 2012.  
+  </li>
+<li>  
+  Linux.  
+  </li>
+<li>  
+  Dispositivos móveis (Android e iOS).  
+  </li>
+</ul></li>
+<li>  Integração e configuração do servidor:
+<ul>
+<li>  
+  Configurar um servidor proxy para comunicações offline.  
+  </li>
+<li>  
+  Configurar pacotes de implantação do Configuration Manager no nível inferior de instâncias e versões do Configuration Manager.  
+  </li>
+<li>  
+  Servidores de integração com a Central de Segurança do Azure.  
+  </li>
+<li>  
+  Os servidores não são gerenciados pelo Configuration Manager.  
+  </li>
+</ul></li>
+<li>  Integração e configuração do macOS:
+<ul>
+<li>  
+  Implantação manual baseada no Intune.  
+  </li>
+<li>  
+  Implantação baseada em JAMF.
+  </li>
+<li>  
+  Outra implantação baseada em produtos de gerenciamento de dispositivo móvel (MDM).  
+  </li>
+<li>  
+  Implantação manual.  
+  </li>
+</ul></li>
+<li>  Configuração dos seguintes recursos de redução da superfície de ataque:
+<ul>
+<li>  
+  Isolamento baseado em hardware.  
+  </li>
+<li>  
+  Controle de aplicativo.  
+  </li>
+<li>  
+  Explorar proteção.  
+  </li>
+<li>  
+  Firewall da rede.  
+  </li>
+</ul></li>
+<li>  Inscrição ou configuração dos Peritos em ameaças da Microsoft.  </li>
+<li>  Configuração ou treinamento revisando a API ou as conexões de informações de segurança e gerenciamento de eventos (SIEM).  </li>
+<li>  Registro ou configuração da Proteção contra ameaças da Microsoft (MTP).  </li>
+<li>  Treinamento ou orientação sobre a caça avançada.  </li>
+<li>  Treinamento ou diretrizes que abordam o uso do ou a criação de consultas Kusto.</li>
+</li>
+</ul>
+Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência com esses serviços.  
+</ul></td>
+<td></td>
+
+<tr class="odd">
+<td><strong>Microsoft defender para identidade </strong></td>
+<td>  O Microsoft Defender para Identidade é uma solução de segurança baseada em nuvem que aproveita os sinais do Active Directory local para identificar, detectar e investigar ameaças avançadas, identidades comprometidas e ações internas mal-intencionadas direcionadas à sua organização. Fornecemos orientações remotas para:
+<ul>
+<li>   Criar sua instância do defender para identidade. </li>
+<li>   Conexão do defender para identidade ao Active Directory. </li>
+<li>   Avaliar a prontidão do seu ambiente para implantar o defender for Identity sensor nos seus controladores de domínio, incluindo:</li>   
+<ul> 
+<li>  Executar a ferramenta de dimensionamento para o planejamento de capacidade de recurso. </li>
+<li>  Executar a ferramenta de auditoria para avaliar a compatibilidade dos controladores de domínio com o sensor. </li>
+</ul>
+<li>  Implantar o sensor para capturar e analisar o tráfego de rede e eventos do Windows diretamente de seus controladores de domínio, incluindo: </li>
+<ul> 
+<li>  Baixar o pacote do sensor. </li>
+<li>  Configurando o sensor. </li>
+<li>  Instalação silenciosa do sensor no seu controlador de domínio. </li>
+<li>  Implantação do sensor no seu ambiente de várias florestas. </li>
+</ul>
+<li>  Integração do defender for Identity com o Microsoft Cloud app Security (o licenciamento do Cloud app Security não é necessário). </li>
+<li>  Fornecer orientações de implantação, assistência de configuração e educação em: </li>
+<ul>
+<li> Ajustar o ambiente para reduzir o "ruído".  </li>
+<li>  Noções básicas sobre o relatório de avaliação de postura de segurança de identidade. </li>
+<li>  Noções básicas sobre a pontuação de prioridade de investigação de usuário e o relatório de classificação de investigação de usuário </li>
+<li> Noções básicas sobre o relatório de usuário inativo.  </li>
+<li> Fornecer opções de correção em uma conta comprometida.  </li>
+</ul>
+<li>  Facilitar a migração da análise avançada contra ameaças (ATA) para o defender para identidade. </li>
+</ul>
+<p><strong>O seguinte está fora do escopo</strong></p>
+<ul>
+
+<li> Gerenciamento de projetos das atividades de correção do cliente. </li>
+<li> Gerenciamento contínuo, resposta a ameaças e remediação.  </li>
+<li> Implantação do sensor do defender for Identity, incluindo: </li>
+<ul>
+<li> Planejamento manual da capacidade. </li>
+<li> Implantação do sensor em uma capacidade autônoma. </li>
+<li> Implantação do sensor usando um adaptador de equipe da placa de interface de rede (NIC). </li>
+<li> Implantação do sensor por meio de uma ferramenta de terceiros. </li>
+<li> Conectar-se ao defender para o serviço de nuvem de identidade por meio de uma conexão de proxy da Web. </li>
+</ul>
+<li> Criação e gerenciamento do honeytokens. </li>
+<li> Orientações de implantação ou educação em: </li>
+<ul>
+<li> Correção ou interpretação de vários tipos de alerta e atividades monitoradas.  </li>
+<li> Investigar um usuário, computador, caminho de movimento lateral ou entidade. </li>
+<li> Ameaça ou busca avançada. </li>
+<li> Resposta de incidente. </li>
+</ul>
+<li> Fornecer um tutorial de laboratório de alerta de segurança para defender para identidade. </li>
+<li> Fornecer notificações quando o defender para identidade detecta atividades suspeitas enviando alertas de segurança para seu servidor syslog por meio de um sensor indicado.  </li>
+<li> Configurando o defender para identidade para realizar consultas usando o protocolo SAMR (Gerenciador de contas de segurança) para identificar administradores locais em máquinas específicas. </li>
+<li> Configurar soluções VPN para adicionar informações da conexão VPN à página de perfil de um usuário.  </li>
+<li> Gerenciamento de eventos e informações de segurança (SIEM) ou integração com a API (incluindo o Azure Sentinel). </li>
+<li> Implantar o defender para sensores de identidade como prova de conceito.</li>
+</ul></td>
+<td><ul>
+<li>  Active Directory implantado.  </li>
+<li>  Os controladores de domínio que você pretende instalar o defender para que os sensores de identidade têm conectividade com a Internet para o defender para o serviço de nuvem de identidade.  </li>
+<ul>
+<li> O firewall e o proxy devem estar abertos para se comunicar com o defender para o serviço de nuvem de identidade (*. atp.azure.com a porta 443 deve estar aberta).</li>
+</ul>
+<li> Controladores de domínio em execução em um dos seguintes:</li>
+<ul>
+<li> Windows Server 2008 R2 SP1.</li>
+<li> Windows Server 2012.</li>
+<li> Windows Server 2012 R2.</li>
+<li> Windows Server 2016.</li>
+<li> Windows Server 2019 com KB4487044 (so Build 17763,316).</li>
+</ul>
+</ul></td>
+</tr>
+
+<tr class="even">
+<td><strong>Governança de informações da Microsoft</strong></td>
+<td>  Fornecemos orientações remotas para:
+<ul>
+<li>  Rótulos e diretivas de retenção.  </li>
+<li>  Gerenciamento de registros.  </li>
+<li>  Diretivas de exclusão.  </li>
+<li>  Conformidade da comunicação.  </li>
+<li>  Gerenciamento de risco interno.  </li>
+<li>  Descoberta Eletrônica Avançada.  </li>
+</ul>
+
+  <strong>O seguinte está fora do escopo </strong>  
+<ul>
+<li> Desenvolvimento de um plano de arquivo de gerenciamento de registros.</li>
+<li> Conectores de dados.</li>
+<li> Barreiras de informação.</li>
+<li> Gerenciamento de acesso privilegiado.</li>
+<li> Desenvolvimento da arquitetura de informações no SharePoint.</li>
+<li> Script e codificação personalizados.</li>
+</td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+</tr>
+<tr class="odd">
+<td><strong>Proteção de Informações da Microsoft</strong></td>
+<td>  Fornecemos orientações remotas para:
+<ul>
+<li>  Classificação de dados.  </li>
+<li>  Tipos de informações confidenciais.  </li>
+<li>  Criação de rótulos de confidencialidade.  </li>
+<li>  Aplicar rótulos de sensibilidade.  </li>
+<li>  Rotulagem unificada.  </li>
+<li>  Classificadores treináveis.  </li>
+<li>  Conhecer seus dados com o explorador de conteúdo e o explorador de atividade.  </li>
+<li>  Publicar etiquetas usando políticas (manual e automática).  </li>
+<li>  Criação de políticas de proteção contra perda de dados (DLP) em bate-papos e canais do Microsoft Teams.  </li>
+<li>  Criação de políticas de DLP de ponto de extremidade para dispositivos Windows 10.  </li>
+</ul>
+
+<strong>O seguinte está fora do escopo </strong>  
+<ul>
+<li>Chave do cliente.</li>
+<li>O desenvolvimento de expressões regulares personalizadas (RegEx) para tipos de informações confidenciais.</li>
+<li>Criação ou modificação de dicionários de palavras-chave.</li>
+<li>Script e codificação personalizados.</li>
+</ul>
+<strong>Observação:</strong> Confira mais informações em <strong> proteção de informações do Azure </strong> no <a href="#enterprise-mobility--security">Enterprise Mobility + Security</a>.
+<ul>
+
+</td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+</tr>
+
+</td>
+</tr>
+<tr class="even">
+<td><strong>Microsoft Intune</strong></td>
+<td>  Fornecemos orientações remotas para se preparar para usar o Intune como o provedor de gerenciamento de dispositivo móvel baseado em nuvem (MDM) e gerenciamento de aplicativo móvel (MAM) para seus aplicativos e dispositivos. As etapas exatas dependem do ambiente de origem e se baseiam nas necessidades de gerenciamento de aplicativos móveis e de dispositivos móveis. As etapas podem incluir:
+<ul>
+<li>  Licenciamento para os usuários finais.  </li>
+<li>  Configuração de identidades a serem usadas pelo Intune, aproveitando o Active Directory local ou as identidades de nuvem (Microsoft Azure AD).  </li>
+<li>  Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.  </li>
+<li>  Configuração da autoridade MDM com base em suas necessidades de gerenciamento, incluindo:
+<ul>
+<li>  Configure o Intune como sua autoridade MDM quando o Intune for sua única solução MDM.  </li>
+</ul></li>
+<li>  Fornecendo instruções MDM para:
+<ul>
+<li>  Configuração de grupos de testes a serem usados para validar as políticas de gerenciamento do MDM.  </li>
+<li>  Configuração do gerenciamento das políticas e serviços do MDM, como:
+<ul>
+<li>  Implantação de aplicativos para cada plataforma com suporte por meio de links da web ou links profundos.  </li>
+<li>  Políticas de Acesso Condicional.  </li>
+<li>  Implantação de email, redes sem fio e perfis de VPN se você tiver uma autoridade de certificação, uma rede sem fio ou uma infraestrutura de VPN existente em sua organização.  </li>
+<li>  Conexão ao Intune Data Warehouse.  </li>
+<li>  Integração do Intune com:
+<ul>
+<li>  O Team Viewer para assistência remota (é necessária uma assinatura do Team Viewer).  </li>
+<li>  Soluções para parceiros de defesa contra ameaças móveis (é necessária uma assinatura da MTD).  </li>
+<li>  Soluções de gerenciamento de despesas de telecomunicações (é necessária uma assinatura de solução de gerenciamento de despesas de telecomunicações).  </li>
+<li>  Proteção Avançada Contra Ameaças do Microsoft Defender (são necessárias licenças do Windows E5 ou Microsoft 365 E5).  </li>
+</ul></li>
+<li>  Registração dos dispositivos de todas as plataformas compatíveis com o Intune.  </li>
+</ul></li>
+</ul></li>
+<li>  Fornecendo diretrizes de proteção de aplicativos para:
+<ul>
+<li>  Configurar as políticas de proteção de aplicativo para cada plataforma com suporte.  </li>
+<li>  Configurar as políticas de acesso condicional para aplicativos gerenciados.  </li>
+<li>  Direcionar os grupos de usuários apropriados com as políticas de MAM mencionadas anteriormente.  </li>
+<li>  Usar os relatórios de uso de aplicativos gerenciados.  </li>
+</ul></li>
+<li>  Fornecer uma guia de migração de gerenciamento de computador herdado para o MDM do Intune.  </li>
+</ul>
+  <strong>Observação</strong>: não há mais suporte para o gerenciamento de computador herdado desde 15 de outubro de 2020 em diante.  
+</li>
+</ul>
+  
+<strong>Vincular à nuvem</strong>  
+
+  Orientamos você a se preparar para vincular ambientes existentes do Gerenciador de Configurações à nuvem com o Intune. As etapas exatas dependem do ambiente de origem. Essas etapas podem incluir:  
+<ul>
+<li>  Licenciamento para os usuários finais.  </li>
+<li>  A configuração de identidades que será usada pelo Intune, aproveitando o Active Directory local e as identidades de nuvem.  </li>
+<li>  Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.  </li>
+<li>  Fornecimento de diretrizes de configuração da associação híbrida do Microsoft Azure AD.  </li>
+<li>  Fornecimento de diretrizes para configuração do Azure Active Directory para o registro automático do MDM.  </li>
+<li>  Fornecimento de diretrizes sobre como configurar o gateway de gerenciamento de nuvem.  </li>
+<li>  Configuração de cargas de trabalho compatíveis que você deseja passar para o Intune.  </li>
+<li>  Instalação do cliente do Configuration Manager em dispositivos registrados no Intune.  </li>
+</ul> 
+
+<strong>Implantar o Outlook Mobile para iOS e Android de maneira segura</strong> podemos fornecer orientação para ajudar você a implantar o Outlook móvel para iOS e Android com segurança em sua organização, a fim de garantir que os usuários tenham todos os aplicativos necessários instalados.  
+  As etapas para implantar o Outlook móvel para iOS e Android com Intune dependem do seu ambiente de origem. Isso pode incluir:
+<ul>
+<li>  Baixar o Outlook para iOS e Android, o Microsoft Authenticator e o aplicativo Portal da Empresa do Intune por meio da Apple App Store ou do Google Play Store.  </li>
+<li>  Fornece orientação sobre como configurar:
+<ul>
+<li>  O Outlook para iOS e Android, o Microsoft Authenticator e a implantação do aplicativos do Portal da Empresa do Intune com o Intune.  </li>
+<li>  Políticas de proteção de aplicativos.  </li>
+<li>  Políticas de acesso condicional.  </li>
+<li>  Políticas de configuração do usuário.  </li>
+</ul></li>
+</ul>
+  
+  <strong>Observação</strong>: o FastTrack não é compatível com a proteção do Outlook para iOS e Android com as políticas de caixa de correio de dispositivo móvel do Exchange. Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência.  
+  </td>
+<td>  Os administradores de TI precisam ter infraestruturas de Autoridade de Certificação, rede sem fio e infraestruturas VPN já existentes em seus ambientes de produção ao planejar a implantação de perfis VPN e de rede sem fio com o Intune.  
+  <strong>Observação</strong>: o benefício do serviço FastTrack não inclui assistência para instalar ou configurar Autoridades de Certificação, redes sem fio, infraestruturas de VPN ou certificados enviados por push de MDM da Apple para o Intune.  
+ 
+  <strong>Observação</strong>: o benefício do serviço do FastTrack não inclui assistência para configurar ou atualizar o servidor de site ou cliente do Configuration Manager com os requisitos mínimos necessários para oferecer suporte à vinculação à nuvem. Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência.
+
+  <strong>Intune integrado à Proteção Avançada contra Ameaças do Microsoft Defender (ATP)</strong> 
+ 
+  <strong>Observação</strong>: Fornecemos assistência na integração do Intune com o Microsoft Defender ATP e na criação de políticas de conformidade de dispositivo com base na avaliação do nível de risco do Windows 10. Não fornecemos assistência na compra, licenciamento ou ativação. Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência.  
+  
+<strong>Windows Autopilot</strong> 
+ 
+  Os administradores de TI são responsáveis por registrar os dispositivos em sua organização, fazendo com que o fornecedor de hardware carregue os IDs de hardware em nome deles ou fazendo o upload deles no serviço do Windows AutoPilot.  
+  
+</td>
+</tr>
+
+<tr class="odd">
+<td><strong>Proteção Avançada contra Ameaças do Office 365 (ATP)</strong></td>
+<td>  Fornecemos orientações remotas para:
+<ul>
+<li>  Habilitação de Links Seguros, Anexos Seguros e anti-phishing.  </li>
+<li>  Configuração de automação, investigação e resposta.  </li>
+<li>  Uso do Simulador de Ataques.  </li>
+<li>  Relatórios e análise de ameaças.  </li>
+</ul></td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+</tr>
+</tbody>
+</table>
+
+## <a name="office-365"></a>Office 365
+
+<<table>
 <thead>
 <tr class="header">
 <th><strong>Serviço</strong></th>
@@ -383,7 +932,13 @@ Fornecemos instruções remotas para habilitar o serviço do Yammer Enterprise.
 
 <table>
 <thead>
+<tr class="header">
+<th><strong>Serviço</strong></th>
+<th><strong>Detalhes da orientação do FastTrack</strong></th>
+<th><strong>Expectativas do ambiente de origem</strong></th>
 </tr>
+</thead>
+<tbody>
 <tr class="even">
 <td><strong>Azure AD (Active Directory) e Azure AD Premium</strong></td>
 <td>  Fornecemos orientações remotas para a proteção de identidades na nuvem para os cenários a seguir.  
@@ -442,13 +997,13 @@ Fornecemos instruções remotas para habilitar o serviço do Yammer Enterprise.
 </tr>
 <tr class="odd">
 <td><strong>Proteção de informações do Azure </strong></td>
-<td>  Fornecemos orientações sobre como:
+<td>  Fornecemos orientações remotas para:
 <ul>
-<li>  Ativar e configurar o locatário.  </li>
-<li>  Criar e configurar rótulos e políticas.  </li>
+<li>  Ativação e configuração do seu locatário.  </li>
+<li>  Criação e configuração dos rótulos e políticas.  </li>
 <li>  Aplicação de proteção de informações aos documentos.  </li>
 <li>  Classificação e rotulação automática de informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e que usam o Cliente da Proteção de Informações do Azure.  </li>
-<li>  Descubra e rotule arquivos em repouso usando o verificador de proteção de informações do Azure.  </li>
+<li>  Detectar e rotular arquivos em repouso usando o verificador de proteção de informações do Azure.  </li>
 <li>  Monitoramento de emails em trânsito usando as regras de fluxo de email do Exchange Online.  </li>
 </ul>
 As orientações também são fornecidas aos clientes que desejam aplicar a proteção usando o Microsoft Azure AD Rights Management (Azure RMS), Criptografia de Mensagens do Office 365 e Prevenção Contra Perda de Dados (DLP).  </td>
@@ -474,7 +1029,7 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Fornecemos orientações sobre como preparar-se para usar o Intune como o gerenciamento de dispositivo móvel baseado em nuvem (MDM) e o provedor de gerenciamento de aplicativo móvel (MAM) para seus aplicativos e dispositivos. As etapas exatas dependem do ambiente de origem e se baseiam nas necessidades de gerenciamento de aplicativos móveis e de dispositivos móveis. As etapas podem incluir:
+<td>  Fornecemos orientações remotas para se preparar para usar o Intune como o provedor de gerenciamento de dispositivo móvel baseado em nuvem (MDM) e gerenciamento de aplicativo móvel (MAM) para seus aplicativos e dispositivos. As etapas exatas dependem do ambiente de origem e se baseiam nas necessidades de gerenciamento de aplicativos móveis e de dispositivos móveis. As etapas podem incluir:
 <ul>
 <li>  Licenciamento para os usuários finais.  </li>
 <li>  Configuração de identidades a serem usadas pelo Intune, aproveitando o Active Directory local ou as identidades de nuvem (Microsoft Azure AD).  </li>
@@ -793,7 +1348,6 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <strong>O seguinte está fora do escopo</strong>
 <ul>
 <li>Gerenciamento de projetos da implantação de área de trabalho virtual do Windows do cliente.</li>
-<li>Suporte no local.</li>
 <li>Virtualização e implantação de aplicativos de terceiros.</li>
 <li>Imagens personalizadas.</li>
 <li>Migrações e cenários envolvendo VMware e Citrix.</li>
@@ -836,11 +1390,10 @@ Confira mais informações em <a href="https://docs.microsoft.com/azure/virtual-
 <tr class="header">
 <th><strong>Serviço</strong></th>
 <th><strong>Detalhes da orientação do FastTrack</strong></th>
-<th><strong>Produtos suportados</strong></th>
+<th><strong>Expectativas do ambiente de origem</strong></th>
 </tr>
 </thead>
 <tbody>
-</tr>
 <tr class="even">
 <td><strong>Garantia de Aplicativo</strong></td>
 <td>  A Garantia de Aplicativo garante um serviço projetado para solucionar problemas de compatibilidade com os aplicativos do Windows 10 e do Microsoft 365 Apps. Ao solicitar o serviço de Garantia de Aplicativo, nós trabalhamos com você para solucionar problemas com aplicativos válidos sem custos adicionais. Também fornecemos orientações para os clientes que enfrentam problemas de compatibilidade ao implantar a área de trabalho virtual do Windows e o novo Microsoft Edge e tornam cada esforço razoável para resolver problemas de compatibilidade. Fornecemos assistência de correção para os aplicativos implantados nos seguintes produtos da Microsoft:
@@ -940,7 +1493,6 @@ Os aplicativos que funcionaram no Windows 7, no Office 2010 ou nas versões post
 </tr>
 </thead>
 <tbody>
-</tr>
 <tr class="even">
 <td><strong>Microsoft Edge</strong> (para clientes do Windows 10 Enterprise)</td>
 <td><ul>
