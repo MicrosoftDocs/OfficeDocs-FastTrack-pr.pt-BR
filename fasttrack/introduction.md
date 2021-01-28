@@ -3,7 +3,7 @@ title: Benefício do FastTrack Center para o Microsoft 365
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: overview
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: O FastTrack é um benefício projetado para ajudá-lo a implantar o Microsoft 365 (incluído em assinaturas elegíveis) sem custos adicionais. Você pode usar os serviços do FastTrack com uma assinatura qualificada nova ou existente.
-ms.openlocfilehash: 58de2974475829100adbc2b9546c8d437279c094
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 9bd0a852147432bebc8e98a30f5924d9260d3041
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49749986"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016659"
 ---
 # <a name="fasttrack-center-benefit-for-microsoft-365"></a>Benefício do FastTrack Center para o Microsoft 365
 

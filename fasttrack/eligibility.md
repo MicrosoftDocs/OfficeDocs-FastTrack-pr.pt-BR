@@ -3,19 +3,19 @@ title: Qualificação
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, descrevemos os requisitos de qualificação para o recebimento de assistência remota, com base nos especialistas do FastTrack, incluídos na compra de licenças do Microsoft 365 e detalhes sobre os produtos e recursos específicos abordados.
-ms.openlocfilehash: 976333b6999eb008024b2808674144cbe9ead586
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750014"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016455"
 ---
 # <a name="eligibility"></a>Qualificação
 
@@ -168,7 +168,7 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
 
 #### <a name="azure-information-protection"></a>Proteção de Informações do Azure
 
-  - Proteção de Informações do Azure Plano 2\*\*\*\*\*
+  - Proteção de Informações do Azure
 
 #### <a name="microsoft-intune"></a>Microsoft Intune
 
@@ -184,10 +184,7 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
       
 <br>
 
-\*\*\*\*Disponível para os serviços de nuvem que estão disponíveis aos benefícios do FastTrack. Caso contrário, isso é encaminhado para um especialista do FastTrack ou para indicação de parceiros.  
-      
-\*\*\*\*\*Disponível para P2, como parte do E5 ou como um plano independente. Disponível para os serviços de nuvem que estão disponíveis aos benefícios do FastTrack. O FastTrack compartilha o guia de auto-instalação para os serviços de nuvem P1.  
-      
+\*\*\*\*Disponível para os serviços de nuvem que estão disponíveis aos benefícios do FastTrack. Caso contrário, isso é encaminhado para um especialista do FastTrack ou para indicação de parceiros.    
 
 ### <a name="windows-10-plans"></a>Planos do Windows 10
 

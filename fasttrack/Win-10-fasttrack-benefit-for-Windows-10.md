@@ -10,19 +10,19 @@ ms.service: windows-10-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Você usa o Benefício do FastTrack Center para o Windows 10 quando adquire *pelo menos* 150 licenças para um serviço ou plano.
-ms.openlocfilehash: 851f774dda5d6ea93890f7eb3e6d85f766d9fdd8
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: d60c422ae958ffe70e92979b74ae8eed8e736034
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827341"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016431"
 ---
 # <a name="fasttrack-center-benefit-for-windows-10"></a>Benefício do FastTrack Center para o Windows 10
 
 > [!CAUTION]
 > Este conteúdo está obsoleto e está programado para ser removido. Utilize o sumário na navegação à esquerda para o conteúdo atual.
 
-Você pode usar o Benefício do FastTrack Center para o Windows 10 quando adquire pelo menos 150 licenças para um serviço ou plano. Em seguida, você trabalhará com os especialistas do FastTrack para avaliar, corrigir e implantar o Windows 10, o novo Microsoft Edge ou a Proteção Avançada contra Ameaças do Microsoft Defender e coordenar os benefícios do FastTrack Center para os Aplicativos do Microsoft 365. 
+Você pode usar o Benefício do FastTrack Center para o Windows 10 quando adquire pelo menos 150 licenças para um serviço ou plano. Em seguida, você trabalha com Especialistas do FastTrack para avaliar, remediar e implantar o Windows 10, o Microsoft Edge ou a Proteção Avançada contra Threads do Microsoft Defender e coordenar os benefícios do Centro FastTrack para os Aplicativos do Microsoft 365. 
 
 Os benefícios do FastTrack Center para Windows 10 também oferecem o serviço de Garantia do Aplicativo. Com este serviço, um Especialista do FastTrack é disponibilizado para fornecer aconselhamento e remediação caso você encontre problemas de compatibilidade do aplicativo. 
 

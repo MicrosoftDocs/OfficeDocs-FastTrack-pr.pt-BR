@@ -10,21 +10,21 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou do Microsoft 365 (como detalhado em Serviços e planos qualificados), os especialistas do FastTrack oferecem orientações de compatibilidade e implantação remota se você tiver um aplicativo ou site da Web que funcione com o Internet Explorer ou Google Chrome.
-ms.openlocfilehash: e656673cbbb5130c7cb24b43219a29db4f58c130
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: c63a5eaac44eae8006ed8cb3d9285d57808c141c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827317"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016611"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida
 
-Ao adquirir qualquer um dos serviços do Windows 10 ou do Microsoft 365 qualificados (conforme descrito na [qualificação](eligibility.md)), os especialistas do FastTrack fornecem orientações de implantação remota e assistência de compatibilidade se você tiver um aplicativo Web ou site que funcione com o Internet Explorer ou Google Chrome. 
+Quando você compra qualquer um dos serviços qualificados do Windows 10 [](eligibility.md)ou do Microsoft 365 (conforme detalhado em Qualificação), os Especialistas do FastTrack fornecem orientações de implantação remota e assistência de compatibilidade se você tiver um aplicativo Web ou site que funcione com o Internet Explorer ou o Google Chrome. 
 
 ## <a name="assistance"></a>Assistência
 
 O FastTrack fornece orientação remota para o seguinte:
-- Orientação para implantar o novo Microsoft Edge no Windows 10 Enterprise com o Gerenciador do Microsoft Endpoint (Gerenciador de Configurações do Microsoft Endpoint ou Microsoft Intune).
+- Diretrizes para implantar o Microsoft Edge no Windows 10 Enterprise com o Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Microsoft Intune).
 - Orientação sobre a configuração do Microsoft Edge (usando políticas de grupo ou configuração do aplicativo do Intune e políticas de aplicativos).
 - Orientação para inventariar a lista de sites que podem exigir o uso no modo do Internet Explorer.
 - Orientação para habilitar o modo do Internet Explorer com a lista de sites corporativos existente.

@@ -10,16 +10,16 @@ ms.service: windows-10-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Quando você compra qualquer um dos serviços do Windows 10 ou do Microsoft 365, os especialistas do FastTrack fornecem orientações de aconselhamento e correção para implantar no Windows 10 e no Microsoft 365 Apps e manter-se atualizado sem nenhum custo adicional (com uma assinatura qualificada).
-ms.openlocfilehash: c5c13e948651de813e1351e191e4aa135382339d
-ms.sourcegitcommit: ca476a4195477d43a6f3a212bf27bfe473cc1ffa
+ms.openlocfilehash: 4cd513a4e0c1edda3598a6650bdea91d90f5584f
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48827413"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016417"
 ---
 # <a name="assistance-offered"></a>Assistência oferecida  
 
-Quando você compra qualquer um dos serviços do Windows 10 ou do Microsoft 365 (como detalhados de [qualificação](eligibility.md)), os especialistas do FastTrack fornecem orientações de recomendação e correção se você tiver problemas de compatibilidade do aplicativo à medida que implantar os produtos da Microsoft mais recentes, conforme descrito nos [produtos da Microsoft compatíveis](#supported-microsoft-products).
+Quando você compra qualquer um dos serviços do Windows 10 ou do Microsoft 365 (conforme detalhado em [Qualificação),](eligibility.md)os Especialistas do FastTrack fornecem orientações de consultoria e correção se você encontrar problemas de compatibilidade de aplicativos ao implantar produtos mais novos da Microsoft, conforme descrito nos produtos com suporte da [Microsoft.](#supported-microsoft-products)
 
 Para obter ajuda, conclua a [Solicitação da Garantia de Aplicativo da Área de Trabalho](https://go.microsoft.com/fwlink/?linkid=2022721).
 
@@ -38,22 +38,22 @@ O FastTrack fornece assistência de correção para os aplicativos implantados n
 
 ### <a name="windows-10-on-arm"></a>Windows 10 no ARM
 
-- Os aplicativos que funcionaram no Windows 7, no Office 2010 ou nas versões posteriores funcionam em aplicativos do Windows 10 e Microsoft 365 em dispositivos ARM64.
+- Os aplicativos que funcionaam no Windows 7, Office 2010 ou versões posteriores funcionam no Windows 10 e no Microsoft 365 Apps em dispositivos ARM64.
 
 > [!NOTE]
-> As exclusões e limitações do Windows 10 no ARM incluem aplicativos que dependem de drivers de software que não são compatíveis com o ARM, usam OpenGL ou OpenCL ou estão disponíveis apenas em 64 bits (x64).
+> As exclusões e limitações do Windows 10 em ARM incluem aplicativos que dependem de drivers de software que não são compatíveis com ARM, usam OpenGL ou OpenCL ou estão disponíveis somente em 64 bits (x64).
 
-### <a name="the-new-microsoft-edge"></a>O novo Microsoft Edge
+### <a name="microsoft-edge"></a>Microsoft Edge
 
-- Se os seus sites ou aplicativo Web funcionarem no Internet Explorer 11, nas versões com suporte do Google Chrome ou em qualquer versão do Microsoft Edge, eles também funcionarão no novo Microsoft Edge.
+- Se seus sites ou aplicativos Web funcionarem no Internet Explorer 11, nas versões compatíveis do Google Chrome ou em qualquer versão do Microsoft Edge, eles também funcionarão com o Microsoft Edge.
 
 Para obter orientações sobre a implantação do Microsoft Edge, confira [Visão geral dos canais do Microsoft Edge](https://docs.microsoft.com/DeployEdge/microsoft-edge-channels). À medida que a Web está em constante evolução, publicamos uma lista de [alterações conhecidas que afetam a compatibilidade do site para o Microsoft Edge](https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes).
 
 ### <a name="windows-virtual-desktop"></a>Área de Trabalho Virtual do Windows
 
 - Aplicativos virtualizados executados em um Host de Sessão de Área de Trabalho Remota do Windows Server (RDSH) também são executados no Windows 10 Enterprise multisessão como parte da Área de Trabalho Virtual do Windows.
-- Os aplicativos executados em qualquer ambiente VDI (Virtual Desktop Infrastructure) do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da área de trabalho virtual do Windows.
-- Os aplicativos executados nos dispositivos cliente do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da área de trabalho virtual do Windows.
+- Os aplicativos em execução em qualquer ambiente de VDI (infraestrutura de área de trabalho virtual) do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.
+- Os aplicativos em execução em dispositivos cliente do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.
 
 > [!NOTE]
 > As exclusões e limitações de compatibilidade de várias sessões do Windows 10 Enterprise incluem: 

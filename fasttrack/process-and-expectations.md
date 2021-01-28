@@ -3,19 +3,19 @@ title: Processos e Expectativas
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, abordaremos como contratar o FastTrack para obter assistência, como essa assistência é fornecida, sugerimos dicas para uma experiência bem-sucedida e compreender as principais responsabilidades do FastTrack e da sua empresa.
-ms.openlocfilehash: 8bf3ffc97a08f4a89807e6d7dcedbeacc148db60
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+ms.openlocfilehash: bfbe95787d598dc229a03ee643f5e37e6b6f224c
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49749978"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016503"
 ---
 # <a name="process-and-expectations"></a>Processos e Expectativas
 
@@ -44,7 +44,7 @@ Para que seu parceiro solicite assistência em seu nome por meio do site FastTra
 4.  Selecione o cliente nos resultados da pesquisa.
 5.  Preencha o formulário **Solicitar Assistência com o Microsoft 365**.
 
-Para solicitar assistência para a garantia de aplicativo, conclua a [solicitação de serviço de garantia de aplicativo](https://go.microsoft.com/fwlink/?linkid=2022721).
+Para solicitar assistência para a Garantia de Aplicativo, conclua a [solicitação de serviço de Garantia de Aplicativo.](https://go.microsoft.com/fwlink/?linkid=2022721)
 
 ## <a name="fasttrack-expectations"></a>Expectativas do FastTrack
 
@@ -55,7 +55,7 @@ O FastTrack fornece orientação ponta a ponta sobre como migrar para o e o usan
 Você trabalha remotamente com especialistas do FastTrack por meio de conversas técnicas, workshops e reuniões com pontos de verificação, incluindo:
 
   - **Conversas e workshops técnicos:** Estes fornecem práticas recomendadas e recomendações detalhadas sobre a implantação do Microsoft 365 Services. Essas reuniões geralmente fornecem uma visão geral das ferramentas disponíveis de documentação, software e console de administração. Duração padrão: 60 minutos.
-  - **Reuniões de ponto de verificação:** Touchpoints semanal ou quinzenal para garantir que sua implantação esteja em andamento. Duração padrão: 30 minutos.
+  - **Reuniões de ponto de verificação:** Pontos de toque semanais ou quinzenais para garantir que sua implantação está progredindo. Duração padrão: 30 minutos.
 
 ### <a name="expected-outcomes-and-key-milestones"></a>Resultados esperados e marcos importantes 
 

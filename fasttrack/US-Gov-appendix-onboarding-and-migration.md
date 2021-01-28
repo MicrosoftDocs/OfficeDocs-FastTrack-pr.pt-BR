@@ -1,29 +1,29 @@
 ---
-title: Fases de integração e migração para o governo dos EUA do Office 365
+title: Fases de integração e migração do Office 365 US Government
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/4/2021
+ms.date: 1/27/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: 'Integração do Office 365 para o Office 365 o governo dos EUA tem quatro fases principais: Iniciar, avaliar, corrigir e habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
-ms.openlocfilehash: 82f6b9add76ca5aecbc7e0d210cb32aec0a5e05c
-ms.sourcegitcommit: cf07b074931fd6877ba7e8938440dc7ebaf4ac69
+description: 'A integração do Office 365 para o Office 365 US Government tem quatro fases principais: Iniciar, Avaliar, Remediar e Habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
+ms.openlocfilehash: 8a16d48099cb2899e966fa61857c216c59350cb5
+ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "49750134"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "50016563"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para o governo dos EUA do Office 365
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração do Office 365 US Government
 
 A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados, como mostra a imagem a seguir.
   
 ![Fases do benefício de Integração](media/O365-Onboarding-Phases.png)
   
-Para obter tarefas detalhadas para cada fase, confira [responsabilidades do FastTrack para o governo dos EUA do office 365](US-Gov-appendix-fasttrack-responsibilities.md) e [suas responsabilidades para o governo dos eua do Office 365](US-Gov-appendix-your-responsibilities.md).
+Para conhecer tarefas detalhadas de cada fase, confira Responsibilities do FastTrack para [o Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) e suas responsabilidades para o Office [365 US Government.](US-Gov-appendix-your-responsibilities.md)
   
 ## <a name="initiate-phase"></a>Fase Iniciar
 
@@ -57,7 +57,7 @@ Isso inclui trabalhar com você para entender como você pretende usar o serviç
 
 O Gerente do FastTrack realiza uma chamada interativa de planejamento com você e sua equipe de adoção. Apresentamos os recursos dos serviços qualificados adquiridos, as principais bases necessárias para o sucesso, a metodologia para incentivar o uso do serviço e os cenários que você pode usar para aproveitar os serviços. Podemos ajudá-lo no planejamento de sucesso e fornecer comentários sobre as áreas principais (conforme necessário).
   
-Os especialistas do FastTrack trabalham com você para avaliar o ambiente de origem e os requisitos. Fornecemos ferramentas para você coletar dados sobre seu ambiente e orientá-lo na estimativa dos requisitos de largura de banda e na avaliação de seus navegadores da Internet, sistemas operacionais clientes, DNS (sistema de nomes de domínio), rede, infraestrutura e sistema de identidade para determinar se as alterações são necessárias para a integração. 
+Os especialistas do FastTrack trabalham com você para avaliar o ambiente de origem e os requisitos. Fornecemos ferramentas para você coletar dados sobre seu ambiente e orientá-lo por meio da estimativa dos requisitos de largura de banda e da avaliação dos navegadores da Internet, sistemas operacionais clientes, DNS (Sistema de Nomes de Domínio), rede, infraestrutura e sistema de identidade para determinar se alguma alteração é necessária para a integração. 
   
 Baseado em suas configurações atuais, fornecemos um plano de correção que define seu ambiente de origem, conforme os requisitos mínimos para a integração ao Office 365 e, se necessário, para a migração de caixas de correio e/ou dados ocorrer com êxito. Oferecemos um conjunto de atividades sugeridas para aumentar a adoção e o valor do usuário final. Também configuramos chamadas de ponto de verificação adequadas para a fase Corrigir.
   
@@ -132,8 +132,8 @@ No Skype for Business Online, fornecemos instruções para:
 - Configuração do DNS.    
 - Criar contas para dispositivos do sistema.    
 - Implantar um cliente Skype for Business online com suporte.   
-- Estabelecer a configuração de servidor de domínio dividido entre seu ambiente local do Lync 2010, Lync 2013 ou Skype for Business 2015 Server e o locatário do Skype for Business online (se aplicável).
-- Habilitar planos de chamadas, transmissão de reunião do Skype e o sistema de telefonia e planos de chamadas (em mercados disponíveis – não estão disponíveis nos planos GCC High ou DoD). 
+- Estabelecer a configuração do servidor de domínio dividido entre seu ambiente de servidor local do Lync 2010, Lync 2013 ou Skype for Business 2015 e o locatário do Skype for Business Online (se aplicável).
+- Habilitando Planos de Chamadas, Transmissão de Reunião do Skype e Sistema de Telefonia e Planos de Chamadas (em mercados disponíveis – não disponível nos planos GCC High ou DoD). 
     
 ![Etapas da integração ao Lync durante a fase Habilitar_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,7 +142,7 @@ No Skype for Business Online, fornecemos instruções para:
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> O seguinte não está disponível nos planos GCC High ou DoD.
+> O exemplo a seguir não está disponível nos planos GCC High ou DoD.
 
 No Microsoft Teams, fornecemos instruções para: 
 - Confirmação dos requisitos mínimos.   
@@ -173,7 +173,7 @@ No Project Online, fornecemos instruções para:
 No Yammer, fornecemos instruções para habilitar o serviço do Yammer Enterprise.
 
 > [!NOTE]
-> O Yammer Enterprise não é um componente do governo dos EUA do Office 365, mas pode ser adquirido sem custo como uma oferta autônoma para cada usuário licenciado para o Office 365 em GCC. Atualmente, essa oferta é limitada a clientes que compram o Office 365 GCC sob acordos corporativos e contratos de assinatura corporativa. O Yammer não está disponível nos planos GCC High ou DoD. 
+> O Yammer Enterprise não é um componente do Office 365 US Government, mas pode ser adquirido sem custo como uma oferta autônoma para cada usuário licenciado para o Office 365 na GCC. No momento, essa oferta está limitada aos clientes que compram o Office 365 GCC sob Contratos Empresariais e Contratos de Assinatura Empresarial. O Yammer não está disponível nos planos GCC High ou DoD. 
   
 ## <a name="microsoft-365-apps"></a>Aplicativos do Microsoft 365
 
@@ -183,7 +183,7 @@ Nos Aplicativos do Microsoft 365, fornecemos diretrizes para:
 - Instalação de Aplicativos do Microsoft 365 pelo portal do Office 365 usando Clique para Executar.    
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS ou Android.   
 - Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.    
-- Configurar um servidor de distribuição local único para aplicativos Microsoft 365, incluindo assistência com a criação de um arquivo de configuration.xml para uso com a ferramenta de implantação do Office 365.    
+- Configurar um único servidor de distribuição local para o Microsoft 365 Apps, incluindo assistência com a criação de um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office 365.    
 - Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
     
 ![Etapas da integração ao Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)
