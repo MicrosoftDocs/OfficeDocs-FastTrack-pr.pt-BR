@@ -3,21 +3,21 @@ title: Apêndice A – Centro de serviço FastTrack do Acordo de Parceiro Comerc
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 description: 'Caso tenha um Acordo de Parceiro Comercial HIPAA com a Microsoft para os serviços do FastTrack, todos os serviços relacionados no Benefícios do Centro FastTrack para Office 365 estarão incluídos neste Acordo, com exceção de:'
-ms.openlocfilehash: 5be08d59555b54d3269100486c02b4573d98f426
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: bd014c7d2b982e1d3da8b5d628f9bbc02bcabc0a
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016443"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416513"
 ---
-# <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="83c5d-103">Apêndice A – Centro de serviço FastTrack do Acordo de Parceiro Comercial HIPAA</span><span class="sxs-lookup"><span data-stu-id="83c5d-103">Appendix A - FastTrack Center HIPAA Business Associate Agreement</span></span>
+# <a name="appendix-a---fasttrack-center-hipaa-business-associate-agreement"></a><span data-ttu-id="29aa0-103">Apêndice A – Centro de serviço FastTrack do Acordo de Parceiro Comercial HIPAA</span><span class="sxs-lookup"><span data-stu-id="29aa0-103">Appendix A - FastTrack Center HIPAA Business Associate Agreement</span></span>
 
-<span data-ttu-id="83c5d-104">Se você tiver um Contrato de Parceiro Comercial (BAA) HIPAA com a Microsoft, todos os serviços relacionados aos [Office 365](products-and-capabilities.md#office-365) serão executados de acordo com esse BAA.</span><span class="sxs-lookup"><span data-stu-id="83c5d-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in [Office 365](products-and-capabilities.md#office-365) are performed in accordance with that BAA.</span></span>
+<span data-ttu-id="29aa0-104">Se você tiver um Contrato de Parceiro Comercial (BAA) HIPAA com a Microsoft, todos os serviços relacionados aos [Office 365](products-and-capabilities.md#office-365) serão executados de acordo com esse BAA.</span><span class="sxs-lookup"><span data-stu-id="29aa0-104">If you have a HIPAA Business Associate Agreement (BAA) agreed with Microsoft, all services listed in [Office 365](products-and-capabilities.md#office-365) are performed in accordance with that BAA.</span></span>
 
 
