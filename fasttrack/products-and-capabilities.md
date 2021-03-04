@@ -3,27 +3,27 @@ title: Produtos e Recursos
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados pelo FastTrack e as expectativas necessárias do ambiente de origem antes de começar. Baseado na sua configuração atual, trabalhamos com você na criação de um plano de correção que leva seu ambiente de origem aos requisitos mínimos para uma integração bem-sucedida.
-ms.openlocfilehash: abbc97a7b2d70b0b0111f1cbe96904bbe552e463
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016683"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416560"
 ---
 # <a name="products-and-capabilities"></a>Produtos e Recursos
 
-## <a name="services-and-scenarios-supported-by-fasttrack"></a>Serviços e cenários com suportados pelo FastTrack
+## <a name="services-and-scenarios-supported-by-fasttrack"></a>Serviços e cenários com suportados pelo FastTrack 
 
 Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados pelo FastTrack e as expectativas necessárias do ambiente de origem antes de começar. Baseado na sua configuração atual, trabalhamos com você na criação de um plano de correção que leva seu ambiente de origem aos requisitos mínimos para uma integração bem-sucedida.
 
-O FastTrack fornece orientações para ajudá-lo primeiro com os principais recursos (comuns para todos os Serviços Online da Microsoft) e, em seguida, com a integração de cada serviço qualificado:
+O FastTrack fornece orientações para ajudá-lo primeiro com os recursos principais (comuns para todos os Microsoft Online Services) e, em seguida, com a integração de cada serviço qualificado:
 
   - [Geral](#general)
   - [Segurança e conformidade](#security-and-compliance)
@@ -102,7 +102,7 @@ Fornecemos orientações remotas para:
   Além disso, se você tiver uma macro ou suplemento que funcionou com versões anteriores do Office e tiver problemas de compatibilidade, forneceremos orientação para corrigir esses problemas sem custos adicionais, por meio do programa de Garantia de Aplicativo. Confira a parte da <strong>Garantia de Aplicativo</strong> do <a href="#windows-10">Windows 10</a> para obter mais detalhes. </li>
 </ul></td>
 <td><ul>
-<li>  O software cliente online deve estar em um nível mínimo, conforme definido nos requisitos do sistema <a href="https://go.microsoft.com/fwlink/?LinkID=723597">para o Microsoft 365 e o Office.</a>  </li>
+<li>  O software cliente online deve estar em um nível mínimo, conforme definido nos requisitos <a href="https://go.microsoft.com/fwlink/?LinkID=723597">do sistema para o Microsoft 365 e o Office</a>.  </li>
 </ul></td>
 </tr>
 <tr class="odd">
@@ -171,7 +171,7 @@ Fornecemos orientações remotas para:
   Revisar os termos de uso do Azure AD.  
   </li>
 <li>  
-  Gerenciar e controlar o acesso a contas privilegiadas de administrador com o Azure AD Privileged Identity Management.  
+  Gerenciando e controlando o acesso a contas de administrador privilegiadas com o Azure AD Privileged Identity Management.  
   </li>
 </ul>
   
@@ -189,49 +189,118 @@ Fornecemos orientações remotas para:
 </tr>
 <tr class="odd">
 <td><strong>Proteção de Informações do Azure </strong></td>
+<td>  Para obter mais informações sobre a Proteção de Informações do Azure, consulte <strong>Proteção de Informações</strong> da Microsoft mais adiante nesta tabela.
+
+  </td>
+<td>  
+  <tr class="odd">
+<td><strong>Resposta & descoberta</strong></td>
+<td>  
+
+<strong>Descoberta Avançada de EDiscovery</strong>
+  
+<ul>
+<li>  Habilitação de Links Seguros, Anexos Seguros e anti-phishing.  </li>
+<li>  Configuração de automação, investigação e resposta.  </li>
+<li>  Uso do Simulador de Ataques.  </li>
+<li>  Relatórios e análise de ameaças.  </li>
+</ul>
+
+<strong>Auditoria Avançada</strong> (com suporte apenas no E5)
+
+Fornecemos orientações remotas para: 
+<ul>
+<li> Habilitando a auditoria avançada.</li>
+<li> Executando uma interface do usuário do log de auditoria de pesquisa e comandos básicos de auditoria do PowerShell.</li>
+</ul>
+
+<strong> Gerenciador de Conformidade</strong>
+
+Fornecemos orientações remotas para:  
+
+<ul> <li>Revisão de tipos de função.  </li>
+<li> Adicionando e configurando avaliações.</li>
+<li> Avaliando a conformidade implementando ações de melhoria e determinando como isso afeta sua pontuação de conformidade.</li>
+<li> Revisar o mapeamento de controles internos e a avaliação de controles.</li>
+<li> Gerando um relatório dentro de uma avaliação.</li>
+</ul>
+
+<strong>O seguinte está fora do escopo </strong> 
+<ul>
+<li> Scripts personalizados ou codificação.</li>
+<li> API de Descoberta Externa. </li>
+<li> Conectores de dados. </li>
+<li> Limites de conformidade e filtros de segurança.</li>
+<li> Investigações de dados.</li>
+<li> Solicitações de assunto de dados.</li>
+<li> Design, arquiteto e revisão de documentos de terceiros.</li>
+<li> Conformidade com regulamentos e requisitos do setor e regionais.</li>
+<li> Implementação prática das ações de melhoria recomendadas para avaliações no Gerenciador de Conformidade.</li>
+</ul>
+</td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+</tr>
+
+<tr class="odd">
+<td><strong>Gerenciamento de ameaças insider</strong></td>
+
 <td>  Fornecemos orientações remotas para:
 <ul>
-<li>  Ativando e configurando seu locatário.  </li>
-<li>  Criação e configuração dos rótulos e políticas.  </li>
-<li>  Aplicação de proteção de informações aos documentos.  </li>
-<li>  Classificação e rotulação automática de informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e que usam o Cliente da Proteção de Informações do Azure.  </li>
-<li>  Descobrir e rotular arquivos em repouso usando o scanner da Proteção de Informações do Azure.  </li>
-<li>  Monitoramento de emails em trânsito usando as regras de fluxo de email do Exchange Online.  </li>
+<li> Criando políticas e revendo configurações.</li>
+<li> Acessando relatórios e alertas.</li>
+<li> Criar casos.</li>
+<li> Criando modelos de aviso.</li>
+<li> Diretrizes sobre a criação do conector de recursos humanos (RH).</li>
 </ul>
-As orientações também são fornecidas aos clientes que desejam aplicar a proteção usando o Microsoft Azure AD Rights Management (Azure RMS), Criptografia de Mensagens do Office 365 e Prevenção Contra Perda de Dados (DLP).  </td>
-<td>  As responsabilidades dos pré-requisitos do cliente incluem:
+
+<strong> Conformidade de comunicação </strong> 
+
+Fornecemos orientações remotas para: 
 <ul>
-<li>  Uma lista de locais de compartilhamento de arquivos a serem verificados.  </li>
-<li>  Uma taxonomia de classificação aprovada. </li>
-<li> Noções básicas sobre qualquer restrição regulamentar ou requisitos relacionados ao gerenciamento de chaves.  </li>
-<li>  Uma conta de serviço criada para o Active Directory local que foi sincronizada com o Azure AD. </li>
-<li>  Rótulos configurados para classificação e proteção. </li>
-<li> Todos os pré-requisitos para o scanner da Proteção de Informações do Azure estão em uso. Para saber mais, confira Pré-requisitos para instalar e implantar o scanner de rotulagem unificado da Proteção de Informações do <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Azure.</a> </li>
-<li>  Certifique-se de que os dispositivos do usuário estão executando um sistema operacional com suporte e tenham os pré-requisitos necessários instalados. Consulte o seguinte para obter mais detalhes.</li>
+<li> Criando políticas e revendo configurações.</li>
+<li> Acessando relatórios e alertas.</li>
+<li> Criando modelos de aviso.</li>
+</ul>
+
+<strong> Gerenciador de Conformidade</strong>
+
+Fornecemos orientações remotas para:  
+
+<ul> <li>Revisão de tipos de função.  </li>
+<li> Adicionando e configurando avaliações.</li>
+<li> Avaliando a conformidade implementando ações de melhoria e determinando como isso afeta sua pontuação de conformidade.</li>
+<li> Revisar o mapeamento de controles internos e a avaliação de controles.</li>
+<li> Gerando um relatório dentro de uma avaliação.</li>
+</ul>
+
+<strong>O seguinte está fora do escopo </strong> 
 <ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guia do Administrador: Instalar o cliente de rotulagem unificada da Proteção de Informações do Azure para usuários</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">O que é o aplicativo de Proteção de Informações do Azure para iOS ou Android?</a>  </li>
-</ul>
-<li> Instalação e configuração do conector e servidores do Azure RMS, incluindo o conector RMS do Active Directory (AD RMS) para suporte híbrido.  </li>
-<li> Configure e configure BYOK (Traga sua própria chave), DKE (criptografia de chave dupla) (somente cliente de rotulagem unificada) ou MANTENHA sua própria chave (HYOK) (somente cliente clássico) caso você rebaixe uma destas opções para sua implantação.  </li>
-  </ul>
-</ul>
-  
+<li> Criando e gerenciando fluxos do Power Automate.</li>
+<li> Conectores de dados (além do conector de RH). </li>
+<li> Configurações de expressão regular personalizada (RegEx).</li>
+<li> Design, arquiteto e revisão de documentos de terceiros.</li>
+<li> Barreiras de informações.</li>
+<li> Gerenciamento de acesso privilegiado.</li>
+<li> Conformidade com regulamentos e requisitos do setor e regionais.</li>
+<li> Implementação prática das ações de melhoria recomendadas para avaliações no Gerenciador de Conformidade.</li>
+</ul></td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+</tr>
 </td>
 </tr>
 
 <tr class="even">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> O Microsoft 365 Defender é um pacote unificado de defesa empresarial pré-e pós-violação que coordena de forma nativa a detecção, prevenção, investigação e resposta entre pontos de extremidade, identidades, email e aplicativos para fornecer proteção integrada contra ataques sofisticados. Fornecemos orientações remotas para: </p> 
+<td> <p> O Microsoft 365 Defender é um pacote de defesa empresarial unificado pré e pós-violação que coordena de forma nativa a detecção, prevenção, investigação e resposta entre pontos de extremidade, identidades, email e aplicativos para fornecer proteção integrada contra ataques sofisticados. Fornecemos orientações remotas para: </p> 
 <ul>
-<li>  Fornecendo uma visão geral da central de segurança do Microsoft 365.  </li>
-<li>  Analisar incidentes entre produtos, incluindo o que é fundamental, garantindo o escopo completo do ataque, ativos afetados e ações de correção automatizadas agrupadas.  </li>
-<li>  Demonstrar como o Microsoft 365 Defender pode orquestrar a investigação de ativos, usuários, dispositivos e caixas de correio que podem ter sido comprometidos por meio de uma auto-recuperação automática. </li>
-<li>  Explicando e fornecendo exemplos de como os clientes podem buscar proativamente por tentativas de invasão e atividades de violação que afetem seu email, dados, dispositivos e contas em vários conjuntos de dados.   </li>
-<li> Mostrar aos clientes como eles podem revisar e melhorar a postura de segurança holisticamente usando o Microsoft Secure Score.</li>
+<li>  Fornecendo uma visão geral do centro de segurança do Microsoft 365.  </li>
+<li>  Revisão de incidentes entre produtos, incluindo o foco no que é crítico, garantindo o escopo de ataque completo, os ativos afetados e as ações de correção automatizadas agrupadas.  </li>
+<li>  Demonstrando como o Microsoft 365 Defender pode orquestrar a investigação de ativos, usuários, dispositivos e caixas de correio que podem ter sido comprometidas por meio da auto-recuperação automatizada. </li>
+<li>  Explicando e fornecendo exemplos de como os clientes podem procurar proativamente tentativas de invasão e atividades de violação que afetam seu email, dados, dispositivos e contas em vários conjuntos de dados.   </li>
+<li> Mostrando aos clientes como eles podem revisar e melhorar a postura de segurança de forma holística usando a Pontuação Segura da Microsoft.</li>
 </ul>
-<p><strong>O exemplo a seguir está fora do escopo</strong></p>
+<p><strong>O seguinte está fora do escopo</strong></p>
 <ul>
 <li> Gerenciamento de projetos das atividades de correção do cliente. </li>
 <li> Gerenciamento contínuo, resposta a ameaças e correção. </li>
@@ -242,55 +311,55 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 <li> Busca personalizada de ameaças.  </li>
 </ul>
 </li>
-<li> Informações de segurança e gerenciamento de eventos (SIEM) ou integração de API.</li>
+<li> Informações de segurança e gerenciamento de eventos (SIEM) ou integração à API.</li>
 </td>
 </tr>
 <tr class="odd">
 <td><strong>Microsoft Cloud App Security</strong></td>
-<td>  O Microsoft Cloud App Security é um Agente de Segurança de Acesso à Nuvem (CASB) que fornece visibilidade avançada, controle sobre viagem de dados e análise sofisticada para identificar e combater ameaças cibernéticas em todos os serviços de nuvem da Microsoft e de terceiros. Fornecemos orientações remotas para:
+<td>  O Microsoft Cloud App Security é um Agente de Segurança do Cloud Access (CASB) que fornece visibilidade avançada, controle sobre viagens de dados e análises sofisticadas para identificar e combater ameaças cibernéticas em todos os serviços de nuvem da Microsoft e de terceiros. Fornecemos orientações remotas para:
 <ul>
-<li>  Configuração do portal, incluindo:  </li>
+<li>  Configurando o portal, incluindo:  </li>
 <ul>
-<li> Importação de grupos de usuários.</li>
-<li> Gerenciando configurações e acesso de administrador.  </li>
-<li> Definindo o plano de implantação para selecionar determinados grupos de usuários a ser monitorado ou excluído do monitoramento.</li>
-<li> Definição de marcas e intervalos de IP.</li>
+<li> Importando grupos de usuários.</li>
+<li> Gerenciando o acesso e as configurações do administrador.  </li>
+<li> Scoping sua implantação para selecionar determinados grupos de usuários para monitorar ou excluir do monitoramento.</li>
+<li> Definindo intervalos e marcas IP.</li>
 <li> Personalizando a experiência do usuário final com seu logotipo e mensagens personalizadas.</li>
 </ul>
-<li> Configurando a descoberta na nuvem para fornecer a IT de sombra usando:</li>
+<li> Configurando a descoberta na nuvem para fornecer a tecnologia de sombra usando:</li>
 <ul>
-<li> Microsoft Defender para pontos de extremidade.</li>
+<li> Microsoft Defender para Pontos de Extremidade.</li>
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Conexão de <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">aplicativos em destaque</a> usando conectores de aplicativos.</li>
-<li> Configurar o Controle de Aplicativo de Acesso Condicional nos portais de Acesso Condicional e Segurança de Aplicativo na Nuvem para aplicar controles de sessão em tempo real.</li>
-<li> Implantação dos painéis Cloud App Security e Cloud Discovery.</li>
-<li> Personalização de pontuações de risco do aplicativo com base nas prioridades da sua organização.</li>
-<li> Criação de marcas e categorias de aplicativos.</li>
-<li> Sancionando e não sancionando aplicativos.</li>
-<li> Usando os logs de atividades e arquivos.</li>
+<li> Conectando <a href="https://docs.microsoft.com/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps">aplicativos em destaque</a> usando conectores de aplicativo.</li>
+<li> Configurando o Controle de Aplicativo de Acesso Condicional nos portais de Acesso Condicional e Segurança de Aplicativos na Nuvem para aplicar controles de sessão em tempo real.</li>
+<li> Implantando os painéis Cloud App Security e Cloud Discovery.</li>
+<li> Personalização de pontuações de risco de aplicativo com base nas prioridades da sua organização.</li>
+<li> Criando marcas e categorias de aplicativos.</li>
+<li> Sancionando e desemanando aplicativos.</li>
+<li> Usando a atividade e os logs de arquivo.</li>
 <li> Gerenciando aplicativos OAuth.</li>
-<li> Noções básicas sobre correlação de incidentes no portal do Microsoft 365 Defender.</li>
-<li> Fornecer assistência de configuração com os <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> principais casos de uso para CASBs (incluindo a criação ou atualização de até seis (6 políticas), exceto: </li>
+<li> Noções básicas sobre a correlação de incidentes no portal do Microsoft 365 Defender.</li>
+<li> Fornecendo assistência de configuração com os <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">20</a> principais casos de uso para CASBs (incluindo a criação ou atualização de até seis (6) políticas), exceto: </li>
 <ul>
-<li> Auditoria da configuração de ambientes de Internet como serviço (IaaS) (#18).</li>
-<li> Monitorar as atividades do usuário para se proteger contra ameaças em seus ambientes IaaS (#19).</li>
+<li> Auditoria da configuração da internet como ambientes de serviço (IaaS) (#18).</li>
+<li> Monitorando as atividades do usuário para proteger contra ameaças em seus ambientes iaaS (#19).</li>
 </ul>
 </ul>
-<p><strong>O exemplo a seguir está fora do escopo</strong></p>
+<p><strong>O seguinte está fora do escopo</strong></p>
 <ul>
 <li> Gerenciamento de projetos das atividades de correção do cliente.</li>
 <li> Gerenciamento contínuo, resposta a ameaças e correção. </li>
-<li> Configurar a infraestrutura, a instalação ou a implantação de carregamentos automáticos de log para relatórios contínuos usando o Docker ou um coletor de log. Confira <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">os 20 principais casos de uso para CASBs</a> para obter mais detalhes.</li>
-<li> Criar um relatório de instantâneo do Cloud Discovery.</li>
-<li> Bloqueando o uso do aplicativo usando scripts de bloco.</li>
+<li> Configurando a infraestrutura, a instalação ou a implantação de carregamentos de log automáticos para relatórios contínuos usando o Docker ou um coletor de log. Confira <a href="https://go.microsoft.com/fwlink/p/?LinkID=2103991">Os 20 principais casos de uso para CASBs</a> para obter mais detalhes.</li>
+<li> Criando um relatório de instantâneo de Descoberta na Nuvem.</li>
+<li> Bloqueando o uso do aplicativo usando scripts de bloqueio.</li>
 <li> Conectando aplicativos personalizados.</li>
 <li> Integração com provedores de identidade de terceiros (IsPs) e provedores de prevenção contra perda de dados (DLP).</li>
 <li> Treinamento ou orientação sobre a caça avançada.</li>
 <li> Investigação e correção automatizadas, incluindo os playbooks do Microsoft Power Automate.</li>
-<li> Informações de segurança e gerenciamento de eventos (SIEM) ou integração de API (incluindo o Azure Sentinel).</li>
-<li> Implantação da Descoberta de Aplicativos na Nuvem como uma prova de conceito.</li>
+<li> Informações de segurança e gerenciamento de eventos (SIEM) ou integração à API (incluindo o Azure Sentinel).</li>
+<li> Implantando a Descoberta de Aplicativos na Nuvem como uma prova de conceito.</li>
 </ul></td>
 </tr>
 
@@ -379,6 +448,7 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 <li>  
   Dispositivos móveis (Android e iOS).  
   </li>
+<li> Virtual Desktop Infrastructure (VDI) (persistente ou não persistente).  </li>
 </ul></li>
 <li>  Integração e configuração do servidor:
 <ul>
@@ -418,13 +488,24 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 <li>  
   Controle de aplicativo.  
   </li>
+<li> Controle de dispositivo.</li>
 <li>  
   Explorar proteção.  
   </li>
 <li>  
   Firewall da rede.  
   </li>
+
+
+
 </ul></li>
+<li> Configuração ou gerenciamento de recursos de proteção de conta como: </li>
+<ul>
+
+<li> Windows Hello</li>
+<li> Credential Guard</li>
+</ul>
+<li> Configuração ou gerenciamento do BitLocker.</li>
 <li>  Inscrição ou configuração dos Peritos em ameaças da Microsoft.  </li>
 <li>  Configuração ou treinamento revisando a API ou as conexões de informações de segurança e gerenciamento de eventos (SIEM).  </li>
 <li>  Registro ou configuração da Proteção contra ameaças da Microsoft (MTP).  </li>
@@ -437,46 +518,46 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <td></td>
 
 <tr class="odd">
-<td><strong>Microsoft Defender for Identity </strong></td>
+<td><strong>Microsoft Defender para Identidade </strong></td>
 <td>  O Microsoft Defender para Identidade é uma solução de segurança baseada em nuvem que aproveita os sinais do Active Directory local para identificar, detectar e investigar ameaças avançadas, identidades comprometidas e ações internas mal-intencionadas direcionadas à sua organização. Fornecemos orientações remotas para:
 <ul>
-<li>   Criar sua instância do Defender para Identidade. </li>
+<li>   Criando sua instância do Defender para Identidade. </li>
 <li>   Conectando o Defender para Identidade ao Active Directory. </li>
-<li>   Avaliando a preparação do ambiente para implantar o sensor do Defender for Identity em seus controladores de domínio, incluindo:</li>   
+<li>   Avaliando a preparação do seu ambiente para implantar o sensor Defender for Identity em seus controladores de domínio, incluindo:</li>   
 <ul> 
-<li>  Executando a ferramenta de replicação para planejamento de capacidade de recursos. </li>
-<li>  Executar a ferramenta de auditoria para avaliar a compatibilidade dos controladores de domínio com o sensor. </li>
+<li>  Executando a ferramenta de sizing para planejamento de capacidade de recursos. </li>
+<li>  Executando a ferramenta de auditoria para avaliar a compatibilidade dos controladores de domínio com o sensor. </li>
 </ul>
-<li>  Implantar o sensor para capturar e analisar o tráfego de rede e eventos do Windows diretamente de seus controladores de domínio, incluindo: </li>
+<li>  Implantando o sensor para capturar e analisar o tráfego de rede e eventos do Windows diretamente de seus controladores de domínio, incluindo: </li>
 <ul> 
 <li>  Baixando o pacote do sensor. </li>
 <li>  Configurando o sensor. </li>
-<li>  Instalar o sensor no controlador de domínio silenciosamente. </li>
-<li>  Implantar o sensor em seu ambiente de várias florestas. </li>
+<li>  Instalando o sensor no controlador de domínio silenciosamente. </li>
+<li>  Implantando o sensor em seu ambiente de várias florestas. </li>
 </ul>
-<li>  Integração do Defender para Identidade com o Microsoft Cloud App Security (o licenciamento do Cloud App Security não é necessário). </li>
+<li>  Integrando o Defender para Identidade com o Microsoft Cloud App Security (o licenciamento de Segurança do Aplicativo na Nuvem não é necessário). </li>
 <li>  Fornecendo diretrizes de implantação, assistência de configuração e educação em: </li>
 <ul>
-<li> Ajustando o ambiente para reduzir o "ruído".  </li>
+<li> Ajustando o ambiente para reduzir "ruído".  </li>
 <li>  Noções básicas sobre o relatório de avaliação de postura de segurança de identidade. </li>
 <li>  Noções básicas sobre a pontuação de prioridade de investigação do usuário e o relatório de classificação de investigação do usuário. </li>
-<li> Noções básicas sobre o relatório de usuário inativo.  </li>
+<li> Noções básicas sobre o relatório do usuário inativo.  </li>
 <li> Fornecendo opções de correção em uma conta comprometida.  </li>
 </ul>
-<li>  Facilitar a migração do Advanced Threat Analytics (ATA) para o Defender para Identidade. </li>
+<li>  Facilitando a migração do Advanced Threat Analytics (ATA) para o Defender for Identity. </li>
 </ul>
-<p><strong>O exemplo a seguir está fora do escopo</strong></p>
+<p><strong>O seguinte está fora do escopo</strong></p>
 <ul>
 
 <li> Gerenciamento de projetos das atividades de correção do cliente. </li>
 <li> Gerenciamento contínuo, resposta a ameaças e correção.  </li>
-<li> Implantação do sensor do Defender para Identidade, incluindo: </li>
+<li> Implantando o sensor Defender para Identidade, incluindo: </li>
 <ul>
 <li> Planejamento de capacidade manual. </li>
-<li> Implantação do sensor em uma capacidade autônoma. </li>
-<li> Implantação do sensor usando um adaptador de equipe NIC (Placa de Interface de Rede). </li>
-<li> Implantar o sensor por meio de uma ferramenta de terceiros. </li>
-<li> Conectando-se ao serviço de nuvem Do Defender para Identidade por meio de uma conexão de proxy da Web. </li>
+<li> Implantando o sensor em uma capacidade autônoma. </li>
+<li> Implantando o sensor usando um adaptador de NIC (Network Interface Card). </li>
+<li> Implantando o sensor por meio de uma ferramenta de terceiros. </li>
+<li> Conectando-se ao serviço de nuvem Defender para Identidade por meio de uma conexão de proxy da Web. </li>
 </ul>
 <li> Criação e gerenciamento de honeytokens. </li>
 <li> Diretrizes de implantação ou educação em: </li>
@@ -486,18 +567,18 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <li> Ameaça ou busca avançada. </li>
 <li> Resposta a incidentes. </li>
 </ul>
-<li> Fornecendo um tutorial de laboratório de alerta de segurança para o Defender for Identity. </li>
-<li> Fornecer notificação quando o Defender for Identity detecta atividades suspeitas enviando alertas de segurança para seu servidor syslog por meio de um sensor indicado.  </li>
-<li> Configurar o Defender for Identity para executar consultas usando o protocolo SAMR (gerenciador de contas de segurança) para identificar administradores locais em máquinas específicas. </li>
-<li> Configurar soluções VPN para adicionar informações da conexão VPN à página de perfil de um usuário.  </li>
-<li> Informações de segurança e gerenciamento de eventos (SIEM) ou integração de API (incluindo o Azure Sentinel). </li>
-<li> Implantar sensores do Defender for Identity como uma prova de conceito.</li>
+<li> Fornecendo um tutorial do laboratório de alertas de segurança para o Defender for Identity. </li>
+<li> Fornecer notificação quando o Defender for Identity detecta atividades suspeitas enviando alertas de segurança para seu servidor de syslog por meio de um sensor nomeado.  </li>
+<li> Configurar o Defender para Identidade para realizar consultas usando o protocolo SAMR (gerenciador de contas de segurança) para identificar administradores locais em máquinas específicas. </li>
+<li> Configurando soluções VPN para adicionar informações da conexão VPN à página de perfil de um usuário.  </li>
+<li> Informações de segurança e gerenciamento de eventos (SIEM) ou integração à API (incluindo o Azure Sentinel). </li>
+<li> Implantando sensores defender para identidade como uma prova de conceito.</li>
 </ul></td>
 <td><ul>
 <li>  Active Directory implantado.  </li>
-<li>  Os controladores de domínio em que você pretende instalar os sensores do Defender for Identity têm conectividade com a Internet com o serviço de nuvem Defender para Identidade.  </li>
+<li>  Os controladores de domínio que você pretende instalar os sensores do Defender para Identidade têm conectividade com a Internet para o serviço de nuvem defender para identidade.  </li>
 <ul>
-<li> Seu firewall e proxy devem estar abertos para se comunicar com o serviço de nuvem do Defender para Identidade (*.atp.azure.com porta 443 deve estar aberta).</li>
+<li> Seu firewall e proxy devem estar abertos para se comunicar com o serviço de nuvem Defender for Identity (*.atp.azure.com porta 443 deve estar aberta).</li>
 </ul>
 <li> Controladores de domínio em execução em um dos seguintes:</li>
 <ul>
@@ -505,31 +586,47 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <li> Windows Server 2012.</li>
 <li> Windows Server 2012 R2.</li>
 <li> Windows Server 2016.</li>
-<li> Windows Server 2019 com KB4487044 (sistema operacional build 17763.316).</li>
+<li> Windows Server 2019 com KB4487044 (com build do sistema operacional 17763.316).</li>
 </ul>
 </ul></td>
 </tr>
 
 <tr class="even">
 <td><strong>Governança de informações da Microsoft</strong></td>
+
 <td>  Fornecemos orientações remotas para:
 <ul>
-<li>  Rótulos e diretivas de retenção.  </li>
-<li>  Gerenciamento de registros.  </li>
-<li>  Diretivas de exclusão.  </li>
-<li>  Conformidade da comunicação.  </li>
-<li>  Gerenciamento de risco interno.  </li>
-<li>  Descoberta Eletrônica Avançada.  </li>
+<li>  Criação e publicação de rótulos e políticas de retenção (com suporte apenas no E5).  
+</li>
+<li>  Gerenciamento de registros (com suporte apenas no E5).  </li>
+<ul><li>  Revisão da criação do plano de arquivos. </li>
+<li>  Criando e gerenciando registros (incluindo registros baseados em eventos).  </li>
+<li>  Revisão da disposição. </ul> </li>
+</ul>
+
+<strong> Gerenciador de Conformidade</strong>
+
+Fornecemos orientações remotas para:  
+
+<ul> <li>Revisão de tipos de função.  </li>
+<li> Adicionando e configurando avaliações.</li>
+<li> Avaliando a conformidade implementando ações de melhoria e determinando como isso afeta sua pontuação de conformidade.</li>
+<li> Revisar o mapeamento de controles internos e a avaliação de controles.</li>
+<li> Gerando um relatório dentro de uma avaliação.</li>
 </ul>
 
   <strong>O seguinte está fora do escopo </strong>  
 <ul>
 <li> Desenvolvimento de um plano de arquivo de gerenciamento de registros.</li>
 <li> Conectores de dados.</li>
-<li> Barreiras de informações.</li>
-<li> Gerenciamento de acesso privilegiado.</li>
 <li> Desenvolvimento da arquitetura de informações no SharePoint.</li>
-<li> Script e codificação personalizados.</li>
+<li> Scripts personalizados e codificação.</li>
+<li> Design, arquiteto e revisão de documentos de terceiros.</li>
+<li> Suporte para E3.</li>
+<li> Conformidade com regulamentos e requisitos do setor e regionais.</li>
+<li> Implementação prática das ações de melhoria recomendadas para avaliações no Gerenciador de Conformidade.</li>
+</ul>
+
 </td>
 <td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
 </tr>
@@ -537,37 +634,86 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <td><strong>Proteção de Informações da Microsoft</strong></td>
 <td>  Fornecemos orientações remotas para:
 <ul>
-<li>  Classificação de dados.  </li>
-<li>  Tipos de informações confidenciais.  </li>
-<li>  Criação de rótulos de confidencialidade.  </li>
-<li>  Aplicando rótulos de sensibilidade.  </li>
-<li>  Rotulagem unificada.  </li>
-<li>  Classificadores treináveis.  </li>
-<li>  Conhecer seus dados com o explorador de conteúdo e o explorador de atividade.  </li>
-<li>  Publicar etiquetas usando políticas (manual e automática).  </li>
-<li>  Criação de políticas de proteção contra perda de dados (DLP) em bate-papos e canais do Microsoft Teams.  </li>
-<li>  Criação de políticas DLP do ponto de extremidade para dispositivos Windows 10.  </li>
+<li>  Classificação de dados (com suporte no E3 e no E5).  </li>
+<li>  Tipos de informações confidenciais (com suporte no E3 e no E5).  </li>
+<li>  Criando rótulos de sensibilidade (com suporte no E3 e no E5).  </li>
+<li>  Aplicando rótulos de sensibilidade (com suporte no E3 e no E5).  </li>
+<li>  Classificadores com treinamento (com suporte no E5).  </li>
+<li>  Conhecer seus dados com o explorador de conteúdo e o explorador de atividades (com suporte no E5).  </li>
+<li>  Rótulos de publicação usando políticas (manuais e automáticas) (com suporte no E5).  </li>
+<li>  Criando políticas de prevenção contra perda de dados de ponto de extremidade (DLP) para dispositivos Windows 10 (com suporte no E5).  </li>
+<li>  Criando políticas de DLP para chats e canais do Microsoft Teams.  </li>
 </ul>
+
+<strong> Gerenciador de Conformidade</strong>
+
+Fornecemos orientações remotas para:  
+
+<ul> <li>Revisão de tipos de função.  </li>
+<li> Adicionando e configurando avaliações.</li>
+<li> Avaliando a conformidade implementando ações de melhoria e determinando como isso afeta sua pontuação de conformidade.</li>
+<li> Revisar o mapeamento de controles internos e a avaliação de controles.</li>
+<li> Gerando um relatório dentro de uma avaliação.</li>
+</ul>
+
+<strong> Proteção de Informações do Azure</strong>
+
+Fornecemos orientações remotas para:  
+<ul>
+<li>  Ativando e configurando seu locatário.  </li>
+<li>  Criando e configurando rótulos e políticas (com suporte em P1 e P2).  </li>
+<li>  Aplicar proteção de informações a documentos (com suporte em P1 e P2).  </li>
+<li>  Classificando e rotulando automaticamente informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e usando o cliente de Proteção de Informações do Azure (com suporte no P2).  </li>
+<li>  Descobrir e rotular arquivos em repouso usando o scanner de Proteção de Informações do Azure (com suporte em P1 e P2).  </li>
+<li>  Monitoramento de emails em trânsito usando as regras de fluxo de email do Exchange Online.  </li>
+</ul>
+
+  As orientações também são fornecidas aos clientes que desejam aplicar a proteção usando o Microsoft Azure AD Rights Management (Azure RMS), Criptografia de Mensagens do Office 365 e Prevenção Contra Perda de Dados (DLP).
 
 <strong>O seguinte está fora do escopo </strong>  
 <ul>
 <li>Chave do cliente.</li>
 <li>Desenvolvimento de expressões regulares personalizadas (RegEx) para tipos de informações confidenciais.</li>
 <li>Criação ou modificação de dicionários de palavras-chave.</li>
-<li>Script e codificação personalizados.</li>
+<li>Scripts personalizados e codificação.</li>
+<li> Azure Purview.</li>
+<li> Design, arquiteto e revisão de documentos de terceiros.</li>
+<li> Conformidade com regulamentos e requisitos do setor e regionais.</li>
+<li> Implementação prática das ações de melhoria recomendadas para avaliações no Gerenciador de Conformidade.</li>
 </ul>
-<strong>Observação:</strong> Para saber mais, confira <strong>a Proteção de Informações do Azure</strong> no Enterprise <a href="#enterprise-mobility--security">Mobility + Security.</a>
+
 <ul>
 
 </td>
-<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+<td>Além da parte <strong>de integração principal</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema com exceção da Proteção de Informações do Azure.
+
+<strong>Proteção de Informações do Azure</strong>
+
+As responsabilidades de pré-requisito do cliente incluem:  
+<ul>
+<li>  Uma lista de locais de compartilhamento de arquivos a serem verificados.  </li>
+<li>  Uma taxonomia de classificação aprovada. </li>
+<li> Noções básicas sobre qualquer restrição regulamentar ou requisitos referentes ao gerenciamento de chaves.  </li>
+<li>  Uma conta de serviço criada para o Active Directory local que foi sincronizada com o Azure AD. </li>
+<li>  Rótulos configurados para classificação e proteção. </li>
+<li> Todos os pré-requisitos para o scanner de Proteção de Informações do Azure estão no local. Para obter mais informações, consulte <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Prerequisites for installing and deploying the Azure Information Protection unified labeling scanner</a>. </li>
+<li>  Verifique se os dispositivos de usuário estão executando um sistema operacional com suporte e ter os pré-requisitos necessários instalados. Consulte o seguinte para obter mais detalhes.</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guia de administração: instalar o cliente de rotulagem unificada da Proteção de Informações do Azure para usuários</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">O que é o aplicativo de Proteção de Informações do Azure para iOS ou Android?</a>  </li>
+</ul>
+<li> Instalação e configuração do conector e servidores do Azure RMS, incluindo o conector rms do Active Directory (AD RMS) para suporte híbrido.  </li>
+<li> Configuração e configuração de Bring Your Own Key (BYOK), DKE (Double Key Encryption) (somente cliente de rotulagem unificada) ou Hold Your Own Key (HYOK) (somente cliente clássico) caso você exigir uma dessas opções para sua implantação.  </li>
+  </ul>
+</ul>
+</td>
 </tr>
 
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Fornecemos orientações remotas sobre como se preparar para usar o Intune como o MDM (gerenciamento de dispositivo móvel) baseado em nuvem e o provedor de gerenciamento de aplicativos móveis (MAM) para seus aplicativos e dispositivos. As etapas exatas dependem do ambiente de origem e se baseiam nas necessidades de gerenciamento de aplicativos móveis e de dispositivos móveis. As etapas podem incluir:
+<td>  Fornecemos orientações remotas sobre como se preparar para usar o Intune como o MDM (gerenciamento de dispositivo móvel) baseado na nuvem e o provedor de gerenciamento de aplicativos móveis (MAM) para seus aplicativos e dispositivos. As etapas exatas dependem do ambiente de origem e se baseiam nas necessidades de gerenciamento de aplicativos móveis e de dispositivos móveis. As etapas podem incluir:
 <ul>
 <li>  Licenciamento para os usuários finais.  </li>
 <li>  Configuração de identidades a serem usadas pelo Intune, aproveitando o Active Directory local ou as identidades de nuvem (Microsoft Azure AD).  </li>
@@ -583,7 +729,7 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <ul>
 <li>  Implantação de aplicativos para cada plataforma com suporte por meio de links da web ou links profundos.  </li>
 <li>  Políticas de Acesso Condicional.  </li>
-<li>  Implantação de email, redes sem fio e perfis VPN se você tiver uma autoridade de certificação, rede sem fio ou infraestrutura VPN existente em sua organização.  </li>
+<li>  Implantação de perfis de email, redes sem fio e VPN se você tiver uma autoridade de certificação existente, rede sem fio ou infraestrutura VPN em sua organização.  </li>
 <li>  Conexão ao Intune Data Warehouse.  </li>
 <li>  Integração do Intune com:
 <ul>
@@ -617,7 +763,7 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <li>  Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.  </li>
 <li>  Fornecimento de diretrizes de configuração da associação híbrida do Microsoft Azure AD.  </li>
 <li>  Fornecimento de diretrizes para configuração do Azure Active Directory para o registro automático do MDM.  </li>
-<li>  Fornecer orientação sobre como configurar o gateway de gerenciamento de nuvem quando usado como uma solução para o co-gerenciamento do gerenciamento remoto de dispositivos baseados na Internet.  </li>
+<li>  Fornecendo orientações sobre como configurar o gateway de gerenciamento de nuvem quando usado como uma solução para o co-gerenciamento do gerenciamento remoto de dispositivos baseados na Internet.  </li>
 <li>  Configuração de cargas de trabalho compatíveis que você deseja passar para o Intune.  </li>
 <li>  Instalação do cliente do Configuration Manager em dispositivos registrados no Intune.  </li>
 </ul> 
@@ -667,7 +813,7 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 
 ## <a name="office-365"></a>Office 365
 
-<<table>
+<table>
 <thead>
 <tr class="header">
 <th><strong>Serviço</strong></th>
@@ -704,28 +850,44 @@ Para saber mais sobre como usar os benefícios do FastTrack para migração de d
 <li>  Um único ambiente do G Suite (apenas Gmail, Contatos e Calendário).  </li>
 <li>  Para saber mais sobre Multi-Geo Capabilities, confira <a href="https://go.microsoft.com/fwlink/?linkid=872776">Multi-Geo Capabilities no Exchange Online</a>.  </li>
 </ul>
-Software de cliente online como o Project para Office 365, Outlook para Windows, Outlook para iOS e Android, cliente de sincronização do OneDrive for Business, Power BI Desktop e Skype for Business deve estar em um nível mínimo, conforme definido nos requisitos do sistema para <a href="https://go.microsoft.com/fwlink/?LinkID=723597">o Microsoft 365 Office.</a>  </td>
+Software de cliente online como o Project para Office 365, Outlook para Windows, Outlook para iOS e Android, cliente de sincronização do OneDrive for Business, Área de Trabalho do Power BI e Skype for Business deve estar em um nível mínimo conforme definido nos requisitos do sistema para <a href="https://go.microsoft.com/fwlink/?LinkID=723597">o Microsoft 365 Office</a>.  </td>
 </tr>
 <tr class="even">
 <td><strong>Governança de informações da Microsoft</strong></td>
 <td>  Fornecemos orientações remotas para:
 <ul>
-<li>  Rótulos e diretivas de retenção.  </li>
-<li>  Gerenciamento de registros.  </li>
-<li>  Diretivas de exclusão.  </li>
-<li>  Conformidade da comunicação.  </li>
-<li>  Gerenciamento de risco interno.  </li>
-<li>  Descoberta Eletrônica Avançada.  </li>
+<li>  Criação e publicação de rótulos e políticas de retenção (com suporte apenas no E5).  
+</li>
+<li>  Gerenciamento de registros (com suporte apenas no E5).  </li>
+<ul><li>  Revisão da criação do plano de arquivos. </li>
+<li>  Criando e gerenciando registros (incluindo registros baseados em eventos).  </li>
+<li>  Revisão da disposição. </ul> </li>
+</ul>
+
+<strong> Gerenciador de Conformidade</strong>
+
+Fornecemos orientações remotas para:  
+
+<ul> <li>Revisão de tipos de função.  </li>
+<li> Adicionando e configurando avaliações.</li>
+<li> Avaliando a conformidade implementando ações de melhoria e determinando como isso afeta sua pontuação de conformidade.</li>
+<li> Revisar o mapeamento de controles internos e a avaliação de controles.</li>
+<li> Gerando um relatório dentro de uma avaliação.</li>
 </ul>
 
   <strong>O seguinte está fora do escopo </strong>  
 <ul>
 <li> Desenvolvimento de um plano de arquivo de gerenciamento de registros.</li>
 <li> Conectores de dados.</li>
-<li> Barreiras de informações.</li>
-<li> Gerenciamento de acesso privilegiado.</li>
 <li> Desenvolvimento da arquitetura de informações no SharePoint.</li>
-<li> Script e codificação personalizados.</li>
+<li> Scripts personalizados e codificação.</li>
+<li> Design, arquiteto e revisão de documentos de terceiros.</li>
+<li> Suporte para E3.</li>
+<li> Conformidade com regulamentos e requisitos do setor e regionais.</li>
+<li> Implementação prática das ações de melhoria recomendadas para avaliações no Gerenciador de Conformidade.</li>
+</ul>
+
+
 </td>
 <td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
 </tr>
@@ -733,30 +895,78 @@ Software de cliente online como o Project para Office 365, Outlook para Windows,
 <td><strong>Proteção de Informações da Microsoft</strong></td>
 <td>  Fornecemos orientações remotas para:
 <ul>
-<li>  Classificação de dados.  </li>
-<li>  Tipos de informações confidenciais.  </li>
-<li>  Criação de rótulos de confidencialidade.  </li>
-<li>  Aplicando rótulos de sensibilidade.  </li>
-<li>  Rotulagem unificada.  </li>
-<li>  Classificadores treináveis.  </li>
-<li>  Conhecer seus dados com o explorador de conteúdo e o explorador de atividade.  </li>
-<li>  Publicar etiquetas usando políticas (manual e automática).  </li>
-<li>  Criação de políticas de proteção contra perda de dados (DLP) em bate-papos e canais do Microsoft Teams.  </li>
-<li>  Criação de políticas DLP do ponto de extremidade para dispositivos Windows 10.  </li>
+<li>  Classificação de dados (com suporte no E3 e no E5).  </li>
+<li>  Tipos de informações confidenciais (com suporte no E3 e no E5).  </li>
+<li>  Criando rótulos de sensibilidade (com suporte no E3 e no E5).  </li>
+<li>  Aplicando rótulos de sensibilidade (com suporte no E3 e no E5).  </li>
+<li>  Classificadores com treinamento (com suporte no E5).  </li>
+<li>  Conhecer seus dados com o explorador de conteúdo e o explorador de atividades (com suporte no E5).  </li>
+<li>  Rótulos de publicação usando políticas (manuais e automáticas) (com suporte no E5).  </li>
+<li>  Criando políticas de prevenção contra perda de dados de ponto de extremidade (DLP) para dispositivos Windows 10 (com suporte no E5).  </li>
+<li>  Criando políticas de DLP para chats e canais do Microsoft Teams.  </li>
 </ul>
+
+<strong> Gerenciador de Conformidade</strong>
+
+Fornecemos orientações remotas para:  
+
+<ul> <li>Revisão de tipos de função.  </li>
+<li> Adicionando e configurando avaliações.</li>
+<li> Avaliando a conformidade implementando ações de melhoria e determinando como isso afeta sua pontuação de conformidade.</li>
+<li> Revisar o mapeamento de controles internos e a avaliação de controles.</li>
+<li> Gerando um relatório dentro de uma avaliação.</li>
+</ul>
+
+<strong> Proteção de Informações do Azure</strong>
+
+Fornecemos orientações remotas para:  
+<ul>
+<li>  Ativando e configurando seu locatário.  </li>
+<li>  Criando e configurando rótulos e políticas (com suporte em P1 e P2).  </li>
+<li>  Aplicar proteção de informações a documentos (com suporte em P1 e P2).  </li>
+<li>  Classificando e rotulando automaticamente informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e usando o cliente de Proteção de Informações do Azure (com suporte no P2).  </li>
+<li>  Descobrir e rotular arquivos em repouso usando o scanner de Proteção de Informações do Azure (com suporte em P1 e P2).  </li>
+<li>  Monitoramento de emails em trânsito usando as regras de fluxo de email do Exchange Online.  </li>
+</ul>
+  
+As orientações também são fornecidas aos clientes que desejam aplicar a proteção usando o Microsoft Azure AD Rights Management (Azure RMS), Criptografia de Mensagens do Office 365 e Prevenção Contra Perda de Dados (DLP).
 
 <strong>O seguinte está fora do escopo </strong>  
 <ul>
 <li>Chave do cliente.</li>
 <li>Desenvolvimento de expressões regulares personalizadas (RegEx) para tipos de informações confidenciais.</li>
 <li>Criação ou modificação de dicionários de palavras-chave.</li>
-<li>Script e codificação personalizados.</li>
+<li>Scripts personalizados e codificação.</li>
+<li> Azure Purview.</li>
+<li> Design, arquiteto e revisão de documentos de terceiros.</li>
+<li> Conformidade com regulamentos e requisitos do setor e regionais.</li>
+<li> Implementação prática das ações de melhoria recomendadas para avaliações no Gerenciador de Conformidade.</li>
 </ul>
-<strong>Observação:</strong> Para saber mais, confira <strong>a Proteção de Informações do Azure</strong> no Enterprise <a href="#enterprise-mobility--security">Mobility + Security.</a>
-<ul>
 
 </td>
-<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+<td>Além da parte <strong>de integração principal</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema com exceção da Proteção de Informações do Azure.
+
+<strong>Proteção de Informações do Azure</strong>
+
+As responsabilidades de pré-requisito do cliente incluem:  
+<ul>
+<li>  Uma lista de locais de compartilhamento de arquivos a serem verificados.  </li>
+<li>  Uma taxonomia de classificação aprovada. </li>
+<li> Noções básicas sobre qualquer restrição regulamentar ou requisitos referentes ao gerenciamento de chaves.  </li>
+<li>  Uma conta de serviço criada para o Active Directory local que foi sincronizada com o Azure AD. </li>
+<li>  Rótulos configurados para classificação e proteção. </li>
+<li> Todos os pré-requisitos para o scanner de Proteção de Informações do Azure estão no local. Para obter mais informações, consulte <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Prerequisites for installing and deploying the Azure Information Protection unified labeling scanner</a>. </li>
+<li>  Verifique se os dispositivos de usuário estão executando um sistema operacional com suporte e ter os pré-requisitos necessários instalados. Consulte o seguinte para obter mais detalhes.</li>
+<ul>
+<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guia de administração: instalar o cliente de rotulagem unificada da Proteção de Informações do Azure para usuários</a>   </li>
+<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">O que é o aplicativo de Proteção de Informações do Azure para iOS ou Android?</a>  </li>
+</ul>
+<li> Instalação e configuração do conector e servidores do Azure RMS, incluindo o conector rms do Active Directory (AD RMS) para suporte híbrido.  </li>
+<li> Configuração e configuração de Bring Your Own Key (BYOK), DKE (Double Key Encryption) (somente cliente de rotulagem unificada) ou Hold Your Own Key (HYOK) (somente cliente clássico) caso você exigir uma dessas opções para sua implantação.  </li>
+  </ul>
+</ul>.
+
+</td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Teams</strong></td>
@@ -781,7 +991,7 @@ Se aplicável, também forneceremos diretrizes para:
 <li>  Dispositivos para a Sala do Microsoft Teams:  </li>
 <ul>
 <li>  Criação de contas online necessárias para os dispositivos de sala de conferências e de telefonia com suporte listados no <a href="https://go.microsoft.com/fwlink/?linkid=2066478">catálogo de dispositivos do Teams</a>.  </li>
-<li>  Assistência remota com a configuração do lado do serviço de dispositivos certificados de Salas do Microsoft Teams.  </li>
+<li>  Assistência remota com configuração do lado do serviço de dispositivos Microsoft Teams Rooms certificados.  </li>
 <li>  Habilitar a Audioconferência:  </li>
 <li>  Configuração da organização para as configurações padrão da ponte de conferência.  </li>
 <li>  Atribuição da ponte de conferência para usuários licenciados.  </li>
@@ -797,10 +1007,10 @@ Se aplicável, também forneceremos diretrizes para:
 </ul></li>
 <li>  Diretrizes de Roteamento Direto:
 <ul>
-<li>  Diretrizes de configuração da organização para o design de Roteamento Direto de cenários hospedados por parceiros ou cenários implantados pelo cliente para até 10 sites.  </li>
-<li> Revisão de configuração do Controlador de Borda da Sessão (SBC). </li>
+<li>  Diretrizes de configuração da organização para o design de Roteamento Direto de cenários hospedados pelo parceiro ou cenários implantados pelo cliente para até 10 sites.  </li>
+<li> Revisão de configuração do Controlador de Borda de Sessão (SBC). </li>
 
-<li> Assistência remota com configuração de plano de discagem. </li>
+<li> Assistência remota com configuração do plano de discagem. </li>
 
 <li> Configuração de rota de voz.</li>
 
@@ -810,7 +1020,7 @@ Se aplicável, também forneceremos diretrizes para:
 </ul></li>
 <li>  Habilitação dos eventos ao vivo do Teams.  </li>
 <li>  Configuração e integração da organização com o Microsoft Stream.  </li>
-<li>  Diretrizes de transição do Skype for Business para o Teams.  </li>
+<li>  Diretrizes para a transição do Skype for Business para o Teams.  </li>
 </ul></td>
 <td><ul>
 <li>  Identidades dos usuários habilitadas no Azure Active Directory para Office 365.  </li>
@@ -819,7 +1029,7 @@ Se aplicável, também forneceremos diretrizes para:
 <li>  Habilitado para Grupos do Office 365.  </li>
 </ul>
   <strong>Observação:</strong> Se os usuários não são atribuídos e habilitados com licenças do SharePoint Online, eles não terão armazenamento do OneDrive for Business no Office 365. O compartilhamento de arquivos continuará a funcionar em Canais, mas os usuários não poderão compartilhar arquivos em Chats sem o armazenamento do OneDrive for Business no Office 365. O Teams não oferece suporte para o SharePoint no local.  <br>
-  <strong>Observação:</strong> O estado ideal é que todos os usuários tenham suas caixas de correio no Exchange Online. Os usuários com caixas de correio hospedadas no local devem ter suas identidades sincronizadas com o diretório do Office 365 por meio do Azure Active Directory Connect. Para esses clientes híbridos do Exchange, se a caixa de correio do usuário estiver no local, o usuário não poderá adicionar ou configurar Conectores.  
+  <strong>Observação:</strong> O estado ideal é que todos os usuários tenham suas caixas de correio em casa no Exchange Online. Os usuários com caixas de correio hospedadas no local devem ter suas identidades sincronizadas com o diretório do Office 365 por meio do Azure Active Directory Connect. Para esses clientes híbridos do Exchange, se a caixa de correio do usuário estiver no local, o usuário não poderá adicionar ou configurar Conectores.  
   Os instaladores dos clientes de área de trabalho do Microsoft Teams para Windows e Mac podem ser baixados em <a href="https://go.microsoft.com/fwlink/?linkid=839411">https://go.microsoft.com/fwlink/?linkid=839411</a>.  </td>
 </tr>
 <tr class="odd">
@@ -853,7 +1063,7 @@ Se aplicável, também forneceremos diretrizes para:
 <li>  Atribuição de licenças do Power BI.  </li>
 <li>  Implantação do aplicativo do Power BI Desktop.  </li>
 </ul></td>
-<td>O software cliente online, como o Power BI Desktop, deve estar em um nível mínimo, conforme definido nos requisitos do sistema para <a href="https://go.microsoft.com/fwlink/?LinkID=723597">o Microsoft 365 e o Office.</a></td>
+<td>Software cliente online como a Área de Trabalho do Power BI deve estar em um nível mínimo, conforme definido nos requisitos do sistema <a href="https://go.microsoft.com/fwlink/?LinkID=723597">para o Microsoft 365 e o Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>Project Online</strong></td>
@@ -864,7 +1074,7 @@ Se aplicável, também forneceremos diretrizes para:
 <li>  Configurar o ERP (Pool de Recursos da Empresa).  </li>
 <li>  Criando seu primeiro projeto.  </li>
 </ul></td>
-<td>Software cliente online como o Project para Office 365 deve estar em um nível mínimo, conforme definido nos requisitos do sistema para <a href="https://go.microsoft.com/fwlink/?LinkID=723597">o Microsoft 365 e o Office.</a></td>
+<td>Software de cliente online como o Project para Office 365 deve estar em um nível mínimo, conforme definido nos requisitos do sistema para <a href="https://go.microsoft.com/fwlink/?LinkID=723597">o Microsoft 365 e o Office</a>.</td>
 </tr>
 <tr class="odd">
 <td><strong>Project Online Professional e Premium</strong></td>
@@ -877,7 +1087,7 @@ Se aplicável, também forneceremos diretrizes para:
 <li>  Configurar um único servidor de distribuição no local para o Cliente de Área de Trabalho do Microsoft Project Online, inclusive assistência com a criação de um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office 365.  </li>
 <li>  Conexão do Cliente de Área de Trabalho do Microsoft Project Online ao Project Online Professional ou Project Online Premium.  </li>
 </ul></td>
-<td>Software cliente online como o Project para Office 365 deve estar em um nível mínimo, conforme definido nos requisitos do sistema para <a href="https://go.microsoft.com/fwlink/?LinkID=723597">o Microsoft 365 e o Office.</a></td>
+<td>Software de cliente online como o Project para Office 365 deve estar em um nível mínimo, conforme definido nos requisitos do sistema para <a href="https://go.microsoft.com/fwlink/?LinkID=723597">o Microsoft 365 e o Office</a>.</td>
 </tr>
 <tr class="even">
 <td><strong>SharePoint Online e OneDrive for Business</strong></td>
@@ -913,15 +1123,15 @@ Para saber mais sobre como usar os benefícios do FastTrack para migração de d
 <ul>
 <li>  Para habilitar a implantação híbrida do SharePoint, é necessário ter um dos seguintes ambientes locais do SharePoint Server: 2013, 2016, ou 2019.  </li>
 </ul>
-  <strong>Observação:</strong> A atualização de ambientes locais do SharePoint para o SharePoint Server não está no escopo. Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência. Para saber mais, confira Níveis <a href="https://go.microsoft.com/fwlink/?linkid=853548">mínimos de atualização pública para recursos híbridos do SharePoint.</a><em></em>  <br>
-  <strong>Observação:</strong> Para saber mais sobre funcionalidades multi-geográficas, confira <a href="https://go.microsoft.com/fwlink/?linkid=831056">Funcionalidades multi-geográficas no OneDrive e no SharePoint Online no Office 365.</a><em></em>  </td>
+  <strong>Observação:</strong> A atualização de ambientes locais do SharePoint para o SharePoint Server não está no escopo. Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência. Para obter mais informações, consulte <a href="https://go.microsoft.com/fwlink/?linkid=853548">Níveis mínimos de atualização pública para recursos híbridos do SharePoint.</a><em></em>  <br>
+  <strong>Observação:</strong> Para obter informações sobre recursos multi-geo, consulte <a href="https://go.microsoft.com/fwlink/?linkid=831056">Multi-Geo Capabilities in OneDrive and SharePoint Online in Office 365</a><em>.</em>  </td>
 </tr>
 <tr class="even">
 <td><strong>Yammer Enterprise</strong></td>
 <td><ul>
 Fornecemos instruções remotas para habilitar o serviço do Yammer Enterprise.  
 </ul></td>
-<td>O software cliente online deve estar em um nível mínimo, conforme definido nos requisitos do sistema <a href="https://go.microsoft.com/fwlink/?LinkID=723597">para o Microsoft 365 e o Office.</a></td>
+<td>O software cliente online deve estar em um nível mínimo, conforme definido nos requisitos <a href="https://go.microsoft.com/fwlink/?LinkID=723597">do sistema para o Microsoft 365 e o Office</a>.</td>
 </tr>
 </tbody>
 </table>
@@ -977,7 +1187,7 @@ Fornecemos instruções remotas para habilitar o serviço do Yammer Enterprise.
   Revisar os termos de uso do Azure AD.  
   </li>
 <li>  
-  Gerenciar e controlar o acesso a contas privilegiadas de administrador com o Azure AD Privileged Identity Management.  
+  Gerenciando e controlando o acesso a contas de administrador privilegiadas com o Azure AD Privileged Identity Management.  
   </li>
 </ul>
   
@@ -995,39 +1205,14 @@ Fornecemos instruções remotas para habilitar o serviço do Yammer Enterprise.
 </tr>
 <tr class="odd">
 <td><strong>Proteção de Informações do Azure </strong></td>
-<td>  Fornecemos orientações remotas para:
-<ul>
-<li>  Ativando e configurando seu locatário.  </li>
-<li>  Criação e configuração dos rótulos e políticas.  </li>
-<li>  Aplicação de proteção de informações aos documentos.  </li>
-<li>  Classificação e rotulação automática de informações em aplicativos do Office (como Word, PowerPoint, Excel e Outlook) em execução no Windows e que usam o Cliente da Proteção de Informações do Azure.  </li>
-<li>  Descobrir e rotular arquivos em repouso usando o scanner da Proteção de Informações do Azure.  </li>
-<li>  Monitoramento de emails em trânsito usando as regras de fluxo de email do Exchange Online.  </li>
-</ul>
-As orientações também são fornecidas aos clientes que desejam aplicar a proteção usando o Microsoft Azure AD Rights Management (Azure RMS), Criptografia de Mensagens do Office 365 e Prevenção Contra Perda de Dados (DLP).  </td>
-<td>  As responsabilidades dos pré-requisitos do cliente incluem:
-<ul>
-<li>  Uma lista de locais de compartilhamento de arquivos a serem verificados.  </li>
-<li>  Uma taxonomia de classificação aprovada. </li>
-<li> Noções básicas sobre qualquer restrição regulatória ou requisitos relacionados ao gerenciamento de chaves.  </li>
-<li>  Uma conta de serviço criada para o Active Directory local que foi sincronizada com o Azure AD. </li>
-<li>  Rótulos configurados para classificação e proteção. </li>
-<li> Todos os pré-requisitos para o scanner da Proteção de Informações do Azure estão em uso. Para saber mais, confira Pré-requisitos para instalar e implantar o scanner de rotulagem unificado da Proteção de Informações do <a href="https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner-prereqs">Azure.</a> </li>
-<li>  Certifique-se de que os dispositivos do usuário estão executando um sistema operacional com suporte e tenham os pré-requisitos necessários instalados. Consulte o seguinte para obter mais detalhes.</li>
-<ul>
-<li> <a href="https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide-install">Guia do Administrador: Instalar o cliente de rotulagem unificada da Proteção de Informações do Azure para usuários</a>   </li>
-<li>  <a href="https://docs.microsoft.com/azure/information-protection/rms-client/mobile-app-faq">O que é o aplicativo de Proteção de Informações do Azure para iOS ou Android?</a>  </li>
-</ul>
-<li> Instalação e configuração do conector e servidores do Azure RMS, incluindo o conector RMS do Active Directory (AD RMS) para suporte híbrido.  </li>
-<li> Configure e configure BYOK (Traga sua própria chave), DKE (criptografia de chave dupla) (somente cliente de rotulagem unificada) ou MANTENHA sua própria chave (HYOK) (somente cliente clássico) caso você rebaixe uma destas opções para sua implantação.  </li>
-  </ul>
-</ul>
+<td>  Para obter mais informações sobre a Proteção de Informações do Azure, consulte <strong>Proteção de Informações da Microsoft</strong> em Segurança e <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#security-and-compliance"> Conformidade.  </td>
+<td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Fornecemos orientações remotas sobre como se preparar para usar o Intune como o MDM (gerenciamento de dispositivo móvel) baseado em nuvem e o provedor de gerenciamento de aplicativos móveis (MAM) para seus aplicativos e dispositivos. As etapas exatas dependem do ambiente de origem e se baseiam nas necessidades de gerenciamento de aplicativos móveis e de dispositivos móveis. As etapas podem incluir:
+<td>  Fornecemos orientações remotas sobre como se preparar para usar o Intune como o MDM (gerenciamento de dispositivo móvel) baseado na nuvem e o provedor de gerenciamento de aplicativos móveis (MAM) para seus aplicativos e dispositivos. As etapas exatas dependem do ambiente de origem e se baseiam nas necessidades de gerenciamento de aplicativos móveis e de dispositivos móveis. As etapas podem incluir:
 <ul>
 <li>  Licenciamento para os usuários finais.  </li>
 <li>  Configuração de identidades a serem usadas pelo Intune, aproveitando o Active Directory local ou as identidades de nuvem (Microsoft Azure AD).  </li>
@@ -1043,7 +1228,7 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 <ul>
 <li>  Implantação de aplicativos para cada plataforma com suporte por meio de links da web ou links profundos.  </li>
 <li>  Políticas de Acesso Condicional.  </li>
-<li>  Implantação de email, redes sem fio e perfis VPN se você tiver uma autoridade de certificação, rede sem fio ou infraestrutura VPN existente em sua organização.  </li>
+<li>  Implantação de perfis de email, redes sem fio e VPN se você tiver uma autoridade de certificação existente, rede sem fio ou infraestrutura VPN em sua organização.  </li>
 <li>  Conexão ao Intune Data Warehouse.  </li>
 <li>  Integração do Intune com:
 <ul>
@@ -1076,7 +1261,7 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 <li>  Adição de usuários à sua assinatura do Intune, definição de funções de administrador de TI e criação de grupos de dispositivos e usuários.  </li>
 <li>  Fornecimento de diretrizes de configuração da associação híbrida do Microsoft Azure AD.  </li>
 <li>  Fornecimento de diretrizes para configuração do Azure Active Directory para o registro automático do MDM.  </li>
-<li>  Fornecer orientação sobre como configurar o gateway de gerenciamento de nuvem quando usado como uma solução para o co-gerenciamento do gerenciamento remoto de dispositivos baseados na Internet.  </li>
+<li>  Fornecendo orientações sobre como configurar o gateway de gerenciamento de nuvem quando usado como uma solução para o co-gerenciamento do gerenciamento remoto de dispositivos baseados na Internet.  </li>
 <li>  Configuração de cargas de trabalho compatíveis que você deseja passar para o Intune.  </li>
 <li>  Instalação do cliente do Configuration Manager em dispositivos registrados no Intune.  </li>
 </ul> 
@@ -1125,7 +1310,7 @@ As orientações também são fornecidas aos clientes que desejam aplicar a prot
 <tbody>
 <tr class="odd">
 <td><strong>Windows 10</strong></td>
-<td>  Fornecemos orientações para atualizar do Windows 7 Professional e Windows 8.1 Professional para o Windows 10 Enterprise.  
+<td>  Fornecemos orientações para atualização do Windows 7 Professional e do Windows 8.1 Professional para o Windows 10 Enterprise.  
   Fornecemos orientações remotas para:
 <ul>
 <li>  Entender a sua intenção do Windows 10.  </li>
@@ -1248,6 +1433,7 @@ Para atualização da infraestrutura, você deve atender a esses requisitos:
 <li>  
   Dispositivos móveis (Android e iOS).  
   </li>
+<li> Virtual Desktop Infrastructure (VDI) (persistente ou não persistente).  </li>
 </ul></li>
 <li>  Integração e configuração do servidor:
 <ul>
@@ -1287,13 +1473,21 @@ Para atualização da infraestrutura, você deve atender a esses requisitos:
 <li>  
   Controle de aplicativo.  
   </li>
+<li> Controle de dispositivo.</li>
 <li>  
   Explorar proteção.  
   </li>
 <li>  
   Firewall da rede.  
   </li>
+
+<ul>
+<li> Windows Hello</li>
+<li> Credential Guard</li>
+</ul>
+
 </ul></li>
+<li> Configuração ou gerenciamento do BitLocker.</li>
 <li>  Inscrição ou configuração dos Peritos em ameaças da Microsoft.  </li>
 <li>  Configuração ou treinamento revisando a API ou as conexões de informações de segurança e gerenciamento de eventos (SIEM).  </li>
 <li>  Registro ou configuração da Proteção contra ameaças da Microsoft (MTP).  </li>
@@ -1321,45 +1515,45 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <tbody>
 <tr class="odd">
 <td><strong>Área de Trabalho Virtual do Windows</strong></td>
-<td><p>Fornecemos orientações de implantação para integração à Área de Trabalho Virtual do Windows (um serviço de virtualização de aplicativo e área de trabalho). A Área de Trabalho Virtual do Windows aproveita a experiência de várias sessões do Windows 10 e é otimizada para o Microsoft 365 Apps para Empresas com segurança e gerenciamento integrados para o Microsoft 365.</p>
+<td><p>Fornecemos diretrizes de implantação para integração à Área de Trabalho Virtual do Windows (um serviço de virtualização de aplicativo e área de trabalho). A Área de Trabalho Virtual do Windows aproveita a experiência de várias sessões do Windows 10 e é otimizada para o Microsoft 365 Apps for Enterprise com segurança e gerenciamento integrados para o Microsoft 365.</p>
 <p>Fornecemos orientações remotas para:</p>
 <ul>
-<li>Implantar seu ambiente de Área de Trabalho Virtual do Windows com o Windows 10 Enterprise com várias sessões e o Microsoft 365 Apps para Empresas usando o seguinte:
+<li>Implantando seu ambiente de Área de Trabalho Virtual do Windows com várias sessões do Windows 10 Enterprise e Aplicativos do Microsoft 365 para Empresas usando o seguinte:
 <ul>
 <li>Imagem do Azure Marketplace.</li>
 <li>Imagem compartilhada.</li>
 <li>Office Deployment Toolkit (ODT).</li>
 </ul></li>
-<li>Configurando o FSLogix:
+<li>Configurando FSLogix:
 <ul>
-<li>Implantação do agente FSLogix com contêiner de perfil.</li>
-<li>Implantação do FSLogix Agent com contêiner do Office.</li>
+<li>Implantando o agente FSLogix com contêiner de perfil.</li>
+<li>Implantando o agente FSLogix com o contêiner do Office.</li>
 <li>Configurando a pasta FSLogix com exclusões de conteúdo.</li>
 </ul></li>
-<li>Implantação do Microsoft Edge.</li>
-<li>Implantação do Microsoft Teams.</li>
+<li>Implantando o Microsoft Edge.</li>
+<li>Implantando o Microsoft Teams.</li>
 <li>Conectando-se usando clientes da Área de Trabalho Virtual do Windows.</li>
 </ul>
 
-<strong>O exemplo a seguir está fora do escopo</strong>
+<strong>O seguinte está fora do escopo</strong>
 <ul>
-<li>Gerenciamento de projetos da implantação da Área de Trabalho Virtual do Windows do cliente.</li>
-<li>Virtualização e implantação de aplicativos de terceiros.</li>
+<li>Gerenciamento de projetos da implantação da Área de Trabalho Virtual do Cliente.</li>
+<li>Implantação e virtualização de aplicativos de terceiros.</li>
 <li>Imagens personalizadas.</li>
-<li>Migrações e cenários envolvendo vMware e Citrix.</li>
+<li>Migrações e cenários envolvendo VMware e Citrix.</li>
 <li>Cenários do Linux.</li>
 <li>Conversão ou migrações de perfis de usuário.</li>
 </ul>
 Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência com esses serviços.</td>
 <td>Você já deve ter o seguinte:
 <ul>
-<li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Requisitos de licenciamento da Área de Trabalho Virtual do Windows.</a></li>
+<li><a href="https://docs.microsoft.com/azure/virtual-desktop/overview#requirements">Requisitos de licenciamento da Área de Trabalho Virtual do Windows</a>.</li>
 <li>Rede do Azure:
 <ul>
-<li>Criação e sub-rede da rede virtual (VNET).</li>
-<li>Grupos de segurança de firewall e de rede.</li>
+<li>Criação e sub-rede de rede virtual (VNET).</li>
+<li>Grupos de segurança de rede e firewall.</li>
 <li>VPN e ExpressRoute.</li>
-<li>Roteamento para o Azure a partir do local.</li>
+<li>Roteamento para o Azure no local.</li>
 <li>Regras de firewall para permitir a conectividade com a Área de Trabalho Virtual do Windows.
 </ul>
 Para obter mais informações, consulte <a href="https://docs.microsoft.com/azure/virtual-desktop/overview#supported-remote-desktop-clients">Clientes de Área de Trabalho Remota com suporte.</a>
@@ -1368,9 +1562,9 @@ Para obter mais informações, consulte <a href="https://docs.microsoft.com/azur
 <ul>
 <li>Estratégia de <i>identidade (você pode usar apenas uma das três opções a seguir):</i>
 <ul>
-<li>Active Directory com Azure AD Connect no Azure.</li>
-<li>Active Directory com o Azure AD Connect local por VPN ou ExpressRoute.</li>
-<li>Active Directory Domain Services (AD DS).</li>
+<li>Active Directory com o Azure AD Connect no Azure.</li>
+<li>Active Directory com o Azure AD Connect local através de VPN ou ExpressRoute.</li>
+<li>Serviços de Domínio do Active Directory (AD DS).</li>
 </ul></li>
 </ul></li>
 </ul></td>
@@ -1392,12 +1586,12 @@ Para obter mais informações, consulte <a href="https://docs.microsoft.com/azur
 <tbody>
 <tr class="even">
 <td><strong>Garantia de Aplicativo</strong></td>
-<td>  A Garantia de Aplicativo garante um serviço projetado para solucionar problemas de compatibilidade com os aplicativos do Windows 10 e do Microsoft 365 Apps. Ao solicitar o serviço de Garantia de Aplicativo, nós trabalhamos com você para solucionar problemas com aplicativos válidos sem custos adicionais. Também fornecemos orientações para clientes que enfrentam problemas de compatibilidade ao implantar a Área de Trabalho Virtual do Windows e o Microsoft Edge e fazer todo o possível para resolver problemas de compatibilidade. Fornecemos assistência de correção para os aplicativos implantados nos seguintes produtos da Microsoft:
+<td>  A Garantia de Aplicativo garante um serviço projetado para solucionar problemas de compatibilidade com os aplicativos do Windows 10 e do Microsoft 365 Apps. Ao solicitar o serviço de Garantia de Aplicativo, nós trabalhamos com você para solucionar problemas com aplicativos válidos sem custos adicionais. Também fornecemos orientações aos clientes que enfrentam problemas de compatibilidade ao implantar a Área de Trabalho Virtual do Windows e o Microsoft Edge e fazem todos os esforços razoáveis para resolver problemas de compatibilidade. Fornecemos assistência de correção para os aplicativos implantados nos seguintes produtos da Microsoft:
 <ul>
 <li>  <strong>Windows 10 </strong> (incluindo dispositivos ARM64)</li>
 <li> <strong>Microsoft 365 Apps</strong>  </li>
-<li>  <strong>Microsoft Edge -</strong> Para obter diretrizes de implantação, <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">consulte Visão geral dos canais do Microsoft Edge.</a>  </li>
-<li>  <strong>Área de Trabalho Virtual do</strong> - Windows Para obter mais informações, consulte O que é a Área de Trabalho Virtual do <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">Windows?</a> e perguntas frequentes sobre o <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">Windows 10 Enterprise com várias sessões.</a>  </li>
+<li>  <strong>Microsoft Edge -</strong> Para obter orientações de implantação, consulte <a href="https://docs.microsoft.com/DeployEdge/microsoft-edge-channels">Visão geral dos canais do Microsoft Edge.</a>  </li>
+<li>  <strong>Área de trabalho virtual do</strong> - Windows Para obter mais informações, consulte O que é a Área de Trabalho Virtual do <a href="https://docs.microsoft.com/azure/virtual-desktop/overview">Windows?</a> e Perguntas frequentes de várias <a href="https://docs.microsoft.com/azure/virtual-desktop/windows-10-multisession-faq">sessões do Windows 10 Enterprise.</a>  </li>
 </ul>
 
 <strong>O seguinte está fora do escopo </strong>  
@@ -1424,29 +1618,29 @@ Para obter mais informações, consulte <a href="https://docs.microsoft.com/azur
   Os aplicativos que funcionavam no Windows 7, Windows 8.1, Office 2010 e Office 2013 também funcionam no Windows 10 e no Microsoft 365 Apps.  
   </li>
 </ul>
-<strong>Windows 10 no ARM</strong>
+<strong>Windows 10 on ARM</strong>
 <ul>
 <li>  
-Os aplicativos que funcionaam no Windows 7, Office 2010 ou versões posteriores também funcionam no Windows 10 e no Microsoft 365 Apps em dispositivos ARM64. 
+Os aplicativos que funcionaram no Windows 7, Office 2010 ou versões posteriores também funcionam no Windows 10 e no Microsoft 365 Apps em dispositivos ARM64. 
   </li>
 </ul>
   <strong>Observação:</strong> 
 <ul>
-<li> A emulação x64 (64 bits) está disponível na visualização para clientes que participam do <a href="https://insider.windows.com/">Programa Windows Insider.</a>  </li>
+<li> A emulação x64 (64 bits) está disponível na visualização para clientes que participam do <a href="https://insider.windows.com/">Programa Windows Insider</a>.  </li>
 <li>  
- Para clientes que não são do Windows Insider na versão 2004 do Windows 2004 (ou posterior), o PHOTOSHOP ARM64 tem suporte usando o OpenCL e o <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">OpenGL Compatibility Pack.</a> 
+ Para clientes que não são do Windows Insider no Windows 10 versão 2004 (ou posterior), o Arm64 Photoshop tem suporte usando o OpenCL e <a href="https://www.microsoft.com/p/opencl-and-opengl-compatibility-pack/9nqpsl29bfff?rtc=1&activetab=pivot:overviewtab">o OpenGL Compatibility Pack.</a> 
   </li>
 <li>  
-  Os clientes no Programa Windows Insider podem baixar uma versão do Insider do OpenCL e do Pacote de Compatibilidade do OpenGL para uso com aplicativos adicionais.    
+  Os clientes no Programa Windows Insider podem baixar uma versão insider do OpenCL e do OpenGL Compatibility Pack para uso com aplicativos adicionais.    
   </li>
 </ul>
 <strong>Microsoft Edge</strong>
 <ul>
 <li>  
-  Se seus sites ou aplicativos Web funcionarem no Internet Explorer 11, nas versões compatíveis do Google Chrome ou em qualquer versão do Microsoft Edge, eles também funcionarão com o Microsoft Edge.  
+  Se seus aplicativos web ou sites funcionarem no Internet Explorer 11, versões com suporte do Google Chrome ou qualquer versão do Microsoft Edge, eles também funcionarão com o Microsoft Edge.  
   </li>
 <li>  
-  À medida que a Web está em constante evolução, <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">certifique-se</a>de revisar esta lista publicada de alterações conhecidas que a impactam na compatibilidade do site para o Microsoft Edge.  
+  Como a Web está em constante evolução, revise esta lista publicada de alterações conhecidas que impactam a compatibilidade do <a href="https://docs.microsoft.com/microsoft-edge/web-platform/site-impacting-changes">site para o Microsoft Edge</a>.  
   </li>
 </ul>
   <strong>Área de Trabalho Virtual do Windows</strong>  
@@ -1455,10 +1649,10 @@ Os aplicativos que funcionaam no Windows 7, Office 2010 ou versões posteriores 
   Aplicativos virtualizados executados em um Host de Sessão de Área de Trabalho Remota do Windows Server (RDSH) também são executados no Windows 10 Enterprise multisessão como parte da Área de Trabalho Virtual do Windows.  
   </li>
 <li>  
-  Os aplicativos em execução em qualquer ambiente de VDI (infraestrutura de área de trabalho virtual) do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.  
+  Aplicativos em execução em qualquer ambiente de infraestrutura de área de trabalho virtual (VDI) do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.  
   </li>
 <li>  
-  Os aplicativos em execução em dispositivos cliente do Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.  
+  Aplicativos em execução em dispositivos cliente Windows 7 ou Windows 10 também são executados no Windows 7 Enterprise e no Windows 10 Enterprise como parte da Área de Trabalho Virtual do Windows.  
   </li>
 </ul>
   <strong>Observação:</strong> As exclusões e limitações de compatibilidade de várias sessões do Windows 10 Enterprise incluem:
@@ -1490,13 +1684,13 @@ Os aplicativos que funcionaam no Windows 7, Office 2010 ou versões posteriores 
 </thead>
 <tbody>
 <tr class="even">
-<td><strong>Microsoft Edge</strong> (para clientes do Windows 10 Enterprise)</td>
-<td><ul>
-<li>  Fornecemos orientações de implantação remota e assistência de compatibilidade para: implantação do Microsoft Edge no Windows 10 Enterprise com o Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Intune).  </li>
-<li>  Configuração do Microsoft Edge (usando políticas de grupo ou configuração do aplicativo do Intune e políticas de aplicativos).  </li>
-<li>  Inventariar a lista dos sites que podem exigir o uso no modo do Internet Explorer.  </li>
-<li>  Habilitação do modo do Internet Explorer com a lista de sites corporativos existente.  
-  Além disso, se você tiver um aplicativo Web ou um site que funciona com o Internet Explorer ou com o Google Chrome e tiver problemas de compatibilidade, fornecemos orientações para resolver o problema sem custo adicional. Consulte <a href="https://docs.microsoft.com/fasttrack/products-and-capabilities#app-assure">Garantia de Aplicativo</a> para obter mais detalhes.  </li>
+<td><strong>Microsoft Edge</strong> </td>
+<td>
+Fornecemos orientação e compatibilidade de implantação remota e adoção para: <ul> <li>Implantando o Microsoft Edge no Windows 10 com o Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Intune).  </li>
+<li>  Configurando o Microsoft Edge (usando políticas de grupo ou configuração de aplicativos do Intune e políticas de aplicativo).  </li>
+<li>  Inventário da lista de sites que podem exigir uso no modo Internet Explorer.  </li>
+<li>  Habilitação do modo do Internet Explorer com a lista de sites corporativos existente. (Para obter mais informações, consulte <a href="https://docs.microsoft.com/fasttrack/process-and-expectations#engaging-fasttrack">Engaging FastTrack</a>). Além disso, se você tiver um aplicativo Web ou um site que funciona com o Internet Explorer ou com o Google Chrome e tiver problemas de compatibilidade, fornecemos orientações para resolver o problema sem custo adicional. Para solicitar suporte de compatibilidade para o App Assure, entre no <a href="https://fasttrack.microsoft.com/portal#/signin">portal do FastTrack</a> para iniciar um envolvimento.  </li>
+<li> Diretrizes de planejamento para adoção de borda e orientação de configuração para indicadores da Pesquisa da Microsoft.</li>
 </ul>
 
 <strong>O seguinte está fora do escopo </strong>  

@@ -3,19 +3,19 @@ title: Qualificação
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 1/27/2021
+ms.date: 2/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, descrevemos os requisitos de qualificação para o recebimento de assistência remota, com base nos especialistas do FastTrack, incluídos na compra de licenças do Microsoft 365 e detalhes sobre os produtos e recursos específicos abordados.
-ms.openlocfilehash: 53ff3d12318a77fc66810e92ec5dae090f281035
-ms.sourcegitcommit: cd8426ce64dda56439933576e7da75b1c27f5de1
+ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
+ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50016455"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416420"
 ---
 # <a name="eligibility"></a>Qualificação
 
@@ -36,9 +36,9 @@ Os especialistas do FastTrack podem fornecer assistência remota, dirigida, aos 
 > O Office 365 ProPlus foi renomeado para aplicativos da Microsoft 365. Em alguns casos, você pode encontrar usos do nome herdado. Para saber mais sobre quando essa mudança entrará em vigor, confira [Alteração de nome para Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
   - Microsoft 365 Defender
-  - Microsoft Cloud App Security
+  - Segurança no aplicativo na nuvem da Microsoft
   - Proteção Avançada contra Ameaças do Microsoft Defender (ATP)
-  - Microsoft Defender para Identidade? 
+  - O que é o Microsoft Defender para Identidade? 
   - Microsoft Edge
   - Governança de Informações da Microsoft
   - Proteção de Informações da Microsoft
