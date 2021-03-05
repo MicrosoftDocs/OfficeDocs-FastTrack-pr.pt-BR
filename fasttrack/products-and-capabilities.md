@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados pelo FastTrack e as expectativas necessárias do ambiente de origem antes de começar. Baseado na sua configuração atual, trabalhamos com você na criação de um plano de correção que leva seu ambiente de origem aos requisitos mínimos para uma integração bem-sucedida.
-ms.openlocfilehash: 05936adee3f21e6078933a686dfa8dc24c33d1be
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: e49ada61aee869785f061bbebbee4ae14aaee045
+ms.sourcegitcommit: 895a8b9df9a7cd26e27e95e5fd3145e7306c78e8
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416560"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50464203"
 ---
 # <a name="products-and-capabilities"></a>Produtos e Recursos
 
@@ -208,7 +208,7 @@ Fornecemos orientações remotas para:
 
 <strong>Auditoria Avançada</strong> (com suporte apenas no E5)
 
-Fornecemos orientações remotas para: 
+Fornecemos orientações remotas para:  
 <ul>
 <li> Habilitando a auditoria avançada.</li>
 <li> Executando uma interface do usuário do log de auditoria de pesquisa e comandos básicos de auditoria do PowerShell.</li>
