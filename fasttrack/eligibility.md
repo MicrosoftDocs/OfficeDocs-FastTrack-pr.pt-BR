@@ -3,19 +3,19 @@ title: Qualificação
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, descrevemos os requisitos de qualificação para o recebimento de assistência remota, com base nos especialistas do FastTrack, incluídos na compra de licenças do Microsoft 365 e detalhes sobre os produtos e recursos específicos abordados.
-ms.openlocfilehash: 095d3630431265e7f584388b21614e071ea8711c
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416420"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51187980"
 ---
 # <a name="eligibility"></a>Qualificação
 
@@ -36,15 +36,15 @@ Os especialistas do FastTrack podem fornecer assistência remota, dirigida, aos 
 > O Office 365 ProPlus foi renomeado para aplicativos da Microsoft 365. Em alguns casos, você pode encontrar usos do nome herdado. Para saber mais sobre quando essa mudança entrará em vigor, confira [Alteração de nome para Office 365 ProPlus](https://docs.microsoft.com/deployoffice/name-change).
 
   - Microsoft 365 Defender
-  - Segurança no aplicativo na nuvem da Microsoft
-  - Proteção Avançada contra Ameaças do Microsoft Defender (ATP)
-  - O que é o Microsoft Defender para Identidade? 
+  - Microsoft Cloud App Security
+  - Microsoft Defender para Ponto de Extremidade
+  - Microsoft Defender para Identidade? 
+  - Obter o Microsoft Defender para Office 365
   - Microsoft Edge
   - Governança de Informações da Microsoft
   - Proteção de Informações da Microsoft
   - Microsoft Intune
   - Microsoft Teams
-  - Proteção Avançada contra Ameaças do Office 365 (ATP)
   - OneDrive for Business
   - Power BI
   - Project Online
@@ -117,7 +117,7 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
   - Plano 2 do Exchange Online
   - Quiosque do Exchange Online
   - Proteção do Exchange Online
-  - Proteção Avançada contra Ameaças do Office 365
+  - Obter o Microsoft Defender para Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 

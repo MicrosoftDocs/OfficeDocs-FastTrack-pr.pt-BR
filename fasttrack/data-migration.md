@@ -3,19 +3,19 @@ title: Migração de dados
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 2/24/2021
+ms.date: 3/24/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: O FastTrack pode ajudar a migrar emails e dados de arquivos em seus ambientes de origem para o Office 365 (Exchange Online, SharePoint Online e OneDrive for Business). O tipo de assistência que fornecemos depende do número de licenças do Office 365.
-ms.openlocfilehash: b02c7c863cdc689fab4a6545ac1acc84f6b03fc2
-ms.sourcegitcommit: cf630a48697177b9cce6c0fbc67a7e7a0b752167
+ms.openlocfilehash: f518e8dbda9200318022bad2cc12d1ba68263df8
+ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50416608"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51188016"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -189,7 +189,7 @@ Quando você escolhe usar o FastTrack para migrar seus arquivos para o SharePoin
 
 ## <a name="considerations"></a>Considerações
 
-  - Todas as migrações estão sujeitas a cotas do SharePoint Online. Confira [<span class="underline">O SharePoint Online e o OneDrive for Business: delimitações e limites de software</span>](https://go.microsoft.com/fwlink/?LinkId=698855) para obter detalhes.
+ - Todas as migrações estão sujeitas a cotas do SharePoint Online. Consulte os <a href="https://go.microsoft.com/fwlink/?LinkId=698855">limites do SharePoint para</a> obter detalhes. 
   - É recomendável limitar o valor total de migrar para 75% da cota de armazenamento geral do SharePoint Online à qual você está qualificado (incluindo o armazenamento adicional que pode ter comprado separadamente).
 
 ## <a name="source-environment-details"></a>Detalhes do ambiente de origem
@@ -381,7 +381,7 @@ Quando você escolhe usar o FastTrack para migrar seus arquivos para o OneDrive 
 
 ## <a name="considerations"></a>Considerações
 
-  - Todas as migrações estão sujeitas a cotas do OneDrive for Business. Confira [<span class="underline">O SharePoint Online e o OneDrive for Business: delimitações e limites de software</span>](https://go.microsoft.com/fwlink/?LinkId=698855) para obter detalhes.
+  - Todas as migrações estão sujeitas a cotas do SharePoint Online. Consulte os <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> limites do SharePoint para</a> obter detalhes. 
   - É recomendável limitar o valor total que você migra para 75% da cota de armazenamento geral do SharePoint Online à qual você está qualificado (incluindo o armazenamento adicional que pode ter comprado separadamente).
   - O FastTrack migra apenas para o unidades do OneDrive for Business ativas.
 
@@ -566,3 +566,206 @@ Você realiza atividades padrão durante o projeto de migração. Confira as inf
 Você também executa as seguintes atividades, específicas das migrações do OneDrive for Business:
 
   - Configure todos os sites do OneDrive for Business que serão direcionados para os seus eventos de migração.
+
+## <a name="migration-to-microsoft-teams-and-microsoft-365-groups"></a>Migração para o Microsoft Teams e grupos do Microsoft 365
+
+Quando você optar por usar o FastTrack para migrar seus arquivos para o Microsoft Teams e grupos do Microsoft 365, fornecemos orientações de migração e serviços de migração de dados. Fornecemos orientações para ajudá-lo a planejar sua migração, configurar seus ambientes de origem e grupos do Teams e do Microsoft 365 e aproveitar nossos serviços de migração de dados para migrar seus arquivos. Você cria e agenda seus eventos de migração. Iniciamos os eventos de migração de acordo com sua agenda, monitoramos o progresso dele e fornecem relatórios de status. Quando seus eventos de migração são concluídos, você pode esperar que os arquivos de fontes adequadamente agendadas e qualificadas de seus ambientes de origem tenham sido migrados para o Teams e grupos do Microsoft 365. Os canais do Teams e os Grupos do Microsoft 365 devem ser pré-provisionados pelo cliente antes que eles possam migrar dados para esses tipos de destino. Os Grupos do Teams e do Microsoft 365 impactam suas permissões no local de destino do arquivo. O Teams e os Grupos do Microsoft 365 são construídos para permitir a colaboração. O canal do Teams ou o grupo do Microsoft 365 determinam quem tem acesso a esses arquivos ao migrar para esses destinos. O FastTrack não adiciona usuários finais ou grupos a qualquer canal do Teams ou permissão de Grupos do Microsoft 365 durante a migração.
+
+## <a name="considerations"></a>Considerações
+
+- Todas as migrações estão sujeitas a cotas do SharePoint Online. Consulte os <a href="https://go.microsoft.com/fwlink/?LinkId=698855"> limites do SharePoint para</a> obter detalhes. 
+- É recomendável limitar o valor total de migrar para 75% da cota de armazenamento geral do SharePoint Online à qual você está qualificado (incluindo o armazenamento adicional que pode ter comprado separadamente). 
+
+
+## <a name="source-environment-details"></a>Detalhes do ambiente de origem
+
+Nossos serviços de migração de dados migram os dados desses ambientes de origem: 
+
+- Compartilhamentos de arquivos (compartilhamentos de arquivos com protocolo SMB em dispositivos compatíveis com SMB 2.0 em diante).
+-  Um único ambiente do G Suite (apenas Google Drive). 
+- Box (Starter, Business, Enterprise). 
+- Dropbox para equipes (Padrão e Avançado). 
+
+A tabela a seguir apresenta detalhes de migração específicos para cada ambiente de origem:
+
+<table>
+<thead>
+<tr class="header">
+ <th><strong>Ambiente de origem</strong></th>
+ <th><strong>Tipo de migração</strong></th>
+ <th><strong>O que migra</strong></th>
+ <th><strong>O que não migra</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Dispositivos de compartilhamento de arquivos compatíveis com SMB 2.0 em diante</strong></td>
+<td>Uma ou várias passagens</td>
+<td><ul>
+<li> Documentos </li>
+<li> Estrutura de arquivo e pasta </li>
+<li> Permissões de arquivo e pasta no nível do usuário* </li>
+<li> Permissões de arquivo e pasta no nível do grupo* </li>
+<li> Arquivos com menos de 15 GB </li>
+<li> Metadados básicos de documentos e pastas:
+<ul>
+<li> Data de criação </li>
+<li> Data de modificação </li>
+<li> Criado por </li>
+<li> Última modificação por </li>
+</ul></li>
+</ul>
+<br>
+*Configuração de sincronização de diretório necessária. Apenas as permissões NTFS expostas ao Explorador de Arquivos do Windows são migradas. As permissões gerenciadas diretamente em dispositivos de compartilhamento de arquivos não são migradas. Se os dados são armazenados em um dispositivo SMB 2.0, as permissões equivalentes NTFS expostas pelo protocolo SMB são migradas. As permissões são impactadas pelo grupo do Microsoft 365 e/ou pelo canal do Microsoft Teams. Se o destino for um grupo do Microsoft 365 ou canal do Microsoft Teams, o grupo ou canal determinará o perfil de permissões finais em arquivos migrados. Recomendamos não migrar permissões em arquivos migrando para um canal do Microsoft 365 Group ou Microsoft Teams.</td>
+<td><ul>
+<li> Histórico de propriedade e versões anteriores </li>
+<li> Conversão de URLs incorporados em conteúdo </li>
+<li> Versões anteriores </li>
+<li> Atributos de arquivos e pastas do Windows (como somente leitura e oculto) </li>
+<li> Permissões avançadas e configurações especiais do Sistema de arquivos de nova tecnologia não-Windows (NTFS) e NTFS: </li>
+<li> Permissões de negação explícita (removidas após migração, conteúdo sujeito a permissões paralelas ou permissões na pasta pai) </li>
+<li> Configuração de auditoria do NTFS </li>
+<li> Metadados de arquivo adicionais fornecidos pela FCI (Infraestrutura de Classificação de Arquivos) </li>
+<li> Documentos inacessíveis ou corrompidos </li>
+<li> Compartilhamentos ocultos </li>
+<li> Compartilhamento (como permissões concedidas no nível de compartilhamento) </li>
+<li> Arquivos ou pastas que excedem as restrições e limitações atuais <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">do SharePoint Online</span></a> </li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>Um único ambiente do G Suite (apenas Google Drive)</strong></td>
+<td>Uma ou várias passagens</td>
+<td><ul>
+<li> Documentos, Planilhas e Slides do Google (os arquivos são convertidos para o formato equivalente do Office, incluindo aqueles com mais de 10 MB) </li>
+<li> Estrutura de arquivo e pasta </li>
+<li> Permissões de pasta no nível do usuário* </li>
+<li> Permissões de pasta no nível de grupo* </li>
+<li> Arquivos com menos de 15 GB </li>
+<li> Metadados básicos de documentos e pastas:
+<ul>
+<li> Data de criação </li>
+<li> Data de modificação </li>
+<li> Criado por </li>
+<li> Última modificação por </li>
+</ul></li>
+<li> Unidades compartilhadas (pastas e arquivos) </li>
+<li> Conteúdo compartilhado pertencente à conta do Google Drive sendo migrada </li>
+</ul>
+<br>
+*As permissões são impactadas pelo grupo do Microsoft 365 e/ou pelo canal do Microsoft Teams. Se o destino for um grupo do Microsoft 365 ou canal do Microsoft Teams, o grupo ou canal determinará o perfil de permissões finais em arquivos migrados. Recomendamos não migrar permissões em arquivos migrando para um canal do Microsoft 365 Group ou Microsoft Teams. 
+</td>
+<td><ul>
+<li> Histórico de propriedade, versões anteriores e comentários </li>
+<li> Descrições de arquivos e pastas, cores de pastas </li>
+<li> Permissões do arquivo para o nível do Usuário </li>
+<li> Permissões do arquivo para o nível do Grupo </li>
+<li> Metadados avançados </li>
+<li> Atributos de bloqueio de arquivo </li>
+<li> Conversão de URLs incorporados em conteúdo </li>
+<li> Itens na lixeira </li>
+<li> Documentos inacessíveis ou corrompidos </li>
+<li> Usuários bloqueados ou inativos </li>
+<li> Google Fotos, Formulários, Mapas e outros aplicativos conectados </li>
+<li> Google Drawings </li>
+<li> Conteúdo compartilhado externo à sua organização </li>
+<li> O conteúdo que está sendo migrado não pertencente à conta Google Drive </li>
+<li> Permissões e metadados básicos de usuários externos (<strong>Observação</strong>: Use relatórios do administrador do Google Drive para identificar conteúdo compartilhado com usuários externos. Instrua os usuários finais a recompartilhar o conteúdo com usuários externos após a migração). </li>
+<li> Permissões de associação compartilhadas do Drive (<strong>Observação</strong>: Use relatórios do administrador do Google Drive para identificar as associações compartilhadas do Drive. Instrua os usuários finais a definir essas configurações de associação no destino antes da migração). </li>
+<li> Arquivos ou pastas que excedem as restrições e limitações atuais <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">do SharePoint Online</span></a> </li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><strong>Box (Starter, Business, Enterprise)</strong></td>
+<td>Uma ou várias passagens</td>
+<td><ul>
+<li> Documentos </li>
+<li> Estrutura de arquivo e pasta </li>
+<li> Permissões de pasta no nível do usuário* </li>
+<li> Permissões de pasta no nível de grupo* </li>
+<li> Arquivos com menos de 15 GB </li>
+<li> Metadados básicos de documentos e pastas:
+<ul>
+<li> Data de criação </li>
+<li> Data de modificação </li>
+<li> Criado por </li>
+<li> Última modificação por </li>
+</ul></li>
+<li> Conteúdo compartilhado de propriedade da conta do Box está sendo migrado </li>
+<li> Notas de caixa (convertido no formato de documento do Word) </li>
+</ul>
+<br>
+*As permissões são impactadas pelo grupo do Microsoft 365 e/ou pelo canal do Microsoft Teams. Se o destino for um grupo do Microsoft 365 ou canal do Microsoft Teams, o grupo ou canal determinará o perfil de permissões finais em arquivos migrados. Recomendamos não migrar permissões em arquivos migrando para um canal do Microsoft 365 Group ou Microsoft Teams. </td>
+<td><ul>
+<li> Histórico de propriedade, versões anteriores e comentários </li>
+<li> Descrições de arquivos e pastas </li>
+<li> Permissões do arquivo para o nível do Usuário </li>
+<li> Permissões do arquivo para o nível do Grupo </li>
+<li> Box Tags e metadados avançados </li>
+<li> Atributos de bloqueio de arquivo </li>
+<li> Conversão de URLs incorporados em conteúdo </li>
+<li> Itens na lixeira </li>
+<li> Documentos inacessíveis ou corrompidos </li>
+<li> Usuários bloqueados ou inativos </li>
+<li> Os Aplicativos do Box, os Marcadores, os Favoritos e os Fluxos de trabalho </li>
+<li> O conteúdo não pertence à conta do Box migrada </li>
+<li> Permissões e metadados básicos de usuários externos (<strong>Observação</strong>: Use relatórios do Box para identificar conteúdo compartilhado com usuários externos. Instrua os usuários finais a recompartilhar o conteúdo com usuários externos após a migração). </li>
+<li> Arquivos ou pastas que excedem as restrições e limitações atuais <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">do SharePoint Online</span></a> </li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><strong>Dropbox para equipes (Padrão e Avançado)</strong> </td>
+<td>Uma ou várias passagens</td>
+<td><ul>
+<li> Documentos </li>
+<li> Estrutura de arquivo e pasta </li>
+<li> Permissões de pasta no nível do usuário* </li>
+<li> Permissões de pasta no nível de grupo* </li>
+<li> Arquivos com menos de 15 GB </li>
+<li> Metadados básicos de documentos e pastas:
+<ul>
+<li> Data de criação </li>
+<li> Data de modificação </li>
+<li> Criado por </li>
+<li> Última modificação por </li>
+</ul></li>
+<li> Pastas e conteúdos compartilhados pela equipe </li>
+<li> Conteúdo compartilhado de propriedade da conta do Dropbox está sendo migrado </li>
+</ul>
+<br>
+*As permissões são impactadas pelo grupo do Microsoft 365 e/ou pelo canal do Microsoft Teams. Se o destino for um grupo do Microsoft 365 ou canal do Microsoft Teams, o grupo ou canal determinará o perfil de permissões finais em arquivos migrados. Recomendamos não migrar permissões em arquivos migrando para um canal do Microsoft 365 Group ou Microsoft Teams.
+</td>
+<td><ul>
+<li> Histórico de propriedade, versões anteriores e comentários </li>
+<li> Descrições de arquivos e pastas </li>
+<li> Permissões do arquivo para o nível do Usuário </li>
+<li> Permissões do arquivo para o nível do Grupo </li>
+<li> Metadados avançados </li>
+<li> Atributos de bloqueio de arquivo </li>
+<li> Conversão de URLs incorporados em conteúdo </li>
+<li> Itens na lixeira </li>
+<li> Documentos inacessíveis ou corrompidos </li>
+<li> Pastas Dropbox não montadas </li>
+<li> Usuários excluídos ou desconectados </li>
+<li> Dropbox Paper, Showcases e Spaces </li>
+<li> Dropbox Aplicativos e Favoritos (Pins/Stars) </li>
+<li> O conteúdo não pertence à conta Dropbox migrada </li>
+<li> Permissões e metadados básicos de usuários externos (<strong>Observação</strong>: Use relatórios do Dropbox para identificar conteúdo compartilhado com usuários externos. Instrua os usuários finais a recompartilhar o conteúdo com usuários externos após a migração). </li>
+<li> Arquivos ou pastas que excedem as restrições e limitações atuais <a href="https://go.microsoft.com/fwlink/?linkid=846724"> <span class="underline">do SharePoint Online</span></a> </li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+## <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
+
+Os especialistas do FastTrack realizam atividades padrão durante o projeto de migração. Confira as informações sobre responsabilidades de migração de dados no [Processo e expectativas](process-and-expectations.md) para obter detalhes.
+
+## <a name="your-responsibilities"></a>Suas responsabilidades 
+
+Você realiza atividades padrão durante o projeto de migração. Confira as informações sobre responsabilidades de migração de dados no [Processo e expectativas](process-and-expectations.md) para obter detalhes.
+Você também executa as seguintes atividades, específicas das migrações do Microsoft Teams e do Microsoft 365 Groups: 
+
+- Provisione todos os canais do Microsoft Teams e grupos do Microsoft 365 como direcionados por seus eventos de migração.
+
+> [!NOTE]
+>O FastTrack não pré-provisiona canais do Microsoft Teams ou grupos do Microsoft 365. O FastTrack não adiciona usuários finais ou grupos aos canais do Microsoft Teams ou grupos do Microsoft 365. Você deve adicionar seus usuários finais ou grupos a todos os canais do Microsoft Teams e grupos do Microsoft 365 antes de migrar dados para esses destinos para que esses usuários finais tenham acesso a esses documentos recém-migrados
