@@ -3,19 +3,19 @@ title: Qualificação
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, descrevemos os requisitos de qualificação para o recebimento de assistência remota, com base nos especialistas do FastTrack, incluídos na compra de licenças do Microsoft 365 e detalhes sobre os produtos e recursos específicos abordados.
-ms.openlocfilehash: 50f7dcc063285aae352b91595e1e79763a19cf3f
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51187980"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51927005"
 ---
 # <a name="eligibility"></a>Qualificação
 
@@ -39,7 +39,7 @@ Os especialistas do FastTrack podem fornecer assistência remota, dirigida, aos 
   - Microsoft Cloud App Security
   - Microsoft Defender para Ponto de Extremidade
   - Microsoft Defender para Identidade? 
-  - Obter o Microsoft Defender para Office 365
+  - Microsoft Defender para Office 365
   - Microsoft Edge
   - Governança de Informações da Microsoft
   - Proteção de Informações da Microsoft
@@ -117,7 +117,7 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
   - Plano 2 do Exchange Online
   - Quiosque do Exchange Online
   - Proteção do Exchange Online
-  - Obter o Microsoft Defender para Office 365
+  - Microsoft Defender para Office 365
 
 #### <a name="microsoft-teams"></a>Microsoft Teams
 

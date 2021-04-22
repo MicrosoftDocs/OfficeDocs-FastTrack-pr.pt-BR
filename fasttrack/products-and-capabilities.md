@@ -3,19 +3,19 @@ title: Produtos e Recursos
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 3/24/2021
+ms.date: 4/21/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados pelo FastTrack e as expectativas necessárias do ambiente de origem antes de começar. Baseado na sua configuração atual, trabalhamos com você na criação de um plano de correção que leva seu ambiente de origem aos requisitos mínimos para uma integração bem-sucedida.
-ms.openlocfilehash: 2bfca103fd9c58d95d9ba4a750e446a6e93b5719
-ms.sourcegitcommit: 31d2c36fd00f47330dc2c90a646f8ce8a9687e1d
+ms.openlocfilehash: 70e279268f33591884c6bebb8625688ca724480d
+ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51188100"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51927029"
 ---
 # <a name="products-and-capabilities"></a>Produtos e Recursos
 
@@ -322,7 +322,7 @@ Fornecemos orientações remotas para:
 </td>
 </tr>
 <tr class="odd">
-<td><strong>Segurança no Aplicativo da Nuvem da Microsoft</strong></td>
+<td><strong>Microsoft Cloud App Security</strong></td>
 <td>  O Microsoft Cloud App Security é um Agente de Segurança do Cloud Access (CASB) que fornece visibilidade avançada, controle sobre viagens de dados e análises sofisticadas para identificar e combater ameaças cibernéticas em todos os serviços de nuvem da Microsoft e de terceiros. Fornecemos orientações remotas para:
 <ul>
 <li>  Configurando o portal, incluindo:  </li>
