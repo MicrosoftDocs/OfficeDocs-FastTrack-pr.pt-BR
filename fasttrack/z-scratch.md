@@ -1,4 +1,23 @@
-## <a name="security-and-compliance"></a>Segurança e Conformidade
+---
+title: Segurança e Conformidade
+ms.author: v-bermic
+author: rberg-steyer
+manager: jimmuir
+ms.date: 7/01/2020
+audience: ITPro
+ms.topic: overview
+ms.service: O365-seccomp
+localization_priority: None
+ms.collection: FastTrack
+description: Detalhes da Orientação do FastTrack para serviços Microsoft.
+ms.openlocfilehash: 000a81c51729deba8d3f5c4d88a0baa918dcd048
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
+ms.translationtype: MT
+ms.contentlocale: pt-BR
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996230"
+---
+# <a name="security-and-compliance"></a>Segurança e Conformidade
 
 <table>
 <thead>
@@ -12,7 +31,7 @@
 <tr class="odd">
 <td><strong>Microsoft 365 Defender</strong></td>
 
-<td> <p> O Microsoft 365 Defender é um pacote de defesa empresarial unificado pré e pós-violação que coordena de forma nativa a detecção, prevenção, investigação e resposta entre pontos de extremidade, identidades, email e aplicativos para fornecer proteção integrada contra ataques sofisticados. Fornecemos orientações remotas para: </p> 
+<td> <p> O Microsoft 365 Defender é um pacote de defesa empresarial pré e pós-violação unificado que coordena de forma nativa a detecção, prevenção, investigação e resposta entre pontos de extremidade, identidades, email e aplicativos para fornecer proteção integrada contra ataques sofisticados. Fornecemos orientações remotas para: </p> 
 <ul>
 <li>  Fornecendo uma visão geral do centro de segurança do Microsoft 365.  </li>
 <li>  Revisão de incidentes entre produtos, incluindo o foco no que é crítico, garantindo o escopo de ataque completo, os ativos afetados e as ações de correção automatizadas agrupadas.  </li>
@@ -320,7 +339,7 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <li> Desenvolvimento da arquitetura de informações no SharePoint.</li>
 <li> Scripts personalizados e codificação.</li>
 </td>
-<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="products-and-capabilities.md#general">Geral</a>, não há requisitos mínimos do sistema.</td>
 </tr>
 <tr class="odd">
 <td><strong>Proteção de Informações da Microsoft</strong></td>
@@ -345,11 +364,11 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <li>Criação ou modificação de dicionários de palavras-chave.</li>
 <li>Scripts personalizados e codificação.</li>
 </ul>
-<strong>Observação:</strong> Para obter mais informações, consulte <strong> Azure Information Protection </strong> in <a href="#enterprise-mobility--security">Enterprise Mobility + Security</a>.
+<strong>Observação:</strong> Para obter mais informações, consulte <strong>Azure Information Protection</strong> in <a href="products-and-capabilities.md#enterprise-mobility--security">Enterprise Mobility + Security</a>.
 <ul>
 
 </td>
-<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="products-and-capabilities.md#general">Geral</a>, não há requisitos mínimos do sistema.</td>
 </tr>
 
 <tr class="odd">
@@ -361,7 +380,7 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <li>  Uso do Simulador de Ataques.  </li>
 <li>  Relatórios e análise de ameaças.  </li>
 </ul></td>
-<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="products-and-capabilities.md#general">Geral</a>, não há requisitos mínimos do sistema.</td>
 </tr>
 
 
@@ -410,7 +429,7 @@ Fornecemos orientações remotas para:
 <li> Implementação prática das ações de melhoria recomendadas para avaliações no Gerenciador de Conformidade.</li>
 </ul>
 </td>
-<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="products-and-capabilities.md#general">Geral</a>, não há requisitos mínimos do sistema.</td>
 </tr>
 <tr class="odd">
 <td><strong>Gerenciamento de ameaças insider</strong></td>
@@ -455,7 +474,7 @@ Fornecemos orientações remotas para:
 <li> Conformidade com regulamentos e requisitos do setor e regionais.</li>
 <li> Implementação prática das ações de melhoria recomendadas para avaliações no Gerenciador de Conformidade.</li>
 </ul></td>
-<td>Com exceção da parte <strong>Central de integração</strong> em <a href="#general">Geral</a>, não há requisitos mínimos do sistema.</td>
+<td>Com exceção da parte <strong>Central de integração</strong> em <a href="products-and-capabilities.md#general">Geral</a>, não há requisitos mínimos do sistema.</td>
 </tr>
 
 

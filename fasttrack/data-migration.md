@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: O FastTrack pode ajudar a migrar emails e dados de arquivos em seus ambientes de origem para o Office 365 (Exchange Online, SharePoint Online e OneDrive for Business). O tipo de assistência que fornecemos depende do número de licenças do Office 365.
-ms.openlocfilehash: 07165233711d4d4931f8adac4809b56138078f5a
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 8d74a288291907db22213f317ce8e89923590907
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926993"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996246"
 ---
 # <a name="data-migration"></a>Migração de dados
 
@@ -160,7 +160,7 @@ A tabela a seguir apresenta detalhes de migração específicos para cada ambien
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
+## <a name="fasttrack-responsibilities-for-exchange-online-migrations"></a>Responsabilidades do FastTrack para migrações do Exchange Online
 
 Os especialistas do FastTrack realizam atividades padrão durante o projeto de migração. Confira as informações sobre responsabilidades de migração de dados no [Processo e expectativas](process-and-expectations.md) para obter detalhes.
 
@@ -363,7 +363,7 @@ A tabela a seguir apresenta detalhes de migração específicos para cada ambien
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
+## <a name="fasttrack-responsibilities-for-sharepoint-online-migrations"></a>Responsabilidades do FastTrack para migrações do SharePoint Online
 
 Os especialistas do FastTrack realizam atividades padrão durante o projeto de migração. Confira as informações sobre responsabilidades de migração de dados no [Processo e expectativas](process-and-expectations.md) para obter detalhes
 
@@ -555,7 +555,7 @@ A tabela a seguir apresenta detalhes de migração específicos para cada ambien
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
+## <a name="fasttrack-responsibilities-for-onedrive-for-business-migrations"></a>Responsabilidades do FastTrack para migrações do OneDrive for Business
 
 Os especialistas do FastTrack realizam atividades padrão durante o projeto de migração. Confira as informações sobre responsabilidades de migração de dados no [Processo e expectativas](process-and-expectations.md) para obter detalhes.
 
@@ -756,7 +756,7 @@ A tabela a seguir apresenta detalhes de migração específicos para cada ambien
 </tbody>
 </table>
 
-## <a name="fasttrack-responsibilities"></a>Responsabilidades do FastTrack
+## <a name="fasttrack-responsibilities-for-microsoft-teams-and-microsoft-365-groups-migrations"></a>Responsabilidades do FastTrack para migrações do Microsoft Teams e grupos do Microsoft 365
 
 Os especialistas do FastTrack realizam atividades padrão durante o projeto de migração. Confira as informações sobre responsabilidades de migração de dados no [Processo e expectativas](process-and-expectations.md) para obter detalhes.
 

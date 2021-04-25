@@ -4,18 +4,17 @@ ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
 ms.date: 4/21/2021
-ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, abordaremos como contratar o FastTrack para obter assistência, como essa assistência é fornecida, sugerimos dicas para uma experiência bem-sucedida e compreender as principais responsabilidades do FastTrack e da sua empresa.
-ms.openlocfilehash: 793fd84b5a998804b8e84feac1ad7eb248cd9a7b
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 5b7fa5016ef3a8b4ba3f298bd515e19952df7f82
+ms.sourcegitcommit: 5d40d060bbcf4b266a0d6f3e4bbc151f94288b00
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926981"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51996250"
 ---
 # <a name="process-and-expectations"></a>Processos e Expectativas
 
