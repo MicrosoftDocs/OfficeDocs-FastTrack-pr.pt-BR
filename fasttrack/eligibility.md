@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, descrevemos os requisitos de qualificação para o recebimento de assistência remota, com base nos especialistas do FastTrack, incluídos na compra de licenças do Microsoft 365 e detalhes sobre os produtos e recursos específicos abordados.
-ms.openlocfilehash: 03d2b9f607ad72cc59a1d0c16c12401e8a437fe1
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: b4a7af935ee8223f94ac60eca2d18a0b6e53ace7
+ms.sourcegitcommit: ed3a1ad4b24b7b6b78070e21139b3a38f7a6ed69
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51927005"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "52283443"
 ---
 # <a name="eligibility"></a>Qualificação
 
@@ -124,7 +124,7 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
   - Sistema Telefônico
   - Plano de Chamada
   - Conferência por Áudio
-  - Sala do Microsoft Teams
+  - Microsoft Teams Room
 
 #### <a name="onedrive-for-business"></a>OneDrive for Business
 
@@ -202,6 +202,9 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
       
 > [!NOTE]
 > Não há requisitos mínimos de licenciamento para ISVs (fornecedores de software independente comerciais) que criam aplicativos para o Windows 10. Todas as solicitações de aplicativos devem estar direcionadas para uma versão de aplicativos do Windows 10 ou do Microsoft 365 Apps no momento na janela de serviço principal.
+
+> [!NOTE]
+> A elegibilidade ao benefício do FastTrack Center se baseia na compra de licenças pagas dos planos qualificados mencionados anteriormente. Como exceção, o FastTrack está ajudando na integração de licenças de avaliação do Office 365 E1 de maio de 2021 a 30 de junho de 2021 para clientes qualificados na Índia e no Brasil para ajudar a responder ao aumento atual do COVID-19. 
 
 ### <a name="ineligible-plans"></a>Planos não qualificados 
  Planos não qualificados para serviços do FastTrack incluem (mas não limitados a):
