@@ -1,29 +1,29 @@
 ---
-title: Fases de integração e migração para o Office 365 US Government
+title: Fases de integração e migração para Office 365 governo dos EUA
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
-description: 'A integração do Office 365 para o Office 365 US Government tem quatro fases principais: Iniciar, Avaliar, Remediar e Habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
-ms.openlocfilehash: 6b371c2f66f811ba8997c6380f23b2b6e0b24945
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+description: 'Office 365 integração para Office 365 governo dos EUA tem quatro fases principais: Iniciar, Avaliar, Remediar e Habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
+ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926969"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570561"
 ---
-# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para o Office 365 US Government
+# <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para Office 365 governo dos EUA
 
 A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corrigir e Habilitar. Elas podem ser seguidas por uma fase opcional de migração de dados, como mostra a imagem a seguir.
   
 ![Fases do benefício de Integração](media/O365-Onboarding-Phases.png)
   
-Para tarefas detalhadas para cada fase, consulte [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) e [Your Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
+Para tarefas detalhadas para cada fase, consulte [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and Your [Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Fase Iniciar
 
@@ -132,8 +132,8 @@ No Skype for Business Online, fornecemos instruções para:
 - Configuração do DNS.    
 - Criar contas para dispositivos do sistema.    
 - Implantar um cliente Skype for Business online com suporte.   
-- Estabelecendo a configuração de servidor de domínio dividido entre seu ambiente de servidor local do Lync 2010, Lync 2013 ou Skype for Business 2015 e locatário do Skype for Business Online (se aplicável).
-- Habilitando Planos de Chamadas, Transmissão de Reunião do Skype e Sistema de Telefonia e Planos de Chamadas (em mercados disponíveis – não disponível em planos GCC High ou DoD). 
+- Estabelecendo a configuração de servidor de domínio dividido entre seu locatário local do Lync 2010, Lync 2013 ou Skype for Business 2015 e o locatário do Skype for Business Online (se aplicável).
+- Habilitando planos de chamada, Reunião do Skype transmissão e Sistema de Telefonia e planos de chamada (em mercados disponíveis – não disponível em GCC planos High ou DoD). 
     
 ![Etapas da integração ao Lync durante a fase Habilitar_1](media/O365-Onboarding-Enable-Lync.png)
   
@@ -142,7 +142,7 @@ No Skype for Business Online, fornecemos instruções para:
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> O seguinte não está disponível em planos GCC High ou DoD.
+> O seguinte não está disponível em GCC planos High ou DoD.
 
 No Microsoft Teams, fornecemos instruções para: 
 - Confirmação dos requisitos mínimos.   
@@ -173,7 +173,7 @@ No Project Online, fornecemos instruções para:
 No Yammer, fornecemos instruções para habilitar o serviço do Yammer Enterprise.
 
 > [!NOTE]
-> O Yammer Enterprise não é um componente do Office 365 US Government, mas pode ser adquirido sem custo como uma oferta autônoma para cada usuário licenciado para o Office 365 no GCC. Atualmente, essa oferta está limitada aos clientes que compram o Office 365 GCC em Contratos Empresariais e Contratos de Assinatura Empresarial. O Yammer não está disponível em planos GCC High ou DoD. 
+> Yammer Enterprise não é um componente do Office 365 Us Government, mas pode ser adquirido sem custo como uma oferta autônoma para cada usuário licenciado para Office 365 no GCC. No momento, essa oferta está limitada aos clientes que compram Office 365 GCC em contratos Enterprise e contratos de assinatura Enterprise assinatura. Yammer não está disponível em GCC planos High ou DoD. 
   
 ## <a name="microsoft-365-apps"></a>Aplicativos do Microsoft 365
 
@@ -183,7 +183,7 @@ Nos Aplicativos do Microsoft 365, fornecemos diretrizes para:
 - Instalação de Aplicativos do Microsoft 365 pelo portal do Office 365 usando Clique para Executar.    
 - Instalar os aplicativos do Office Mobile (como Outlook Mobile, Word Mobile, Excel Mobile e PowerPoint Mobile) em dispositivos iOS ou Android.   
 - Definir as configurações de atualização usando a Ferramenta de Implantação do Office 365.    
-- Configurando um único servidor de distribuição local para Aplicativos do Microsoft 365, incluindo assistência com a criação de um arquivo configuration.xml para uso com a Ferramenta de Implantação do Office 365.    
+- Configurando um único servidor de distribuição local para Microsoft 365 Apps, incluindo a assistência com a criação de um arquivo configuration.xml para uso com a ferramenta de implantação Office 365 de implantação.    
 - Implantação usando o Gerenciador de Configurações do Microsoft Endpoint, incluindo assistência na criação de pacotes do Gerenciador de Configurações do Microsoft Endpoint.
     
 ![Etapas da integração ao Office ProPlus](media/o365-onboarding-enable-m365-apps-2.png)

@@ -1,23 +1,23 @@
 ---
-title: Suas responsabilidades para o Office 365 US Government
+title: Suas responsabilidades para Office 365 governo dos EUA
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 4/21/2021
+ms.date: 5/19/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Você tem as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: f1d7a751443ab924758f094997d152e9633e55dd
-ms.sourcegitcommit: b8762897f4d286636a3dd4e2ff6473ab5346b232
+ms.openlocfilehash: 771a28beda75e9d086d0627828a926c573472e94
+ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "51926897"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52570573"
 ---
-# <a name="your-responsibilities-for-office-365-us-government"></a>Suas responsabilidades para o Office 365 US Government
+# <a name="your-responsibilities-for-office-365-us-government"></a>Suas responsabilidades para Office 365 governo dos EUA
 
 Você tem as seguintes responsabilidades durante a integração.
   
@@ -41,7 +41,7 @@ Você tem as seguintes responsabilidades durante a integração.
 - Gerenciar, configurar e aplicar políticas de segurança.    
 - Ativar dispositivos móveis.    
 - Fornecer configuração, análise, validação de largura de banda, teste e monitoramento de rede. 
-- Altere regras de firewall para dar suporte a URLs específicas e intervalos de endereços IP usados pelos serviços do Office 365 (se necessário).
+- Altere regras de firewall para dar suporte a URLs específicas e intervalos de endereços IP usados pelos serviços Office 365 (se necessário).
 - Forneça pontos de extremidade de proxy reverso locais para a Microsoft (se necessário).     
 - Alterar a rede para fornecer a largura de banda necessária para os serviços do Skype for Business online.   
 - Gerenciar um processo de aprovação de gerenciamento de alterações técnicas e criar uma documentação de suporte.    
@@ -58,7 +58,7 @@ Você tem as seguintes responsabilidades durante a integração.
     
 ## <a name="initiate-phase"></a>Fase Iniciar
 
-- Configurar espaço colaborativo do Microsoft Teams para a parceria de integração e convidar membros da equipe do Centro FastTrack (não disponível em planos GCC High ou DoD).   
+- Configurar espaço colaborativo Microsoft Teams integração e convidar membros da equipe do Centro FastTrack (não disponíveis em GCC planos High ou DoD).   
 - Trabalhe com Especialistas do FastTrack para iniciar a integração de serviços qualificados.    
 - Participe da reunião de abertura, gerencie e guie participantes da sua organização e confirme linhas do tempo de correção.    
 - Forneça seus objetivos para os serviços do Office 365 (por exemplo, SharePoint Online, Exchange Online, Microsoft Teams e Aplicativos do Microsoft 365) e objetivos organizacionais.
