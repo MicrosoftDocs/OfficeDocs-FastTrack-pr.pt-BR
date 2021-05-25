@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Este tópico inclui detalhes sobre os cenários de carga de trabalho suportados pelo FastTrack e as expectativas necessárias do ambiente de origem antes de começar. Baseado na sua configuração atual, trabalhamos com você na criação de um plano de correção que leva seu ambiente de origem aos requisitos mínimos para uma integração bem-sucedida.
-ms.openlocfilehash: 56fe941acf3f5739802ac9065c843dbbc2f2525b
-ms.sourcegitcommit: e03f300ee223d72bc5af84d8d94e580dc649442c
+ms.openlocfilehash: 9a4546b248a739ee980f1300b9575e780e383c1a
+ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "52592444"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52626680"
 ---
 # <a name="products-and-capabilities"></a>Produtos e Recursos
 
@@ -50,8 +50,9 @@ O FastTrack fornece orientações para ajudá-lo primeiro com os recursos princi
 <tbody>
 <tr class="odd">
 <td><strong>Integração principal</strong></td>
-<td>  Fornecemos orientação remota sobre a integração principal, que envolve o provisionamento do serviço, a integração de identidade e locatário. Isso também inclui etapas para fornecer uma base de integração de serviços como o Exchange Online, o SharePoint Online e o Microsoft Teams, incluindo uma discussão [sobre segurança, conectividade de rede e conformidade](/office365/enterprise/office-365-network-connectivity-principles).  
-  A integração de um ou mais serviços qualificados poderá começar quando a integração básica estiver concluída.
+<td>  Fornecemos orientação remota sobre a integração principal, que envolve o provisionamento do serviço, a integração de identidade e locatário. Isso também inclui etapas para fornecer uma base de integração de serviços como o Exchange Online, o SharePoint Online e o Microsoft Teams, incluindo uma discussão <a href="/office365/enterprise/office-365-network-connectivity-principles">sobre segurança, conectividade de rede e conformidade</a>.   
+
+A integração de um ou mais serviços qualificados poderá começar quando a integração básica estiver concluída.
 </li>
 </ul>  
 
@@ -67,7 +68,8 @@ Fornecemos orientações remotas para:
 <li>Migrar a autenticação do AD FS para o Azure AD usando a sincronização de hash de senha ou a autenticação de passagem.</li>
 <li>Migrar aplicativos pré-integrados (como a galeria de aplicativos de software como serviço (SaaS) do Azure AD) do AD FS para o Azure AD para logon único (SSO).</li>
 <li>Habilitar integrações de aplicativos SaaS com o SSO da galeria do Azure AD.</li>
-<li>Habilitar o provisionamento automático do usuário para aplicativos SaaS pré-integrados, como listados na [Lista de tutoriais de integração de aplicativos](/azure/active-directory/saas-apps/tutorial-list), (limitado apenas ao provisionamento de saída e de aplicativos SaaS da galeria do Azure AD).  </li>
+<li>Habilitando o provisionamento automático do usuário para aplicativos SaaS pré-integrados, conforme listado na lista <a href="/azure/active-directory/saas-apps/tutorial-list">de tutoriais </a> de integração de aplicativos (limitado a aplicativos SaaS da galeria do Azure AD e apenas provisionamento de saída).  </li>
+
 </td>
 
 <td>  <strong>Habilitação de rede </strong>  
@@ -108,12 +110,12 @@ Fornecemos orientações remotas para:
 </tr>
 <tr class="odd">
 <td><strong>Integridade da rede</strong></td>
-<td>  Fornecemos uma orientação remota com a obtenção e interpretação dos principais dados de conectividade de rede do seu ambiente, mostrando o quão os sites da sua organização se alinham aos [princípios de conectividade de rede da Microsoft](/office365/enterprise/office-365-network-connectivity-principles). Isso destaca a pontuação de desempenho da rede, o que afeta diretamente a velocidade de migração, a experiência do usuário, o desempenho e a confiabilidade do serviço.  
+<td>  Fornecemos uma orientação remota com a obtenção e interpretação dos principais dados de conectividade de rede do seu ambiente, mostrando o quão os sites da sua organização se alinham aos <a href="/office365/enterprise/office-365-network-connectivity-principles">princípios de conectividade de rede da Microsoft</a>. Isso destaca a pontuação de desempenho da rede, o que afeta diretamente a velocidade de migração, a experiência do usuário, o desempenho e a confiabilidade do serviço.  
   Também guiamos você pelas etapas de resolução destacadas por esses dados para ajudá-lo a melhorar a pontuação da rede.  </td>
 <td><ul>
 <li>  Acesso ao Centro de administração do Microsoft 365.  </li>
 <li>  São necessárias versões atualizadas dos aplicativos do Microsoft 365.  </li>
-<li>  Serviços de localização habilitados conforme as [recomendações de desempenho de rede no Centro de administração do Microsoft 365](/Office365/Enterprise/office-365-network-mac-perf-overview).  </li>
+<li>  Serviços de localização habilitados conforme as <a href="/Office365/Enterprise/office-365-network-mac-perf-overview">recomendações de desempenho de rede no Centro de administração do Microsoft 365</a>.  </li>
 </ul>
 <h3 id="section"></h3></td>
 </tr>
@@ -339,7 +341,7 @@ Fornecemos orientações remotas para:
 <li> Zscaler.</li>
 <li> iboss.</li>
 </ul>
-<li> Conectando [aplicativos em destaque](/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps) usando conectores de aplicativo.</li>
+<li> Conectando <a href="/cloud-app-security/enable-instant-visibility-protection-and-governance-actions-for-your-apps"> aplicativos em destaque</a> usando conectores de aplicativo.</li>
 <li> Configurando o Controle de Aplicativo de Acesso Condicional nos portais de acesso condicional e Cloud App Security para aplicar controles de sessão em tempo real.</li>
 <li> Implantando os painéis Cloud App Security e Descoberta de Nuvem.</li>
 <li> Personalização de pontuações de risco de aplicativo com base nas prioridades da sua organização.</li>
@@ -716,11 +718,11 @@ As responsabilidades de pré-requisito do cliente incluem:
 <li> Noções básicas sobre qualquer restrição regulamentar ou requisitos referentes ao gerenciamento de chaves.  </li>
 <li>  Uma conta de serviço criada para o Active Directory local que foi sincronizada com o Azure AD. </li>
 <li>  Rótulos configurados para classificação e proteção. </li>
-<li> Todos os pré-requisitos para o scanner de Proteção de Informações do Azure estão no local. Para obter mais informações, consulte [Prerequisites for installing and deploying the Azure Information Protection unified labeling scanner](/azure/information-protection/deploy-aip-scanner-prereqs). </li>
+<li> Todos os pré-requisitos para o scanner de Proteção de Informações do Azure estão no local. Para obter mais informações, consulte <a href="/azure/information-protection/deploy-aip-scanner-prereqs">Prerequisites for installing and deploying the Azure Information Protection unified labeling scanner</a>. </li>
 <li>  Verifique se os dispositivos de usuário estão executando um sistema operacional com suporte e ter os pré-requisitos necessários instalados. Consulte o seguinte para obter mais detalhes.</li>
 <ul>
-<li> [Guia de administração: instalar o cliente de rotulagem unificada da Proteção de Informações do Azure para usuários](/azure/information-protection/rms-client/clientv2-admin-guide-install)   </li>
-<li>  [O que é o aplicativo de Proteção de Informações do Azure para iOS ou Android?](/azure/information-protection/rms-client/mobile-app-faq)  </li>
+<li> <a href="/azure/information-protection/rms-client/clientv2-admin-guide-install">Guia de administração: instalar o cliente de rotulagem unificada da Proteção de Informações do Azure para usuários</a>   </li>
+<li>  <a href="/azure/information-protection/rms-client/mobile-app-faq">O que é o aplicativo de Proteção de Informações do Azure para iOS ou Android?</a>  </li>
 </ul>
 <li> Instalação e configuração do conector e servidores do Azure RMS, incluindo o conector rms do Active Directory (AD RMS) para suporte híbrido.  </li>
 <li> Configuração e configuração de Bring Your Own Key (BYOK), DKE (Double Key Encryption) (somente cliente de rotulagem unificada) ou Hold Your Own Key (HYOK) (somente cliente clássico) caso você exigir uma dessas opções para sua implantação.  </li>
@@ -852,7 +854,7 @@ As responsabilidades de pré-requisito do cliente incluem:
 <li>  Configuração de clientes de caixa de correio (Outlook para Windows, Outlook na web e Outlook para iOS e Android).  </li>
 </ul>
   <strong>Migração de dados</strong>  <br>
-Para saber mais sobre como usar os benefícios do FastTrack para migração de dados para o Office 365, confira [Migração de dados](data-migration.md).   
+Para saber mais sobre como usar os benefícios do FastTrack para migração de dados para o Office 365, confira <a href="/fasttrack/data-migration">Migração de dados</a>.   
 <td>  Seu ambiente de origem deve ter um dos seguintes níveis mínimos:
 <ul>
 <li>  Uma ou várias organizações do Exchange com o Exchange Server 2003 e posteriores.  </li>
@@ -864,7 +866,7 @@ Software de cliente online como Project para Office 365, Outlook para Windows, O
 </tr>
 
 <td><strong>Obter o Microsoft Defender para Office 365</strong></td>
-<td>  Para obter mais informações, consulte <strong>Microsoft Defender for Office 365</strong> em Segurança e [Conformidade.](products-and-capabilities.md#security-and-compliance)  
+<td>  Para obter mais informações, consulte <strong>Microsoft Defender for Office 365</strong> em Segurança e <a href="/fasttrack/products-and-capabilities#security-and-compliance">Conformidade.</a>  
 </td>
 <td></td>
 </tr>
@@ -872,7 +874,7 @@ Software de cliente online como Project para Office 365, Outlook para Windows, O
 
 <tr class="even">
 <td><strong>Gerência de informações da Microsoft</strong></td>
-<td>  Para obter mais informações, consulte <strong> Microsoft Information Governance</strong> in [Security and Compliance](products-and-capabilities.md#security-and-compliance). 
+<td>  Para obter mais informações, consulte <strong> Microsoft Information Governance</strong> in <a href="/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>. 
 
 </td>
 <td></td>
@@ -880,7 +882,7 @@ Software de cliente online como Project para Office 365, Outlook para Windows, O
 <tr class="odd">
 <td><strong>Proteção de informações da Microsoft</strong></td>
 <td>  
-Para obter mais informações, <strong>consulte Proteção de Informações da Microsoft</strong> em Segurança e [Conformidade.](products-and-capabilities.md#security-and-compliance)
+Para obter mais informações, <strong>consulte Proteção de Informações da Microsoft</strong> em Segurança e <a href="/fasttrack/products-and-capabilities#security-and-compliance">Conformidade.</a>
 
 </td>
 <td>
@@ -958,7 +960,7 @@ Se aplicável, também forneceremos diretrizes para:
 <ul>
 <li>  Baixe o Outlook para iOS e Android no Google Play e Apple App Store.  </li>
 <li>  Configurar contas e acessar a caixa de correio do Exchange Online.  </li>
-<li>  Proteger o Outlook Mobile (para obter mais informações, confira [Proteger o Outlook para iOS e Android no Exchange Online](/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android)).  </li>
+<li>  Proteger o Outlook Mobile (para obter mais informações, confira <a href="/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/secure-outlook-for-ios-and-android">Proteger o Outlook para iOS e Android no Exchange Online</a>).  </li>
 </ul></td>
 <td><ul>
 <li>  Identidades dos usuários habilitadas no Azure Active Directory para Office 365.  </li>
@@ -1022,7 +1024,7 @@ Serão fornecidas diretrizes adicionais para o OneDrive for Business, dependendo
 <li>  Implantar o cliente de sincronização do OneDrive for Business.  </li>
 </ul>
   <strong>Migração de dados</strong>  <br>
-Para saber mais sobre como usar os benefícios do FastTrack para migração de dados para o Office 365, confira [Migração de dados](data-migration.md).
+Para saber mais sobre como usar os benefícios do FastTrack para migração de dados para o Office 365, confira <a href="/fasttrack/data-migration">Migração de dados</a>.
 </ul></td>
 <td><br><strong>Para o SharePoint híbrido:</strong>  
 <ul>
@@ -1058,19 +1060,19 @@ Fornecemos instruções remotas para habilitar o serviço do Yammer Enterprise.
 <tbody>
 <tr class="even">
 <td><strong>Azure AD (Active Directory) e Azure AD Premium</strong></td>
-<td>  Para obter mais informações, <strong>consulte Azure Active Directory (Azure AD) e Azure AD Premium</strong> em Segurança e [Conformidade.](products-and-capabilities.md#security-and-compliance)</td>
+<td>  Para obter mais informações, <strong>consulte Azure Active Directory (Azure AD) e Azure AD Premium</strong> em Segurança e <a href="/fasttrack/products-and-capabilities#security-and-compliance">Conformidade.</a></td>
 <td></td>
 </tr>
 <tr class="odd">#segurança e conformidade
 <td><strong>Proteção de Informações do Azure </strong></td>
-<td>  Para obter mais informações sobre a Proteção de Informações do Azure, consulte <strong>Proteção de Informações da Microsoft</strong> em Segurança e [Conformidade.](products-and-capabilities.md#security-and-compliance)  </td>
+<td>  Para obter mais informações sobre a Proteção de Informações do Azure, consulte <strong>Proteção de Informações da Microsoft</strong> em Segurança e <a href="/fasttrack/products-and-capabilities#security-and-compliance">Conformidade.</a>  </td>
 <td>  
   
 </td>
 </tr>
 <tr class="even">
 <td><strong>Microsoft Intune</strong></td>
-<td>  Para obter mais informações, <strong>consulte Microsoft Intune</strong> em Segurança [e Conformidade.](products-and-capabilities.md#security-and-compliance)
+<td>  Para obter mais informações, <strong>consulte Microsoft Intune</strong> em Segurança <a href="/fasttrack/products-and-capabilities#security-and-compliance">e Conformidade.</a>
   </td>
 <td>  
   
@@ -1129,12 +1131,12 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 Para atualização da infraestrutura, você deve atender a esses requisitos:
 <ul>
 <li>  Microsoft Endpoint Configuration Manager.  </li>
-<li>  A versão do Configuration Manager deve ter suporte na versão de destino do Windows 10. Para obter mais informações, confira a tabela de suporte do Configuration Manager em [Suporte para Windows 10 no Configuration Manager](/sccm/core/plan-design/configs/support-for-windows-10).  </li>
+<li>  A versão do Configuration Manager deve ter suporte na versão de destino do Windows 10. Para obter mais informações, confira a tabela de suporte do Configuration Manager em <a href="/sccm/core/plan-design/configs/support-for-windows-10">Suporte para Windows 10 no Configuration Manager</a>.  </li>
 </ul>
 
 <tr class="odd">
 <td><strong>Microsoft Defender para Ponto de Extremidade</strong></td>
-<td>  Para obter mais informações, consulte <strong> Microsoft Defender for Endpoint</strong> in [Security and Compliance](products-and-capabilities.md#security-and-compliance).</td>
+<td>  Para obter mais informações, consulte <strong> Microsoft Defender for Endpoint</strong> in <a href="/fasttrack/products-and-capabilities#security-and-compliance">Security and Compliance</a>.</td>
 <td></td>
 
 </tbody>
@@ -1185,7 +1187,7 @@ Para atualização da infraestrutura, você deve atender a esses requisitos:
 Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceiro da Microsoft</a> para obter assistência com esses serviços.</td>
 <td>Você já deve ter o seguinte:
 <ul>
-<li>[Windows requisitos de licenciamento da Área de Trabalho Virtual.](/azure/virtual-desktop/overview#requirements)</li>
+<li><a href="/azure/virtual-desktop/overview#requirements">Windows requisitos de licenciamento da Área de Trabalho Virtual.</a></li>
 <li>Rede do Azure:
 <ul>
 <li>Criação e sub-rede de rede virtual (VNET).</li>
@@ -1194,7 +1196,7 @@ Consulte o seu <a href="https://go.microsoft.com/fwlink/?linkid=2080150">Parceir
 <li>Roteamento para o Azure no local.</li>
 <li>Regras de firewall para permitir que a conectividade Windows Área de Trabalho Virtual.
 </ul>
-Para obter mais informações, consulte [Clientes de Área de Trabalho Remota com suporte.](/azure/virtual-desktop/overview#supported-remote-desktop-clients)
+Para obter mais informações, consulte <a href="//azure/virtual-desktop/overview#supported-remote-desktop-clients">Clientes de Área de Trabalho Remota com suporte.</a>
 </ul>
 <ul><li>Configuração geral do Azure AD:
 <ul>
@@ -1228,14 +1230,14 @@ Para obter mais informações, consulte [Clientes de Área de Trabalho Remota co
 <ul>
 <li>  <strong>Windows 10</strong> (incluindo dispositivos ARM64)</li>
 <li> <strong>Microsoft 365 Apps</strong>  </li>
-<li>  <strong>Microsoft Edge -</strong> Para obter diretrizes de implantação, consulte [Overview of the Microsoft Edge channels](/DeployEdge/microsoft-edge-channels).  </li>
-<li>  <strong>Windows Área de Trabalho Virtual</strong> - Para obter mais informações, consulte O que é Windows Área de Trabalho [Virtual?](/azure/virtual-desktop/overview) [e Windows 10 Enterprise perguntas frequentes de várias sessões.](/azure/virtual-desktop/windows-10-multisession-faq)  </li>
+<li>  <strong>Microsoft Edge -</strong> Para obter diretrizes de implantação, consulte <a href="/DeployEdge/microsoft-edge-channels">Overview of the Microsoft Edge channels</a>.  </li>
+<li>  <strong>Windows Área de Trabalho Virtual</strong> - Para obter mais informações, consulte O que é Windows Área de Trabalho <a href="/azure/virtual-desktop/overview">Virtual?</a> <a href="/azure/virtual-desktop/windows-10-multisession-faq">e Windows 10 Enterprise perguntas frequentes de várias sessões.</a>  </li>
 </ul>
 
 <strong>O seguinte está fora do escopo </strong>  
 <ul>
 <li>  Inventário e teste de aplicativos para determinar o que funciona e o que não funciona no Windows 10 e no Microsoft 365 Apps. Para mais orientações sobre este processo, visite o <a href="https://go.microsoft.com/fwlink/?linkid=2080140">Centro de Implantação do Computador</a>. Se você estiver interessado em uma avaliação de preparação para atualização detalhada, preencha o formulário <a href="https://go.microsoft.com/fwlink/?linkid=2053818">Solicitação de Cliente para Avaliação de Computador Moderno</a>.</li>
-<li>  Pesquisar aplicativos ISV de terceiros para as instruções de compatibilidade e suporte do Windows 10. Para obter mais informações, confira [Análise da Área de Trabalho](/sccm/desktop-analytics/overview).</li>
+<li>  Pesquisar aplicativos ISV de terceiros para as instruções de compatibilidade e suporte do Windows 10. Para obter mais informações, confira <a href="/sccm/desktop-analytics/overview">Análise da Área de Trabalho</a>.</li>
 <li>Serviços de embalagem do aplicativo. No entanto, os pacotes de equipe da Garantia de Aplicativo foram corrigidos no Windows 10 para garantir que possam ser implantados no ambiente do cliente.</li>
 </ul>
 
@@ -1278,7 +1280,7 @@ Os aplicativos que funcionaram no Windows 7, Office 2010 ou versões posteriores
   Se seus aplicativos web ou sites funcionarem no Internet Explorer 11, versões com suporte do Google Chrome ou qualquer versão do Microsoft Edge, eles também trabalharão com Microsoft Edge.  
   </li>
 <li>  
-  Como a Web está em constante evolução, [certifique-se](/microsoft-edge/web-platform/site-impacting-changes)de revisar esta lista publicada de alterações conhecidas que impactam a compatibilidade de sites para Microsoft Edge .  
+  Como a Web está em constante evolução, <a href="/microsoft-edge/web-platform/site-impacting-changes">certifique-se</a>de revisar esta lista publicada de alterações conhecidas que impactam a compatibilidade de sites para Microsoft Edge .  
   </li>
 </ul>
   <strong>Área de Trabalho Virtual do Windows</strong>  
@@ -1327,7 +1329,7 @@ Os aplicativos que funcionaram no Windows 7, Office 2010 ou versões posteriores
 Fornecemos orientação e compatibilidade de implantação remota e adoção para: <ul> <li>Implantando Microsoft Edge no Windows 10 com Microsoft Endpoint Manager (Microsoft Endpoint Configuration Manager ou Intune).  </li>
 <li>  Configurando Microsoft Edge (usando políticas de grupo ou configuração de aplicativos do Intune e políticas de aplicativo).  </li>
 <li>  Inventário da lista de sites que podem exigir uso no modo Internet Explorer.  </li>
-<li>  Habilitação do modo do Internet Explorer com a lista de sites corporativos existente. (Para obter mais informações, consulte [Engaging FastTrack](process-and-expectations.md#engaging-fasttrack)). Além disso, se você tiver um aplicativo Web ou um site que funciona com o Internet Explorer ou com o Google Chrome e tiver problemas de compatibilidade, fornecemos orientações para resolver o problema sem custo adicional. Para solicitar suporte de compatibilidade para o App Assure, entre no <a href="https://fasttrack.microsoft.com/portal#/signin">portal do FastTrack</a> para iniciar um envolvimento.  </li>
+<li>  Habilitação do modo do Internet Explorer com a lista de sites corporativos existente. (Para obter mais informações, consulte <a href="/fasttrack/process-and-expectations#engaging-fasttrack">Engaging FastTrack</a>. Além disso, se você tiver um aplicativo Web ou um site que funciona com o Internet Explorer ou com o Google Chrome e tiver problemas de compatibilidade, fornecemos orientações para resolver o problema sem custo adicional. Para solicitar suporte de compatibilidade para o App Assure, entre no <a href="https://fasttrack.microsoft.com/portal#/signin">portal do FastTrack</a> para iniciar um envolvimento.  </li>
 <li> Diretrizes de planejamento para adoção de borda e orientação de configuração para indicadores da Pesquisa da Microsoft.</li>
 </ul>
 
