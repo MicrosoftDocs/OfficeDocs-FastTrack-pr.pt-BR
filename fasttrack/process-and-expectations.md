@@ -3,18 +3,18 @@ title: Processos e Expectativas
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, abordaremos como contratar o FastTrack para obter assistência, como essa assistência é fornecida, sugerimos dicas para uma experiência bem-sucedida e compreender as principais responsabilidades do FastTrack e da sua empresa.
-ms.openlocfilehash: 460dc8c499b68316d362267c58f43ba4b71a7bf4
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: c1f53250de4f82bca72cb6df11fda4dcaa2f6a68
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570525"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994848"
 ---
 # <a name="process-and-expectations"></a>Processos e Expectativas
 

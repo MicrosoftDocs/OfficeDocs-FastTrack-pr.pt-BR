@@ -3,19 +3,19 @@ title: Qualificação
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: Normal
 ms.collection: FastTrack
 description: Neste tópico, descrevemos os requisitos de qualificação para o recebimento de assistência remota, com base nos especialistas do FastTrack, incluídos na compra de licenças do Microsoft 365 e detalhes sobre os produtos e recursos específicos abordados.
-ms.openlocfilehash: 54eb2d4156c1b74a63944942ff79de89d84bfe91
-ms.sourcegitcommit: 736a256276ead91385e1ec37b8a120b22259c4ea
+ms.openlocfilehash: 28f1c2e8907e62b3431d759ed90307d7d4dfb527
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52626692"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994864"
 ---
 # <a name="eligibility"></a>Qualificação
 
@@ -55,7 +55,7 @@ Os especialistas do FastTrack podem fornecer assistência remota, dirigida, aos 
 
 ## <a name="eligible-plans"></a>Planos qualificados
 
-Você deve comprar pelo menos 150 licenças por locatário de um dos planos a seguir para se qualificar para o FastTrack. A lista é agrupada por uma família de produtos para ajudá-lo a encontrar os planos que a sua empresa comprou: Microsoft 365, Office 365, Enterprise Mobility & Security e Windows 10.
+Você deve comprar pelo menos 150 licenças de um dos planos abaixo para ser qualificado para FastTrack. A lista é agrupada por uma família de produtos para ajudá-lo a encontrar os planos que a sua empresa comprou: Microsoft 365, Office 365, Enterprise Mobility & Security e Windows 10.
 
 ### <a name="microsoft-365-plans"></a>Planos do Microsoft 365
 
@@ -204,7 +204,7 @@ Você deve comprar pelo menos 150 licenças por locatário de um dos planos a se
 > Não há requisitos mínimos de licenciamento para ISVs (fornecedores de software independente comerciais) que criam aplicativos para o Windows 10. Todas as solicitações de aplicativos devem estar direcionadas para uma versão de aplicativos do Windows 10 ou do Microsoft 365 Apps no momento na janela de serviço principal.
 
 > [!NOTE]
-> A elegibilidade ao benefício do FastTrack Center se baseia na compra de licenças pagas dos planos qualificados mencionados anteriormente. Como exceção, o FastTrack está ajudando na integração de licenças de avaliação do Office 365 E1 de maio de 2021 a 30 de junho de 2021 para clientes qualificados na Índia e no Brasil para ajudar a responder ao aumento atual do COVID-19. 
+> A elegibilidade ao benefício do FastTrack Center se baseia na compra de licenças pagas dos planos qualificados mencionados anteriormente. Como exceção, a FastTrack está auxiliando na integração de licenças de avaliação do Office 365 E1 de maio de 2021 a 30 de junho de 2021 para clientes qualificados na Índia e no Brasil para ajudar a responder ao aumento atual do COVID-19. 
 
 ### <a name="ineligible-plans"></a>Planos não qualificados 
  Planos não qualificados para serviços do FastTrack incluem (mas não limitados a):

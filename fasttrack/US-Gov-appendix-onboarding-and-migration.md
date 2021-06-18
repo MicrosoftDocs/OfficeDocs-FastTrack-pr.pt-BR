@@ -3,19 +3,19 @@ title: Fases de integração e migração para Office 365 governo dos EUA
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 integração para Office 365 governo dos EUA tem quatro fases principais: Iniciar, Avaliar, Remediar e Habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
-ms.openlocfilehash: 7c6684323498ee1d7d71cc7c15e3f9c6797e3e1c
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570561"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994956"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para Office 365 governo dos EUA
 
@@ -23,7 +23,7 @@ A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corr
   
 ![Fases do benefício de Integração](media/O365-Onboarding-Phases.png)
   
-Para tarefas detalhadas para cada fase, consulte [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and Your [Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
+Para tarefas detalhadas para cada fase, consulte [FastTrack Responsabilidades](US-Gov-appendix-fasttrack-responsibilities.md) do Office 365 us government e suas responsabilidades para Office 365 [us government](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Fase Iniciar
 

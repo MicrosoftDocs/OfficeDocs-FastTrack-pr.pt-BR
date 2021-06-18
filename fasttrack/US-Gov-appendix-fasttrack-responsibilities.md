@@ -1,23 +1,23 @@
 ---
-title: Responsabilidades do FastTrack para Office 365 Governo dos EUA
+title: FastTrack Responsabilidades para Office 365 Governo dos EUA
 ms.author: v-bermic
 author: rberg-steyer
 manager: jimmuir
-ms.date: 5/19/2021
+ms.date: 6/16/2021
 ms.audience: ITPro
 ms.topic: conceptual
 ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.
-ms.openlocfilehash: 10b0895536be5d4ddd0026baa6f5e3e939a52fb5
-ms.sourcegitcommit: 48c1a68ecf668b849037beb05b5490c6b922e833
+ms.openlocfilehash: 57e1ba446304fba42e3c1b815351d3942c6b4e39
+ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52570513"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52994900"
 ---
-# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>Responsabilidades do FastTrack para Office 365 Governo dos EUA
+# <a name="fasttrack-responsibilities-for-office-365-us-government"></a>FastTrack Responsabilidades para Office 365 Governo dos EUA
 
 Os Especialistas do FastTrack têm as seguintes responsabilidades durante a integração.  
   
@@ -79,8 +79,8 @@ Fornece orientação sobre:
   - Instalação de um servidor de sincronização de diretórios entre os seus Active Directory Domain Services (AD DS) e o Office 365, se necessário.   
   - Configuração de sincronização de senha (hash de senha) para o Office 365 (Azure Active Directory) com a ferramenta Azure Active Directory Connect Health, quando necessário.  
   - Para ambientes com uma única ou várias florestas:
-      - Configurando Azure Active Directory autenticação de passagem, se necessário (não disponível em GCC planos High ou DoD).
-      - Configurando Azure Active Directory SSO (Sign-On SSO), se necessário (não disponível em GCC planos High ou DoD).
+      - Configurando Active Directory do Azure autenticação de passagem, se necessário (não disponível em GCC planos High ou DoD).
+      - Configurando Active Directory do Azure SSO (Sign-On SSO), se necessário (não disponível em GCC planos High ou DoD).
     > [!NOTE]
     > A autenticação de passagem do Azure Active Directory para ambientes com várias florestas será compatível se houver uma relação de confiança na floresta entre as florestas do Active Directory e se o roteamento do sufixo do nome estiver devidamente configurado. Agentes adicionais podem ser instalados em vários servidores locais para oferecer alta disponibilidade para solicitações de entrada. Para obter mais informações, confira [Autenticação de passagem do Azure Active Directory: início rápido](https://go.microsoft.com/fwlink/?linkid=860094) e [Logon único contínuo do Azure Active Directory: Início rápido](https://go.microsoft.com/fwlink/?linkid=860095).[!NOTE]
     > Confira mais informações sobre os limites de autenticação de passagem em [Autenticação de passagem do Azure Active Directory: limitações atuais](https://go.microsoft.com/fwlink/?linkid=860356).[!NOTE]
@@ -97,7 +97,7 @@ Fornece orientação sobre:
 
 Fornece orientação sobre:
 - Assistência remota com **a Governança de Informações da Microsoft** (consulte Segurança e [Conformidade).](products-and-capabilities.md#security-and-compliance)
-- Assistência remota com **a Proteção de Informações da Microsoft** (consulte Segurança e [Conformidade).](products-and-capabilities.md#security-and-compliance)
+- Assistência remota com **Proteção de Informações da Microsoft** (consulte [Segurança e Conformidade).](products-and-capabilities.md#security-and-compliance)
 - Assistência remota com **a Proteção de Informações do Azure** (consulte Segurança e [Conformidade).](products-and-capabilities.md#security-and-compliance)
 
 ## <a name="exchange-online"></a>Exchange Online
