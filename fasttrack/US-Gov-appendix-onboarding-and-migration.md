@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: None
 ms.collection: FastTrack
 description: 'Office 365 integração para Office 365 governo dos EUA tem quatro fases principais: Iniciar, Avaliar, Remediar e Habilitar. Essas fases podem ser seguidas por uma fase de migração de dados opcional, conforme mostrado na imagem a seguir.'
-ms.openlocfilehash: 0408830b2d1c2068bd22d0b575d30fd652640420
-ms.sourcegitcommit: cff44abb4212a768ccdcfd00226793d4dc3b02d6
+ms.openlocfilehash: 99bc16e1939bbc13a06aa7a93cd735918c652865
+ms.sourcegitcommit: c4f9375811fd23d01edd308108340ace15ec4db7
 ms.translationtype: MT
 ms.contentlocale: pt-BR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52994956"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255524"
 ---
 # <a name="onboarding-and-migration-phases-for-office-365-us-government"></a>Fases de integração e migração para Office 365 governo dos EUA
 
@@ -23,7 +23,7 @@ A integração do Office 365 tem quatro fases principais: Iniciar, Avaliar, Corr
   
 ![Fases do benefício de Integração](media/O365-Onboarding-Phases.png)
   
-Para tarefas detalhadas para cada fase, consulte [FastTrack Responsabilidades](US-Gov-appendix-fasttrack-responsibilities.md) do Office 365 us government e suas responsabilidades para Office 365 [us government](US-Gov-appendix-your-responsibilities.md).
+Para tarefas detalhadas para cada fase, consulte [FastTrack Responsibilities for Office 365 US Government](US-Gov-appendix-fasttrack-responsibilities.md) and Your [Responsibilities for Office 365 US Government](US-Gov-appendix-your-responsibilities.md).
   
 ## <a name="initiate-phase"></a>Fase Iniciar
 
@@ -92,7 +92,7 @@ A integração de um ou mais serviços qualificados poderá começar quando a in
   
 ## <a name="exchange-online"></a>Exchange Online
 
-Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua organização fique pronta para usar o email. As etapas exatas, de acordo com o ambiente de origem e os planos de migração de email, podem incluir orientações para:
+Para Exchange Online, orientamos remotamente você durante o processo para preparar sua organização para usar email. As etapas exatas, de acordo com o ambiente de origem e os planos de migração de email, podem incluir orientações para:
   
 - Configurar os recursos do EOP (Proteção do Exchange Online) para todos os domínios habilitados para email validados no Office 365.   
     > [!NOTE]
@@ -109,7 +109,7 @@ Em relação ao Exchange Online, vamos orientá-lo pelo processo de modo que sua
   
 ## <a name="sharepoint-online-and-onedrive-for-business"></a>SharePoint Online e OneDrive for Business
 
-No SharePoint Online e OneDrive for Business, fornecemos instruções para: 
+Para SharePoint Online e OneDrive for Business, fornecemos orientações remotas para: 
 - Configuração do DNS.   
 - Configurar portas do firewall.   
 - Provisionar usuários e licenças.   
@@ -127,7 +127,7 @@ No OneDrive for Business, as etapas dependem de você estar usando o SharePoint 
   
 ## <a name="skype-for-business-online"></a>Skype for Business Online
 
-No Skype for Business Online, fornecemos instruções para: 
+Para Skype for Business Online, fornecemos orientações remotas para: 
 - Configurar portas do firewall.    
 - Configuração do DNS.    
 - Criar contas para dispositivos do sistema.    
@@ -142,20 +142,48 @@ No Skype for Business Online, fornecemos instruções para:
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
 > [!NOTE]
-> O seguinte não está disponível em GCC planos High ou DoD.
+> O FastTrack ajuda com o escopo com base na disponibilidade dos recursos em cada ambiente respectivo. Para ver uma lista de recursos disponíveis atualmente em cada ambiente, consulte <a href="/office365/servicedescriptions/teams-service-description#feature-availability">Disponibilidade de recursos</a>.
 
-No Microsoft Teams, fornecemos instruções para: 
-- Confirmação dos requisitos mínimos.   
+Para Microsoft Teams, fornecemos orientações remotas para: 
+- Confirmando requisitos mínimos em Exchange Online, SharePoint Online, Office 365 Grupos Office 365 e Azure Active Directory (Azure AD) para dar suporte Teams.
 - Configurar portas do firewall.   
 - Configuração do DNS.  
 - Confirmação de que o Microsoft Teams está habilitado no seu locatário do Office 365.    
 - Habilitação ou desabilitação de licenças de usuário.
+- Avaliação Rede para o Teams:
+    - Verificações de porta e de ponto de extremidade.
+    - Verificações de qualidade da conexão.
+    - Estimativas de largura de banda.
+    - Configurar a política de aplicativos do Teams (aplicativo Web do Teams, aplicativo de área de trabalho do Teams e aplicativo do Teams para iOS e Android).
+ 
+<br> Se aplicável, fornecemos orientações para: </br>
+- Dispositivos para a Sala do Microsoft Teams:
+    - Criação de contas online necessárias para os dispositivos de sala de conferências e de telefonia com suporte listados no <a href="https://go.microsoft.com/fwlink/?linkid=2066478">catálogo de dispositivos do Teams</a>.
+    - Assistência remota com configuração do lado do serviço de dispositivos Salas do Microsoft Teams certificados.
+- Habilitar a Audioconferência:
+    - Configuração da organização para as configurações padrão da ponte de conferência.
+    - Atribuição da ponte de conferência para usuários licenciados.
+- Sistema de Telefonia:
+    - Configuração da organização para as configurações padrão do Cloud Voice.
+    - Diretrizes de planos de chamada (<a href="https://go.microsoft.com/fwlink/?linkid=2066478">mercados disponíveis</a>):  
+        - Atribuição de números a usuários licenciados.
+        - Orientação de portabilidade do número local pela IU (interface do usuário) até 999.
+        - Suporte SR (solicitação de serviço) à portabilidade do número local superior a 999.
+        - Diretrizes de Roteamento Direto:
+            - Diretrizes de configuração da organização para o design de Roteamento Direto de cenários hospedados pelo parceiro ou cenários implantados pelo cliente para até 10 sites.
+            - Revisão de configuração do Controlador de Borda de Sessão (SBC).
+            - Assistência remota com configuração do plano de discagem.
+            - Configuração de rota de voz.
+            - Bypass de mídia e otimização de mídia local.
+- Habilitação dos eventos ao vivo do Teams.
+- Configuração e integração da organização com o Microsoft Stream.
+- Diretrizes para Skype for Business Teams transição. 
     
-![Diagrama do Microsoft Teams no FastTrack (fase Habilitar)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
+![Diagrama das equipes do Microsoft FastTrack (fase de habilitação)](media/42a2d990-4e27-4758-b0cd-0024963c1542.png)
   
 ## <a name="power-bi"></a>Power BI
 
-No Power BI, fornecemos instruções para:  
+Para Power BI, fornecemos orientações remotas para:  
 - Atribuição de licenças do Power BI.    
 - Implantação do aplicativo do Power BI Desktop.   
 ## <a name="project-online"></a>Project Online
@@ -170,14 +198,14 @@ No Project Online, fornecemos instruções para:
   
 ## <a name="yammer-enterprise"></a>Yammer Enterprise
 
-No Yammer, fornecemos instruções para habilitar o serviço do Yammer Enterprise.
+Para Yammer, fornecemos orientações remotas para habil Yammer Enterprise serviço.
 
 > [!NOTE]
 > Yammer Enterprise não é um componente do Office 365 Us Government, mas pode ser adquirido sem custo como uma oferta autônoma para cada usuário licenciado para Office 365 no GCC. No momento, essa oferta está limitada aos clientes que compram Office 365 GCC em contratos Enterprise e contratos de assinatura Enterprise assinatura. Yammer não está disponível em GCC planos High ou DoD. 
   
 ## <a name="microsoft-365-apps"></a>Aplicativos do Microsoft 365
 
-Nos Aplicativos do Microsoft 365, fornecemos diretrizes para: 
+Para Microsoft 365 Apps, fornecemos orientações remotas para: 
 - Solução de problemas de implantação.    
 - Atribuição de licenças de usuário final usando o [centro de administração do Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2032704) e o Windows PowerShell.    
 - Instalação de Aplicativos do Microsoft 365 pelo portal do Office 365 usando Clique para Executar.    
